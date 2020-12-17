@@ -3,7 +3,7 @@
 ## Medium articles:
 
 
-* [Step by step tutorial for auto-compounding and farming at ACryptoS.com](https://medbid.medium.com/step-by-step-tutorial-for-staking-and-farming-at-acryptos-com-42093a0fcb1d) - contributed by [Blight Night](https://t.me/BlightNight)
+* [Step by step tutorial for auto-compounding and farming at ACryptoS](https://medbid.medium.com/step-by-step-tutorial-for-staking-and-farming-at-acryptos-com-42093a0fcb1d) - contributed by [Blight Night](https://t.me/BlightNight)
 * [How to read Advanced Crypto Strategies' Smart Contract](https://getunrekt.medium.com/smart-contract-read-advanced-crypto-strategies-97098bdb93b7) - contributed by [HM](https://t.me/Toortheroot)
 * [Monitor ACryptoS' timelock and track changes](https://getunrekt.medium.com/acs-timelock-transaction-log-d084a735c95a) - contributed by [HM](https://t.me/Toortheroot)
 * [Financial analysis of ACryptoS](https://degenmoma.medium.com/financial-analysis-of-acryptos-com-d62428e29ea4) - contributed by [Mo Ma](https://t.me/degenmoma)
