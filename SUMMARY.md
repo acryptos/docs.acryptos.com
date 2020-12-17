@@ -7,5 +7,6 @@
 * [Governance](governance.md)
 * [Security & Risks](security-and-risks.md)
 * [FAQ](faq.md)
+* [Community resources](community.md)
 * [App](https://app.acryptos.com/)
 
