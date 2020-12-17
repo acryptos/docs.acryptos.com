@@ -21,5 +21,5 @@
 * [Vietnamese](https://t.me/ACryptoSVietnam)
 
 
-#### *Note: These materials are created by the community. If something is unclear, join our [official tg channel](https://t.me/acryptos9) and ask freely.
+#### * Note: These materials are created by the community. If something is unclear, join our [official tg channel](https://t.me/acryptos9) and ask freely.
 
