@@ -41,7 +41,7 @@
 
 ### 1. Are the contracts behind a timelock?
 
-* Yes, the contracts are behind a 6 hours timelock.
+* Most of the contracts are behind a 6 hours timelock. For details, please refer to https://docs.acryptos.com/security-and-risks page.
 
 ### 2. Are the contracts verified?
 
