@@ -45,7 +45,7 @@
 
 ### 2. Are the contracts verified?
 
-* Yes. All deployed contracts have [verified and published source codes on BscScan](https://app.acryptos.com/contracts/).
+* Majority of deployed contracts have [verified and published source codes on BscScan](https://app.acryptos.com/contracts/).
 
 ### 3. Is the project audited?
 
