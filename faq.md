@@ -49,7 +49,7 @@
 
 ### 3. Is the project audited?
 
-* Not yet. It will be in near future, with the help of the treasury/grants.
+* Not yet since it is quite expensive but we are trying to do that. It will be in near future, with the help of the treasury/grants.
 
 ## Fees
 
