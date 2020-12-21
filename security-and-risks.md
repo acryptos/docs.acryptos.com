@@ -7,8 +7,6 @@ This project is in beta. Use at your own risk.
 ### ACryptoS Dev Team Access
 
 * **ACryptoS Dev Team can control all assets in Vaults behind a 6 hour timelock.**
-* **ACryptoS Dev Team can control all assets in Venus Vaults**
-  * Todo: add timelock to Venus Vaults.
 * **ACryptoS Dev Team can mint ACS token behind a 6 hour timelock.**
 * **ACryptoS Dev Team can mint ACSI token behind a 6 hour timelock.**
 * **ACryptoS Dev Team can control all reward parameters of ACS Farms behind a 6 hour timelock.**
@@ -40,5 +38,5 @@ Smart contracts are forked from yearn.finance \(Vault, Controller, Strategy\), S
 
 ### Deployed
 
-All deployed contracts have [verified and published source codes on BscScan](https://app.acryptos.com/contracts/). Venus Strategies are currently unpublished.
+All deployed contracts have [verified and published source codes on BscScan](https://app.acryptos.com/contracts/). Venus Strategies are [currently unpublished](https://acryptos.medium.com/acryptos-dao-vote-should-we-publish-the-source-code-of-our-venus-vaults-strategies-8e744daf64c2).
 

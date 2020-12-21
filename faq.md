@@ -5,7 +5,7 @@
 ### 1. What is ACS and what is ACSI? What are their core products?
 
 * ACS is the native token of ACryptoS \(connected with all the Vaults farming on PCS and Venus Protocol\), while ACSI is the native token of the StableSwap.
-* The core product of ACS is yield farming optimizers for multiple types of tokens. 
+* The core product of ACS is yield farming optimizers for multiple types of tokens.
 
   The core product of ACSI is the StableSwap, which is an automated market maker.
 
@@ -41,7 +41,7 @@
 
 ### 1. Are the contracts behind a timelock?
 
-* Most of the contracts are behind a 6 hours timelock. For details, please refer to https://docs.acryptos.com/security-and-risks page.
+* Most of the contracts are behind a 6 hours timelock. For details, please refer to [https://docs.acryptos.com/security-and-risks](https://docs.acryptos.com/security-and-risks) page.
 
 ### 2. Are the contracts verified?
 
@@ -98,7 +98,7 @@
 
 ### 2. Does ACS auto-compound?
 
-* Yes, ACS auto-compounds in the ACS Vault. 
+* Yes, ACS auto-compounds in the ACS Vault.
 
   If you have Pending ACS in one of the other Vaults, you first need to harvest them and transfer them to the ACS Vault.
 
@@ -111,9 +111,9 @@
 
 ### 4. When does the ACS buy-back happen?
 
-* The ACS buy-back happens when the bot harvests the ACS Vault. 
+* The ACS buy-back happens when the bot harvests the ACS Vault.
 
-  When this happens, all the tokens gained from performance and withdrawal fees are first transferred to BNB, and then to ACS. 
+  When this happens, all the tokens gained from performance and withdrawal fees are first transferred to BNB, and then to ACS.
 
   Then the ACS is distributed to the ACS Vault stakers.
 
@@ -127,7 +127,7 @@
 
 ### 6. Why does the APR on some Vaults show weird numbers?
 
-* The UI shows the average APR of the last 3 days. 
+* The UI shows the average APR of the last 3 days.
 
   So if a Vault is new, the numbers could be off.
 
