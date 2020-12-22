@@ -1,5 +1,8 @@
 # Community resources
 
+## Statistics
+* [Statistics for ACS token buyback](https://unrekt.net/acryptos/buyback.html)  - contributed by [HM](https://t.me/Toortheroot)
+
 ## Medium articles
 
 * [Step by step tutorial for auto-compounding and farming at ACryptoS](https://medbid.medium.com/step-by-step-tutorial-for-staking-and-farming-at-acryptos-com-42093a0fcb1d) - contributed by [Blight Night](https://t.me/BlightNight)
