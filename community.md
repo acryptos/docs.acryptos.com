@@ -1,6 +1,7 @@
 # Community resources
 
 ## Statistics
+
 * [Statistics for ACS token buyback](https://unrekt.net/acryptos/buyback.html)  - contributed by [HM](https://t.me/Toortheroot)
 
 ## Medium articles

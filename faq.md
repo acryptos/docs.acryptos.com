@@ -17,16 +17,15 @@
 
 * For now there is no cap on the supply, however this can be changed in future with governance.
 
-  There are also mechanisms in place to keep the ACS price stable and to stop the sell pressure. 
-  
+  There are also mechanisms in place to keep the ACS price stable and to stop the sell pressure.
+
 ### 4. Is there a buy-back program?
 
-* Yes. The system is designed to constantly buy-back ACS (using the withdrawal fee + the performance fee), and then those ACS are distributed to the acsACS holders.
-
+* Yes. The system is designed to constantly buy-back ACS \(using the withdrawal fee + the performance fee\), and then those ACS are distributed to the acsACS holders.
 
 ### 5. How many tokens are minted per day?
 
-* Currently there is a constant daily emission rate of ~3669 ACS tokens (additional 3% for the treasury).
+* Currently there is a constant daily emission rate of ~3669 ACS tokens \(additional 3% for the treasury\).
 
   ~2560 ACS to the farms, +33.33% to the ACS Vault, +10% reward to the dev team, +3% to the treasury.
 
@@ -54,7 +53,7 @@
 
 ### 3. Is the project audited?
 
-* Not yet since it is quite expensive to get an audit, but it is on our to-do list (with the help of the treasury/grants).
+* Not yet since it is quite expensive to get an audit, but it is on our to-do list \(with the help of the treasury/grants\).
 
 ## Fees
 
@@ -64,8 +63,8 @@
 
 ### 2. What are the withdrawal fees?
 
-* There is a 0.5% withdrawal fee. This fee is applied on all vaults (except the ACS Vault).
-* For the ACS Vault, the withdrawal fee is 10% (applied only on the amount you withdraw).
+* There is a 0.5% withdrawal fee. This fee is applied on all vaults \(except the ACS Vault\).
+* For the ACS Vault, the withdrawal fee is 10% \(applied only on the amount you withdraw\).
 
   Example: If you have 1000 ACS in the ACS Vault, and you decide to withdraw 100 ACS, the fee will be 10 ACS.
 
@@ -77,12 +76,12 @@
 
 ### 4. What are the performance and the workers fee?
 
-* The performance fee is 5% and the workers fee is 0.3% (both are applied only on the profit). These fees are already reflected in the shown APR.
+* The performance fee is 5% and the workers fee is 0.3% \(both are applied only on the profit\). These fees are already reflected in the shown APR.
 
 ### 5. Which fees are visible and which are already included in the APR?
 
-* The vault’s performance fee and workers fee (5% + 0.3%) are already included in the APR you see, so no need to do any math on that.
-* You only need to be careful with the farms’ harvest fee (10 ACS), the vaults' withdrawal fee (0.5%\), and the withdrawal fee on the ACS Vault \(10%\).
+* The vault’s performance fee and workers fee \(5% + 0.3%\) are already included in the APR you see, so no need to do any math on that.
+* You only need to be careful with the farms’ harvest fee \(10 ACS\), the vaults' withdrawal fee \(0.5%\), and the withdrawal fee on the ACS Vault \(10%\).
 
 ### 6. What are the fees on the StableSwap?
 
@@ -92,11 +91,11 @@
 
 ### 7. What is the difference between APR and APY?
 
-* APR reflects the simple interest rate over a year’s time (APR/365), while APY describes the rate with the effect of compounding.
+* APR reflects the simple interest rate over a year’s time \(APR/365\), while APY describes the rate with the effect of compounding.
 
 ## Technical and UI
 
-### 1. What is the difference between Deposit \(Vault\) and Stake (Farm)?
+### 1. What is the difference between Deposit \(Vault\) and Stake \(Farm\)?
 
 * When you Deposit tokens to a Vault, the staked tokens start to auto-compound right away. 
 * When you Stake those same tokens, you start earning ACS.
@@ -164,7 +163,7 @@
 
 ### 4. Am I eligible to vote and where do I vote?
 
-* If you hold acsACS (at the time of the snapshot), you are eligible to vote on [the voting platform](https://vote.acryptos.com/#/acryptos/all).
+* If you hold acsACS \(at the time of the snapshot\), you are eligible to vote on [the voting platform](https://vote.acryptos.com/#/acryptos/all).
 
 ### 5. How do I get acsACS?
 
@@ -177,5 +176,6 @@
 * Anyone who holds at least 88 acsACS.
 
 ### 7. Which governance platform is used for voting?
+
 * We are using the well-established gasless [governance client](https://snapshot.page) by Snapshot Labs.
 
