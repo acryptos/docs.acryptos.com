@@ -11,28 +11,33 @@
 
 ### 2. Where is ACS listed and traded?
 
-* ACS is currently listed on [Coinmarketcap](https://coinmarketcap.com/currencies/acryptos/), [Coingecko](https://www.coingecko.com/en/coins/acryptos), the [MATH dApp Store](https://mathdapp.store) and traded on the [Pancakeswap Exchange](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29).
+* ACS is currently listed on [Coinmarketcap](https://coinmarketcap.com/currencies/acryptos/), [Coingecko](https://www.coingecko.com/en/coins/acryptos), [Defistation](https://www.defistation.io/acryptos), [DappRadar](https://dappradar.com/binance-smart-chain/defi/acryptos), [MATH dApp Store](https://mathdapp.store), [Coinbase Prices](https://www.coinbase.com/price/acryptos) and traded on the [Pancakeswap Exchange](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29).
 
 ### 3. Is the ACS supply capped?
 
 * For now there is no cap on the supply, however this can be changed in future with governance.
 
-  There are also mechanisms in place to keep the ACS price stable and to stop the sell pressure.
+  There are also mechanisms in place to keep the ACS price stable and to stop the sell pressure. 
+  
+### 4. Is there a buy-back program?
 
-### 4. How many tokens are minted per day?
+* Yes. The system is designed to constantly buy-back ACS (using the withdrawal fee + the performance fee), and then those ACS are distributed to the acsACS holders.
 
-* Currently there is a constant daily emission rate of ~3669 ACS tokens.
 
-  ~2560 ACS to the farms, +33.33% to ACS Vault, +10% reward to the dev team.
+### 5. How many tokens are minted per day?
+
+* Currently there is a constant daily emission rate of ~3669 ACS tokens (additional 3% for the treasury).
+
+  ~2560 ACS to the farms, +33.33% to the ACS Vault, +10% reward to the dev team, +3% to the treasury.
 
   The genesis mining is ~8888 ACS.
 
-### 5. Are the tokenomic models of ACS and ACSI sustainable?
+### 6. Are the tokenomic models of ACS and ACSI sustainable?
 
 * For ACS: the performance and withdrawal fees gained from providing the yield farming services to users are used to buy-back ACS from the market and then the ACS is redistributed to the ACS Stakers. This ensures a sustainable future of ACS.
 * For ACSI: 50% of the fees gained from stablecoin swap is used to buy-back ACSI from the market and then the ACS is redistributed to the ACSI Stakers. This ensures a sustainable future of ACSI.
 
-### 6. What is the vision of ACS and ACSI
+### 7. What is the vision of ACS and ACSI
 
 * The vision of ACS is to be the YFI on the Binance Smart Chain \(BSC\).
 * The vision of ACSI is to be the Curve \(Crv\) on the Binance Smart Chain \(BSC\).
@@ -41,7 +46,7 @@
 
 ### 1. Are the contracts behind a timelock?
 
-* Most of the contracts are behind a 6 hours timelock. For details, please refer to [https://docs.acryptos.com/security-and-risks](https://docs.acryptos.com/security-and-risks) page.
+* Yes, all contracts are behind a 6 hours timelock. For more details, please refer to [https://docs.acryptos.com/security-and-risks.](https://docs.acryptos.com/security-and-risks)
 
 ### 2. Are the contracts verified?
 
@@ -49,7 +54,7 @@
 
 ### 3. Is the project audited?
 
-* Not yet since it is quite expensive but we are trying to do that. It will be in near future, with the help of the treasury/grants.
+* Not yet since it is quite expensive to get an audit, but it is on our to-do list (with the help of the treasury/grants).
 
 ## Fees
 
@@ -59,8 +64,8 @@
 
 ### 2. What are the withdrawal fees?
 
-* There is a 0.5% withdrawal fee. This fee is applied on all vaults \(except the ACS Vault\).
-* For the ACS Vault, the withdrawal fee is 10% \(applied only on the amount you withdraw\).
+* There is a 0.5% withdrawal fee. This fee is applied on all vaults (except the ACS Vault).
+* For the ACS Vault, the withdrawal fee is 10% (applied only on the amount you withdraw).
 
   Example: If you have 1000 ACS in the ACS Vault, and you decide to withdraw 100 ACS, the fee will be 10 ACS.
 
@@ -72,12 +77,12 @@
 
 ### 4. What are the performance and the workers fee?
 
-* The performance fee is 5% and the workers fee is 0.3% \(on the profit\). These fees are already reflected in the shown APR.
+* The performance fee is 5% and the workers fee is 0.3% (both are applied only on the profit). These fees are already reflected in the shown APR.
 
 ### 5. Which fees are visible and which are already included in the APR?
 
-* The vault’s performance fee and workers fee \(5% + 0.3%\) are already included in the APR you see, so no need to do any math on that.
-* You only need to be careful with the farms’ harvest fee \(10 ACS\), the vaults' withdrawal fee \(0.5%\), and the withdrawal fee on the ACS Vault \(10%\).
+* The vault’s performance fee and workers fee (5% + 0.3%) are already included in the APR you see, so no need to do any math on that.
+* You only need to be careful with the farms’ harvest fee (10 ACS), the vaults' withdrawal fee (0.5%\), and the withdrawal fee on the ACS Vault \(10%\).
 
 ### 6. What are the fees on the StableSwap?
 
@@ -87,11 +92,11 @@
 
 ### 7. What is the difference between APR and APY?
 
-* APR reflects the simple interest rate over a year’s time \(APR/365\), while APY describes the rate with the effect of compounding.
+* APR reflects the simple interest rate over a year’s time (APR/365), while APY describes the rate with the effect of compounding.
 
 ## Technical and UI
 
-### 1. What is the difference between Deposit \(Vault\) and Stake \(Farm\)?
+### 1. What is the difference between Deposit \(Vault\) and Stake (Farm)?
 
 * When you Deposit tokens to a Vault, the staked tokens start to auto-compound right away. 
 * When you Stake those same tokens, you start earning ACS.
@@ -159,7 +164,7 @@
 
 ### 4. Am I eligible to vote and where do I vote?
 
-* If you hold acsACS, you are eligible to vote on [the voting platform](https://vote.acryptos.com/#/acryptos/all).
+* If you hold acsACS (at the time of the snapshot), you are eligible to vote on [the voting platform](https://vote.acryptos.com/#/acryptos/all).
 
 ### 5. How do I get acsACS?
 
@@ -170,4 +175,7 @@
 ### 6. Who can create a vote?
 
 * Anyone who holds at least 88 acsACS.
+
+### 7. Which governance platform is used for voting?
+* We are using the well-established gasless [governance client](https://snapshot.page) by Snapshot Labs.
 
