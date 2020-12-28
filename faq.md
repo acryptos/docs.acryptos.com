@@ -25,7 +25,7 @@
 
 ### 5. How many tokens are minted per day?
 
-* Currently there is a constant daily emission rate of ~3669 ACS tokens \(additional 3% for the treasury\).
+* Currently there is a constant daily emission rate of ~3746 ACS tokens.
 
   ~2560 ACS to the farms, +33.33% to the ACS Vault, +10% reward to the dev team, +3% to the treasury.
 
@@ -34,7 +34,7 @@
 ### 6. Are the tokenomic models of ACS and ACSI sustainable?
 
 * For ACS: the performance and withdrawal fees gained from providing the yield farming services to users are used to buy-back ACS from the market and then the ACS is redistributed to the ACS Stakers. This ensures a sustainable future of ACS.
-* For ACSI: 50% of the fees gained from stablecoin swap is used to buy-back ACSI from the market and then the ACS is redistributed to the ACSI Stakers. This ensures a sustainable future of ACSI.
+* For ACSI: 50% of the fees gained from stablecoin swap are used to buy-back ACSI from the market and then the ACS is redistributed to the ACSI Stakers. This ensures a sustainable future of ACSI.
 
 ### 7. What is the vision of ACS and ACSI
 
@@ -87,7 +87,7 @@
 
 * The exchange fees are set to 0.04%, which is almost 10 times cheaper than the 0.3+% charged by all the other UniSwap and SushiSwap clones.
 
-  All this is thanks to Curve’s [specialized algorithm tailored for trading of stablecoins and other pegged assets](https://www.curve.fi/stableswap-paper.pdf).
+  All this is possible thanks to Curve’s [specialized algorithm tailored for trading of stablecoins and other pegged assets](https://www.curve.fi/stableswap-paper.pdf).
 
 ### 7. What is the difference between APR and APY?
 
@@ -97,10 +97,10 @@
 
 ### 1. What is the difference between Deposit \(Vault\) and Stake \(Farm\)?
 
-* When you Deposit tokens to a Vault, the staked tokens start to auto-compound right away. 
+* When you Deposit tokens to a Vault, the deposited tokens start to auto-compound right away. 
 * When you Stake those same tokens, you start earning ACS.
 
-### 2. Does ACS auto-compound?
+### 2. Does ACS auto-compounds?
 
 * Yes, ACS auto-compounds in the ACS Vault.
 
@@ -108,8 +108,8 @@
 
 ### 3. How the auto-compounding works \(and what is the Workers tab\)?
 
-* Currently there is a bot that automatically does that couple times a day. 
-* There is also a Workers tab, where anyone can manually harvest each Vault \(and get the associated fee\).
+* Currently there is a bot that automatically harvests each Vault couple times a day. 
+* There is also the Workers tab, where anyone can manually harvest each Vault (and get the associated fee).
 
   The Workers tab is just a backup, the normal user does not have to use it.
 
@@ -119,15 +119,15 @@
 
   When this happens, all the tokens gained from performance and withdrawal fees are first transferred to BNB, and then to ACS.
 
-  Then the ACS is distributed to the ACS Vault stakers.
+  Then the ACS is distributed to the ACS Vault stakers (acsACS holders).
 
-### 5. How the Venus strategies work?
+### 5. How does the Venus strategies work?
 
 * By supplying assets and borrowing the same asset to resupply with.
 
   Example: Supply BNB, borrow BNB, supply more BNB, borrow more BNB, and repeat.
 
-  With this method you are earning both supply and borrow rewards, with minimal liquidation risk as we are using a single asset.
+  With this method we are earning both supply and borrow rewards, with minimal liquidation risk as we are using a single asset.
 
 ### 6. Why does the APR on some Vaults show weird numbers?
 
