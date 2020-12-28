@@ -17,6 +17,7 @@
 * [Yield Calculator with principal](https://docs.google.com/spreadsheets/d/1DRWu2y61gQw7fGd0EZYN_ajlWYCk8YlFD8ImbX4GZjM/edit#gid=0) - contributed by [Jasper](https://t.me/Jasper_1992)
 * [Diagram - ACryptoS' Yield Aggregation Ecosystem](https://i.postimg.cc/2yqGG6z9/diagram.jpg) - contributed by [HM](https://t.me/Toortheroot)
 * [Interest Calculator \(Daily, Weekly, Monthly & Yearly\)](https://docs.google.com/spreadsheets/d/1wvidBMMsYqAVc6gm07csr4fzoHVhNAmd-a2kxVoqWTs/edit#gid=317328887) - contributed by [ที่รัก](https://t.me/Thirak0608)
+* [Token distribution calculator](https://drive.google.com/file/d/14Y47WtdXF_5XUhnt_l7I9YuFkqXB0C39/view) - contributed by [Wei](https://t.me/bscWeix)
 
 ## Community led telegram channels
 
