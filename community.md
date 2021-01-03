@@ -4,6 +4,11 @@
 
 * [Statistics for ACS token buyback](https://unrekt.net/acryptos/buyback.html)  - contributed by [HM](https://t.me/Toortheroot)
 
+## Calculators
+* [Yield calculator with principal](https://docs.google.com/spreadsheets/d/1DRWu2y61gQw7fGd0EZYN_ajlWYCk8YlFD8ImbX4GZjM/edit#gid=0) - contributed by [Jasper](https://t.me/Jasper_1992)
+* [Token distribution calculator](https://drive.google.com/file/d/14Y47WtdXF_5XUhnt_l7I9YuFkqXB0C39/view) - contributed by [Wei](https://t.me/bscWeix)
+* [Interest calculator \(Daily, Weekly, Monthly & Yearly\)](https://docs.google.com/spreadsheets/d/1wvidBMMsYqAVc6gm07csr4fzoHVhNAmd-a2kxVoqWTs/edit#gid=317328887) - contributed by [ที่รัก](https://t.me/Thirak0608)
+
 ## Medium articles
 
 * [Step by step tutorial for auto-compounding and farming at ACryptoS](https://medbid.medium.com/step-by-step-tutorial-for-staking-and-farming-at-acryptos-com-42093a0fcb1d) - contributed by [Blight Night](https://t.me/BlightNight)
@@ -14,10 +19,10 @@
 ## Tables and diagrams
 
 * [Table with Vault and Farm fees](https://docs.google.com/document/d/1-KU1zzWnEG0sh8hLCD0YUtPv7D4_B2wu80UtRQ3sQUA/edit)  - contributed by [Blight Night](https://t.me/BlightNight)
-* [Yield Calculator with principal](https://docs.google.com/spreadsheets/d/1DRWu2y61gQw7fGd0EZYN_ajlWYCk8YlFD8ImbX4GZjM/edit#gid=0) - contributed by [Jasper](https://t.me/Jasper_1992)
+
 * [Diagram - ACryptoS' Yield Aggregation Ecosystem](https://i.postimg.cc/2yqGG6z9/diagram.jpg) - contributed by [HM](https://t.me/Toortheroot)
-* [Interest Calculator \(Daily, Weekly, Monthly & Yearly\)](https://docs.google.com/spreadsheets/d/1wvidBMMsYqAVc6gm07csr4fzoHVhNAmd-a2kxVoqWTs/edit#gid=317328887) - contributed by [ที่รัก](https://t.me/Thirak0608)
-* [Token distribution calculator](https://drive.google.com/file/d/14Y47WtdXF_5XUhnt_l7I9YuFkqXB0C39/view) - contributed by [Wei](https://t.me/bscWeix)
+
+
 
 ## Community led telegram channels
 
