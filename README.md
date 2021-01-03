@@ -22,7 +22,7 @@ Farms need to be manually harvested.
 
 ## ACS and ACSI Native Tokens
 
-ACS is our native token. ACS staked in the ACS Vault accrue protocol [fees and rewards](fees.md#acs-vault) from Vaults and ACS Farms, and in the future will participate in governance of the protocol.
+ACS is our native token. ACS staked in the ACS Vault accrue protocol [fees and rewards](fees.md#acs-vault) from Vaults and ACS Farms, and participates in governance of the protocol.
 
 ACSI is the native token of StableSwap and probably all future non-vault products. ACSI staked in the ACSI Vault accrue protocol [fees and rewards](fees.md#acs-vault) from StableSwap and ACSI Farms, and in the future may participate in governance of the protocol.
 
