@@ -1,19 +1,18 @@
 # Community resources
 
-
 ## Video guides
 
-* [Vault and Farming (ACS Guides 01)](https://youtu.be/AqVUk2gZIJM) - contributed by [Hsing](https://t.me/ethwyn)
+* [Vault and Farming \(ACS Guides 01\)](https://youtu.be/AqVUk2gZIJM) - contributed by [Hsing](https://t.me/ethwyn)
 
 ## Statistics
 
 * [Statistics for ACS token buyback](https://unrekt.net/acryptos/buyback.html)  - contributed by [HM](https://t.me/Toortheroot)
 
 ## Calculators
+
 * [Yield calculator with principal](https://docs.google.com/spreadsheets/d/1DRWu2y61gQw7fGd0EZYN_ajlWYCk8YlFD8ImbX4GZjM/edit#gid=0) - contributed by [Jasper](https://t.me/Jasper_1992)
 * [Token distribution calculator](https://drive.google.com/file/d/14Y47WtdXF_5XUhnt_l7I9YuFkqXB0C39/view) - contributed by [Wei](https://t.me/bscWeix)
 * [Interest calculator \(Daily, Weekly, Monthly & Yearly\)](https://docs.google.com/spreadsheets/d/1wvidBMMsYqAVc6gm07csr4fzoHVhNAmd-a2kxVoqWTs/edit#gid=317328887) - contributed by [ที่รัก](https://t.me/Thirak0608)
-
 
 ## Medium articles
 
@@ -24,11 +23,8 @@
 
 ## Tables and diagrams
 
-* [Table with Vault and Farm fees](https://docs.google.com/document/d/1-KU1zzWnEG0sh8hLCD0YUtPv7D4_B2wu80UtRQ3sQUA/edit)  - contributed by [Blight Night](https://t.me/BlightNight)
-
+* [Table with Vault and Farm fees](https://docs.google.com/document/d/1-KU1zzWnEG0sh8hLCD0YUtPv7D4_B2wu80UtRQ3sQUA/edit) - contributed by [Blight Night](https://t.me/BlightNight)
 * [Diagram - ACryptoS' Yield Aggregation Ecosystem](https://i.postimg.cc/2yqGG6z9/diagram.jpg) - contributed by [HM](https://t.me/Toortheroot)
-
-
 
 ## Community led telegram channels
 

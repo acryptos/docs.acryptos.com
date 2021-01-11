@@ -1,6 +1,6 @@
 # Tokenomics & Fees
 
-## ACS Tokenomics 
+## ACS Tokenomics
 
 **ACS rewards distributed to ACS Farms: 0.088888 888888 888888 ACS/block** \(~ 2560 ACS/day\)  
 **+33.33% distributed to ACS holders via ACS Vault  
@@ -37,7 +37,7 @@ Paid to Workers to offset gas fees.
 Will be levied on any harvest, deposit or withdrawal. Fee will be deducted from user's pending ACS rewards, and remainder will be transferred to user.  
 Farm transaction fees are distributed to ACS holders via ACS Vault.
 
-## ACSI Tokenomics 
+## ACSI Tokenomics
 
 **ACSI rewards distributed to ACSI Farms: 0.088888 888888 888888 ACS/block** \(~ 2560 ACS/day\)  
 **+33.33% distributed to ACSI holders via ACSI Vault  

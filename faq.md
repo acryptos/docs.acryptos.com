@@ -109,7 +109,7 @@
 ### 3. How the auto-compounding works \(and what is the Workers tab\)?
 
 * Currently there is a bot that automatically harvests each Vault couple times a day. 
-* There is also the Workers tab, where anyone can manually harvest each Vault (and get the associated fee).
+* There is also the Workers tab, where anyone can manually harvest each Vault \(and get the associated fee\).
 
   The Workers tab is just a backup, the normal user does not have to use it.
 
@@ -119,7 +119,7 @@
 
   When this happens, all the tokens gained from performance and withdrawal fees are first transferred to BNB, and then to ACS.
 
-  Then the ACS is distributed to the ACS Vault stakers (acsACS holders).
+  Then the ACS is distributed to the ACS Vault stakers \(acsACS holders\).
 
 ### 5. How does the Venus strategies work?
 
