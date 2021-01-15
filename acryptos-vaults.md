@@ -14,7 +14,7 @@ These are the vaults for our native/governance tokens, which receive a [good sha
 
 ### Venus Vaults \(BNB, SXP, XVS, BUSD, USDT, USDC\)
 
-These vaults stake recursively on Venus at ~3.35X leverage, farms XVS and swaps it for more of the staked token.
+These vaults stake recursively on Venus at ~3.67X leverage, farms XVS and swaps it for more of the staked token.
 
 Users may notice the value of their holdings in the vault slowly decreasing on each block, this is normal as the balance of the Vault is calculated as total supplied less total borrowed, and the borrow APY is higher. The XVS earned is not included. The balance will increase after each harvest.
 
