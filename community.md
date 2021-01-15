@@ -6,7 +6,8 @@
 
 ## Statistics
 
-* [Statistics for ACS token buyback](https://unrekt.net/acryptos/buyback.html)  - contributed by [HM](https://t.me/Toortheroot)
+* [Statistics for ACS and ACSI: buyback](https://unrekt.net/acryptos/buyback.html)  - contributed by [HM](https://t.me/Toortheroot)
+* [Statistics for ACS and ACSI: Vault&Farm fees](https://unrekt.net/acryptos/vaultfees.html)  - contributed by [HM](https://t.me/Toortheroot)
 
 ## Calculators
 
