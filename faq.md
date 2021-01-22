@@ -34,7 +34,7 @@
 ### 6. Are the tokenomic models of ACS and ACSI sustainable?
 
 * For ACS: the performance and withdrawal fees gained from providing the yield farming services to users are used to buy-back ACS from the market and then the ACS is redistributed to the ACS Stakers. This ensures a sustainable future of ACS.
-* For ACSI: 50% of the fees gained from stablecoin swap are used to buy-back ACSI from the market and then the ACS is redistributed to the ACSI Stakers. This ensures a sustainable future of ACSI.
+* For ACSI: 50% of the fees gained from stablecoin swap are used to buy-back ACSI from the market and then the ACSI is redistributed to the ACSI Stakers. This ensures a sustainable future of ACSI.
 
 ### 7. What is the vision of ACS and ACSI
 
