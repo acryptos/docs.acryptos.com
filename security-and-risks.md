@@ -38,5 +38,5 @@ Smart contracts are forked from yearn.finance \(Vault, Controller, Strategy\), S
 
 ### Deployed
 
-All deployed contracts have [verified and published source codes on BscScan](https://app.acryptos.com/contracts/). Venus Strategies are [currently unpublished](https://acryptos.medium.com/acryptos-dao-vote-should-we-publish-the-source-code-of-our-venus-vaults-strategies-8e744daf64c2).
+All deployed contracts have [verified and published source codes on BscScan](https://app.acryptos.com/contracts/). 
 
