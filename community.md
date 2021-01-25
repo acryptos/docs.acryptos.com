@@ -25,7 +25,7 @@
 ## Tables and diagrams
 
 * [Table with Vault and Farm fees](https://docs.google.com/document/d/1-KU1zzWnEG0sh8hLCD0YUtPv7D4_B2wu80UtRQ3sQUA/edit) - contributed by [Blight Night](https://t.me/BlightNight)
-* [Diagram - ACryptoS' Yield Aggregation Ecosystem](https://i.postimg.cc/2yqGG6z9/diagram.jpg) - contributed by [HM](https://t.me/Toortheroot)
+* [Diagram - ACryptoS' Yield Aggregation Ecosystem](https://github.com/acryptos/docs.acryptos.com/blob/master/images/ACS-VaultFarm-Flow-7.png?raw=true) - contributed by [HM](https://t.me/Toortheroot)
 
 ## Community led telegram channels
 
