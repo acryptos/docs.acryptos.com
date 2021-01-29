@@ -15,7 +15,7 @@
 
 ### 3. Is the ACS supply capped??
 
-* There is a on-going vote for [max supply cap](https://vote.acryptos.com/#/acryptos/proposal/QmQkubhfim9uwJqdZSgZWqgAGEtJGokLccVW289KnpRESw). The supply will be capped soon.
+* There is an [on-going vote](https://vote.acryptos.com/#/acryptos/proposal/QmQkubhfim9uwJqdZSgZWqgAGEtJGokLccVW289KnpRESw) for emission reduction and maximum supply cap. The supply will be capped soon.
 
   
 
