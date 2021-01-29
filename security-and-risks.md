@@ -32,7 +32,9 @@ High returns/APRs almost certainly mean a high risk. The calculated APR/return d
 
 ### Audit
 
-**Smart contracts have not been audited.**
+**The project has been audited by [DefiYield](https://defiyield.info/audits).**
+
+**Check the [full audit report here](https://defiyield.info/assets/pdf/ACryptoS.pdf).**
 
 Smart contracts are forked from yearn.finance \(Vault, Controller, Strategy\), SushiSwap \(MasterChef\), Uniswap \(Uni\), Curve \(StableSwap\).
 
