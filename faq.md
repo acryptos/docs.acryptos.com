@@ -25,9 +25,15 @@
 
 ### 5. How many tokens are minted per day?
 
-* Currently there is a constant daily emission rate of ~3746 ACS tokens.
+* Currently there is a constant daily emission rate of ~3746 ACS tokens:
 
-  ~2560 ACS to the farms, +33.33% to the ACS Vault (~853), +10% reward to the dev team (~256), +3% to the treasury (~77)
+  ~2560 ACS to the farms
+  
+  +33.33% to the ACS Vault (~853)
+
+  +10% reward to the dev team (~256)
+  
+  +3% to the treasury (~77)
 
   The genesis mining is ~8888 ACS.
 
