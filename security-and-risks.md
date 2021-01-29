@@ -6,9 +6,9 @@ This project is in beta. Use at your own risk.
 
 ### ACryptoS Dev Team Access
 
-* **ACryptoS Dev Team can control all assets in Vaults behind a 24 hour timelock.**
-* **ACryptoS Dev Team can mint ACS token behind a 24 hour timelock.**
-* **ACryptoS Dev Team can mint ACSI token behind a 24 hour timelock.**
+* **ACryptoS Dev Team can control all assets in Vaults behind a 48 hour timelock.**
+* **ACryptoS Dev Team can mint ACS token behind a 48 hour timelock.**
+* **ACryptoS Dev Team can mint ACSI token behind a 48 hour timelock.**
 * **ACryptoS Dev Team can control all reward parameters of ACS Farms behind a 6 hour timelock.**
 * **ACryptoS Dev Team can control all reward parameters of ACSI Farms behind a 6 hour timelock.**
 * **ACryptoS Dev Team can control all fee parameters of StableSwap behind a 72 hour timelock. ACryptoS Dev Team can control destination of StableSwap admin fees.**
@@ -32,13 +32,13 @@ High returns/APRs almost certainly mean a high risk. The calculated APR/return d
 
 ### Audit
 
-**The project has been audited by [DefiYield](https://defiyield.info/audits).**
+**The project has been audited by** [**DefiYield**](https://defiyield.info/audits)**.**
 
-**Check the [full audit report here](https://defiyield.info/assets/pdf/ACryptoS.pdf).**
+**Check the** [**full audit report here**](https://defiyield.info/assets/pdf/ACryptoS.pdf)**.**
 
 Smart contracts are forked from yearn.finance \(Vault, Controller, Strategy\), SushiSwap \(MasterChef\), Uniswap \(Uni\), Curve \(StableSwap\).
 
 ### Deployed
 
-All deployed contracts have [verified and published source codes on BscScan](https://app.acryptos.com/contracts/). 
+All deployed contracts have [verified and published source codes on BscScan](https://app.acryptos.com/contracts/).
 
