@@ -13,11 +13,11 @@
 
 * ACS is currently listed on [Coinmarketcap](https://coinmarketcap.com/currencies/acryptos/), [Coingecko](https://www.coingecko.com/en/coins/acryptos), [Defistation](https://www.defistation.io/acryptos), [DappRadar](https://dappradar.com/binance-smart-chain/defi/acryptos), [MATH dApp Store](https://mathdapp.store), [Coinbase Prices](https://www.coinbase.com/price/acryptos) and traded on the [Pancakeswap Exchange](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29).
 
-### 3. Is the ACS supply capped?
+### 3. Is the ACS supply capped??
 
-* For now there is no cap on the supply, however this can be changed in future with governance.
+* There is a on-going vote for [max supply cap](https://vote.acryptos.com/#/acryptos/proposal/QmQkubhfim9uwJqdZSgZWqgAGEtJGokLccVW289KnpRESw). The supply will be capped soon.
 
-  There are also mechanisms in place to keep the ACS price stable and to stop the sell pressure.
+  
 
 ### 4. Is there a buy-back program?
 
@@ -27,7 +27,7 @@
 
 * Currently there is a constant daily emission rate of ~3746 ACS tokens.
 
-  ~2560 ACS to the farms, +33.33% to the ACS Vault, +10% reward to the dev team, +3% to the treasury.
+  ~2560 ACS to the farms, +33.33% to the ACS Vault (~853), +10% reward to the dev team (~256), +3% to the treasury (~77)
 
   The genesis mining is ~8888 ACS.
 
@@ -49,11 +49,11 @@
 
 ### 2. Are the contracts verified?
 
-* Majority of deployed contracts have [verified and published source codes on BscScan](https://app.acryptos.com/contracts/).
+* Yes, all contracts have [verified and published source codes on BscScan](https://app.acryptos.com/contracts/).
 
 ### 3. Is the project audited?
 
-* Not yet since it is quite expensive to get an audit, but it is on our to-do list \(with the help of the treasury/grants\).
+* Yes. The project has been audited by [DefiYield](https://defiyield.info/audits) on 28.01.2021. Check the [full audit report here](https://defiyield.info/assets/pdf/ACryptoS.pdf).
 
 ## Fees
 
@@ -61,35 +61,45 @@
 
 * No.
 
-### 2. What are the withdrawal fees?
+### 2. Is there a fee on the first Stake?
+
+* No. However additional staking/unstaking triggers the harvest (and the 7 ACS fee). 
+
+  This will be changed soon with the migration.
+
+### 3. What are the withdrawal fees?
 
 * There is a 0.5% withdrawal fee. This fee is applied on all vaults \(except the ACS Vault\).
 * For the ACS Vault, the withdrawal fee is 10% \(applied only on the amount you withdraw\).
 
   Example: If you have 1000 ACS in the ACS Vault, and you decide to withdraw 100 ACS, the fee will be 10 ACS.
 
-### 3. What are the harvest fees on the farms?
+### 4. What are the harvest fees on the farms?
 
-* The harvest fee is 7 ACS on the ACS farms, and 10 ACSI on the ACSI farms. Note: Clicking the stake/unstake button also triggers the harvest \(on the ACS Vaults&Farms\).
+* The harvest fee is 7 ACS on the ACS farms, and 10 ACSI on the ACSI farms. 
 
-  If you harvest when your Pending ACS is less than 7 ACS, the Pending amount resets to 0.
+  Note: Clicking the stake/unstake button also triggers the harvest \(on the ACS Vaults&Farms\).
 
-### 4. What are the performance and the workers fee?
+  If you harvest when your Pending ACS is less than 7 ACS, your Pending amount will reset to 0.
 
-* The performance fee is 5% and the workers fee is 0.3% \(both are applied only on the profit\). These fees are already reflected in the shown APR.
+### 5. What are the performance and the workers fee?
 
-### 5. Which fees are visible and which are already included in the APR?
+* The performance fee is 5% and the workers fee is 0.3% \(both are applied only on the profit\). 
+
+  These fees are already reflected in the shown APR.
+
+### 6. Which fees are visible and which are already included in the APR?
 
 * The vault’s performance fee and workers fee \(5% + 0.3%\) are already included in the APR you see, so no need to do any math on that.
 * You only need to be careful with the farms’ harvest fee \(7 ACS\), the vaults' withdrawal fee \(0.5%\), and the withdrawal fee on the ACS Vault \(10%\).
 
-### 6. What are the fees on the StableSwap?
+### 7. What are the fees on the StableSwap?
 
 * The exchange fees are set to 0.04%, which is almost 10 times cheaper than the 0.3+% charged by all the other UniSwap and SushiSwap clones.
 
   All this is possible thanks to Curve’s [specialized algorithm tailored for trading of stablecoins and other pegged assets](https://www.curve.fi/stableswap-paper.pdf).
 
-### 7. What is the difference between APR and APY?
+### 8. What is the difference between APR and APY?
 
 * APR reflects the simple interest rate over a year’s time \(APR/365\), while APY describes the rate with the effect of compounding.
 
@@ -108,7 +118,7 @@
 
 ### 3. How the auto-compounding works \(and what is the Workers tab\)?
 
-* Currently there is a bot that automatically harvests each Vault couple times a day. 
+* Currently there is a bot that automatically harvests each Vault at least once a day. 
 * There is also the Workers tab, where anyone can manually harvest each Vault \(and get the associated fee\).
 
   The Workers tab is just a backup, the normal user does not have to use it.
@@ -123,7 +133,7 @@
 
 ### 5. How does the Venus strategies work?
 
-* By supplying assets and borrowing the same asset to resupply with.
+* By supplying an asset and borrowing the same asset to resupply with.
 
   Example: Supply BNB, borrow BNB, supply more BNB, borrow more BNB, and repeat.
 
@@ -155,11 +165,11 @@
 
 ### 2. What is the main goal of the treasury?
 
-* The treasury funds will be used to improve the project \(marketing/pr/administration/management/insurance/etc\).
+* The treasury funds will be used to improve the project \(marketing/pr/administration/management/audit/etc\).
 
 ### 3. Who controls the treasury?
 
-* The treasury will be controlled via governance.
+* The treasury is controlled via governance.
 
 ### 4. Am I eligible to vote and where do I vote?
 
