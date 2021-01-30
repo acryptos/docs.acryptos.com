@@ -12,7 +12,7 @@ Maximum supply cap at 1,888,888 ACS.
 
 All parameters may be adjusted in future via governance.
 
----
+
 ### ACS Vault
 
 Withdrawal fee: 10% \(distributed to ACS holders - remains in vault\)
@@ -39,7 +39,7 @@ Paid to Workers to offset gas fees.
 Will be levied on any harvest, deposit or withdrawal. Fee will be deducted from user's pending ACS rewards, and remainder will be transferred to user.  
 Farm transaction fees are distributed to ACS holders via ACS Vault.
 
----
+
 ## ACSI Tokenomics
 
 **ACSI rewards distributed to ACSI Farms: 0.088888 888888 888888 ACS/block** \(~ 2560 ACS/day\)  
@@ -50,7 +50,7 @@ Total ~3669 ACSI/day
 Currently no cap on maximum supply.  
 All parameters may be adjusted in future via governance.
 
----
+
 ### ACSI Vault
 
 Withdrawal fee: 10% \(distributed to ACSI holders - remains in vault\)
