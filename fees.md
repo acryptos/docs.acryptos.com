@@ -8,7 +8,8 @@
 Total ~3669 ACS/day  
 **Up to 3% of supply may be minted for ACryptoS Treasury**
 
-Maximum supply cap at 1,888,888 ACS. 
+Maximum supply cap at 1,888,888 ACS.
+
 All parameters may be adjusted in future via governance.
 
 ---
