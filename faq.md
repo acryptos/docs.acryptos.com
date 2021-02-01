@@ -17,8 +17,6 @@
 
 * There is an [on-going vote](https://vote.acryptos.com/#/acryptos/proposal/QmQkubhfim9uwJqdZSgZWqgAGEtJGokLccVW289KnpRESw) for emission reduction and maximum supply cap. The supply will be capped soon.
 
-  
-
 ### 4. Is there a buy-back program?
 
 * Yes. The system is designed to constantly buy-back ACS \(using the withdrawal fee + the performance fee\), and then those ACS are distributed to the acsACS holders.
@@ -28,12 +26,12 @@
 * Currently there is a constant daily emission rate of ~3746 ACS tokens:
 
   ~2560 ACS to the farms
-  
-  +33.33% to the ACS Vault (~853)
 
-  +10% reward to the dev team (~256)
-  
-  +3% to the treasury (~77)
+  +33.33% to the ACS Vault \(~853\)
+
+  +10% reward to the dev team \(~256\)
+
+  +3% to the treasury \(~77\)
 
   The genesis mining is ~8888 ACS.
 
@@ -69,7 +67,7 @@
 
 ### 2. Is there a fee on the first Stake?
 
-* No. However additional staking/unstaking triggers the harvest (and the 7 ACS fee). 
+* No. However additional staking/unstaking triggers the harvest \(and the 7 ACS fee\).
 
   This will be changed soon with the migration.
 
@@ -82,7 +80,7 @@
 
 ### 4. What are the harvest fees on the farms?
 
-* The harvest fee is 7 ACS on the ACS farms, and 10 ACSI on the ACSI farms. 
+* The harvest fee is 7 ACS on the ACS farms, and 10 ACSI on the ACSI farms.
 
   Note: Clicking the stake/unstake button also triggers the harvest \(on the ACS Vaults&Farms\).
 
@@ -90,7 +88,7 @@
 
 ### 5. What are the performance and the workers fee?
 
-* The performance fee is 5% and the workers fee is 0.3% \(both are applied only on the profit\). 
+* The performance fee is 5% and the workers fee is 0.3% \(both are applied only on the profit\).
 
   These fees are already reflected in the shown APR.
 

@@ -23,9 +23,9 @@ Do remember to stake in our Farms after depositing into the pools.
 
 Our core pool comprises the 4 staple stablecoins: BUSD, USDT, DAI and USDC.
 
-## ACS4VAI Metapool
+## ACS4 + VAI / UST / QUSD Metapools
 
-This metapool allows seamless trading between VAI and all 4 assets in the ACS4USD core-pool.
+These metapools allow seamless trading between the metapool's additional token, and all 4 tokens in the ACS4USD core-pool.
 
 Metapools allow for one token to seemingly trade with another underlying base pool with several benefits:
 
