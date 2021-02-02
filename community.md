@@ -2,7 +2,7 @@
 
 ## Video guides
 
-* [Vault and Farming \(ACS Guides 01\)](https://youtu.be/AqVUk2gZIJM) - contributed by [Hsing](https://t.me/ethwyn)
+* [Vault and Farming \(ACS Guides 01\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [Hsing](https://t.me/ethwyn)
 
 ## Statistics
 
