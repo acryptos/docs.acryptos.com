@@ -84,7 +84,7 @@
 
   Note: Clicking the stake/unstake button also triggers the harvest \(on the ACS Vaults&Farms\).
 
-  If you harvest when your Pending ACS is less than 7 ACS, your Pending amount will reset to 0.
+  If you harvest when your Pending ACS is less than 1 ACS, your Pending amount will reset to 0.
 
 ### 5. What are the performance and the workers fee?
 
@@ -95,7 +95,7 @@
 ### 6. Which fees are visible and which are already included in the APR?
 
 * The vault’s performance fee and workers fee \(5% + 0.3%\) are already included in the APR you see, so no need to do any math on that.
-* You only need to be careful with the farms’ harvest fee \(7 ACS\), the vaults' withdrawal fee \(0.5%\), and the withdrawal fee on the ACS Vault \(10%\).
+* You only need to be careful with the farms’ harvest fee \(1 ACS\), the vaults' withdrawal fee \(0.5%\), and the withdrawal fee on the ACS Vault \(10%\).
 
 ### 7. What are the fees on the StableSwap?
 
@@ -151,7 +151,7 @@
 
 ### 7. I cannot find the “harvest” or “withdraw” button, where are they?
 
-* The User interface \(UI\) is dynamic. The harvest button appears after you have at least 7 ACS Pending for harvest.
+* The User interface \(UI\) is dynamic. The harvest button appears after you have at least 1 ACS Pending for harvest.
 * If your assets are Staked, the Withdraw button appears after the Unstake.
 
 ### 8. What is ACS4USD and what is ACS4VAI?
