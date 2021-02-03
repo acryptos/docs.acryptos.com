@@ -22,10 +22,12 @@
 * [Monitor ACryptoS' timelock and track changes](https://getunrekt.medium.com/acs-timelock-transaction-log-d084a735c95a) - contributed by [HM](https://t.me/Toortheroot)
 * [Financial analysis of ACryptoS](https://degenmoma.medium.com/financial-analysis-of-acryptos-com-d62428e29ea4) - contributed by [Mo Ma](https://t.me/degenmoma)
 
-## Tables and diagrams
+## Tables, diagrams, graphs
 
 * [Table with Vault and Farm fees](https://docs.google.com/document/d/1-KU1zzWnEG0sh8hLCD0YUtPv7D4_B2wu80UtRQ3sQUA/edit) - contributed by [Blight Night](https://t.me/BlightNight)
 * [Diagram - ACryptoS' Yield Aggregation Ecosystem](https://github.com/acryptos/docs.acryptos.com/blob/master/images/ACS-VaultFarm-Flow-7.png?raw=true) - contributed by [HM](https://t.me/Toortheroot)
+* [ACS UI and Fees Graph](https://github.com/acryptos/docs.acryptos.com/blob/master/images/ACS-UI-and-Fees.png?raw=true) - contributed by [Markus S](https://t.me/InvinoVMS)
+
 
 ## Community led telegram channels
 
@@ -33,6 +35,9 @@
 * [Chinese - 中文群](https://t.me/ACryptoSCN)
 * [Turkish](https://t.me/acryptosturkey)
 * [Vietnamese](https://t.me/ACryptoSVietnam)
+* [Italian](https://t.me/acryptos_italy)
+* [French](https://t.me/acryptosfr)
+
 
 ### Note: These materials are created by the community. If something is unclear, join our [official tg channel](https://t.me/acryptos9) and ask freely.
 
