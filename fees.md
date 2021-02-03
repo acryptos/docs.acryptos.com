@@ -40,7 +40,7 @@ Farm transaction fees are distributed to ACS holders via ACS Vault.
 
 ## ACSI Tokenomics
 
-**ACSI rewards distributed to ACSI Farms: 0.088888 888888 888888 ACS/block** \(~ 2560 ACS/day\)  
+**ACSI rewards distributed to ACSI Farms: 0.088888 888888 888888 ACSI/block** \(~ 2560 ACSI/day\)  
 **+33.33% distributed to ACSI holders via ACSI Vault  
 +10% reward to ACryptoS Dev Team**  
 Total ~3669 ACSI/day
