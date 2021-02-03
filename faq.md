@@ -67,7 +67,7 @@
 
 ### 2. Is there a fee on the first Stake?
 
-* No. However additional staking/unstaking triggers the harvest \(and the 7 ACS fee\).
+* No. However additional staking/unstaking triggers the harvest \(and the 1 ACS fee\).
 
   This will be changed soon with the migration.
 
@@ -80,7 +80,7 @@
 
 ### 4. What are the harvest fees on the farms?
 
-* The harvest fee is 7 ACS on the ACS farms, and 10 ACSI on the ACSI farms.
+* The harvest fee is 1 ACS on the ACS farms, and 10 ACSI on the ACSI farms.
 
   Note: Clicking the stake/unstake button also triggers the harvest \(on the ACS Vaults&Farms\).
 
