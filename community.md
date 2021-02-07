@@ -1,8 +1,10 @@
 # Community resources
 
-## Video guides
+## Guides, tutorials, intros
 
-* [Vault and Farming \(ACS Guides 01\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [Hsing](https://t.me/ethwyn)
+* [How to use ACryptoS's Vaults and Farms (Video Tutorial)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [Hsing](https://t.me/ethwyn)
+* [ACryptoS Detailed Introduction - ( PDF)](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/ACS-introduction.pdf?raw=true) - contributed by [Markus S](https://t.me/InvinoVMS)
+
 
 ## Statistics
 
