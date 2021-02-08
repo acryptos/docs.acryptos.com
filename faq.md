@@ -13,9 +13,9 @@
 
 * ACS is currently listed on [Coinmarketcap](https://coinmarketcap.com/currencies/acryptos/), [Coingecko](https://www.coingecko.com/en/coins/acryptos), [Defistation](https://www.defistation.io/acryptos), [DappRadar](https://dappradar.com/binance-smart-chain/defi/acryptos), [MATH dApp Store](https://mathdapp.store), [Coinbase Prices](https://www.coinbase.com/price/acryptos) and traded on the [Pancakeswap Exchange](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29).
 
-### 3. Is the ACS supply capped??
+### 3. Is the ACS supply capped?
 
-* There is an [on-going vote](https://vote.acryptos.com/#/acryptos/proposal/QmQkubhfim9uwJqdZSgZWqgAGEtJGokLccVW289KnpRESw) for emission reduction and maximum supply cap. The supply will be capped soon.
+* ACS is capped at 1,888,888 supply.
 
 ### 4. Is there a buy-back program?
 
