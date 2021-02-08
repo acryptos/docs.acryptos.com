@@ -52,7 +52,7 @@ Farm harvest fees are distributed to ACS holders via ACS Vault.
 
 #### ACS Rewards Boost
 
-ACS Vault holdings are used to boost ACS rewards by up to 2.5X. The amount of boost is determined via the following formula:
+In V2, ACS Vault holdings are used to boost ACS rewards by up to 2.5X. The amount of boost is determined via the following formula:
 
 1.5 \* \[% user's share of acsACS\] \* \[TVL in Farm\]
 
