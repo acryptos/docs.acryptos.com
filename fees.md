@@ -40,7 +40,7 @@ Farm transaction fees are distributed to ACS holders via ACS Vault.
 
 ### ACS Farms V2
 
-We plan to migrate all ACS Farms to V2 eventually. The LTC Vault&Farm will be the first \(and currently only\) Vault on V2 to start on 10 Feb 2021.
+We plan to migrate all ACS Farms to V2 eventually. The LTC Vault&Farm will be the first \(and  only\) Vault on V2 to start on 10 Feb 2021.
 
 * Staking and un-staking no longer triggers a harvest.
 * ACS Vault holdings is used to boost rewards up to 2.5X.
