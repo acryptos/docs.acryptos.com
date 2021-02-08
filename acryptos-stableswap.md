@@ -35,7 +35,7 @@ Metapools allow for one token to seemingly trade with another underlying base po
 
 ## Price Impact for Liquidity Providers
 
-When you deposit into a StableSwap pool or metapool, you receive an LP token representing a share of that pool. That represents all tokens in the pool at the proportions they are currently in. These proportions change whenever there is a swap, but in the long run, as long as the tokens maintain their peg, the proportions should revert equally.
+When you deposit into a StableSwap pool or metapool, you receive an LP token representing a share of that pool. This represents all tokens in the pool at the proportions they are currently in. These proportions change whenever there is a swap, but in the long run, as long as the tokens maintain their peg, the proportions should revert equally.
 
 If you deposit or withdraw in proportions which are different from the pool's current proportions, what happens behind the scenes is that the tokens are exchanged so it matches the proportions of the pool. This effectively means if you deposit a token that the pool has a lower proportion of, you will get a "positive" price impact, and vice versa.
 
