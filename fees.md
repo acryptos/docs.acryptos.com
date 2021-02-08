@@ -58,6 +58,8 @@ In V2, ACS Vault holdings are used to boost ACS rewards by up to 2.5X. The amoun
 
 Example: User deposits 10 LTC in Vault&Farm, there is 1000 LTC in the farm in total, and user has 1% share of the ACS Vault. His boost = 1000 LTC \* 1.5 \* 1% = 15 LTC, so a share of 25 LTC will be used to calculate his ACS Rewards, which is equal to the maximum 2.5X boost allowed. If he deposits only 1 LTC, it will be boosted to the maximum 2.5 LTC. If he deposits 100 LTC, it will be boosted to 115 LTC.
 
+User's boost is updated on every stake/un-stake/harvest.
+
 ## ACSI Tokenomics
 
 **ACSI rewards distributed to ACSI Farms: 0.088888 888888 888888 ACSI/block** \(~ 2560 ACSI/day\)  
