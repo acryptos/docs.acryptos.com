@@ -2,9 +2,8 @@
 
 ## Guides, tutorials, intros
 
-* [How to use ACryptoS's Vaults and Farms (Video Tutorial)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [Hsing](https://t.me/ethwyn)
-* [ACryptoS Detailed Introduction (PDF)](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/ACS-introduction.pdf?raw=true) - contributed by [Markus S](https://t.me/InvinoVMS)
-
+* [How to use ACryptoS's Vaults and Farms \(Video Tutorial\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [Hsing](https://t.me/ethwyn)
+* [ACryptoS Detailed Introduction \(PDF\)](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/ACS-introduction.pdf?raw=true) - contributed by [Markus S](https://t.me/InvinoVMS)
 
 ## Statistics
 
@@ -30,7 +29,6 @@
 * [Diagram - ACryptoS' Yield Aggregation Ecosystem](https://github.com/acryptos/docs.acryptos.com/blob/master/images/ACS-VaultFarm-Flow-1.png?raw=true) - contributed by [HM](https://t.me/Toortheroot)
 * [ACS UI and Fees Graph](https://github.com/acryptos/docs.acryptos.com/blob/master/images/ACS-UI-and-Fees.png?raw=true) - contributed by [Markus S](https://t.me/InvinoVMS)
 
-
 ## Community led telegram channels
 
 * [Spanish - Español](https://t.me/acryptosspanish)
@@ -39,7 +37,6 @@
 * [Vietnamese](https://t.me/ACryptoSVietnam)
 * [Italian](https://t.me/acryptos_italy)
 * [French](https://t.me/acryptosfr)
-
 
 ### Note: These materials are created by the community. If something is unclear, join our [official tg channel](https://t.me/acryptos9) and ask freely.
 
