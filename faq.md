@@ -67,7 +67,7 @@
 
 ### 2. Is there a fee on the first Stake?
 
-* No. However additional staking/unstaking triggers the harvest \(and the 1 ACS fee\).
+* No. However additional staking/unstaking triggers the harvest \(and the 0.5 ACS fee\).
 
   This will be changed soon with the migration.
 
@@ -80,11 +80,11 @@
 
 ### 4. What are the harvest fees on the farms?
 
-* The harvest fee is 1 ACS on the ACS farms, and 10 ACSI on the ACSI farms.
+* The harvest fee is 0.5 ACS on the ACS farms, and 10 ACSI on the ACSI farms.
 
   Note: Clicking the stake/unstake button also triggers the harvest \(on the ACS Vaults&Farms\).
 
-  If you harvest when your Pending ACS is less than 1 ACS, your Pending amount will reset to 0.
+  If you harvest when your Pending ACS is less than 0.5 ACS, your Pending amount will reset to 0.
 
 ### 5. What are the performance and the workers fee?
 
