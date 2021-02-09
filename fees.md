@@ -45,7 +45,7 @@ The SFP-BNB Vault&Farm and LTC Vault&Farm will be the first \(and only\) Vaults 
 * Staking and un-staking no longer triggers a harvest.
 * ACS Vault holdings is used to boost rewards up to 2.5X.
 
-**Transaction fee: 0.5 ACS** \(max\)  
+**Harvest fee: 0.5 ACS** \(max\)  
 **Fee will not exceed user's pending ACS rewards.**  
 Fee will be deducted from user's pending ACS rewards, and remainder will be transferred to user.  
 Farm harvest fees are distributed to ACS holders via ACS Vault.
