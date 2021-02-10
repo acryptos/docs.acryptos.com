@@ -4,9 +4,11 @@ description: ACryptoS Vaults grow your assets via automated yield Strategies.
 
 # ACryptoS Vaults
 
-This saves users time and enables higher yields through more frequent compounding, more efficient gas utilisation, and other creative automations.
+ACryptoS Vaults save users time and enables higher yields through more frequent compounding, more efficient gas utilisation, and other creative automations.
 
 When you deposit into a vault, your tokens will grow over time. You do not need to manually harvest the vaults.
+
+Most Vaults have a Farm where you can Stake your deposit to earn ACS or ACSI, a stake in the protocol.
 
 ## ACS and ACSI Vaults
 
@@ -29,4 +31,6 @@ These vaults stake PancakeSwap LP tokens, farms CAKE and swaps it for more of th
 ## Workers
 
 Anyone can help [harvest an ACryptoS Vault](https://app.acryptos.com/worker/) and earn the [harvester's reward](fees.md#all-vaults) as a gas subsidy. This decentralises the automation of our vaults. You do not need to do this as a normal user, your holdings in the vault will compound automatically.
+
+
 
