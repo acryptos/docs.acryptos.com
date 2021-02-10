@@ -15,7 +15,7 @@ The SFP-BNB Vault&Farm and LTC Vault&Farm will be the first \(and only\) Vaults 
 * Staking and un-staking no longer triggers a harvest.
 * ACS Vault holdings is used to boost rewards up to 2.5X.
 
-#### ACS Rewards Boost
+### ACS Rewards Boost
 
 In V2, ACS Vault holdings are used to boost ACS rewards by up to 2.5X. The amount of boost is determined via the following formula:
 
@@ -25,7 +25,7 @@ Example: User deposits 20 LTC in Vault&Farm, there is 1500 LTC in the farm in to
 
 User's boost is updated on every stake/un-stake/harvest.
 
-**User Interface**
+### **User Interface**
 
 **Current Boost**: The current boost you are getting in the farm from your ACS Vault holdings.  
 **Future Boost**: The boost you will get after you stake/un-stake/harvest. Pressing 'Force' will update this boost manually.  
