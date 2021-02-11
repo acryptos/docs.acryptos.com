@@ -80,7 +80,7 @@
 
 ### 4. What are the harvest fees on the farms?
 
-* The harvest fee is 0.5 ACS on the ACS farms, and 10 ACSI on the ACSI farms.
+* The harvest fee is 0.5 ACS on the ACS farms, and 5 ACSI on the ACSI farms (currently both harvest fees are 0, promo period during LNY).
 
   Note: Clicking the stake/unstake button also triggers the harvest \(on the ACS Vaults&Farms\).
 
