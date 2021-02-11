@@ -95,7 +95,7 @@
 ### 6. Which fees are visible and which are already included in the APR?
 
 * The vault’s performance fee and workers fee \(5% + 0.3%\) are already included in the APR you see, so no need to do any math on that.
-* You only need to be careful with the farms’ harvest fee \(1 ACS\), the vaults' withdrawal fee \(0.5%\), and the withdrawal fee on the ACS Vault \(10%\).
+* You only need to be careful with the farms’ harvest fee (0.5 ACS - currently 0 ACS, promo period during LNY), the vaults' withdrawal fee \(0.5%\), and the withdrawal fee on the ACS Vault \(10%\).
 
 ### 7. What are the fees on the StableSwap?
 
@@ -151,7 +151,7 @@
 
 ### 7. I cannot find the “harvest” or “withdraw” button, where are they?
 
-* The User interface \(UI\) is dynamic. The harvest button appears after you have at least 1 ACS Pending for harvest.
+* The User interface \(UI\) is dynamic. The harvest button appears after you have at least 0.5 ACS Pending for harvest (currently the harvest fee is 0, promo period during LNY).
 * If your assets are Staked, the Withdraw button appears after the Unstake.
 
 ### 8. What is ACS4USD and what is ACS4VAI?
