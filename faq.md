@@ -82,9 +82,9 @@
 
 * The harvest fee is 0.5 ACS on the ACS farms, and 5 ACSI on the ACSI farms (currently both harvest fees are 0, promo period during LNY).
 
-  Note: Clicking the stake/unstake button also triggers the harvest \(on the ACS Vaults&Farms\).
-
-  If you harvest when your Pending ACS is less than 0.5 ACS, your Pending amount will reset to 0.
+  Note: Clicking the stake/unstake button also triggers the harvest (only on the ACS Vaults&Farms v1).
+ 
+  If you harvest when your Pending ACS is less than 0.5 ACS, your Pending amount will reset to 0 (currently the harvest fee is 0 ACS, promo period during LNY).
 
 ### 5. What are the performance and the workers fee?
 
