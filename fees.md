@@ -6,7 +6,7 @@
 **+33.33% distributed to ACS holders via ACS Vault  
 +10% reward to ACryptoS Dev Team**  
 Total ~3669 ACS/day  
-**Up to 3% of supply may be minted for ACryptoS Treasury**
+**Up to 3% of supply may be minted for** [**ACryptoS Treasury**](https://bscscan.com/address/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC)\*\*\*\*
 
 Maximum supply cap at 1,888,888 ACS.
 
@@ -75,6 +75,5 @@ Farm harvest fees are distributed to ACSI holders via ACSI Vault.
 ### StableSwap
 
 **Exchange fee: 0.04% \(ACS4USD base-pool\) / 0.06% \(meta-pools\)**  
-50% of the exchange fee is used to buy and distribute ACSI to ACSI holders via ACSI Vault.
-The remaining 50% will be given to the liquidity providers in the pool.
+50% of the exchange fee is used to buy and distribute ACSI to ACSI holders via ACSI Vault. The remaining 50% will be given to the liquidity providers in the pool.
 
