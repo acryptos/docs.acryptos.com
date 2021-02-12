@@ -75,5 +75,6 @@ Farm harvest fees are distributed to ACSI holders via ACSI Vault.
 ### StableSwap
 
 **Exchange fee: 0.04% \(ACS4USD base-pool\) / 0.06% \(meta-pools\)**  
-50% of the exchange fee is used to buy and distribute ACSI to ACSI holders via ACSI Vault. Remainder is earned by liquidity providers in the pool.
+50% of the exchange fee is used to buy and distribute ACSI to ACSI holders via ACSI Vault.
+The remaining 50% will be given to the liquidity providers in the pool.
 
