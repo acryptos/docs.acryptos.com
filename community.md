@@ -37,6 +37,7 @@
 * [Vietnamese](https://t.me/ACryptoSVietnam)
 * [Italian](https://t.me/acryptos_italy)
 * [French](https://t.me/acryptosfr)
+* [Bahasa (Indonesia + Malaysia)](https://t.me/ACryptoS_Bahasa)
 
 ### Note: These materials are created by the community. If something is unclear, join our [official tg channel](https://t.me/acryptos9) and ask freely.
 
