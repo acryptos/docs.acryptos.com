@@ -175,19 +175,17 @@
 
 * The treasury is controlled via governance.
 
-### 4. Am I eligible to vote and where do I vote?
+### 4. Who can vote?
 
-* If you hold acsACS \(at the time of the snapshot\), you are eligible to vote on [the voting platform](https://vote.acryptos.com/#/acryptos/all).
+* ACS held in the ACS Vault and ACSI held in the ACSI Vault are our governance tokens. Voting weight is measured in ACS, using the prevailing ACS-ACSI exchange rate.
 
-### 5. How do I get acsACS?
+### 5. Where do I vote?
 
-* When you stake ACS in the ACS Vault, you receive acsACS.
+* You can vote on [the governance platform](https://vote.acryptos.com/#/acryptos/all).
 
-  acsACS is your voting power.
+### 6. Who can create a new vote/proposal?
 
-### 6. Who can create a vote?
-
-* Anyone who holds at least 88 acsACS.
+* Anyone who holds at least 88 ACS.
 
 ### 7. Which governance platform is used for voting?
 
