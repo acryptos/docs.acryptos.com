@@ -24,7 +24,7 @@ This project is in beta. Use at your own risk.
 
 ### APRs/Returns
 
-APRs/returns shown on the UI include the performance and the workers fees, but **do not include** the other fees (withdrawal, harvest), which will result in a negative return if you enter and exit a position quickly.
+APRs/returns shown on the UI include the performance and the workers fees, but **do not include** the other fees \(withdrawal, harvest\), which will result in a negative return if you enter and exit a position quickly.
 
 High returns/APRs almost certainly mean a high risk. The calculated APR/return depends on the underlying value of the token in the vault and the token\(s\) being farmed, including ACS and ACSI, which can be very volatile and/or inflationary.
 
