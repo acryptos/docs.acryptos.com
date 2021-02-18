@@ -6,7 +6,7 @@
 **+33.33% distributed to ACS holders via ACS Vault  
 +10% reward to ACryptoS Dev Team**  
 Total ~3669 ACS/day  
-**Up to 3% of supply may be minted for** [**ACryptoS Treasury**](https://bscscan.com/address/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC)\*\*\*\*
+**Up to 3% of supply may be minted for** [**ACryptoS Treasury**](governance.md#treasury)\*\*\*\*
 
 Maximum supply cap at 1,888,888 ACS.
 
