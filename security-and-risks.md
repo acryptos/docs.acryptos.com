@@ -15,6 +15,10 @@ This project is in beta. Use at your own risk.
 * ACryptoS Dev Team cannot control assets in Farms.
 * ACryptoS Dev Team cannot control assets in StableSwap.
 
+#### Mitigations
+
+Community [timelock monitor](https://unrekt.net/acryptos/timelock.html) and Telegram [timelock monitor bot](https://t.me/acryptos9/59652). 
+
 ### Other Risks
 
 * Smart contract risks, both ACryptoS contracts and third parties our Vaults interact with.
@@ -40,5 +44,8 @@ Smart contracts are forked from yearn.finance \(Vault, Controller, Strategy\), S
 
 ### Deployed
 
-All deployed contracts have [verified and published source codes on BscScan](https://app.acryptos.com/contracts/).
+All deployed contracts have [verified and published source codes on BscScan](https://app.acryptos.com/contracts/).  
+
+
+
 
