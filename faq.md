@@ -73,8 +73,9 @@ There are also constant buybacks for ACSI, using 50% of the swap fee from the St
 
 ### 2. Is there a fee on the first Stake?
 
-* ACS Farms: No. However additional staking/unstaking triggers the harvest \(and the 0.5 ACS fee\). Currently there is a promo and the harvest fee is 0 until 25 Feb 20210.
-  This will be changed soon with the migration to farms v2.
+* ACS Farms: No. However additional staking/unstaking triggers the harvest and the 0.5 ACS fee (this will be changed soon with the migration to farms v2.). 
+  Currently there is a promo and the harvest fee is 0 until 25 Feb 2021.
+ 
 
 * ACSI Farms: No.
 
