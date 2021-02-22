@@ -11,19 +11,21 @@
 
 ### 2. Where is ACS listed and traded?
 
-* ACS is currently listed on [Coinmarketcap](https://coinmarketcap.com/currencies/acryptos/), [Coingecko](https://www.coingecko.com/en/coins/acryptos), [Defistation](https://www.defistation.io/acryptos), [DappRadar](https://dappradar.com/binance-smart-chain/defi/acryptos), [MATH dApp Store](https://mathdapp.store), [Coinbase Prices](https://www.coinbase.com/price/acryptos) and traded on the [Pancakeswap Exchange](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29).
+* ACS is currently listed on [Coinmarketcap](https://coinmarketcap.com/currencies/acryptos/), [Coingecko](https://www.coingecko.com/en/coins/acryptos), [Defistation](https://www.defistation.io/acryptos), [DappRadar](https://dappradar.com/binance-smart-chain/defi/acryptos), [MATH dApp Store](https://mathdapp.store), [Coinbase Prices](https://www.coinbase.com/price/acryptos) and traded on the [Pancakeswap Exchange](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29) and on [Hotbit](https://www.hotbit.io/exchange?symbol=ACS_USDT) (low volume on Hotbit, be careful).
 
-### 3. Is the ACS supply capped?
+### 3. What is the maximum supply cap?
 
-* ACS is capped at 1,888,888 supply.
+* The maxium supply cap for ACS is 1,888,888.
+* There is an on-going vote for capping ACSI at 1,888,888.
 
 ### 4. Is there a buy-back program?
 
 * Yes. The system is designed to constantly buy-back ACS \(using the withdrawal fee + the performance fee\), and then those ACS are distributed to the acsACS holders.
+There are also constant buybacks for ACSI, using 50% of the swap fee from the StableSwap, and then those ACSI are distributed to the acsACSI holders.
 
 ### 5. How many tokens are minted per day?
 
-* Currently there is a constant daily emission rate of ~3746 ACS tokens:
+* There was aconstant daily emission rate of ~3746 ACS tokens:
 
   ~2560 ACS to the farms
 
@@ -34,6 +36,8 @@
   +3% to the treasury \(~77\)
 
   The genesis mining is ~8888 ACS.
+
+* After the first emission cut (15 Feb 2021), the emission was reduced by 18.65%.
 
 ### 6. Are the tokenomic models of ACS and ACSI sustainable?
 
@@ -57,7 +61,9 @@
 
 ### 3. Is the project audited?
 
-* Yes. The project has been audited by [DefiYield](https://defiyield.info/audits) on 28.01.2021. Check the [full audit report here](https://defiyield.info/assets/pdf/ACryptoS.pdf).
+* Yes. The project has been audited.
+ - By DefiYield on 28 Jan 2021. Check the [full audit report here](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210128-defiyield.info.pdf).
+ - By Hacken on 18 Feb 2021. Check the [full audit report here](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210218-Hacken-ACryptoSFarmV2.pdf).
 
 ## Fees
 
@@ -67,14 +73,15 @@
 
 ### 2. Is there a fee on the first Stake?
 
-* No. However additional staking/unstaking triggers the harvest \(and the 0.5 ACS fee\).
+* ACS Farms: No. However additional staking/unstaking triggers the harvest \(and the 0.5 ACS fee\). Currently there is a promo and the harvest fee is 0 until 25 Feb 20210.
+  This will be changed soon with the migration to farms v2.
 
-  This will be changed soon with the migration.
+* ACSI Farms: No.
 
 ### 3. What are the withdrawal fees?
 
-* There is a 0.5% withdrawal fee. This fee is applied on all vaults \(except the ACS Vault\).
-* For the ACS Vault, the withdrawal fee is 10% \(applied only on the amount you withdraw\).
+* There is a 0.5% withdrawal fee. This fee is applied on all vaults \(except the ACS Vault and the ACSI Vault\).
+* For the ACS Vault and the ACSI Vault, the withdrawal fee is 10% \(applied only on the amount you withdraw\).
 
   Example: If you have 1000 ACS in the ACS Vault, and you decide to withdraw 100 ACS, the fee will be 10 ACS.
 
@@ -165,11 +172,11 @@
 
 ### 1. Is there a treasury?
 
-* Yes. A vote for adding 3% from the daily mint to a treasury passed. 
+* Yes. A treasury was formed to fund anything that adds value to the protocol, taking up to 3% of ACS emissions.
 
 ### 2. What is the main goal of the treasury?
 
-* The treasury funds will be used to improve the project \(marketing/pr/administration/management/audit/etc\).
+* The treasury funds will be used to improve/add value the project \(marketing/pr/administration/management/audits/etc\).
 
 ### 3. Who controls the treasury?
 
