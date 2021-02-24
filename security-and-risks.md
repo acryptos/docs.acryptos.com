@@ -1,10 +1,23 @@
 # Security & Risks
 
+## Smart Contracts
+
+### Audits
+
+\*\*\*\*[**DefiYield.info**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210128-defiyield.info.pdf) ****[**1**](https://defiyield.info/assets/pdf/ACryptoS.pdf) **\(28 Jan 2021\)**  
+[**Hacken - ACryptoSFarmV2**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210218-Hacken-ACryptoSFarmV2.pdf) **\(18 Feb 2021\)**
+
+Smart contracts are forked from yearn.finance \(Vault, Controller, Strategy\), SushiSwap \(MasterChef\), Uniswap \(Uni\), Curve \(StableSwap\).
+
+### Deployed
+
+All deployed contracts have [verified and published source codes on BscScan](https://app.acryptos.com/contracts/).  
+
 ## RISK WARNING
 
 This project is in beta. Use at your own risk.
 
-### What is a Timelock Contract?
+### What Is a Timelock Contract?
 
 A hashed timelock contract (HTLC) reduces counterparty risk in decentralized smart contracts by effectively creating a time-based escrow. In DEFI, timelock contracts are used to delay critical smart contract updates and give users forwarning of potentially malicious activity by the dev team.
 
@@ -37,19 +50,6 @@ Community [timelock monitor](https://unrekt.net/acryptos/timelock.html) and Tele
 APRs/returns shown on the UI include the performance and the workers fees, but **do not include** the other fees \(withdrawal, harvest\), which will result in a negative return if you enter and exit a position quickly.
 
 High returns/APRs almost certainly mean a high risk. The calculated APR/return depends on the underlying value of the token in the vault and the token\(s\) being farmed, including ACS and ACSI, which can be very volatile and/or inflationary.
-
-## Smart Contracts
-
-### Audits
-
-\*\*\*\*[**DefiYield.info**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210128-defiyield.info.pdf) ****[**1**](https://defiyield.info/assets/pdf/ACryptoS.pdf) **\(28 Jan 2021\)**  
-[**Hacken - ACryptoSFarmV2**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210218-Hacken-ACryptoSFarmV2.pdf) **\(18 Feb 2021\)**
-
-Smart contracts are forked from yearn.finance \(Vault, Controller, Strategy\), SushiSwap \(MasterChef\), Uniswap \(Uni\), Curve \(StableSwap\).
-
-### Deployed
-
-All deployed contracts have [verified and published source codes on BscScan](https://app.acryptos.com/contracts/).  
 
 
 
