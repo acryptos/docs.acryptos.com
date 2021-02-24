@@ -1,6 +1,6 @@
 # Security & Risks
 
-## Smart Contracts
+## SMART CONTRACTS
 
 ### Audits
 
