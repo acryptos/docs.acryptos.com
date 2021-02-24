@@ -4,6 +4,12 @@
 
 This project is in beta. Use at your own risk.
 
+### What is a Timelock Contract?
+
+A hashed timelock contract (HTLC) reduces counterparty risk in decentralized smart contracts by effectively creating a time-based escrow. In DEFI, timelock contracts are used to delay critical smart contract updates and give users forwarning of potentially malicious activity by the dev team.
+
+We suggest NOT using any DEFI application that does not have a timelock contract in place.
+
 ### ACryptoS Dev Team Access
 
 * **ACryptoS Dev Team can control all assets in Vaults behind a 48 hour timelock.**
