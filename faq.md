@@ -15,8 +15,8 @@
 
 ### 3. What is the maximum supply cap?
 
-* The maxium supply cap for ACS is 1,888,888.
-* There is an on-going vote for capping ACSI at 1,888,888.
+* The maximum supply cap for ACS is 1,888,888.
+* The maximum supply cap for ACSI is 1,888,888.
 
 ### 4. Is there a buy-back program?
 
