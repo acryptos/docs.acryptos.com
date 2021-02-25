@@ -5,9 +5,9 @@
 **ACS rewards distributed to ACS Farms: 0.088888 888888 888888 ACS/block** \(~ 2560 ACS/day\)  
 **+33.33% distributed to ACS holders via ACS Vault  
 +10% reward to ACryptoS Dev Team**  
-Total ~3669 ACS/day**         
+Total ~3669 ACS/day       
 **Up to 3% of supply may be minted for** [**ACryptoS Treasury**](governance.md#treasury)                 
-**After the first emission cut (15 Feb 2021), the emission was reduced by 18.65%                     
+After the first emission cut (15 Feb 2021), the emission was reduced by 18.65%                     
 
 
 Maximum supply cap at 1,888,888 ACS.
