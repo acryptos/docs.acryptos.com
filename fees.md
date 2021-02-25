@@ -6,8 +6,10 @@
 **+33.33% distributed to ACS holders via ACS Vault  
 +10% reward to ACryptoS Dev Team**  
 Total ~3669 ACS/day*
+
 *After the first emission cut (15 Feb 2021), the emission was reduced by 18.65%
-**Up to 3% of supply may be minted for** [**ACryptoS Treasury**](governance.md#treasury)\*\*\*\*
+
+**Up to 3% of supply may be minted for** [**ACryptoS Treasury**](governance.md#treasury)
 
 Maximum supply cap at 1,888,888 ACS.
 
@@ -58,6 +60,7 @@ In V2, ACS Vault holdings are used to boost ACS rewards by up to 2.5X. [More inf
 Total ~3669 ACSI/day
 
 Maximum supply cap at 1,888,888 ACSI.
+
 All parameters may be adjusted in future via governance.
 
 ### ACSI Vault
