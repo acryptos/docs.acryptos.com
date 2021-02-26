@@ -73,10 +73,8 @@ There are also constant buybacks for ACSI, using 50% of the swap fee from the St
 
 ### 2. Is there a fee on the first Stake?
 
-* ACS Farms: No. However additional staking/unstaking triggers the harvest and the 0.5 ACS fee (this will be changed soon with the migration to farms v2.). 
-  Currently there is a promo and the harvest fee is 0 until 25 Feb 2021.
+* ACS Farms: No. However additional staking/unstaking triggers the harvest (and the 0.03 ACS fee) on the v1 ACS farms (this will be changed soon with the migration to farms v2.). 
  
-
 * ACSI Farms: No.
 
 ### 3. What are the withdrawal fees?
@@ -88,11 +86,11 @@ There are also constant buybacks for ACSI, using 50% of the swap fee from the St
 
 ### 4. What are the harvest fees on the farms?
 
-* The harvest fee is 0.5 ACS on the ACS farms, and 5 ACSI on the ACSI farms \(currently both harvest fees are 0, promo period during LNY\).
+* The harvest fee is 0.03 ACS on the ACS farms, and 0.06 ACSI on the ACSI farms.
 
   Note: Clicking the stake/unstake button also triggers the harvest \(only on the ACS Vaults&Farms v1\).
 
-  If you harvest when your Pending ACS is less than 0.5 ACS, your Pending amount will reset to 0 \(currently the harvest fee is 0 ACS, promo period during LNY\).
+  If you harvest when your Pending amount is less than 0.03 ACS (or less than 0.06 ACSI), your Pending amount will reset to 0.
 
 ### 5. What are the performance and the workers fee?
 
@@ -103,7 +101,7 @@ There are also constant buybacks for ACSI, using 50% of the swap fee from the St
 ### 6. Which fees are visible and which are already included in the APR?
 
 * The vault’s performance fee and workers fee \(5% + 0.3%\) are already included in the APR you see, so no need to do any math on that.
-* You only need to be careful with the farms’ harvest fee \(0.5 ACS - currently 0 ACS, promo period during LNY\), the vaults' withdrawal fee \(0.5%\), and the withdrawal fee on the ACS Vault \(10%\).
+* You only need to be careful with the farms’ harvest fee (0.03 ACS/0.06 ACSI), the vaults' withdrawal fee \(0.5%\), and the withdrawal fee on the ACS Vault & ACSI Vault (10%).
 
 ### 7. What are the fees on the StableSwap?
 
@@ -159,7 +157,7 @@ There are also constant buybacks for ACSI, using 50% of the swap fee from the St
 
 ### 7. I cannot find the “harvest” or “withdraw” button, where are they?
 
-* The User interface \(UI\) is dynamic. The harvest button appears after you have at least 0.5 ACS Pending for harvest \(currently the harvest fee is 0, promo period during LNY\).
+* The User interface \(UI\) is dynamic. The harvest button appears after you have at least 0.03 ACS Pending for harvest.
 * If your assets are Staked, the Withdraw button appears after the Unstake.
 
 ### 8. What is ACS4USD and what is ACS4VAI?
