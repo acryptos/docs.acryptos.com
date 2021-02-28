@@ -11,7 +11,7 @@
 
 ### 2. Where is ACS listed and traded?
 
-* ACS is currently listed on [Coinmarketcap](https://coinmarketcap.com/currencies/acryptos/), [Coingecko](https://www.coingecko.com/en/coins/acryptos), [Defistation](https://www.defistation.io/acryptos), [DappRadar](https://dappradar.com/binance-smart-chain/defi/acryptos), [MATH dApp Store](https://mathdapp.store), [Coinbase Prices](https://www.coinbase.com/price/acryptos) and traded on the [Pancakeswap Exchange](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29) and on [Hotbit](https://www.hotbit.io/exchange?symbol=ACS_USDT) (low volume on Hotbit, be careful).
+* ACS is currently listed on [Coinmarketcap](https://coinmarketcap.com/currencies/acryptos/), [Coingecko](https://www.coingecko.com/en/coins/acryptos), [Defistation](https://www.defistation.io/acryptos), [DappRadar](https://dappradar.com/binance-smart-chain/defi/acryptos), [MATH dApp Store](https://mathdapp.store), [Coinbase Prices](https://www.coinbase.com/price/acryptos) and traded on the [Pancakeswap Exchange](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29) and on [Hotbit](https://www.hotbit.io/exchange?symbol=ACS_USDT) \(low volume on Hotbit, be careful\).
 
 ### 3. What is the maximum supply cap?
 
@@ -21,7 +21,8 @@
 ### 4. Is there a buy-back program?
 
 * Yes. The system is designed to constantly buy-back ACS \(using the withdrawal fee + the performance fee\), and then those ACS are distributed to the acsACS holders.
-There are also constant buybacks for ACSI, using 50% of the swap fee from the StableSwap, and then those ACSI are distributed to the acsACSI holders.
+
+  There are also constant buybacks for ACSI, using 50% of the swap fee from the StableSwap, and then those ACSI are distributed to the acsACSI holders.
 
 ### 5. How many tokens are minted per day?
 
@@ -37,7 +38,7 @@ There are also constant buybacks for ACSI, using 50% of the swap fee from the St
 
   The genesis mining is ~8888 ACS.
 
-* After the first emission cut (15 Feb 2021), the emission was reduced by 18.65%.
+* After the first emission cut \(15 Feb 2021\), the emission was reduced by 18.65%.
 
 ### 6. Are the tokenomic models of ACS and ACSI sustainable?
 
@@ -62,8 +63,8 @@ There are also constant buybacks for ACSI, using 50% of the swap fee from the St
 ### 3. Is the project audited?
 
 * Yes. The project has been audited.
- - By DefiYield on 28 Jan 2021. Check the [full audit report here](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210128-defiyield.info.pdf).
- - By Hacken on 18 Feb 2021. Check the [full audit report here](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210218-Hacken-ACryptoSFarmV2.pdf).
+  * By DefiYield on 28 Jan 2021. Check the [full audit report here](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210128-defiyield.info.pdf).
+  * By Hacken on 18 Feb 2021. Check the [full audit report here](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210218-Hacken-ACryptoSFarmV2.pdf).
 
 ## Fees
 
@@ -73,8 +74,7 @@ There are also constant buybacks for ACSI, using 50% of the swap fee from the St
 
 ### 2. Is there a fee on the first Stake?
 
-* ACS Farms: No. However additional staking/unstaking triggers the harvest (and the 0.03 ACS fee) on the v1 ACS farms (this will be changed soon with the migration to farms v2.). 
- 
+* ACS Farms: No. However additional staking/unstaking triggers the harvest \(and the 0.03 ACS fee\) on the v1 ACS farms \(this will be changed soon with the migration to farms v2.\).
 * ACSI Farms: No.
 
 ### 3. What are the withdrawal fees?
@@ -90,7 +90,7 @@ There are also constant buybacks for ACSI, using 50% of the swap fee from the St
 
   Note: Clicking the stake/unstake button also triggers the harvest \(only on the ACS Vaults&Farms v1\).
 
-  If you harvest when your Pending amount is less than 0.03 ACS (or less than 0.06 ACSI), your Pending amount will reset to 0.
+  If you harvest when your Pending amount is less than 0.03 ACS \(or less than 0.06 ACSI\), your Pending amount will reset to 0.
 
 ### 5. What are the performance and the workers fee?
 
@@ -101,7 +101,7 @@ There are also constant buybacks for ACSI, using 50% of the swap fee from the St
 ### 6. Which fees are visible and which are already included in the APR?
 
 * The vault’s performance fee and workers fee \(5% + 0.3%\) are already included in the APR you see, so no need to do any math on that.
-* You only need to be careful with the farms’ harvest fee (0.03 ACS/0.06 ACSI), the vaults' withdrawal fee \(0.5%\), and the withdrawal fee on the ACS Vault & ACSI Vault (10%).
+* You only need to be careful with the farms’ harvest fee \(0.03 ACS/0.06 ACSI\), the vaults' withdrawal fee \(0.5%\), and the withdrawal fee on the ACS Vault & ACSI Vault \(10%\).
 
 ### 7. What are the fees on the StableSwap?
 

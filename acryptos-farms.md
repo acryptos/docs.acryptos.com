@@ -10,7 +10,7 @@ Most Vaults and StableSwap pools will have a corresponding Farm where they can b
 
 ## ACS Farms V2
 
-The SFP-BNB Vault&Farm and LTC Vault&Farm will be the first \(and only\) Vaults on V2 to start on 10 Feb 2021. We plan to migrate all ACS Farms to V2 eventually, this will be announced at a later date with ample notice.
+We plan to migrate all ACS Farms to V2 eventually, this will be announced at a later date with ample notice.
 
 * Staking and un-staking no longer triggers a harvest.
 * ACS Vault holdings is used to boost rewards up to 2.5X.
