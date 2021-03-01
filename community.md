@@ -4,6 +4,8 @@
 
 * [How to use ACryptoS's Vaults and Farms \(Video Tutorial\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [Hsing](https://t.me/ethwyn)
 * [ACryptoS Detailed Introduction \(PDF\)](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/ACS-introduction.pdf?raw=true) - contributed by [Markus S](https://t.me/InvinoVMS)
+* [A detailed guide to ACryptoS](https://frontierprotocols.com/a-guide-to-acryptos/) - contributed by [Sherwood Pham](https://t.me/sherwoodpham)
+* [Step by step tutorial for auto-compounding and farming at ACryptoS](https://medbid.medium.com/step-by-step-tutorial-for-staking-and-farming-at-acryptos-com-42093a0fcb1d) - contributed by [Blight Night](https://t.me/BlightNight)
 
 ## Statistics
 
@@ -18,7 +20,7 @@
 
 ## Medium articles
 
-* [Step by step tutorial for auto-compounding and farming at ACryptoS](https://medbid.medium.com/step-by-step-tutorial-for-staking-and-farming-at-acryptos-com-42093a0fcb1d) - contributed by [Blight Night](https://t.me/BlightNight)
+
 * [How to read Advanced Crypto Strategies' Smart Contract](https://getunrekt.medium.com/smart-contract-read-advanced-crypto-strategies-97098bdb93b7) - contributed by [HM](https://t.me/Toortheroot)
 * [Monitor ACryptoS' timelock and track changes](https://getunrekt.medium.com/acs-timelock-transaction-log-d084a735c95a) - contributed by [HM](https://t.me/Toortheroot)
 * [Financial analysis of ACryptoS](https://degenmoma.medium.com/financial-analysis-of-acryptos-com-d62428e29ea4) - contributed by [Mo Ma](https://t.me/degenmoma)
