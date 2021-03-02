@@ -42,10 +42,14 @@
 * [Chinese - 中文群](https://t.me/ACryptoSCN)
 * [Turkish](https://t.me/acryptosturkey)
 * [Vietnamese](https://t.me/ACryptoSVietnam)
-* [Italian](https://t.me/acryptos_italy)
-* [French](https://t.me/acryptosfr)
 * [Bahasa \(Indonesia + Malaysia\)](https://t.me/ACryptoS_Bahasa)
+* [French](https://t.me/acryptosfr)
 * [Japanese - 日本語](https://t.me/ACryptoSJPN)
+* [Italian](https://t.me/acryptos_italy)
+* [Portuguese](https://t.me/ACryptoSPortuguese)
+* [German](https://t.me/acryptosgerman)
+
+
 
 ### Note: These materials are created by the community. If something is unclear, join our [official tg channel](https://t.me/acryptos9) and ask freely.
 
