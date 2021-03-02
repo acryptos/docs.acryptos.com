@@ -23,8 +23,8 @@ In V2, ACS Vault holdings are used to boost ACS rewards by up to 2.5X. The amoun
 
 Example: User deposits 20 LTC in Vault&Farm, there is 1500 LTC in the farm in total, and user has 1% share of the ACS Vault. His available boost is 1500 \* 1.5 \* 1% = 22.5 LTC, so a share of 20 + 22.5 = 42.5 LTC will be used to calculate his ACS Rewards. If he deposits only 1 LTC, it will be boosted to the maximum 2.5X of 2.5 LTC. If he deposits 100 LTC, it will be boosted to 100 + 22.5 = 122.5 LTC.
 
-User's boost is updated on every stake/un-stake/harvest.
-Users boost calculation is for each farm individually.
+* User's boost is updated on every stake/un-stake/harvest.
+* Users boost calculation is for each farm individually.
 
 ### **User Interface**
 
