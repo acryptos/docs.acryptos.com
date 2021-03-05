@@ -6,6 +6,7 @@
 * [ACryptoS Farms](acryptos-farms.md)
 * [Tokenomics & Fees](fees.md)
 * [Governance](governance.md)
+* [Roadmap](roadmap.md)
 * [Security & Risks](security-and-risks.md)
 * [FAQ](faq.md)
 * [Community resources](community.md)
