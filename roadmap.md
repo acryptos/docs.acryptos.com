@@ -1,4 +1,4 @@
-# ** ACryptoS Roadmap v1.0 **
+# ACryptoS Roadmap v1.0
 _updated 2020-03-05_
 
 # **2020:**
