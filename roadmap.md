@@ -2,8 +2,8 @@
 _updated 2020-03-05_
 
 # **2020:**
-- [ ] PCS Vaults strategy created ✅
-- [x] Venus Vaults strategy created ✅
+✅ PCS Vaults strategy created 
+✅ Venus Vaults strategy created 
 - verified and published all sources codes for all contracts ✅
 - ACS used as governance token ✅
 - Core DAO created ✅
