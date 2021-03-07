@@ -27,6 +27,8 @@ _updated 2020-03-05_
 - Hotbit listing ✅
 - Dfox.cc portfolio tracker listing ✅
 - Yieldwatch.net portfolio tracker listing ✅
+- Adjusted Stableswap fees to further lead the way on BSC ✅
+- Continuing addition of new high quality Vaults PCS/Venus 🌗
 - ACryptoS UI v1.5 🌗
 - Migration of all Vaults to v2 Farms 🌗
 
@@ -34,6 +36,7 @@ _updated 2020-03-05_
  
 ## **----- Q2 ------**
 
+- Continuing addition of new high quality Vaults 🌗
 - ACryptoS UI v2 🌗
 - Stableswap UI v2 🌗
 - 2nd ACS emission reduction
