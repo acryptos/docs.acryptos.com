@@ -34,13 +34,6 @@ Paid to Workers to offset gas fees.
 
 ### ACS Farms
 
-**Transaction fee: 0.03 ACS** \(max\)  
-**Fee will not exceed user's pending ACS rewards.**  
-Will be levied on any harvest, stake or un-stake. Fee will be deducted from user's pending ACS rewards, and remainder will be transferred to user.  
-Farm transaction fees are distributed to ACS holders via ACS Vault.
-
-### ACS Farms V2
-
 **Harvest fee: 0.03 ACS** \(max\)  
 **Fee will not exceed user's pending ACS rewards.**  
 Fee will be deducted from user's pending ACS rewards, and remainder will be transferred to user.  
@@ -48,7 +41,7 @@ Farm harvest fees are distributed to ACS holders via ACS Vault.
 
 #### ACS Rewards Boost
 
-In V2, ACS Vault holdings are used to boost ACS rewards by up to 2.5X. [More info](acryptos-farms.md#acs-farms-v2).
+ACS Vault holdings are used to boost ACS rewards by up to 2.5X. [More info](acryptos-farms.md#acs-farms-v2).
 
 ## ACSI Tokenomics
 
