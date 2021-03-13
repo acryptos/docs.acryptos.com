@@ -10,7 +10,7 @@
 ## Tables, diagrams, graphs
 
 * [Table with Vault and Farm fees](https://docs.google.com/document/d/1-KU1zzWnEG0sh8hLCD0YUtPv7D4_B2wu80UtRQ3sQUA/edit) - contributed by [Blight Night](https://t.me/BlightNight)
-* [ACryptoS' Yield Aggregation Ecosystem](https://github.com/acryptos/docs.acryptos.com/blob/master/images/ACS-VaultFarm-Flow-0.5.png?raw=true) - contributed by [HM](https://t.me/Toortheroot)
+* [ACryptoS' Yield Aggregation Ecosystem](https://github.com/acryptos/docs.acryptos.com/blob/master/images/ACS-VaultFarm-Flow-0.03.png?raw=true) - contributed by [HM](https://t.me/Toortheroot)
 * [ACS UI and Fees](https://github.com/acryptos/docs.acryptos.com/blob/master/images/ACS-UI-and-Fees.png?raw=true) - contributed by [Markus S](https://t.me/InvinoVMS)
 * [Swap APY x Vault APY x Farm APR](https://github.com/acryptos/docs.acryptos.com/blob/master/images/APYs.jpg?raw=true) - contributed by [Jake](https://t.me/manxsir)
 
