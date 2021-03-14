@@ -2,12 +2,12 @@
 
 ## Guides, tutorials, intros
 
-* [How to use ACryptoS Vaults and Farms \(Video Tutorial\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [CryptoBKT (Hsing)](https://t.me/ethwyn)
-* [How to use ACryptoS StableSwap (Video Tutorial\)](https://www.youtube.com/watch?v=xn-apvGCsFY) - contributed by [CryptoBKT (Hsing)](https://t.me/ethwyn)
+* [How to use ACryptoS Vaults and Farms \(Video Tutorial\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [CryptoBKT (Hsing)](https://t.me/cryptoBKT)
+* [How to use ACryptoS StableSwap (Video Tutorial\)](https://www.youtube.com/watch?v=xn-apvGCsFY) - contributed by [CryptoBKT (Hsing)](https://t.me/cryptoBKT)
 * [ACryptoS Detailed Introduction \(PDF\)](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/ACS-introduction.pdf?raw=true) - contributed by [Markus S](https://t.me/InvinoVMS)
 * [A detailed guide to ACryptoS](https://frontierprotocols.com/a-guide-to-acryptos/) - contributed by [Sherwood Pham](https://t.me/sherwoodpham)
 * [Step by step tutorial for auto-compounding and farming at ACryptoS](https://medbid.medium.com/step-by-step-tutorial-for-staking-and-farming-at-acryptos-com-42093a0fcb1d) - contributed by [Blight Night](https://t.me/BlightNight)
-* [How to create a BEP20 wallet on Binance Smart Chain (Video Tutorial\)](https://www.youtube.com/watch?v=3UNk9eaNsQw) - contributed by [CryptoBKT (Hsing)](https://t.me/ethwyn)
+* [How to create a BEP20 wallet on Binance Smart Chain (Video Tutorial\)](https://www.youtube.com/watch?v=3UNk9eaNsQw) - contributed by [CryptoBKT (Hsing)](https://t.me/cryptoBKT)
 
 ## Tables, diagrams, graphs
 
