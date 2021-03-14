@@ -72,7 +72,7 @@ Things to note:
 
 2. ACSI is the native token of **StableSwap** and probably all future non-vault products.
    
-   ACSI staked in the [ACSI Vault](https://app.acryptos.com/core/):
+   ACSI staked in the [**ACSI Vault**](https://app.acryptos.com/core/):
    
    - accrue protocol [fees and rewards](fees.md#acs-vault) from [StableSwap and ACSI Farms](https://app.acryptos.com/acsi/)
    - and participate in governance of the protocol.
