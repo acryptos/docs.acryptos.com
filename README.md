@@ -62,5 +62,13 @@ ACSI staked in the [**ACSI Vault**](https://app.acryptos.com/core/)
 
 ## Tokenomics and Fees
 
-Our tokenomics and fees are designed to encourage longer term staking, and reward long term holders of our ACS and ACSI native tokens rewards and fees. This means if you enter and exit quickly as a liquidity provider, you will likely earn 0 or even a slightly negative return. Please carefully review our documentation on [fees](fees.md) before proceeding.
+Our tokenomics and fees are designed to encourage 
+
+1. Longer term staking
+
+2. And reward long term holders of our ACS and ACSI native tokens rewards and fees. 
+
+This means if you enter and exit quickly as a liquidity provider, you will likely earn 0 or even a slightly negative return.
+
+Please carefully review our documentation on [fees](fees.md) before proceeding.
 
