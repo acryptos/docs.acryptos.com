@@ -6,7 +6,7 @@ ACryptoS offers 2 products on Binance Smart Chain.
 
 1.	Yield optimizer ACryptoS Vaults 
 
-2.	Stablecoin DEX ACryptoS StableSwap. 
+2.	Stablecoin DEX ACryptoS StableSwap
 
 Our tokenomics and fees are designed to 
 
@@ -41,14 +41,24 @@ This incentivise liquidity providers and share a stake in the protocol with our 
 
 ## ACryptoS StableSwap
 
-ACryptoS StableSwap is an automated market maker \(AMM\) enabling fast and efficient stablecoin trading at the best prices with low slippage and fees on Binance Smart Chain.
+ACryptoS StableSwap is an [automated market maker \(AMM\)](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm) enabling fast and efficient stablecoin trading at the best prices with low slippage and fees on Binance Smart Chain.
 
 
 ## ACS and ACSI Native Tokens
 
-ACS is our native token. ACS staked in the ACS Vault accrue protocol [fees and rewards](fees.md#acs-vault) from Vaults and ACS Farms, and participates in governance of the protocol.
+ACS is our native token. 
+ACS staked in the [**ACS Vault**](https://app.acryptos.com/core/) 
 
-ACSI is the native token of StableSwap and probably all future non-vault products. ACSI staked in the ACSI Vault accrue protocol [fees and rewards](fees.md#acs-vault) from StableSwap and ACSI Farms, and participates in governance of the protocol.
+- accrue protocol [fees and rewards](fees.md#acs-vault) from Vaults and ACS Farms
+
+- participates in governance of the protocol.
+
+ACSI is the native token of StableSwap and probably all future non-vault products. 
+ACSI staked in the [**ACSI Vault**](https://app.acryptos.com/core/) 
+
+- accrue protocol [fees and rewards](fees.md#acs-vault) from [StableSwap and ACSI Farms](https://app.acryptos.com/acsi/)
+
+- and participates in governance of the protocol.
 
 ## Tokenomics and Fees
 
