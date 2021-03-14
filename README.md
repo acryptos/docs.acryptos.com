@@ -22,15 +22,13 @@ Our tokenomics and fees are designed to
 
 ACryptoS Vaults grow your assets (tokens) via automated Yield Farming Strategies. 
 
-The Vaults achieved highest possible yields through 
+The Vaults achieve highest possible yields through: 
 
 1.  Unparalleled creative automations
 
 2.  Optimal compounding frequency
 
 3.  Highly efficient gas utilisation
-
-ACryptoS Vaults do the heavy lifting for you.
 
 When you deposit into a Vault, your tokens will grow at the fastest optimized yield. 
 
