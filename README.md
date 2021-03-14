@@ -16,21 +16,29 @@ Our tokenomics and fees are designed to
 ACryptoS Vaults grow your assets (tokens) via automated yield Strategies. 
 
 The Vaults achieved higher yields through 
+
 1.  Unparalleled creative automations
+
 2.  Frequent compounding
+
 3.  Highly efficient gas utilisation
 
-When you deposit into a vault, your tokens will grow over time
+When you deposit into a vault, your tokens will grow over time.
+
+## ACryptoS Farms
+ACS and ACSI native tokens are [distributed via ACryptoS Farms](fees.md#tokenomics).
+This incentivise liquidity providers and share a stake in the protocol with our users.
+
+
+- You will need to stake your tokens in the Vaults to farm the native tokens (ACS/ACSI)
+
+- Farms need to be manually harvested.
+
 
 ## ACryptoS StableSwap
 
 ACryptoS StableSwap is an automated market maker \(AMM\) enabling fast and efficient stablecoin trading at the best prices with low slippage and fees on Binance Smart Chain.
 
-## ACryptoS Farms
-
-ACS and ACSI are [distributed via ACryptoS Farms](fees.md#tokenomics) to incentivise liquidity providers and share a stake in the protocol with our users.
-
-Farms need to be manually harvested.
 
 ## ACS and ACSI Native Tokens
 
