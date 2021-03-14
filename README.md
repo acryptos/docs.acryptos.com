@@ -4,9 +4,9 @@
 
 ACryptoS offers two products on the Binance Smart Chain (BSC).
 
-1.	Yield Farming Optimizer: ACryptoS Vaults 
+1.	ACryptoS Vaults (Yield Farming Optimizer)
 
-2.	Stablecoin DEX: ACryptoS StableSwap
+2.	ACryptoS StableSwap (Stablecoin DEX)
 
 
 At the same time,we understand the importance of tokenomics.
