@@ -19,7 +19,6 @@ Our tokenomics and fees are designed to
 
 ## ACryptoS Vaults (Yield Farming Optimizer)
 
-
 ACryptoS Vaults grow your assets (tokens) via automated Yield Farming Strategies. 
 
 The Vaults achieve highest possible yields through: 
@@ -39,6 +38,7 @@ ACryptoS StableSwap is an [automated market maker \(AMM\)](https://academy.binan
 
 AcryptoS StableSwap platform allows stablecoin trading at the best prices with low slippage and fees on Binance Smart Chain (BSC).
 
+
 ## ACryptoS Farms
 ACS and ACSI native tokens are [distributed via ACryptoS Farms](fees.md#tokenomics).
 This incentivise liquidity providers and share a stake in the protocol with our users.
@@ -47,23 +47,25 @@ This incentivise liquidity providers and share a stake in the protocol with our 
 
 - Farms need to be manually harvested.
 
+
 ## ACS and ACSI Native Tokens
 
 1. ACS is our native token of our yield farming optimizer.
 
-ACS staked in the [**ACS Vault**](https://app.acryptos.com/core/):
+   ACS staked in the [**ACS Vault**](https://app.acryptos.com/core/):
 
-- accrue protocol [fees and rewards](fees.md#acs-vault) from Vaults and ACS Farms
+     - accrue protocol [fees and rewards](fees.md#acs-vault) from Vaults and ACS Farms
 
-- and participate in governance of the protocol.
+     - and participate in governance of the protocol.
+
 
 2. ACSI is the native token of **StableSwap** and probably all future non-vault products. 
 
-ACSI staked in the [**ACSI Vault**](https://app.acryptos.com/acsi/):
+  ACSI staked in the [**ACSI Vault**](https://app.acryptos.com/acsi/):
+  
+    - accrue protocol [fees and rewards](fees.md#acs-vault) from [StableSwap and ACSI Farms](https://app.acryptos.com/acsi/)
 
-- accrue protocol [fees and rewards](fees.md#acs-vault) from [StableSwap and ACSI Farms](https://app.acryptos.com/acsi/)
-
-- and participate in governance of the protocol.
+    - and participate in governance of the protocol.
 
 
 ## Tokenomics and Fees
