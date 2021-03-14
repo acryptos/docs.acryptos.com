@@ -1,25 +1,21 @@
 # Overview
 
-## Introduction
+## Introduction to Advanced Yield Farming Strategies on the Binance Smart Chain with ACryptoS 
 
-ACryptoS offers two products on the Binance Smart Chain (BSC).
+ACryptoS offers three products on the Binance Smart Chain (BSC).
 
 1.	ACryptoS Vaults (Yield Farming Optimizer)
 
-2.	ACryptoS StableSwap (Stablecoin DEX)
+2.	ACryptoS StableSwap (Stablecoin Decentralized Exchange ([DEX](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex)) )
+
+3.	Acryptos Farms (where native tokens of ACryptoS, namely ACS and ACSI are farmed)
 
 
-At the same time,we understand the importance of tokenomics.
-Our tokenomics and fees are designed to 
-
-1.	Encourage longer term staking 
-
-2.	Reward long term holders of our ACS and ACSI native tokens
 
 
 ## ACryptoS Vaults (Yield Farming Optimizer)
 
-ACryptoS Vaults grow your assets (tokens) via automated Yield Farming Strategies. 
+ACryptoS Vaults grow your assets (tokens) via automated Yield Strategies. 
 
 The Vaults achieve highest possible yields through: 
 
@@ -29,29 +25,44 @@ The Vaults achieve highest possible yields through:
 
 3.  Highly efficient gas utilisation
 
-When you deposit into a Vault, your tokens will grow at the fastest optimized yield. 
+When you deposit into a Vault, your tokens will grow over time at the fastest optimized yield automactically.
+There is no need to manually harvest the Vault.
 
 
 ## ACryptoS StableSwap (Stablecoin DEX)
 
-ACryptoS StableSwap is an [automated market maker \(AMM\)](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm) enabling fast and efficient stablecoin trading.
+ACryptoS StableSwap is an [automated market maker \(AMM\)](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm) protocol based
+on Curve’s specialized algorithm tailored for stable coins. ACryptoS is offering the first AMM for stable coins based on this algorithm on the Binance Smart Chain (BSC).
 
-AcryptoS StableSwap platform allows stablecoin trading at the best prices with low slippage and fees on Binance Smart Chain (BSC).
+Trading on the Binance Smart Chain is both faster and significantly cheaper than trading on the Ethereum chain. ERC-20 Tokens can be crossed over from Ethereum to Binance Smart Chain via the Binance Bridge.
+
+Acryptos StableSwap enables efficient stablecoin trading at best prices which is
+
+- ~10x cheaper;
+
+- ~100x less slippage when trading stable coins compared to the various UniSwap type AMMs available.
 
 
 ## ACryptoS Farms
-ACS and ACSI native tokens are [distributed via ACryptoS Farms](fees.md#tokenomics).
-This incentivise liquidity providers and share a stake in the protocol with our users.
+ACryptoS Farms are the places where native tokens of ACryptoS,[ACS and ACSI tokens are distributed](fees.md#tokenomics).
 
-- You will need to stake your tokens in the Vaults to farm the native tokens. (ACS/ACSI)
+Once assets are deposited into a Vault or StableSwap product, users have the option to **stake** the vault or liquidity tokens they receive back respectively into the corresponding farm.
 
-- Farms need to be manually harvested.
+ACryptoS Vault tokens will yield ACS, and ACryptoS StableSwap Liquidity Provider tokens will yield ACSI as reward in their respective farms.
+
+Things to note:
+- You will need to **stake** your tokens in the Vaults to farm the native tokens. (ACS/ACSI)
+
+- Farms **do not** automatically compound and require **manual harvesting** by the user.
+
+- [Auto-compounding Vaults](https://app.acryptos.com/core/) for already harvested or purchased ACS and ACSI tokens are offered on the platform as well.
 
 
 ## ACS and ACSI Native Tokens
 
 1. ACS is our native token of our yield farming optimizer.
-
+   
+   
    ACS staked in the [**ACS Vault**](https://app.acryptos.com/core/):
 
      - accrue protocol [fees and rewards](fees.md#acs-vault) from Vaults and ACS Farms
@@ -59,8 +70,10 @@ This incentivise liquidity providers and share a stake in the protocol with our 
      - and participate in governance of the protocol.
 
 
-2. ACSI is the native token of **StableSwap** and probably all future non-vault products. 
 
+2. ACSI is the native token of **StableSwap** and probably all future non-vault products. 
+   
+   
    ACSI staked in the [**ACSI Vault**](https://app.acryptos.com/acsi/):
   
     - accrue protocol [fees and rewards](fees.md#acs-vault) from [StableSwap and ACSI Farms](https://app.acryptos.com/acsi/)
