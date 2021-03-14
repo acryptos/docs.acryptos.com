@@ -1,6 +1,6 @@
 # Overview
 
-## Introduction to Advanced Yield Farming Strategies on the Binance Smart Chain with ACryptoS 
+## Introduction to Advanced Yield Farming Strategies with ACryptoS 
 
 ACryptoS offers three products on the Binance Smart Chain (BSC).
 
@@ -13,7 +13,7 @@ ACryptoS offers three products on the Binance Smart Chain (BSC).
 
 
 
-## ACryptoS Vaults (Yield Farming Optimizer)
+## 1. ACryptoS Vaults (Yield Farming Optimizer)
 
 ACryptoS Vaults grow your assets (tokens) via automated Yield Strategies. 
 
@@ -29,7 +29,7 @@ When you deposit into a Vault, your tokens will grow over time at the fastest op
 There is no need to manually harvest the Vault.
 
 
-## ACryptoS StableSwap (Stablecoin DEX)
+## 2. ACryptoS StableSwap (Stablecoin DEX)
 
 ACryptoS StableSwap is an [automated market maker \(AMM\)](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm) protocol based
 on Curve’s specialized algorithm tailored for stable coins. ACryptoS is offering the first AMM for stable coins based on this algorithm on the Binance Smart Chain (BSC).
@@ -43,7 +43,7 @@ Acryptos StableSwap enables efficient stablecoin trading at best prices which is
 - ~100x less slippage when trading stable coins compared to the various UniSwap type AMMs available.
 
 
-## ACryptoS Farms
+## 3. ACryptoS Farms
 ACryptoS Farms are the places where native tokens of ACryptoS,[ACS and ACSI tokens are distributed](fees.md#tokenomics).
 
 Once assets are deposited into a Vault or StableSwap product, users have the option to **stake** the vault or liquidity tokens they receive back respectively into the corresponding farm.
