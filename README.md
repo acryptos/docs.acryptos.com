@@ -2,7 +2,7 @@
 
 ## Introduction
 
-ACryptoS offers two solution platforms on Binance Smart Chain.
+ACryptoS offers two products on the Binance Smart Chain (BSC).
 
 1.	Yield Farming Optimizer: ACryptoS Vaults 
 
