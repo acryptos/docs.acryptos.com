@@ -61,7 +61,7 @@ Things to note:
 
 ## ACS and ACSI Native Tokens
 
-1. ACS is our native token of our yield farming optimizer.
+1. ACS is our native token of our yield farming optimizer ACryptoS Vaults.
    
    ACS staked in the [**ACS Vault**](https://app.acryptos.com/core/):
    
