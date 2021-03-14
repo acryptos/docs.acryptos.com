@@ -71,7 +71,7 @@ Things to note:
      - and participate in governance of the protocol.
 
 
-2. ACSI is the native token of **StableSwap** and probably all future non-vault products. 
+3. ACSI is the native token of **StableSwap** and probably all future non-vault products. 
    
    
    ACSI staked in the [**ACSI Vault**](https://app.acryptos.com/core/):
