@@ -59,7 +59,6 @@ This incentivise liquidity providers and share a stake in the protocol with our 
      - and participate in governance of the protocol.
 
 
-
 2. ACSI is the native token of **StableSwap** and probably all future non-vault products. 
 
    ACSI staked in the [**ACSI Vault**](https://app.acryptos.com/acsi/):
