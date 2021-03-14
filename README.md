@@ -56,14 +56,13 @@ Things to note:
 
 - Farms **do not** automatically compound and require **manual harvesting** by the user.
 
-- [Auto-compounding Vaults](https://app.acryptos.com/core/) for already harvested or purchased ACS and ACSI tokens are offered on the platform as well.
-
+- [Auto-compounding ACS/ACSI Vaults](https://app.acryptos.com/core/) for already harvested or purchased ACS and ACSI tokens are offered on the platform as well.
 
 ## ACS and ACSI Native Tokens
 
 1. ACS is our native token of our yield farming optimizer ACryptoS Vaults.
    
-   ACS staked in the [**ACS Vault**](https://app.acryptos.com/core/):
+   ACS tokens deposited in the [**ACS Vault**](https://app.acryptos.com/core/):
    
    - accrue protocol [fees and rewards](fees.md#acs-vault) from Vaults and ACS Farms
    
@@ -72,7 +71,7 @@ Things to note:
 
 2. ACSI is the native token of **StableSwap** and probably all future non-vault products.
    
-   ACSI staked in the [**ACSI Vault**](https://app.acryptos.com/core/):
+   ACSI tokens deposited in the [**ACSI Vault**](https://app.acryptos.com/core/):
    
    - accrue protocol [fees and rewards](fees.md#acs-vault) from [StableSwap and ACSI Farms](https://app.acryptos.com/acsi/)
    - and participate in governance of the protocol.
