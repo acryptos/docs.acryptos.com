@@ -30,8 +30,10 @@ The Vaults achieved highest possible yields through
 
 3.  Highly efficient gas utilisation
 
-When you deposit into a vault, your tokens will grow at the fastest optimized yield. 
-Let ACrpytoS do the heavy lifting of farming the best possible yield for you.
+ACryptoS do the heavy lifting of farming the best possible yield for you.
+
+When you deposit into a Vault, your tokens will grow at the fastest optimized yield. 
+
 
 ## ACryptoS StableSwap (Stablecoin DEX)
 
