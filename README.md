@@ -62,6 +62,7 @@ Things to note:
 ## ACS and ACSI Native Tokens
 
 1. ACS is our native token of our yield farming optimizer.
+   
    ACS staked in the [**ACS Vault**](https://app.acryptos.com/core/):
 
      - accrue protocol [fees and rewards](fees.md#acs-vault) from Vaults and ACS Farms
@@ -70,6 +71,7 @@ Things to note:
 
 
 2. ACSI is the native token of **StableSwap** and probably all future non-vault products.
+   
    ACSI staked in the [ACSI Vault](https://app.acryptos.com/core/):
    
    - accrue protocol [fees and rewards](fees.md#acs-vault) from [StableSwap and ACSI Farms](https://app.acryptos.com/acsi/)
