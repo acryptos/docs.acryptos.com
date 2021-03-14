@@ -7,15 +7,20 @@ ACryptoS offers 2 products on Binance Smart Chain.
 2.	Stablecoin DEX ACryptoS StableSwap. 
 
 Our tokenomics and fees are designed to 
-1.	Encourage longer term staking, 
-2.	Reward long term holders of our ACS and ACSI native tokens.
+1.	Encourage longer term staking
+2.	Reward long term holders of our ACS and ACSI native tokens
 
 
 ## ACryptoS Vaults
 
-ACryptoS Vaults grow your assets via automated yield Strategies. This saves users time and enables higher yields through more frequent compounding, more efficient gas utilisation, and other creative automations.
+ACryptoS Vaults grow your assets (tokens) via automated yield Strategies. 
 
-When you deposit into a vault, your tokens will grow over time. You do not need to manually harvest the vaults.
+The Vaults achieved higher yields through 
+1.  Unparalleled creative automations
+2.  Frequent compounding
+3.  Highly efficient gas utilisation
+
+When you deposit into a vault, your tokens will grow over time
 
 ## ACryptoS StableSwap
 
