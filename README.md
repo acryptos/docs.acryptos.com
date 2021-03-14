@@ -45,7 +45,7 @@ Acryptos StableSwap enables efficient stablecoin trading at best prices which is
 
 
 ## 3. ACryptoS Farms
-ACryptoS Farms are the places where native tokens of ACryptoS,[ACS and ACSI tokens are distributed](fees.md#tokenomics).
+ACryptoS Farms are the places where native tokens of ACryptoS, [ACS and ACSI tokens are distributed](fees.md#tokenomics).
 
 Once assets are deposited into a Vault or StableSwap product, users have the option to **stake** the vault or liquidity tokens they receive back respectively into the corresponding farm.
 
