@@ -39,9 +39,9 @@ Trading on the Binance Smart Chain is both faster and significantly cheaper than
 
 Acryptos StableSwap enables efficient stablecoin trading at best prices which is
 
-- ~10x cheaper;
+- **~10x cheaper**;
 
-- ~100x less slippage when trading stable coins compared to the various UniSwap type AMMs available.
+- **~100x less slippage** when trading stable coins compared to the various UniSwap type AMMs available.
 
 
 ## 3. ACryptoS Farms
