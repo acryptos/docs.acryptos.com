@@ -30,7 +30,7 @@ The Vaults achieved highest possible yields through
 
 3.  Highly efficient gas utilisation
 
-ACryptoS do the heavy lifting of farming the best possible yield for you.
+ACryptoS Vaults do the heavy lifting for you.
 
 When you deposit into a Vault, your tokens will grow at the fastest optimized yield. 
 
