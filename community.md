@@ -2,12 +2,12 @@
 
 ## Guides, tutorials, intros
 
-* [How to use ACryptoS Vaults and Farms \(Video Tutorial\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [CryptoBKT (Hsing)](https://t.me/cryptoBKT)
-* [How to use ACryptoS StableSwap (Video Tutorial\)](https://www.youtube.com/watch?v=xn-apvGCsFY) - contributed by [CryptoBKT (Hsing)](https://t.me/cryptoBKT)
+* [How to use ACryptoS Vaults and Farms \(Video Tutorial\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
+* [How to use ACryptoS StableSwap \(Video Tutorial\)](https://www.youtube.com/watch?v=xn-apvGCsFY) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
 * [ACryptoS Detailed Introduction \(PDF\)](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/ACS-introduction.pdf?raw=true) - contributed by [Markus S](https://t.me/InvinoVMS)
 * [A detailed guide to ACryptoS](https://frontierprotocols.com/a-guide-to-acryptos/) - contributed by [Sherwood Pham](https://t.me/sherwoodpham)
 * [Step by step tutorial for auto-compounding and farming at ACryptoS](https://medbid.medium.com/step-by-step-tutorial-for-staking-and-farming-at-acryptos-com-42093a0fcb1d) - contributed by [Blight Night](https://t.me/BlightNight)
-* [How to create a BEP20 wallet on Binance Smart Chain (Video Tutorial\)](https://www.youtube.com/watch?v=3UNk9eaNsQw) - contributed by [CryptoBKT (Hsing)](https://t.me/cryptoBKT)
+* [How to create a BEP20 wallet on Binance Smart Chain \(Video Tutorial\)](https://www.youtube.com/watch?v=3UNk9eaNsQw) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
 
 ## Tables, diagrams, graphs
 
@@ -22,7 +22,6 @@
 * [Statistics for ACS and ACSI: Vault&Farm fees](https://unrekt.net/acryptos/vaultfees.html)  - contributed by [HM - ](https://t.me/Toortheroot) [unrekt.net](https://unrekt.net/)
 
 ## Calculators
-
 
 * [ACS v2 farms boost calculator](https://docs.google.com/spreadsheets/d/1fA8jDIVPQpxpcepatYDpCVpBU1ggWB1oo1JJyorP5BE/edit#gid=0) - contributed by [Abdul R](https://t.me/abdul0793)
 * [Yield calculator with principal](https://docs.google.com/spreadsheets/d/1DRWu2y61gQw7fGd0EZYN_ajlWYCk8YlFD8ImbX4GZjM/edit#gid=0) - contributed by [Jasper](https://t.me/Jasper_1992)
