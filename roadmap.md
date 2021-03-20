@@ -34,13 +34,14 @@ _updated 2020-03-05_
 * Dfox.cc portfolio tracker listing ✅
 * Yieldwatch.net portfolio tracker listing ✅
 * Adjusted Stableswap fees to further lead the way on BSC ✅
-* Continuing addition of new high quality Vaults PCS/Venus 🌗
+* Continuous addition of new high quality Vaults&Farms PCS/Venus 🌗
 * ACryptoS UI v1.5 🌗
-* Migration of all Vaults to v2 Farms 🌗
+* Migration of all ACS v1 Farms to v2 Farms ✅
+* Start adding SwipeSwap Vaults&Farms ✅
 
 ### **----- Q2 ------**
 
-* Continuing addition of new high quality Vaults 🌗
+* Continuous addition of new high quality Vaults 🌗
 * ACryptoS UI v2 🌗
 * Stableswap UI v2 🌗
 * 2nd ACS emission reduction
@@ -48,6 +49,8 @@ _updated 2020-03-05_
 * Insurance integration
 * Additional audits 🌗
 * Migration of all ACSI farms to v2
+* Use vaulted ACSI as yield booster for ACSI farms
+
 
 ### **----- Q3 ------**
 
