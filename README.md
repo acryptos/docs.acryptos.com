@@ -18,7 +18,7 @@ The Vaults achieve highest possible yields through:
 2. Optimal compounding frequency
 3. Highly efficient gas utilisation
 
-When you deposit into a Vault, your tokens will grow over time at the fastest optimized yield automactically.
+When you deposit into a Vault, your tokens will grow over time at the fastest optimized yield automatically.
 
 There is no need to manually harvest the Vault.
 
