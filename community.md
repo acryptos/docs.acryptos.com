@@ -47,6 +47,8 @@
 * [Italian](https://t.me/acryptos_italy)
 * [Portuguese](https://t.me/ACryptoSPortuguese)
 * [German](https://t.me/acryptosgerman)
+* [Persian](https://t.me/AcryptosPersian)
+* [Polish](https://t.me/AcryptosPolish)
 
 ### Note: These materials are created by the community. If something is unclear, join our [official tg channel](https://t.me/acryptos9) and ask freely.
 
