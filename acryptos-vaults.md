@@ -64,7 +64,7 @@ These Vaults stake SwipeSwap LP tokens, farms SXP and swaps it for more of the s
 
 Anyone can help [harvest an ACryptoS Vault](https://app.acryptos.com/worker/) and earn the [harvester's reward](fees.md#all-vaults) as a gas subsidy. This decentralises the automation of our vaults. 
 
-You do not need to do this as a normal user, your holdings in the vault will compound automatically.
+You do not need to do this as a normal user, your holdings in the Vault will compound automatically.
 
 
 
