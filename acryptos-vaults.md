@@ -23,12 +23,13 @@ Our Vaults may offer up to three different types of returns depending on the Vau
 **Swap APY** represents the rate at which the monetary value of the deposited Liquidity Provider (LP) tokens rises at. 
 This yield is generated through the swap fees gained as a Liquidity Provider. 
 
-Find out more about [AMM and Liquidity Provider](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm).
 
 **Vault APY** refers to the yield generated from Vault Strategies.
 
 **ACS APR** is the rate at which ACS rewards are given to users that stake their tokens.
 
+Resources:
+Find out more about [AMM and Liquidity Provider](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm).
 Find out more about [APY vs APR](https://academy.binance.com/en/ask/questions/apy-and-apr)
 
 ## ACS and ACSI Vaults
