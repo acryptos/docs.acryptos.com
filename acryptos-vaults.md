@@ -10,7 +10,7 @@ When you deposit into a Vault, your tokens will grow over time. You do not need 
 
 Most Vaults have a Farm where you can **Stake** your deposit to earn ACS or ACSI, a stake in the protocol.
 
-* *The only exceptions being the ACS/ ACSI Vaults.
+*The only exceptions being the ACS/ ACSI Vaults.
 
 Our Vaults may offer up to three different types of returns depending on the Vault and what the user chooses to do which we have labelled as: 
 
@@ -30,12 +30,11 @@ This yield is generated through the swap fees gained as a liquidity provider.
 Resources:
 
 Find out more about [AMM and Liquidity Provider](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm).
-
 Find out more about [APY vs APR](https://academy.binance.com/en/ask/questions/apy-and-apr)
 
 ## ACS and ACSI Vaults
 
-These are the vaults for our native/governance tokens, which receive a [good share of the ongoing token emissions, and most of the protocol fees are used to buy ACS/ACSI to distribute ](fees.md)in these vaults.
+These are the vaults for our native/governance tokens, which receive a [good share of the ongoing token emissions, and most of the protocol fees are used to buy ACS/ACSI to distribute ](fees.md)in these Vaults.
 
 ## Venus Vaults 
 
@@ -49,7 +48,7 @@ The balance will increase after each harvest.
 
 ## CAKE Vault
 
-This vault stakes and farms CAKE on PancakeSwap.
+This Vault stakes and farms CAKE on PancakeSwap.
 
 ## PancakeSwap Liquidity Provider (LP) Vaults
 
@@ -57,7 +56,7 @@ These Vaults stake PancakeSwap LP tokens, farms CAKE and swaps it for more of th
 
 ## SwipeSwap Liquidity Provider (LP) Vaults
 
-These vaults stake SwipeSwap LP tokens, farms SXP and swaps it for more of the staked LP tokens.
+These Vaults stake SwipeSwap LP tokens, farms SXP and swaps it for more of the staked LP tokens.
 
 
 ## Workers
