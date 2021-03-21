@@ -4,13 +4,13 @@ description: ACryptoS Vaults grow your assets via automated yield Strategies.
 
 # ACryptoS Vaults
 
-ACryptoS Vaults save users time and enables higher yields through through creative automations, optimal compounding frequency, and highly efficient gas utilisation.
+ACryptoS Vaults save users time and enables higher yields through creative automations, optimal compounding frequency, and highly efficient gas utilisation.
 
 When you deposit into a Vault, your tokens will grow over time. You do not need to manually harvest the vaults.
 
 Most Vaults have a Farm where you can **Stake** your deposit to earn ACS or ACSI, a stake in the protocol.
 
-*The only exceptions being the ACS/ACSI Vaults where there is no need to Stake after depositing.
+*The only exceptions being the [ACS Vault and ACSI Vault](#ACS-and-ACSI-Vault), where there is no need to Stake after depositing.
 
 Our Vaults may offer up to three different types of returns depending on the Vault and what the user chooses to do which we have labelled as: 
 
@@ -33,19 +33,20 @@ Resources:
 Find out more about [AMM and Liquidity Provider](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm).
 Find out more about [APY vs APR](https://academy.binance.com/en/ask/questions/apy-and-apr)
 
-## ACS and ACSI Vaults
+## ACS and ACSI Vault
 
-These are the vaults for our native/governance tokens, which receive a [good share of the ongoing token emissions, and most of the protocol fees are used to buy ACS/ACSI to distribute ](fees.md)in these Vaults.
+ACS Vault and ACSI Vault are vaults for our native/governance tokens, which receive a [good share of the ongoing token emissions, and most of the protocol fees are used to buy ACS/ACSI to distribute ](fees.md)in these Vaults.
 
 ## Venus Vaults 
 
 These Vaults stake recursively on Venus at ~3.67X leverage, farms XVS and swaps it for more of the staked token.
 
-Users may notice the value of their holdings in the Vault **slowly decreasing on each block**.
-This is normal as the balance of the Vault is calculated as total supplied less total borrowed, and the borrow APY is higher. 
-The XVS earned is not included. 
+At start,users may notice the value of their holdings in the Vault **slowly decreasing on each block**.
 
-The balance will increase after each harvest.
+This is normal because we are using leverage on Venus, and the borrow amount increases faster than the supply amount.
+Also the value of the farmed XVS is not included at start.
+
+The balance will increase once XVS is included (after each harvest of the Vault).
 
 ## CAKE Vault
 
