@@ -37,11 +37,11 @@ _updated 2020-03-05_
 * Continuous addition of new high quality Vaults&Farms PCS/Venus 🌗
 * ACryptoS UI v1.5 🌗
 * Migration of all ACS v1 Farms to v2 Farms ✅
-* Start adding SwipeSwap Vaults&Farms ✅
+* Add SwipeSwap Vaults&Farms ✅
 
 ### **----- Q2 ------**
 
-* Continuous addition of new high quality Vaults 🌗
+* Continuous addition of new high quality Vaults&Farms 🌗
 * ACryptoS UI v2 🌗
 * Stableswap UI v2 🌗
 * 2nd ACS emission reduction
