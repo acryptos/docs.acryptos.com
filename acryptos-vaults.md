@@ -10,7 +10,7 @@ When you deposit into a Vault, your tokens will grow over time. You do not need 
 
 Most Vaults have a Farm where you can **Stake** your deposit to earn ACS or ACSI, a stake in the protocol.
 
-*The only exceptions being the ACS/ ACSI Vaults.
+*The only exceptions being the ACS/ACSI Vaults where there is no need to Stake after depositing.
 
 Our Vaults may offer up to three different types of returns depending on the Vault and what the user chooses to do which we have labelled as: 
 
