@@ -31,6 +31,7 @@ This yield is generated through the swap fees gained as a Liquidity Provider.
 Resources:
 
 Find out more about [AMM and Liquidity Provider](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm).
+
 Find out more about [APY vs APR](https://academy.binance.com/en/ask/questions/apy-and-apr)
 
 ## ACS and ACSI Vault
