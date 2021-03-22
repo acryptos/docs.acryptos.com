@@ -28,7 +28,7 @@ This yield is generated through the swap fees gained as a Liquidity Provider.
 
 **ACS APR** is the rate at which ACS rewards are given to users that stake their tokens.
 
-![Image Credit:[Jack](https://t.me/manxsir)](https://user-images.githubusercontent.com/80501310/112007522-ae752980-8b5f-11eb-981b-cf9d15ff9632.png)
+![Image Credit:Jack(https://t.me/manxsir)](https://user-images.githubusercontent.com/80501310/112007522-ae752980-8b5f-11eb-981b-cf9d15ff9632.png)
 
 
 (Image Credit: [Jack](https://t.me/manxsir))
