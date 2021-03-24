@@ -51,7 +51,6 @@ _updated 2020-03-05_
 * Migration of all ACSI farms to v2
 * Use vaulted ACSI as yield booster for ACSI farms
 
-
 ### **----- Q3 ------**
 
 * 3rd ACS emission reduction
