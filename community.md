@@ -23,7 +23,7 @@
 
 ## Calculators
 
-* [ACS v2 farms boost calculator](https://docs.google.com/spreadsheets/d/1fA8jDIVPQpxpcepatYDpCVpBU1ggWB1oo1JJyorP5BE/edit#gid=0) - contributed by [Abdul R](https://t.me/abdul0793)
+* [ACS v2 farms boost calculator](https://docs.google.com/spreadsheets/d/145M14zrimZTgIeK7t-Rkj-r_5HnZMBezzXrDNN6e36g/edit#gid=2008319837) - contributed by [Abdul R](https://t.me/abdul0793), revised by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
 * [Yield calculator with principal](https://docs.google.com/spreadsheets/d/1DRWu2y61gQw7fGd0EZYN_ajlWYCk8YlFD8ImbX4GZjM/edit#gid=0) - contributed by [Jasper](https://t.me/Jasper_1992)
 * [Token distribution calculator](https://drive.google.com/file/d/14Y47WtdXF_5XUhnt_l7I9YuFkqXB0C39/view) - contributed by [Wei](https://t.me/bscWeix)
 * [Interest calculator \(Daily, Weekly, Monthly & Yearly\)](https://docs.google.com/spreadsheets/d/1wvidBMMsYqAVc6gm07csr4fzoHVhNAmd-a2kxVoqWTs/edit#gid=317328887) - contributed by [ที่รัก - Thirak](https://t.me/Thirak0608)
