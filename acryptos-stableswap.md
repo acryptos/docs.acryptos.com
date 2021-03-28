@@ -9,9 +9,15 @@ description: >-
 
 ## Cheaper Better Faster
 
-Exchange fees are typically ~10X cheaper and slippage ~500X smaller compared to the various UniSwap type AMMs on Binance Smart Chain. This is due to the usage of Curve's [specialized algorithm tailored for trading of stablecoins and other pegged assets](https://www.curve.fi/stableswap-paper.pdf).
+ACryptoS StableSwap offers
+ - ~10X lower exchange fee
+ - ~500X smaller slippage
 
-Trading on Binance Smart Chain also means gas costs up to ~100X cheaper than on Ethereum, and a ~5X faster block interval of 3 seconds.
+as compared to various UniSwap type AMMs on Binance Smart Chain. 
+
+This is due to the usage of Curve's [specialized algorithm tailored for trading of stablecoins and other pegged assets](https://www.curve.fi/stableswap-paper.pdf).
+
+Trading on Binance Smart Chain also means gas costs up to **~100X cheaper** than on Ethereum, and a **~5X faster** block interval of 3 seconds.
 
 ## Yield Farming with ACSI <a id="b267"></a>
 
