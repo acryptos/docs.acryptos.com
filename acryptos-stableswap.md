@@ -19,6 +19,12 @@ This is due to the usage of Curve's [specialized algorithm tailored for trading 
 
 Trading on Binance Smart Chain also means gas costs up to **~100X cheaper** than on Ethereum, and a **~5X faster** block interval of 3 seconds.
 
+Resources:
+
+Find out more about [Stablecoins](https://academy.binance.com/en/articles/what-are-stablecoins).
+
+Find out more about [AMM and Liquidity Provider](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm).
+
 ## Yield Farming with ACSI <a id="b267"></a>
 
 We share a stake in the protocol with ACryptoS StableSwap liquidity providers, distributing ACSI tokens via our farms. 
