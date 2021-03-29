@@ -8,6 +8,10 @@ ACryptoS offers three products on the Binance Smart Chain \(BSC\).
 2. ACryptoS StableSwap \(Stablecoin Decentralized Exchange \([DEX](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex)\) \)
 3. Acryptos Farms \(where native tokens of ACryptoS, namely ACS and ACSI are farmed\)
 
+Resources:
+
+[What sets AcryptoS apart?](https://medium.com/acryptos/what-sets-acryptos-apart-d6345e2f5d7f) by x.ACryptoS
+
 ## 1. ACryptoS Vaults \(Yield Farming Optimizer\)
 
 ACryptoS Vaults grow your assets \(tokens\) via automated Yield Strategies.
