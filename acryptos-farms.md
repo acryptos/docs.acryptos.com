@@ -39,7 +39,8 @@ If he deposits 100 LTC, it will be boosted to 100 + 22.5 = 122.5 LTC.
 ### **User Interface**
 
 **Current Boost**: The current boost you are getting in the farm from your ACS Vault holdings.  
-**Future Boost**: The boost you will get after you stake/un-stake/harvest. Pressing 'Force' will update this boost manually.  
+**Future Boost**: The boost you will get after you stake/un-stake/harvest. 
+Pressing **'Force'** will update this boost manually.  
 **For 2.5X**: The amount of vaulted ACS you need to get the maximum boost on your current Farm stake.  
 **2.5X On First**: The amount you can stake in the Farm that will get the maximum boost based on your current vaulted ACS.
 
