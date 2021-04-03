@@ -10,10 +10,11 @@ description: >-
 ## Cheaper Better Faster
 
 ACryptoS StableSwap offers:
- - ~10X lower exchange fee
- - ~500X smaller slippage
 
-as compared to various UniSwap type AMMs on Binance Smart Chain. 
+* ~10X lower exchange fee
+* ~500X smaller slippage
+
+as compared to various UniSwap type AMMs on Binance Smart Chain.
 
 This is due to the usage of Curve's [specialized algorithm tailored for trading of stablecoins and other pegged assets](https://www.curve.fi/stableswap-paper.pdf).
 
@@ -25,11 +26,11 @@ Find out more about [Stablecoins](https://academy.binance.com/en/articles/what-a
 
 Find out more about [AMM and Liquidity Provider](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm).
 
-Video Guide on using [ACryptoS StableSwap](https://docs.acryptos.com/community). Credit: [CryptoBKT (Hsing)](https://t.me/cryptoBKT)
+Video Guide on using [ACryptoS StableSwap](https://docs.acryptos.com/community). Credit: [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
 
 ## Yield Farming with ACSI <a id="b267"></a>
 
-We share a stake in the protocol with ACryptoS StableSwap liquidity providers, distributing ACSI tokens via our farms. 
+We share a stake in the protocol with ACryptoS StableSwap liquidity providers, distributing ACSI tokens via our farms.
 
 50% of exchange fees are used to buy back and distribute ACSI to ACSI stakers via the ACSI Vault, while the remainder 50% are earned by liquidity providers.
 
@@ -37,11 +38,7 @@ Do remember to stake in our Farms after depositing into the pools.
 
 ## ACS4USD Corepool
 
-Our core pool comprises the four staple stablecoins: 
-1. BUSD
-2. USDT
-3. DAI
-4. USDC
+Our core pool comprises the four staple stablecoins: 1. BUSD 2. USDT 3. DAI 4. USDC
 
 ## ACS4 + VAI / UST / QUSD Metapools
 
@@ -57,12 +54,11 @@ Metapools allow for one token to seemingly trade with another underlying base po
 
 ## Price Impact for Liquidity Providers
 
-When you deposit into a StableSwap pool or metapool, you receive an LP token representing a share of that pool. 
-This represents all tokens in the pool at the proportions they are currently in. 
+When you deposit into a StableSwap pool or metapool, you receive an LP token representing a share of that pool. This represents all tokens in the pool at the proportions they are currently in.
 
 These proportions change whenever there is a swap, but in the long run, as long as the tokens maintain their peg, the proportions should revert equally.
 
-If you deposit or withdraw in proportions which are different from the pool's current proportions, what happens behind the scenes is that the tokens are exchanged so it matches the proportions of the pool. 
+If you deposit or withdraw in proportions which are different from the pool's current proportions, what happens behind the scenes is that the tokens are exchanged so it matches the proportions of the pool.
 
 This effectively means if you deposit a token that the pool has a lower proportion of, you will get a "positive" price impact, and vice versa.
 
