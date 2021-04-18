@@ -12,6 +12,8 @@ Resources:
 
 [What sets AcryptoS apart?](https://medium.com/acryptos/what-sets-acryptos-apart-d6345e2f5d7f) by x.ACryptoS
 
+[Link to FAQ](https://docs.acryptos.com/faq)
+
 ## 1. ACryptoS Vaults \(Yield Farming Optimizer\)
 
 ACryptoS Vaults grow your assets \(tokens\) via automated Yield Strategies.
