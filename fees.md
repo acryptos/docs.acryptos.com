@@ -16,6 +16,8 @@ Resources:
 
 [Frequently Asked Questions](https://docs.acryptos.com/faq)
 
+[Table with Vault and Farm fees](https://docs.google.com/document/d/1-KU1zzWnEG0sh8hLCD0YUtPv7D4_B2wu80UtRQ3sQUA/edit) - contributed by [Blight Night](https://t.me/BlightNight)
+
 ### ACS Vault
 
 Withdrawal fee: 10% \(distributed to ACS holders - remains in vault\)
