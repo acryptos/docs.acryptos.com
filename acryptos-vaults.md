@@ -30,6 +30,8 @@ Image Credit: [Jack](https://t.me/manxsir)
 
 Resources:
 
+[How to use ACryptoS Vaults and Farms \(Video Tutorial\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
+
 Find out more about [AMM and Liquidity Provider](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm).
 
 Find out more about [APY vs APR](https://academy.binance.com/en/ask/questions/apy-and-apr)
