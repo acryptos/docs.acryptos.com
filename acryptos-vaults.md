@@ -36,6 +36,8 @@ Find out more about [AMM and Liquidity Provider](https://academy.binance.com/en/
 
 Find out more about [APY vs APR](https://academy.binance.com/en/ask/questions/apy-and-apr)
 
+[Frequently Asked Questions](https://docs.acryptos.com/faq)
+
 ## ACS and ACSI Vault
 
 ACS Vault and ACSI Vault are vaults for our native/governance tokens, which receive a [good share of the ongoing token emissions, and most of the protocol fees are used to buy ACS/ACSI to distribute ](fees.md)in these Vaults.
