@@ -6,6 +6,10 @@ ACS held in the ACS Vault and ACSI held in the ACSI Vault are our governance tok
 
 A minimum of 88 ACS is required to create new community proposals.
 
+Resources:
+
+[Frequently Asked Questions](https://docs.acryptos.com/faq)
+
 ## Core DAO
 
 The Core DAO was [formed](https://vote.acryptos.com/#/acryptos/proposal/QmcXRoMHmgxQukYHSzgMsDcYHprsHW5rJZsnWPCypLbv3U) to [represent](https://vote.acryptos.com/#/acryptos/proposal/QmV4WD7eDSFhifv39vUN1Aqh42w99xzayN9NyyzMbq5cJB) the will of the DAO \(community of acsACS holders\), acting in their best interests.
