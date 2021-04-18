@@ -28,6 +28,7 @@
 * [Token distribution calculator](https://drive.google.com/file/d/14Y47WtdXF_5XUhnt_l7I9YuFkqXB0C39/view) - contributed by [Wei](https://t.me/bscWeix)
 * [Interest calculator \(Daily, Weekly, Monthly & Yearly\)](https://docs.google.com/spreadsheets/d/1wvidBMMsYqAVc6gm07csr4fzoHVhNAmd-a2kxVoqWTs/edit#gid=317328887) - contributed by [ที่รัก - Thirak](https://t.me/Thirak0608)
 * [ROI Calculator](https://docs.google.com/spreadsheets/d/1HMuCbdRzpViqrBeNIEQWjsfNnSreRZL_62pH3KF5MHs/edit#gid=0) - contributed by [ที่รัก - Thirak](https://t.me/Thirak0608)
+* [Harvest Calculator](https://docs.google.com/spreadsheets/d/1RqY8C2MOtzzxQ7Gf58GAwjPMiURNjl9diyJUTIHXKj8/edit?usp=sharing) - contributed by ChainCrawlerX
 
 ## Medium articles
 
