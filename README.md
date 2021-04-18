@@ -14,7 +14,7 @@ Resources:
 
 [Frequently Asked Questions](https://docs.acryptos.com/faq)
 
-[Guide and Tutorials on ACryptoS](https://github.com/acryptos/docs.acryptos.com/blob/master/community.md#guides-tutorials-intros)
+[Guide and Tutorials to get started on ACryptoS](https://github.com/acryptos/docs.acryptos.com/blob/master/community.md#guides-tutorials-intros)
 
 ## 1. ACryptoS Vaults \(Yield Farming Optimizer\)
 
