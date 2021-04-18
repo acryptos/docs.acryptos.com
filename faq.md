@@ -62,9 +62,13 @@
 
 ### 3. Is the project audited?
 
-* Yes. The project has been audited.
-  * By DefiYield on 28 Jan 2021. Check the [full audit report here](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210128-defiyield.info.pdf).
-  * By Hacken on 18 Feb 2021. Check the [full audit report here](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210218-Hacken-ACryptoSFarmV2.pdf).
+Yes. The project has been audited. [Refer to here for the list of Audits](https://github.com/acryptos/docs.acryptos.com/blob/master/security-and-risks.md#audits)
+
+* [**Hacken - Complete**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210331-Hacken-Complete.pdf) **\(31 Mar 2021\)**  
+* [**Certik - CAKE Vault Strategy**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210324-Certik-StrategyACryptoSCakeTokenTokenV2.pdf) **-** [**1**](https://www.certik.org/projects/acryptos) **\(24 March 2021\)**  
+* [**Hacken - ACryptoS Farm V2**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210218-Hacken-ACryptoSFarmV2.pdf) **-** [**1**](https://hacken.io/wp-content/uploads/2021/02/20210218-Hacken-ACryptoSFarmV2.pdf) **\(18 Feb 2021\)**  
+* [**DefiYield.info**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210128-defiyield.info.pdf) **-** [**1**](https://defiyield.info/assets/pdf/ACryptoS.pdf) **\(28 Jan 2021\)**  
+
 
 ## Fees
 
