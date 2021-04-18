@@ -82,3 +82,13 @@ This means if you enter and exit quickly as a liquidity provider, you will likel
 
 Please carefully review our documentation on [fees](fees.md) before proceeding.
 
+## Contact Us
+
+Telegram:   https://t.me/acryptos9
+
+Twitter:    https://twitter.com/acryptosx
+
+Medium:     https://acryptos.medium.com/
+
+App:        https://acryptos.com
+
