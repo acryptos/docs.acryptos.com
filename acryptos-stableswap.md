@@ -26,7 +26,7 @@ Find out more about [Stablecoins](https://academy.binance.com/en/articles/what-a
 
 Find out more about [AMM and Liquidity Provider](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm).
 
-Video Guide on using [ACryptoS StableSwap](https://docs.acryptos.com/community). Credit: [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
+[How to use ACryptoS StableSwap \(Video Tutorial\)](https://www.youtube.com/watch?v=xn-apvGCsFY) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
 
 ## Yield Farming with ACSI <a id="b267"></a>
 
