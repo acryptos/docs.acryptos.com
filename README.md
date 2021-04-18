@@ -30,13 +30,13 @@ There is no need to manually harvest the Vault.
 
 ACryptoS Farms are the places where native tokens of ACryptoS, [ACS and ACSI tokens are distributed](fees.md#tokenomics).
 
-Once assets are deposited into a Vault or StableSwap product, users have the option to **stake** the vault or liquidity tokens they receive back respectively into the corresponding farm.
+Once assets are deposited into a Vault or StableSwap product, users have the **option to Stake** the vault or liquidity tokens they receive back respectively into the corresponding farm.
 
 ACryptoS Vault tokens will yield ACS, and ACryptoS StableSwap Liquidity Provider tokens will yield ACSI as reward in their respective farms.
 
 Things to note:
 
-* You will need to **stake** your tokens in the Vaults to farm the native tokens. \(ACS/ACSI\)
+* You will need to **stake** your tokens in the Vaults to farm the native tokens. \(ACS/ACSI\). 
 * Farms **do not** automatically compound and require **manual harvesting** by the user.
 * [Auto-compounding ACS/ACSI Vaults](https://app.acryptos.com/core/) for already harvested or purchased ACS and ACSI tokens are offered on the platform as well.
 
