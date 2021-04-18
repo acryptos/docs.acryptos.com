@@ -4,6 +4,10 @@
 
 This project is in beta. Use at your own risk.
 
+Resources:
+
+[Frequently Asked Questions](https://docs.acryptos.com/faq)
+
 ### ACryptoS Dev Team Access
 
 * **ACryptoS Dev Team can control all assets in Vaults behind a 48 hour timelock.**
