@@ -120,7 +120,7 @@
 * When you Deposit tokens to a Vault, the deposited tokens start to auto-compound right away. 
 * When you Stake those same tokens, you start earning ACS.
 
-### 2. Does ACS auto-compounds?
+### 2. Does ACS auto-compound?
 
 * Yes, ACS auto-compounds in the ACS Vault.
 
