@@ -12,6 +12,10 @@ Total ~3669 ACS/day
 
 All parameters may be adjusted in future via governance.
 
+Resources:
+
+[Frequently Asked Questions](https://docs.acryptos.com/faq)
+
 ### ACS Vault
 
 Withdrawal fee: 10% \(distributed to ACS holders - remains in vault\)
