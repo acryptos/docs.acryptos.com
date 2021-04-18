@@ -18,13 +18,14 @@ ACryptoS Vaults grow your assets \(tokens\) via automated Yield Strategies.
 
 The Vaults achieve highest possible yields through:
 
-1. Unparalleled creative automations
+1. Unparalleled creative automations strategies
 2. Optimal compounding frequency
 3. Highly efficient gas utilisation
 
-When you deposit into a Vault, your tokens will grow over time at the fastest optimized yield automatically.
+When you deposit into a Vault, your tokens will grow over time at the fastest optimized yield through automations.
 
-There is no need to manually harvest the Vault.
+This means you will be able to enjoy the benefits of autocompounding without additional steps.
+There is no need to manually harvest the Vault. 
 
 ## ACryptoS Farms
 
@@ -32,12 +33,12 @@ ACryptoS Farms are the places where native tokens of ACryptoS, [ACS and ACSI tok
 
 Once assets are deposited into a Vault or StableSwap product, users have the **option to Stake** the vault or liquidity tokens they receive back respectively into the corresponding farm.
 
-ACryptoS Vault tokens will yield ACS, and ACryptoS StableSwap Liquidity Provider tokens will yield ACSI as reward in their respective farms.
+ACryptoS Vault tokens will yield ACS, and ACryptoS StableSwap Liquidity Provider tokens will yield ACSI as reward in their respective farms.This further enhances the yield on your deposits.
 
-Things to note:
+Things to note for Farms:
 
-* You will need to **stake** your tokens in the Vaults to farm the native tokens. \(ACS/ACSI\). 
-* Farms **do not** automatically compound and require **manual harvesting** by the user.
+* You will need to **Stake** your Vault or Liquidity tokens in the Vaults to farm the native tokens. \(ACS/ACSI\). 
+* **Farms do not** automatically compound and require **manual harvesting** \(through the Harvest Button\) by the user.
 * [Auto-compounding ACS/ACSI Vaults](https://app.acryptos.com/core/) for already harvested or purchased ACS and ACSI tokens are offered on the platform as well.
 
 
