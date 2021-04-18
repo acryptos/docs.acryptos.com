@@ -47,5 +47,5 @@ Resources:
 
 [ACS v2 farms boost calculator](https://docs.acryptos.com/community) - Credits: [Abdul R](https://t.me/abdul0793) and [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
 
-[Link to FAQ](https://docs.acryptos.com/faq)
+[Frequently Asked Questions](https://docs.acryptos.com/faq)
 
