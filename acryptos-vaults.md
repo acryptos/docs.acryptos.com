@@ -48,6 +48,10 @@ This is normal because we are using leverage on Venus, and the borrow amount inc
 
 The balance will increase once XVS is included \(after each harvest of the Vault\).
 
+Resources:
+
+[Advanced Yield Farming Strategies on Venus protocol](https://medium.com/acryptos/advanced-yield-farming-strategies-on-venus-protocol-46a4044573fc) - by x.ACryptoS
+
 ## CAKE Vault
 
 This Vault stakes and farms CAKE on PancakeSwap.
