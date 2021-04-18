@@ -43,5 +43,7 @@ If he deposits 100 LTC, it will be boosted to 100 + 22.5 = 122.5 LTC.
 
 Resources:
 
+[How to use ACryptoS Vaults and Farms \(Video Tutorial\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
+
 [ACS v2 farms boost calculator](https://docs.acryptos.com/community) - Credits: [Abdul R](https://t.me/abdul0793) and [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
 
