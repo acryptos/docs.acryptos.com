@@ -9,9 +9,38 @@
 
   The core product of ACSI is the StableSwap, which is an automated market maker.
 
-### 2. Where is ACS listed and traded?
+### 2. Where is ACryptoS listed, where are ACS and ACSI traded?
 
-* ACS is currently listed on [Coinmarketcap](https://coinmarketcap.com/currencies/acryptos/), [Coingecko](https://www.coingecko.com/en/coins/acryptos), [Defistation](https://www.defistation.io/acryptos), [DappRadar](https://dappradar.com/binance-smart-chain/defi/acryptos), [MATH dApp Store](https://mathdapp.store), [Coinbase Prices](https://www.coinbase.com/price/acryptos) and traded on the [Pancakeswap Exchange](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29) and on [Hotbit](https://www.hotbit.io/exchange?symbol=ACS_USDT) \(low volume on Hotbit, be careful\).
+ACryptoS is currently listed on:
+- [Coinmarketcap](https://coinmarketcap.com/currencies/acryptos/)
+- [Coingecko](https://www.coingecko.com/en/coins/acryptos)
+- [Defistation](https://www.defistation.io/acryptos)
+- [DappRadar](https://dappradar.com/binance-smart-chain/defi/acryptos)
+- [MATH dApp Store](https://mathdapp.store)
+- [Coinbase Prices](https://www.coinbase.com/price/acryptos)
+- [TokenPocket Pro](https://www.tokenpocket.pro/)
+- [Dfox - portfolio tracker](https://dfox.cc/)
+- [Yieldwatch - farm and pool perfromance tracker](https://www.yieldwatch.net/)
+- [Farm.army - farm and pool performance tracker](https://farm.army/)
+
+ACS is traded on: 
+- [1inch](https://app.1inch.io/#/r/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC/BNB/ACS?network=56)
+- [Swipe Swap](https://swipe.org/swap.html)
+- [OpenOcean](https://openocean.finance/classic)
+- [Pancakeswap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29)
+- [DeBank](https://debank.com/swap?amount=1&chain=bsc&from=bsc&to=0x4197c6ef3879a08cd51e5560da5064b773aa1d29)
+- [Unifi](https://binance.unifiprotocol.com/) (low liquidity atm)
+- [Hotbit](https://www.hotbit.io/exchange?symbol=ACS_USDT) (low volume on Hotbit, be careful)
+
+ACSI is traded on: 
+- [1inch](https://app.1inch.io/#/r/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC/ACS/ACSI?network=56)
+- [Swipe Swap](https://swipe.org/swap.html) (low liquidity atm)
+- [OpenOcean](https://openocean.finance/classic)
+- [Pancakeswap](https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29&outputCurrency=0x5b17b4d5e4009B5C43e3e3d63A5229F794cBA389)
+- [DeBank](https://debank.com/swap?amount=1&chain=bsc&from=0x4197c6ef3879a08cd51e5560da5064b773aa1d29&to=0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389)
+- [Unifi](https://binance.unifiprotocol.com/) (low liquidity atm)
+
+Be careful when buying ACSI. The main liquidity for ACSI is in the ACS-ACSI pair, so you might want to get ACS first.
 
 ### 3. What is the maximum supply cap?
 
@@ -24,9 +53,11 @@
 
   There are also constant buybacks for ACSI, using 50% of the swap fee from the StableSwap, and then those ACSI are distributed to the acsACSI holders.
 
+  You can read more [here](https://www.reddit.com/r/ACryptoS/comments/kth0v2/valuing_users_commitment_buyback_instead_of_burn/).
+
 ### 5. How many tokens are minted per day?
 
-* There was aconstant daily emission rate of ~3746 ACS tokens:
+* There was a constant daily emission rate of ~3746 ACS tokens:
 
   ~2560 ACS to the farms
 
@@ -38,7 +69,9 @@
 
   The genesis mining is ~8888 ACS.
 
-* After the first emission cut \(15 Feb 2021\), the emission was reduced by 18.65%.
+  After the first emission cut \(15 Feb 2021\), the ACS emission was reduced by 18.65%.
+
+* The ACSI emission is still ~3746 ACSI tokens per day.
 
 ### 6. Are the tokenomic models of ACS and ACSI sustainable?
 
@@ -78,7 +111,7 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
 ### 2. Is there a fee on the first Stake?
 
-* ACS Farms: No. However additional staking/unstaking triggers the harvest \(and the 0.03 ACS fee\) on the v1 ACS farms \(this will be changed soon with the migration to farms v2.\).
+* ACS v2 Farms: No.
 * ACSI Farms: No.
 
 ### 3. What are the withdrawal fees?
@@ -92,9 +125,7 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
 * The harvest fee is 0.03 ACS on the ACS farms, and 0.06 ACSI on the ACSI farms.
 
-  Note: Clicking the stake/unstake button also triggers the harvest \(only on the ACS Vaults&Farms v1\).
-
-  If you harvest when your Pending amount is less than 0.03 ACS \(or less than 0.06 ACSI\), your Pending amount will reset to 0.
+   The harvest button appears after your Pending amount is more than 0.03 ACS (or more than 0.06 ACSI).
 
 ### 5. What are the performance and the workers fee?
 
@@ -109,7 +140,7 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
 ### 7. What are the fees on the StableSwap?
 
-* The exchange fees are set to 0.04%, which is almost 10 times cheaper than the 0.3+% charged by all the other UniSwap and SushiSwap clones.
+* The exchange fees are set to 0.01% in the Corepool and 0.06% in the other Metapools, which is 5-30 times cheaper than the 0.3+% charged by all the other UniSwap and SushiSwap clones.
 
   All this is possible thanks to Curve’s [specialized algorithm tailored for trading of stablecoins and other pegged assets](https://www.curve.fi/stableswap-paper.pdf).
 
@@ -128,7 +159,7 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
 * Yes, ACS auto-compounds in the ACS Vault.
 
-  If you have Pending ACS in one of the other Vaults, you first need to harvest them and transfer them to the ACS Vault.
+  If you have Pending ACS in one of the other Vaults, you first need to harvest those ACS and transfer them to the ACS Vault.
 
 ### 3. How the auto-compounding works \(and what is the Workers tab\)?
 
@@ -144,6 +175,8 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
   When this happens, all the tokens gained from performance and withdrawal fees are first transferred to BNB, and then to ACS.
 
   Then the ACS is distributed to the ACS Vault stakers \(acsACS holders\).
+  
+* The same method is used for the ACSI buyback.
 
 ### 5. How does the Venus strategies work?
 
@@ -164,12 +197,11 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 * The User interface \(UI\) is dynamic. The harvest button appears after you have at least 0.03 ACS Pending for harvest.
 * If your assets are Staked, the Withdraw button appears after the Unstake.
 
-### 8. What is ACS4USD and what is ACS4VAI?
+### 8. What is ACS4USD/ACS4VAI/ACS4UST?
 
-* When you deposit Stable coins to the ACS4USD StableSwap, you receive ACS4
-* When you deposit Stable coins to the ACS4VAI StableSwap, you receive ACS4VAI.
+* When you deposit Stable coins to the StableSwap, you receive ACS4*** tokens as a receipt/proof of deposit.
 
-  Then you can then stake those ACS4 / ACS4VAI in the ACS4USD / ACS4VAI farms to earn ACSI.
+  Then you can stake those ACS4*** tokens in the ACSI farms to earn ACSI.
 
 ## Governance and Voting
 
@@ -179,7 +211,7 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
 ### 2. What is the main goal of the treasury?
 
-* The treasury funds will be used to improve/add value the project \(marketing/pr/administration/management/audits/etc\).
+* The treasury funds will be used to add value/improve the project \(marketing/pr/administration/management/audits/etc\).
 
 ### 3. Who controls the treasury?
 
