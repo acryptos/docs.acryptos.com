@@ -25,8 +25,7 @@ Our Vaults may offer up to three different types of returns depending on the Vau
 **ACS APR** is the rate at which ACS rewards are given to users that stake their tokens.
 
 ![Example: ADA-BNB Vault](https://user-images.githubusercontent.com/80501310/112007522-ae752980-8b5f-11eb-981b-cf9d15ff9632.png)
-
-Image Credit: [Jack](https://t.me/manxsir)
+Image Credit: [Jake](https://t.me/manxsir)
 
 Resources:
 
@@ -36,17 +35,17 @@ Find out more about [AMM and Liquidity Provider](https://academy.binance.com/en/
 
 Find out more about [APY vs APR](https://academy.binance.com/en/ask/questions/apy-and-apr)
 
-[Frequently Asked Questions](https://docs.acryptos.com/faq)
+[Frequently Asked Questions](faq.md)
 
 ## ACS and ACSI Vault
 
-ACS Vault and ACSI Vault are vaults for our native/governance tokens, which receive a [good share of the ongoing token emissions, and most of the protocol fees are used to buy ACS/ACSI to distribute ](fees.md)in these Vaults.
+ACS Vault and ACSI Vault are vaults for our native/governance tokens, which receive a [good share of the ongoing token emissions](feed.md), and most of the protocol fees are used to [buy-back ACS and ACSI](https://www.reddit.com/r/ACryptoS/comments/kth0v2/valuing_users_commitment_buyback_instead_of_burn/) and redistribute them in these Vaults.
 
 ## Venus Vaults
 
 These Vaults stake recursively on Venus at ~3.67X leverage, farms XVS and swaps it for more of the staked token.
 
-At start,users may notice the value of their holdings in the Vault **slowly decreasing on each block**.
+At start, users may notice the value of their holdings in the Vault **slowly decreasing on each block**.
 
 This is normal because we are using leverage on Venus, and the borrow amount increases faster than the supply amount. Also the value of the farmed XVS is not included at start.
 
