@@ -28,7 +28,7 @@ Find out more about [AMM and Liquidity Provider](https://academy.binance.com/en/
 
 [How to use ACryptoS StableSwap \(Video Tutorial\)](https://www.youtube.com/watch?v=xn-apvGCsFY) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
 
-[Frequently Asked Questions](https://docs.acryptos.com/faq)
+[Frequently Asked Questions](faq.md)
 
 ## Yield Farming with ACSI <a id="b267"></a>
 
@@ -40,7 +40,7 @@ Do remember to stake in our Farms after depositing into the pools.
 
 ## ACS4USD Corepool
 
-Our core pool comprises the four staple stablecoins: 1. BUSD 2. USDT 3. DAI 4. USDC
+Our core pool comprises the four stablecoins: 1. BUSD 2. USDT 3. DAI 4. USDC
 
 ## ACS4 + VAI / UST / QUSD Metapools
 
@@ -66,5 +66,5 @@ This effectively means if you deposit a token that the pool has a lower proporti
 
 In general, if the token's market prices are at peg, it would be profitable to help "rebalance" the pool by depositing or withdrawing. However this might not be the case if prices are off peg. For example, if DAI's market price is significantly above peg, it's proportion in the pool should be much lower than the others'. If you deposit more DAI, you might see a "positive" price impact but depositing too much would push the price of DAI in the pool down and arbitrageurs would be able to buy it from the pool and sell it elsewhere for a profit.
 
-Do note for metapools, a balanced proportion is achieved when the non-base token is equal to the base pool. For example, when ACS4VAI has 50% VAI and 50% ACS4.
+Do note for metapools, a balanced proportion is achieved when the non-base token is equal to the base pool. For example, when ACS4VAI has 50% VAI and ACS4 has 50%.
 
