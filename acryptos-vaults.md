@@ -25,6 +25,7 @@ Our Vaults may offer up to three different types of returns depending on the Vau
 **ACS APR** is the rate at which ACS rewards are given to users that stake their tokens.
 
 ![Example: ADA-BNB Vault](https://user-images.githubusercontent.com/80501310/112007522-ae752980-8b5f-11eb-981b-cf9d15ff9632.png)
+
 Image Credit: [Jake](https://t.me/manxsir)
 
 Resources:
