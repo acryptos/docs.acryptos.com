@@ -45,7 +45,7 @@ Resources:
 
 [How to use ACryptoS Vaults and Farms \(Video Tutorial\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
 
-[ACS v2 farms boost calculator](https://docs.acryptos.com/community) - Credits: [Abdul R](https://t.me/abdul0793) and [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
+[ACS v2 farms boost calculator](https://docs.acryptos.com/community) - contributed by [Abdul R](https://t.me/abdul0793) and [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
 
-[Frequently Asked Questions](https://docs.acryptos.com/faq)
+[Frequently Asked Questions](faq.md)
 
