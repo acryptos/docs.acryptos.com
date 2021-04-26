@@ -4,9 +4,10 @@
 
 **ACS rewards distributed to ACS Farms: 0.088888 888888 888888 ACS/block** \(~ 2560 ACS/day\)  
 **+33.33% distributed to ACS holders via ACS Vault  
-+10% reward to ACryptoS Dev Team**  
-Total ~3669 ACS/day  
-**Up to 3% of supply may be minted for** [**ACryptoS Treasury**](governance.md#treasury)
++10% reward to ACryptoS Dev Team** 
+**[+3% to Treasury](governance.md#treasury)**
+
+
 
 [Emissions will be cut by 18.65% every 90 days](https://vote.acryptos.com/#/acryptos/proposal/QmU2e9PDB3AR3JHKbBsPnWiFve5iiR35cEJFsdxmLRi4Ks) with the first cut on 15 Feb 2021, to give a **maximum supply cap of 1,888,888 ACS**.
 
@@ -14,7 +15,7 @@ All parameters may be adjusted in future via governance.
 
 Resources:
 
-[Frequently Asked Questions](https://docs.acryptos.com/faq)
+[Frequently Asked Questions](faq.md)
 
 [Table with Vault and Farm fees](https://docs.google.com/document/d/1-KU1zzWnEG0sh8hLCD0YUtPv7D4_B2wu80UtRQ3sQUA/edit) - contributed by [Blight Night](https://t.me/BlightNight)
 
