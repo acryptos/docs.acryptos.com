@@ -29,8 +29,8 @@ _updated 2021-04-26_
 * ACSI max supply cap set by governance vote ✅
 * 1st ACS emission cut ✅
 * ACSI added as governance token ✅
-* First audit by Defiyield ✅
-* Second audit by Hacken \(V2 farm contracts audited\) ✅
+* Audit #1 - by Defiyield ✅
+* Audit #2 - by Hacken (V2 farm contracts audited) ✅
 * Hotbit listing ✅
 * Dfox.cc portfolio tracker listing ✅
 * Yieldwatch.net portfolio tracker listing ✅
@@ -41,6 +41,8 @@ _updated 2021-04-26_
 
 ### **----- Q2 ------**
 
+* Audit #3 - by Certik (Cake Vault Strategy audited) ✅
+* Audit #4 - by Hacken (Complete audit) ✅
 * Whitelist ACS and ACSI on 1inch ✅
 * Whitelist ACS and ACSI on Swipe Swap ✅
 * Whitelist ACS and ACSI on MDEX ✅
