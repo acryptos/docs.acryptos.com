@@ -22,7 +22,7 @@ ACryptoS Vaults grow your assets \(tokens\) via automated Yield Strategies.
 
 The Vaults achieve highest possible yields through:
 
-1. Unparalleled creative automations strategies
+1. Unparalleled creative automation strategies
 2. Optimal compounding frequency
 3. Highly efficient gas utilisation
 
@@ -43,7 +43,7 @@ Things to note for Farms:
 
 * You will need to **Stake** your Vault or Liquidity tokens in the Vaults to farm the native tokens. \(ACS/ACSI\). 
 * **Farms do not** automatically compound and require **manual harvesting** \(through the Harvest Button\) by the user.
-* [Auto-compounding ACS/ACSI Vaults](https://app.acryptos.com/core/) for already harvested or purchased ACS and ACSI tokens are offered on the platform as well.
+* [Auto-compounding ACS Vault and ACSI Vault](https://app.acryptos.com/core/) for already harvested or purchased ACS and ACSI tokens are offered on the platform as well.
 
 
 
@@ -67,21 +67,22 @@ Acryptos StableSwap enables efficient stablecoin trading at best prices which is
    ACS tokens deposited in the [**ACS Vault**](https://app.acryptos.com/core/):
 
    * accrue protocol [fees and rewards](fees.md#acs-vault) from Vaults and ACS Farms
-   * and participate in governance of the protocol.
+   * participate in the [governance of the protocol](https://vote.acryptos.com/).
+   * give you [yield boost](acryptos-farms.md#acs-rewards-boost) in the ACS related farms
 
 2. ACSI is the native token of **StableSwap** and probably all future non-vault products.
 
    ACSI tokens deposited in the [**ACSI Vault**](https://app.acryptos.com/core/):
 
    * accrue protocol [fees and rewards](fees.md#acs-vault) from [StableSwap and ACSI Farms](https://app.acryptos.com/acsi/)
-   * and participate in governance of the protocol.
+   * and participate in the [governance of the protocol](https://vote.acryptos.com/).
 
 ## Tokenomics and Fees
 
 Our tokenomics and fees are designed to encourage
 
 1. Longer term staking
-2. Reward long term holders of our ACS and ACSI native tokens rewards and fees.
+2. Reward long term holders of ACS and ACSI.
 
 This means if you enter and exit quickly as a liquidity provider, you will likely earn 0 or even a slightly negative return.
 
