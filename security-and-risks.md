@@ -6,7 +6,7 @@ This project is in beta. Use at your own risk.
 
 Resources:
 
-[Frequently Asked Questions](https://docs.acryptos.com/faq)
+[Frequently Asked Questions](faq.md)
 
 ### ACryptoS Dev Team Access
 
