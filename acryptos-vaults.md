@@ -40,7 +40,7 @@ Find out more about [APY vs APR](https://academy.binance.com/en/ask/questions/ap
 
 ## ACS and ACSI Vault
 
-ACS Vault and ACSI Vault are vaults for our native/governance tokens, which receive a [good share of the ongoing token emissions](feed.md), and most of the protocol fees are used to [buy-back ACS and ACSI](https://www.reddit.com/r/ACryptoS/comments/kth0v2/valuing_users_commitment_buyback_instead_of_burn/) and redistribute them in these Vaults.
+ACS Vault and ACSI Vault are vaults for our native/governance tokens, which receive a [good share of the ongoing token emissions](https://github.com/acryptos/docs.acryptos.com/tree/edd9ea1959f1aebf3d024bb639cd5dec4dd46b81/feed.md), and most of the protocol fees are used to [buy-back ACS and ACSI](https://www.reddit.com/r/ACryptoS/comments/kth0v2/valuing_users_commitment_buyback_instead_of_burn/) and redistribute them in these Vaults.
 
 ## Venus Vaults
 

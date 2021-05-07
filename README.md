@@ -7,7 +7,6 @@ ACryptoS offers two products on the Binance Smart Chain \(BSC\).
 1. ACryptoS Vaults and Farms \(Yield Farming Optimizer\)
 2. ACryptoS StableSwap \(Stablecoin Decentralized Exchange \([DEX](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex)\) \)
 
-
 Resources:
 
 [What sets AcryptoS apart?](https://medium.com/acryptos/what-sets-acryptos-apart-d6345e2f5d7f) by x.ACryptoS
@@ -28,8 +27,7 @@ The Vaults achieve highest possible yields through:
 
 When you deposit into a Vault, your tokens will grow over time at the fastest optimized yield through automations.
 
-This means you will be able to enjoy the benefits of autocompounding without additional steps.
-There is no need to manually harvest the Vault. 
+This means you will be able to enjoy the benefits of autocompounding without additional steps. There is no need to manually harvest the Vault.
 
 ## ACryptoS Farms
 
@@ -45,8 +43,6 @@ Things to note for Farms:
 * **Farms do not** automatically compound and require **manual harvesting** \(through the Harvest Button\) by the user.
 * [Auto-compounding ACS Vault and ACSI Vault](https://app.acryptos.com/core/) for already harvested or purchased ACS and ACSI tokens are offered on the platform as well.
 
-
-
 ## 2. ACryptoS StableSwap \(Stablecoin DEX\)
 
 ACryptoS StableSwap is an [automated market maker \(AMM\)](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm) protocol based on Curve’s specialized algorithm tailored for stable coins. ACryptoS is offering the first AMM for stable coins based on this algorithm on the Binance Smart Chain \(BSC\).
@@ -57,8 +53,6 @@ Acryptos StableSwap enables efficient stablecoin trading at best prices which is
 
 * **~10x cheaper**;
 * **~100x less slippage** when trading stable coins compared to the various UniSwap type AMMs available.
-
-
 
 ## ACS and ACSI Native Tokens
 
@@ -90,13 +84,13 @@ Please carefully review our documentation on [fees](fees.md) before proceeding.
 
 ## Contact Us
 
-Telegram:   https://t.me/acryptos9
+Telegram: [https://t.me/acryptos9](https://t.me/acryptos9)
 
-Twitter:    https://twitter.com/acryptosx
+Twitter: [https://twitter.com/acryptosx](https://twitter.com/acryptosx)
 
-Medium:     https://acryptos.medium.com/
+Medium: [https://acryptos.medium.com/](https://acryptos.medium.com/)
 
-Reddit:     https://www.reddit.com/r/ACryptoS
+Reddit: [https://www.reddit.com/r/ACryptoS](https://www.reddit.com/r/ACryptoS)
 
-App:        https://acryptos.com
+App: [https://acryptos.com](https://acryptos.com)
 

@@ -21,7 +21,7 @@ Resources:
 
 #### Mitigations
 
-Community [timelock monitor](https://unrekt.net/acryptos/timelock.html) and Telegram [timelock monitor bot](https://t.me/acryptos9/59652). 
+Community [timelock monitor](https://unrekt.net/acryptos/timelock.html) and Telegram [timelock monitor bot](https://t.me/acryptos9/59652).
 
 ### Other Risks
 
@@ -48,8 +48,5 @@ Smart contracts are forked from yearn.finance \(Vault, Controller, Strategy\), S
 
 ### Deployed
 
-All deployed contracts have [verified and published source codes on BscScan](https://app.acryptos.com/contracts/).  
-
-
-
+All deployed contracts have [verified and published source codes on BscScan](https://app.acryptos.com/contracts/).
 

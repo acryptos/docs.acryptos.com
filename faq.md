@@ -12,33 +12,36 @@
 ### 2. Where is ACryptoS listed, where are ACS and ACSI traded?
 
 ACryptoS is currently listed on:
-- [Coinmarketcap](https://coinmarketcap.com/currencies/acryptos/)
-- [Coingecko](https://www.coingecko.com/en/coins/acryptos)
-- [Defistation](https://www.defistation.io/acryptos)
-- [DappRadar](https://dappradar.com/binance-smart-chain/defi/acryptos)
-- [MATH dApp Store](https://mathdapp.store)
-- [Coinbase Prices](https://www.coinbase.com/price/acryptos)
-- [TokenPocket Pro](https://www.tokenpocket.pro/)
-- [Dfox - portfolio tracker](https://dfox.cc/)
-- [Yieldwatch - farm and pool perfromance tracker](https://www.yieldwatch.net/)
-- [Farm.army - farm and pool performance tracker](https://farm.army/)
 
-ACS is traded on: 
-- [1inch](https://app.1inch.io/#/r/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC/BNB/ACS?network=56)
-- [Swipe Swap](https://swipe.org/swap.html)
-- [OpenOcean](https://openocean.finance/classic)
-- [Pancakeswap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29)
-- [DeBank](https://debank.com/swap?amount=1&chain=bsc&from=bsc&to=0x4197c6ef3879a08cd51e5560da5064b773aa1d29)
-- [Unifi](https://binance.unifiprotocol.com/) (low liquidity atm)
-- [Hotbit](https://www.hotbit.io/exchange?symbol=ACS_USDT) (low volume on Hotbit, be careful)
+* [Coinmarketcap](https://coinmarketcap.com/currencies/acryptos/)
+* [Coingecko](https://www.coingecko.com/en/coins/acryptos)
+* [Defistation](https://www.defistation.io/acryptos)
+* [DappRadar](https://dappradar.com/binance-smart-chain/defi/acryptos)
+* [MATH dApp Store](https://mathdapp.store)
+* [Coinbase Prices](https://www.coinbase.com/price/acryptos)
+* [TokenPocket Pro](https://www.tokenpocket.pro/)
+* [Dfox - portfolio tracker](https://dfox.cc/)
+* [Yieldwatch - farm and pool perfromance tracker](https://www.yieldwatch.net/)
+* [Farm.army - farm and pool performance tracker](https://farm.army/)
 
-ACSI is traded on: 
-- [1inch](https://app.1inch.io/#/r/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC/ACS/ACSI?network=56)
-- [Swipe Swap](https://swipe.org/swap.html) (low liquidity atm)
-- [OpenOcean](https://openocean.finance/classic)
-- [Pancakeswap](https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29&outputCurrency=0x5b17b4d5e4009B5C43e3e3d63A5229F794cBA389)
-- [DeBank](https://debank.com/swap?amount=1&chain=bsc&from=0x4197c6ef3879a08cd51e5560da5064b773aa1d29&to=0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389)
-- [Unifi](https://binance.unifiprotocol.com/) (low liquidity atm)
+ACS is traded on:
+
+* [1inch](https://app.1inch.io/#/r/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC/BNB/ACS?network=56)
+* [Swipe Swap](https://swipe.org/swap.html)
+* [OpenOcean](https://openocean.finance/classic)
+* [Pancakeswap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29)
+* [DeBank](https://debank.com/swap?amount=1&chain=bsc&from=bsc&to=0x4197c6ef3879a08cd51e5560da5064b773aa1d29)
+* [Unifi](https://binance.unifiprotocol.com/) \(low liquidity atm\)
+* [Hotbit](https://www.hotbit.io/exchange?symbol=ACS_USDT) \(low volume on Hotbit, be careful\)
+
+ACSI is traded on:
+
+* [1inch](https://app.1inch.io/#/r/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC/ACS/ACSI?network=56)
+* [Swipe Swap](https://swipe.org/swap.html) \(low liquidity atm\)
+* [OpenOcean](https://openocean.finance/classic)
+* [Pancakeswap](https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29&outputCurrency=0x5b17b4d5e4009B5C43e3e3d63A5229F794cBA389)
+* [DeBank](https://debank.com/swap?amount=1&chain=bsc&from=0x4197c6ef3879a08cd51e5560da5064b773aa1d29&to=0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389)
+* [Unifi](https://binance.unifiprotocol.com/) \(low liquidity atm\)
 
 Be careful when buying ACSI. The main liquidity for ACSI is in the ACS-ACSI pair, so you might want to get ACS first.
 
@@ -102,7 +105,6 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 * [**Hacken - ACryptoS Farm V2**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210218-Hacken-ACryptoSFarmV2.pdf) **-** [**1**](https://hacken.io/wp-content/uploads/2021/02/20210218-Hacken-ACryptoSFarmV2.pdf) **\(18 Feb 2021\)**  
 * [**DefiYield.info**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210128-defiyield.info.pdf) **-** [**1**](https://defiyield.info/assets/pdf/ACryptoS.pdf) **\(28 Jan 2021\)**  
 
-
 ## Fees
 
 ### 1. Is there a Deposit fee?
@@ -125,7 +127,7 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
 * The harvest fee is 0.03 ACS on the ACS farms, and 0.06 ACSI on the ACSI farms.
 
-   The harvest button appears after your Pending amount is more than 0.03 ACS (or more than 0.06 ACSI).
+  The harvest button appears after your Pending amount is more than 0.03 ACS \(or more than 0.06 ACSI\).
 
 ### 5. What are the performance and the workers fee?
 
@@ -175,7 +177,7 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
   When this happens, all the tokens gained from performance and withdrawal fees are first transferred to BNB, and then to ACS.
 
   Then the ACS is distributed to the ACS Vault stakers \(acsACS holders\).
-  
+
 * The same method is used for the ACSI buyback.
 
 ### 5. How does the Venus strategies work?
@@ -199,9 +201,9 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
 ### 8. What is ACS4USD/ACS4VAI/ACS4UST?
 
-* When you deposit Stable coins to the StableSwap, you receive ACS4*** tokens as a receipt/proof of deposit.
+* When you deposit Stable coins to the StableSwap, you receive ACS4_\*_ tokens as a receipt/proof of deposit.
 
-  Then you can stake those ACS4*** tokens in the ACSI farms to earn ACSI.
+  Then you can stake those ACS4_\*_ tokens in the ACSI farms to earn ACSI.
 
 ## Governance and Voting
 

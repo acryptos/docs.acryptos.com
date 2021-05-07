@@ -22,9 +22,3 @@ A [treasury](https://bscscan.com/address/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2da
 
 Anyone may apply for a grant to fund anything that will add value to the protocol. To apply, [contact us](https://t.me/acryptosdao) with a detailed proposal.
 
-
-
-
-
-
-
