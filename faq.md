@@ -23,6 +23,7 @@ ACryptoS is currently listed on:
 * [Dfox - portfolio tracker](https://dfox.cc/)
 * [Yieldwatch - farm and pool performance tracker](https://www.yieldwatch.net/)
 * [Farm.army - farm and pool performance tracker](https://farm.army/)
+* [SCV.finance - portfolio tracker](https://scv.finance/)
 
 ACS is traded on:
 
