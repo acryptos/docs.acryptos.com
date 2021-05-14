@@ -1,4 +1,8 @@
+![image](https://user-images.githubusercontent.com/80501310/118258280-40573e00-b4e2-11eb-80d8-8262ba4f1449.png)
+
+
 # Overview
+
 
 ## Introduction to Advanced Yield Farming Strategies with ACryptoS
 
@@ -6,6 +10,9 @@ ACryptoS offers two products on the Binance Smart Chain \(BSC\).
 
 1. ACryptoS Vaults and Farms \(Yield Farming Optimizer\)
 2. ACryptoS StableSwap \(Stablecoin Decentralized Exchange \([DEX](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex)\) \)
+
+ACryptoS provides exceptional tokenomics to reward vault holders of their native tokens; $ACS and $ACSI. 
+These include getting up to 2.5x on APY from farms, receiving distribution of almost all fees, and being able to take part in governance.
 
 Resources:
 
