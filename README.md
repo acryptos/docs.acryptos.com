@@ -4,7 +4,10 @@
 # Overview
 
 
-## Introduction to Advanced Yield Farming Strategies with ACryptoS
+## Advanced Yield Farming Strategies with ACryptoS - Sustainable, Rewarding, Safe
+
+ACryptoS is a yield farming optimizer designed for the longer-term investor who values sustainable tokenomics, safety and careful risk management.
+
 
 ACryptoS offers two products on the Binance Smart Chain \(BSC\).
 
