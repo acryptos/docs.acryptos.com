@@ -21,7 +21,7 @@ ACryptoS is currently listed on:
 * [Coinbase Prices](https://www.coinbase.com/price/acryptos)
 * [TokenPocket Pro](https://www.tokenpocket.pro/)
 * [Dfox - portfolio tracker](https://dfox.cc/)
-* [Yieldwatch - farm and pool perfromance tracker](https://www.yieldwatch.net/)
+* [Yieldwatch - farm and pool performance tracker](https://www.yieldwatch.net/)
 * [Farm.army - farm and pool performance tracker](https://farm.army/)
 
 ACS is traded on:
@@ -111,17 +111,20 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
 * No.
 
-### 2. Is there a fee on the first Stake?
+### 2. Is there a Atake fee?
 
-* ACS v2 Farms: No.
-* ACSI Farms: No.
+* No.
 
-### 3. What are the withdrawal fees?
+### 3. What are the fees?
 
-* There is a 0.5% withdrawal fee. This fee is applied on all vaults \(except the ACS Vault and the ACSI Vault\).
-* For the ACS Vault and the ACSI Vault, the withdrawal fee is 10% \(applied only on the amount you withdraw\).
-
+* There is a 0.5% withdrawal fee (0.1% on vaults marked with "new fees"). This fee is applied on all vaults (except the ACS Vault and the ACSI Vault).
+* For the ACS Vault and the ACSI Vault, the withdrawal fee is 10% (applied only on the amount you withdraw).
+  
   Example: If you have 1000 ACS in the ACS Vault, and you decide to withdraw 100 ACS, the fee will be 10 ACS.
+* The performance fee is 5% (25% on vaults marked with "new fees") - already included in the APY
+* the workers fee is 0.3% - already included in the APY
+
+ 
 
 ### 4. What are the harvest fees on the farms?
 
@@ -129,24 +132,19 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
   The harvest button appears after your Pending amount is more than 0.03 ACS \(or more than 0.06 ACSI\).
 
-### 5. What are the performance and the workers fee?
 
-* The performance fee is 5% and the workers fee is 0.3% \(both are applied only on the profit\).
+### 5. Which fees are visible and which are already included in the APR?
 
-  These fees are already reflected in the shown APR.
+* The vault’s performance fee and workers fee are already included in the APY you see, so no need to do any math on that.
+* You only need to be careful with the farms’ harvest fee (0.03 ACS , 0.06 ACSI), the vaults' withdrawal fee (0.5% or 0.1%), and the withdrawal fee on the ACS Vault & ACSI Vault \(10%\).
 
-### 6. Which fees are visible and which are already included in the APR?
-
-* The vault’s performance fee and workers fee \(5% + 0.3%\) are already included in the APR you see, so no need to do any math on that.
-* You only need to be careful with the farms’ harvest fee \(0.03 ACS/0.06 ACSI\), the vaults' withdrawal fee \(0.5%\), and the withdrawal fee on the ACS Vault & ACSI Vault \(10%\).
-
-### 7. What are the fees on the StableSwap?
+### 6. What are the fees on the StableSwap?
 
 * The exchange fees are set to 0.01% in the Corepool and 0.06% in the other Metapools, which is 5-30 times cheaper than the 0.3+% charged by all the other UniSwap and SushiSwap clones.
 
   All this is possible thanks to Curve’s [specialized algorithm tailored for trading of stablecoins and other pegged assets](https://www.curve.fi/stableswap-paper.pdf).
 
-### 8. What is the difference between APR and APY?
+### 7. What is the difference between APR and APY?
 
 * APR reflects the simple interest rate over a year’s time \(APR/365\), while APY describes the rate with the effect of compounding.
 
