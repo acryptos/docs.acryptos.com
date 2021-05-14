@@ -15,6 +15,8 @@ ACryptoS offers two products on the Binance Smart Chain \(BSC\).
 2. ACryptoS StableSwap \(Stablecoin Decentralized Exchange \([DEX](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex)\) \)
 
 ACryptoS provides exceptional tokenomics to reward vault holders of their native tokens; $ACS and $ACSI. 
+
+
 These include getting up to 2.5x on APY from farms, receiving distribution of almost all fees, and being able to take part in governance.
 
 Resources:
