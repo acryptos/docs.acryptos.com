@@ -118,14 +118,13 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
 ### 3. What are the fees?
 
-* There is a 0.5% withdrawal fee (0.1% on vaults marked with "new fees"). This fee is applied on all vaults (except the ACS Vault and the ACSI Vault).
-* For the ACS Vault and the ACSI Vault, the withdrawal fee is 10% (applied only on the amount you withdraw).
-  
-  Example: If you have 1000 ACS in the ACS Vault, and you decide to withdraw 100 ACS, the fee will be 10 ACS.
-* The performance fee is 5% (25% on vaults marked with "new fees") - already included in the APY
-* the workers fee is 0.3% - already included in the APY
+* There is a 0.5% withdrawal fee \(0.1% on vaults marked with "new fees"\). This fee is applied on all vaults \(except the ACS Vault and the ACSI Vault\).
+* For the ACS Vault and the ACSI Vault, the withdrawal fee is 10% \(applied only on the amount you withdraw\).
 
- 
+  Example: If you have 1000 ACS in the ACS Vault, and you decide to withdraw 100 ACS, the fee will be 10 ACS.
+
+* The performance fee is 5% \(25% on vaults marked with "new fees"\) - already included in the APY
+* the workers fee is 0.3% - already included in the APY
 
 ### 4. What are the harvest fees on the farms?
 
@@ -133,11 +132,10 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
   The harvest button appears after your Pending amount is more than 0.03 ACS \(or more than 0.06 ACSI\).
 
-
 ### 5. Which fees are visible and which are already included in the APR?
 
 * The vault’s performance fee and workers fee are already included in the APY you see, so no need to do any math on that.
-* You only need to be careful with the farms’ harvest fee (0.03 ACS , 0.06 ACSI), the vaults' withdrawal fee (0.5% or 0.1%), and the withdrawal fee on the ACS Vault & ACSI Vault \(10%\).
+* You only need to be careful with the farms’ harvest fee \(0.03 ACS , 0.06 ACSI\), the vaults' withdrawal fee \(0.5% or 0.1%\), and the withdrawal fee on the ACS Vault & ACSI Vault \(10%\).
 
 ### 6. What are the fees on the StableSwap?
 

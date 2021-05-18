@@ -1,21 +1,19 @@
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/80501310/118258280-40573e00-b4e2-11eb-80d8-8262ba4f1449.png" width="300"> </p>
-
 # Overview
 
+![](https://user-images.githubusercontent.com/80501310/118258280-40573e00-b4e2-11eb-80d8-8262ba4f1449.png)
 
-## Advanced Yield Farming Strategies with ACryptoS - Sustainable, Rewarding, Safe
+## Overview
+
+### Advanced Yield Farming Strategies with ACryptoS - Sustainable, Rewarding, Safe
 
 ACryptoS is a yield farming optimizer designed for the longer-term investor who values sustainable tokenomics, safety and careful risk management.
-
 
 ACryptoS offers two products on the Binance Smart Chain \(BSC\).
 
 1. ACryptoS Vaults and Farms \(Yield Farming Optimizer\)
 2. ACryptoS StableSwap \(Stablecoin Decentralized Exchange \([DEX](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex)\) \)
 
-ACryptoS provides exceptional tokenomics to reward vault holders of their native tokens; $ACS and $ACSI. 
-
+ACryptoS provides exceptional tokenomics to reward vault holders of their native tokens; $ACS and $ACSI.
 
 These include getting up to 2.5x on APY from farms, receiving distribution of almost all fees, and being able to take part in governance.
 
@@ -27,7 +25,7 @@ Resources:
 
 [Guide and Tutorials to get started on ACryptoS](community.md#guides-tutorials-intros)
 
-## 1. ACryptoS Vaults \(Yield Farming Optimizer\)
+### 1. ACryptoS Vaults \(Yield Farming Optimizer\)
 
 ACryptoS Vaults grow your assets \(tokens\) via automated Yield Strategies.
 
@@ -41,7 +39,7 @@ When you deposit into a Vault, your tokens will grow over time at the fastest op
 
 This means you will be able to enjoy the benefits of autocompounding without additional steps. There is no need to manually harvest the Vault.
 
-## ACryptoS Farms
+### ACryptoS Farms
 
 ACryptoS Farms are the places where native tokens of ACryptoS, [ACS and ACSI tokens are distributed](fees.md#tokenomics).
 
@@ -55,7 +53,7 @@ Things to note for Farms:
 * **Farms do not** automatically compound and require **manual harvesting** \(through the Harvest Button\) by the user.
 * [Auto-compounding ACS Vault and ACSI Vault](https://app.acryptos.com/core/) for already harvested or purchased ACS and ACSI tokens are offered on the platform as well.
 
-## 2. ACryptoS StableSwap \(Stablecoin DEX\)
+### 2. ACryptoS StableSwap \(Stablecoin DEX\)
 
 ACryptoS StableSwap is an [automated market maker \(AMM\)](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm) protocol based on Curve’s specialized algorithm tailored for stable coins. ACryptoS is offering the first AMM for stable coins based on this algorithm on the Binance Smart Chain \(BSC\).
 
@@ -66,7 +64,7 @@ Acryptos StableSwap enables efficient stablecoin trading at best prices which is
 * **~10x cheaper**;
 * **~100x less slippage** when trading stable coins compared to the various UniSwap type AMMs available.
 
-## ACS and ACSI Native Tokens
+### ACS and ACSI Native Tokens
 
 1. ACS is our native token of our yield farming optimizer ACryptoS Vaults.
 
@@ -83,7 +81,7 @@ Acryptos StableSwap enables efficient stablecoin trading at best prices which is
    * accrue protocol [fees and rewards](fees.md#acs-vault) from [StableSwap and ACSI Farms](https://app.acryptos.com/acsi/)
    * and participate in the [governance of the protocol](https://vote.acryptos.com/).
 
-## Tokenomics and Fees
+### Tokenomics and Fees
 
 Our tokenomics and fees are designed to encourage
 
@@ -94,7 +92,7 @@ This means if you enter and exit quickly as a liquidity provider, you will likel
 
 Please carefully review our documentation on [fees](fees.md) before proceeding.
 
-## Contact Us
+### Contact Us
 
 Telegram: [https://t.me/acryptos9](https://t.me/acryptos9)
 

@@ -1,17 +1,16 @@
-# Safety and Risk Management
+# Security & Risks
 
 The overriding focus on safety and risk management is what sets ACryptoS apart from most DeFi projects.
 
 In this section the major risks involved with investing funds in DeFi projects will be described along with the steps that ACryptoS have taken to mitigate these.
 
-Be aware that investing in any DeFi project has risk. DeFi is relatively new and black swan events could occur that no-one has predicted. Only invest what you can afford to lose and always do your own research (DYOR) before committing funds to any project.
+Be aware that investing in any DeFi project has risk. DeFi is relatively new and black swan events could occur that no-one has predicted. Only invest what you can afford to lose and always do your own research \(DYOR\) before committing funds to any project.
 
-**This project is in beta. Use at your own risk.
+\*\*This project is in beta. Use at your own risk.
 
 Resources:
 
 [Frequently Asked Questions](faq.md)
-
 
 ### ACryptoS Dev Team Access
 
