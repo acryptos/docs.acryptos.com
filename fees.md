@@ -36,7 +36,7 @@ Staking in the Governance Vaults represents a commitment to the protocol, and in
 
 Governance Vault holdings are used to boost ACS / ACSI Farm rewards by up to 2.5X. [More info](acryptos-farms.md#acs-farms-v2).
 
-**Governance Vault withdrawal fee:** 10% \(distributed to ACS holders - remains in vault\)
+**Governance Vault withdrawal fee:** 10% \(distributed to ACS / ACSI holders - remains in vault\)
 
 Governance Vault tokens \(acsACS / acsACSI\) are non-transferrable. You will have to withdraw to transfer.
 
