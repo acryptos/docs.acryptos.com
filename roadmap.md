@@ -4,7 +4,7 @@
 
 ### ACryptoS Roadmap v1.0
 
-_updated 2021-04-26_
+_updated 2021-05-21_
 
 ## **2020:**
 
@@ -48,21 +48,25 @@ _updated 2021-04-26_
 * Whitelist ACS and ACSI on MDEX ✅
 * Whitelist ACS on Unifi ✅
 * Addition of ACS-SXP native farm on SwipeSwap ✅
-* Additional whiteliting for ACS and ACSI 🌗
+* Additional whitelisting for ACS and ACSI 🌗
 * Create 3BTC Metapool ✅
-* ACryptoS UI v1.5 \(Landing Page\) 🌗
+* ACryptoS UI v1.5 (Landing Page) ✅
 * Continuous addition of new high quality Vaults&Farms 🌗
 * ACryptoS UI v2 🌗
 * Stableswap UI v2 🌗
-* 2nd ACS emission reduction
-* ACSI emission reduction to match ACS emission curve
-* Insurance integration ✅
+* 2nd ACS emission reduction ✅
+* 1st ACSI emission reduction to match ACS emission curve
+* Soteria insurance integration ✅
 * Additional audits 🌗
-* Migration of all ACSI farms to v2
-* Use vaulted ACSI as yield booster for ACSI farms 🌗
+* Migration of all ACSI farms to v2 ✅
+* Use vaulted ACSI as yield booster for ACSI farms ✅
+* Addition of ACS-BNB native farm on MDEX ✅
+* SCV.finance portfolio tracker listing ✅
 
 ### **----- Q3 ------**
 
+* Continuous addition of new high quality Vaults&Farms
+* Additional audits
 * 3rd ACS emission reduction
 * 2nd ACSI emission reduction
 
