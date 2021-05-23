@@ -49,13 +49,17 @@ This is the risk that developers (or thieves who steal the development keys) cou
 
 ### Risk: Smart Contract Risks
 
-This is the risk that flaws/bugs exist in smart contracts which can lead to a loss of funds either by accident or by malicious exploitation. As ACryptoS interacts with other projects, there is smart contract risk both in the ACryptoS contracts and in all the contracts which ACryptoS interacts with.
+This is the risk that flaws/bugs exist in smart contracts which can lead to a loss of funds either by accident or by malicious exploitation. 
+
+As ACryptoS interacts with other projects, there is smart contract risk both in the ACryptoS contracts and in all the contracts which ACryptoS interacts with.
 
 **Mitigation:**
 
 **Audits:**
 
-ACryptoS has been audited by some of the most respected blockchain/smart contract auditing companies. No critical, medium or minor findings were raised during the audits. The only findings were informational. The details on the audits can be seen by clicking on [here](security-and-risks.md#audits)
+ACryptoS has been audited by some of the most respected blockchain/smart contract auditing companies. 
+
+No critical, medium or minor findings were raised during the audits. The only findings were informational. The details on the audits can be seen by clicking on [here](security-and-risks.md#audits)
 
   
 ### Deployed Smart Contracts Address
@@ -70,7 +74,9 @@ The risk of liquidation is a feature of trading with leverage. Liquidation is a 
 
 **Mitigation:**
 
-ACryptoS borrows and supplies the same asset so there is no liquidation risk from price. The Venus vaults rebalance on every deposit, withdrawal and harvest.
+ACryptoS borrows and supplies the same asset so there is no liquidation risk from price. 
+
+The Venus vaults rebalance on every deposit, withdrawal and harvest.
 
 
 ### Risk: StableSwap assets losing their pegs
@@ -79,19 +85,25 @@ When investing in stableswap pools, you are exposed to each of the assets in the
 
 **Mitigation:**
 
-ACryptoS has split the StableSwap pools into a core pool and a number of metapools. The core pool is made up of BUSD, USDT, DAI and USDC. The meta pools each contain one additional asset (e.g., VAI). The risk of an asset losing its peg in the meta pools is higher than the core pool (this is also compensated by a higher APY in the meta pools). 	
+ACryptoS has split the StableSwap pools into a core pool and a number of metapools. The core pool is made up of BUSD, USDT, DAI and USDC. 
+
+The meta pools each contain one additional asset (e.g., VAI). The risk of an asset losing its peg in the meta pools is higher than the core pool (this is also compensated by a higher APY in the meta pools). 	
 
 
 
 ### Risk: Impermanent loss
 
-The risk of impermanent loss (IL) is present whenever you provide liquidity to a liquidity pool. What is means is the (impermanent) loss of funds due to one of the assets in the pool being volatile in relation to the other. 
+The risk of impermanent loss (IL) is present whenever you provide liquidity to a liquidity pool. 
+
+What is means is the (impermanent) loss of funds due to one of the assets in the pool being volatile in relation to the other. 
 
 This [article from Binance Academy](https://academy.binance.com/en/articles/impermanent-loss-explained) provides more details on IL
 
 **Mitigation:**
 
-To minimize the risk of IL you can choose to yield farm assets which have a high correlation (e.g., stable coin pairs) and avoid volatile pairs. Note that the risk of IL is offset somewhat by the higher rewards offered for pairs that are more volatile. It is up to you as an investor to decide what strategy you are most comfortable with depending on your risk tolerance. 
+To minimize the risk of IL you can choose to yield farm assets which have a high correlation (e.g., stable coin pairs) and avoid volatile pairs. 
+
+Note that the risk of IL is offset somewhat by the higher rewards offered for pairs that are more volatile. It is up to you as an investor to decide what strategy you are most comfortable with depending on your risk tolerance. 
 
 
 ## Additional notes on risks and safety:
