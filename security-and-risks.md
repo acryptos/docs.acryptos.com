@@ -1,6 +1,6 @@
 # Security & Risks
 
-The overriding focus on safety and risk management is what sets ACryptoS apart from most DeFi projects.
+The overriding focus on safety and risk management is [what sets ACryptoS apart](https://medium.com/acryptos/what-sets-acryptos-apart-d6345e2f5d7f) from most DeFi projects.
 
 In this section the major risks involved with investing funds in DeFi projects will be described along with the steps that ACryptoS have taken to mitigate these.
 
@@ -10,11 +10,13 @@ Be aware that investing in any DeFi project has risk. DeFi is relatively new and
 
 Resources:
 
-[Frequently Asked Questions](faq.md)
+[What sets AcryptoS apart?](https://medium.com/acryptos/what-sets-acryptos-apart-d6345e2f5d7f) by x.ACryptoS
 
 [List of Audits](security-and-risks.md#audits)
 
 [Deployed Smart Contracts Address](security-and-risks.md#deployed-smart-contracts-address)
+
+[Frequently Asked Questions](faq.md)
 
 
 
