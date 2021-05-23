@@ -12,7 +12,7 @@ Resources:
 
 [Frequently Asked Questions](faq.md)
 
-[Deployed Smart Contracts Address](security-and-risks.md#Deployed-Smart-Contracts-Address)
+[Deployed Smart Contracts Address](security-and-risks.md#deployed-smart-contracts-address)
 
 
 
