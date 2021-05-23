@@ -15,7 +15,7 @@ ACryptoS offers two products on the Binance Smart Chain \(BSC\).
 
 ACryptoS provides exceptional tokenomics to reward vault holders of their native tokens; $ACS and $ACSI.
 
-These include getting up to 2.5x on APY from farms, receiving distribution of almost all fees, and being able to take part in governance.
+These include getting up to [2.5x on APY](https://docs.acryptos.com/acryptos-farms#acs-rewards-boost) from farms, receiving distribution of almost all fees, and being able to take part in governance.
 
 Resources:
 
