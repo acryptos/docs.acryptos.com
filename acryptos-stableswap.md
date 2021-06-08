@@ -66,5 +66,5 @@ This effectively means if you deposit a token that the pool has a lower proporti
 
 In general, if the token's market prices are at peg, it would be profitable to help "rebalance" the pool by depositing or withdrawing. However this might not be the case if prices are off peg. For example, if DAI's market price is significantly above peg, it's proportion in the pool should be much lower than the others'. If you deposit more DAI, you might see a "positive" price impact but depositing too much would push the price of DAI in the pool down and arbitrageurs would be able to buy it from the pool and sell it elsewhere for a profit.
 
-Do note for metapools, a balanced proportion is achieved when the non-base token is equal to the base pool. For example, when ACS4VAI has 50% VAI and ACS4 has 50%.
+Do note for metapools, a balanced proportion is achieved when the non-base token is equal to the base pool, i.e. when ACS4VAI has 50% VAI and 50% ACS4.
 
