@@ -1,7 +1,7 @@
 ---
 description: >-
-  Built on Balancer V2, Acsi.Finance brings the first next-gen AMM protocol to
-  Binance Smart Chain.
+  Built on Balancer V2, Acsi.Finance brings the first next-generation AMM
+  protocol to Binance Smart Chain.
 ---
 
 # Acsi.Finance
