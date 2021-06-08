@@ -3,6 +3,7 @@
 * [Overview](README.md)
 * [ACryptoS Vaults](acryptos-vaults.md)
 * [ACryptoS StableSwap](acryptos-stableswap.md)
+* [Acsi.Finance](acsi.finance.md)
 * [ACryptoS Farms](acryptos-farms.md)
 * [Tokenomics & Fees](fees.md)
 * [Governance](governance.md)

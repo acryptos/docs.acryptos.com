@@ -8,7 +8,7 @@
 
 ACryptoS is a yield farming optimizer designed for the longer-term investor who values sustainable tokenomics, safety and careful risk management.
 
-ACryptoS offers two products on the Binance Smart Chain \(BSC\).
+ACryptoS offers three products on the Binance Smart Chain \(BSC\).
 
 1. [ACryptoS Vaults and Farms](https://app.acryptos.com/) \(Yield Farming Optimizer\)
 2. [ACryptoS StableSwap](https://app.acryptos.com/stableswap/) \(Stablecoin Decentralized Exchange \([DEX](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex)\) \)
