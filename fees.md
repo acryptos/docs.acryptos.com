@@ -14,7 +14,7 @@ ACS Farms emissions began at 0.088888 888888 888888 ACS/block from [~28 Oct 2020
 +10% reward to ACryptoS Dev Team**  
 Total ~3669 ACSI/day
 
-Maximum supply cap at 1,888,888 ACSI.
+Maximum supply cap at 1,888,888 ACSI. ACSI [emissions rate will be reduced to match ACS emissions rate on the day their total supplies are equal](https://vote.acryptos.com/#/acryptos/proposal/QmPsHBtnskXNfBn8DEEUkCoSSg8YsL1efdS6xh4r89uucQ), and will be reduced in sync moving forward.
 
 All parameters may be adjusted in future via governance.
 
