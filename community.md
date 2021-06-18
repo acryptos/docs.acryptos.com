@@ -1,10 +1,10 @@
 # Community resources
 
 ## Guides, tutorials, intros
-
-* [How to use ACryptoS Vaults and Farms \(Video Tutorial\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
-* [How to use ACryptoS StableSwap \(Video Tutorial\)](https://www.youtube.com/watch?v=xn-apvGCsFY) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
-* [ACS V2 Farms - How to get 2.5X APY Boost \(Video Tutorial\)](https://www.youtube.com/watch?v=RSqCKvsEZy0) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
+* [Acsi Finance (How-to Video Tutorial\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
+* [ACryptoS Vaults and Farms \(How-to Video Tutorial)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
+* [ACryptoS StableSwap \(How-to Video Tutorial\)](https://www.youtube.com/watch?v=xn-apvGCsFY) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
+* [How to get 2.5X APY Boost \(Video Tutorial\)](https://www.youtube.com/watch?v=RSqCKvsEZy0) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
 * [ACryptoS Detailed Introduction \(PDF\)](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/ACS-introduction.pdf?raw=true) - contributed by [Markus S](https://t.me/InvinoVMS)
 * [A detailed guide to ACryptoS](https://frontierprotocols.com/a-guide-to-acryptos/) - contributed by [Sherwood Pham](https://t.me/sherwoodpham)
 * [Step by step tutorial for auto-compounding and farming at ACryptoS](https://medbid.medium.com/step-by-step-tutorial-for-staking-and-farming-at-acryptos-com-42093a0fcb1d) - contributed by [Blight Night](https://t.me/BlightNight)
@@ -51,6 +51,7 @@
 * [German](https://t.me/acryptosgerman)
 * [Persian](https://t.me/AcryptosPersian)
 * [Polish](https://t.me/AcryptosPolish)
+* [Russian](https://t.me/acryptosr)
 
 ### Note: These materials are created by the community. If something is unclear, join our [official tg channel](https://t.me/acryptos9) and ask freely.
 
