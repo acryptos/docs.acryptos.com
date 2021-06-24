@@ -1,8 +1,9 @@
 # Community resources
 
 ## Guides, tutorials, intros
-* [Acsi Finance (How-to Video Tutorial\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
-* [ACryptoS Vaults and Farms \(How-to Video Tutorial)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
+
+* [Acsi Finance \(How-to Video Tutorial\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
+* [ACryptoS Vaults and Farms \(How-to Video Tutorial\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
 * [ACryptoS StableSwap \(How-to Video Tutorial\)](https://www.youtube.com/watch?v=xn-apvGCsFY) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
 * [How to get 2.5X APY Boost \(Video Tutorial\)](https://www.youtube.com/watch?v=RSqCKvsEZy0) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
 * [ACryptoS Detailed Introduction \(PDF\)](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/ACS-introduction.pdf?raw=true) - contributed by [Markus S](https://t.me/InvinoVMS)
@@ -19,8 +20,7 @@
 
 ## Statistics
 
-* [Statistics for ACS and ACSI: buyback](https://unrekt.net/acryptos/buyback.html)  - contributed by [HM - ](https://t.me/Toortheroot) [unrekt.net](https://unrekt.net/)
-* [Statistics for ACS and ACSI: Vault&Farm fees](https://unrekt.net/acryptos/vaultfees.html)  - contributed by [HM - ](https://t.me/Toortheroot) [unrekt.net](https://unrekt.net/)
+* [ACS and ACSI Revenue and Buy Back Statistics](https://app.unrekt.net/acryptos/)  - contributed by [HM - ](https://t.me/Toortheroot) [unrekt.net](https://unrekt.net/)
 
 ## Calculators
 
