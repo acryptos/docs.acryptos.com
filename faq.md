@@ -74,12 +74,9 @@ ACSI is traded on:
 
   The genesis mining is ~8888 ACS.
 
-
-  After the first emission cut \(15 Feb 2021\), the ACS emission was reduced by 18.65%.
-
-  After the second emission cut \(15 May 2021\), the ACS emission was reduced by additional 18.65%.
-
-  ACSI's emission was reduced by ~32% (17 June 2021), to match ACS' emissions.
+* After the first ACS emission cut (15 Feb 2021), the ACS emission was reduced by 18.65%.
+* After the second ACS emission cut (15 May 2021), the ACS emission was reduced by additional 18.65%.
+* After the first emission cut (17 June 2021), the ACSI emission was reduced by ~32%, to match ACS' emissions.
 
 
 ### 6. Are the tokenomic models of ACS and ACSI sustainable?
