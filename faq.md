@@ -7,7 +7,7 @@
 * ACS is the native token of ACryptoS \(connected with all the Vaults farming on PCS and Venus Protocol\), while ACSI is the native token of the StableSwap.
 * The core product of ACS is yield farming optimizers for multiple types of tokens.
 
-  The core product of ACSI is the StableSwap, which is an automated market maker.
+  The core products of ACSI are the [StableSwap](https://app.acryptos.com/stableswap/) (Stablecoin DEX) & [Acsi.Finance](https://app.acsi.finance/) (AMM).
 
 ### 2. Where is ACryptoS listed, where are ACS and ACSI traded?
 
@@ -27,6 +27,7 @@ ACryptoS is currently listed on:
 
 ACS is traded on:
 
+* [Acsi.Finance](https://app.acsi.finance/#/trade/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/0x4197C6EF3879a08cD51e5560da5064B773aa1d29)
 * [1inch](https://app.1inch.io/#/r/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC/BNB/ACS?network=56)
 * [Swipe Swap](https://swipe.org/swap.html)
 * [OpenOcean](https://openocean.finance/classic)
@@ -37,6 +38,7 @@ ACS is traded on:
 
 ACSI is traded on:
 
+* [Acsi.Finance](https://app.acsi.finance/#/trade/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/0x5b17b4d5e4009B5C43e3e3d63A5229F794cBA389)
 * [1inch](https://app.1inch.io/#/r/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC/ACS/ACSI?network=56)
 * [Swipe Swap](https://swipe.org/swap.html) \(low liquidity atm\)
 * [OpenOcean](https://openocean.finance/classic)
@@ -44,7 +46,6 @@ ACSI is traded on:
 * [DeBank](https://debank.com/swap?amount=1&chain=bsc&from=0x4197c6ef3879a08cd51e5560da5064b773aa1d29&to=0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389)
 * [Unifi](https://binance.unifiprotocol.com/) \(low liquidity atm\)
 
-Be careful when buying ACSI. The main liquidity for ACSI is in the ACS-ACSI pair, so you might want to get ACS first.
 
 ### 3. What is the maximum supply cap?
 
@@ -55,7 +56,7 @@ Be careful when buying ACSI. The main liquidity for ACSI is in the ACS-ACSI pair
 
 * Yes. The system is designed to constantly buy-back ACS \(using the withdrawal fee + the performance fee\), and then those ACS are distributed to the acsACS holders.
 
-  There are also constant buybacks for ACSI, using 50% of the swap fee from the StableSwap, and then those ACSI are distributed to the acsACSI holders.
+  There are also constant buybacks for ACSI (using 50% of the swap fee from the StableSwap and 50% of the swap fees from Acsi.Finance), and then those ACSI are distributed to the acsACSI holders.
 
   You can read more [here](https://www.reddit.com/r/ACryptoS/comments/kth0v2/valuing_users_commitment_buyback_instead_of_burn/).
 
@@ -74,13 +75,14 @@ Be careful when buying ACSI. The main liquidity for ACSI is in the ACS-ACSI pair
   The genesis mining is ~8888 ACS.
 
   After the first emission cut \(15 Feb 2021\), the ACS emission was reduced by 18.65%.
+  After the second emission cut \(15 May 2021\), the ACS emission was reduced by additional 18.65%.
+  ACSI's emission was reduced by ~32% (17 June 2021), to match ACS' emissions.
 
-* The ACSI emission is still ~3746 ACSI tokens per day.
 
 ### 6. Are the tokenomic models of ACS and ACSI sustainable?
 
-* For ACS: the performance and withdrawal fees gained from providing the yield farming services to users are used to buy-back ACS from the market and then the ACS is redistributed to the ACS Stakers. This ensures a sustainable future of ACS.
-* For ACSI: 50% of the fees gained from stablecoin swap are used to buy-back ACSI from the market and then the ACSI is redistributed to the ACSI Stakers. This ensures a sustainable future of ACSI.
+* For ACS: the performance and withdrawal fees gained from providing the yield farming services to users are used to buy-back ACS from the market and then those ACS are redistributed to the ACS Vault Stakers. This ensures a sustainable future of ACS.
+* For ACSI: 50% of the fees gained from the StableSwap and 50% of the fees gained from Acsi.Finance are used to buy-back ACSI from the market and then those ACSI are redistributed to the ACSI Vault Stakers. This ensures a sustainable future of ACSI.
 
 ### 7. What is the vision of ACS and ACSI
 
@@ -112,13 +114,13 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
 * No.
 
-### 2. Is there a Atake fee?
+### 2. Is there a Stake fee?
 
 * No.
 
 ### 3. What are the fees?
 
-* There is a 0.5% withdrawal fee \(0.1% on vaults marked with "new fees"\). This fee is applied on all vaults \(except the ACS Vault and the ACSI Vault\).
+* There is a 0.1% withdrawal fee. This fee is applied on all vaults \(except the ACS Vault and the ACSI Vault\).
 * For the ACS Vault and the ACSI Vault, the withdrawal fee is 10% \(applied only on the amount you withdraw\).
 
   Example: If you have 1000 ACS in the ACS Vault, and you decide to withdraw 100 ACS, the fee will be 10 ACS.
@@ -135,7 +137,7 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 ### 5. Which fees are visible and which are already included in the APR?
 
 * The vault’s performance fee and workers fee are already included in the APY you see, so no need to do any math on that.
-* You only need to be careful with the farms’ harvest fee \(0.03 ACS , 0.06 ACSI\), the vaults' withdrawal fee \(0.5% or 0.1%\), and the withdrawal fee on the ACS Vault & ACSI Vault \(10%\).
+* You only need to be careful with the farms’ harvest fee \(0.03 ACS , 0.06 ACSI\), the vaults' withdrawal fee \(0.1%\), and the withdrawal fee on the ACS Vault & ACSI Vault \(10%\).
 
 ### 6. What are the fees on the StableSwap?
 
@@ -143,7 +145,12 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
   All this is possible thanks to Curve’s [specialized algorithm tailored for trading of stablecoins and other pegged assets](https://www.curve.fi/stableswap-paper.pdf).
 
-### 7. What is the difference between APR and APY?
+### 7. What are the fees on Acsi.Finance?
+
+* There are different metapools on Acsi.Finance (up to 8 tokens in a pool), and there are different fees attached to every pool. 
+You can check the fees with clicking on the pool........
+
+### 8. What is the difference between APR and APY?
 
 * APR reflects the simple interest rate over a year’s time \(APR/365\), while APY describes the rate with the effect of compounding.
 
@@ -158,12 +165,12 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
 * Yes, ACS auto-compounds in the ACS Vault.
 
-  If you have Pending ACS in one of the other Vaults, you first need to harvest those ACS and transfer them to the ACS Vault.
+  If you have Pending ACS in one of the other Vaults&Farms, you first need to harvest those ACS and transfer them to the ACS Vault.
 
 ### 3. How the auto-compounding works \(and what is the Workers tab\)?
 
 * Currently there is a bot that automatically harvests each Vault at least once a day. 
-* There is also the Workers tab, where anyone can manually harvest each Vault \(and get the associated fee\).
+* There is also the [Workers tab](https://app.acryptos.com/worker/), where anyone can manually harvest each Vault \(and get the associated fee\).
 
   The Workers tab is just a backup, the normal user does not have to use it.
 
