@@ -74,9 +74,10 @@ ACSI is traded on:
 
   The genesis mining is ~8888 ACS.
 
+
 * After the first ACS emission cut (15 Feb 2021), the ACS emission was reduced by 18.65%.
 * After the second ACS emission cut (15 May 2021), the ACS emission was reduced by additional 18.65%.
-* After the first emission cut (17 June 2021), the ACSI emission was reduced by ~32%, to match ACS' emissions.
+* After the first ACSI emission cut (17 June 2021), the ACSI emission was reduced by ~32%, to match ACS' emissions.
 
 
 ### 6. Are the tokenomic models of ACS and ACSI sustainable?
@@ -84,10 +85,10 @@ ACSI is traded on:
 * For ACS: the performance and withdrawal fees gained from providing the yield farming services to users are used to buy-back ACS from the market and then those ACS are redistributed to the ACS Vault Stakers. This ensures a sustainable future of ACS.
 * For ACSI: 50% of the fees gained from the StableSwap and 50% of the fees gained from Acsi.Finance are used to buy-back ACSI from the market and then those ACSI are redistributed to the ACSI Vault Stakers. This ensures a sustainable future of ACSI.
 
-### 7. What is the vision of ACS and ACSI
+### 7. What is the vision of ACS and ACSI?
 
-* The vision of ACS is to be the YFI on the Binance Smart Chain \(BSC\).
-* The vision of ACSI is to be the Curve \(Crv\) on the Binance Smart Chain \(BSC\).
+* The vision of ACS is to be a long-term and sustainable yield optimizer on BSC, with a focus on safety.
+* The vision of ACSI is to be the next-gen AMM on BSC, with new features to slash gas costs, super-charge capital efficiency, unlock arbitrage with zero-token starting capital, and open the door to custom AMMs.
 
 ## Security
 
