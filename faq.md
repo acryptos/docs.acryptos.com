@@ -7,7 +7,7 @@
 * ACS is the native token of ACryptoS \(connected with all the Vaults farming on PCS and Venus Protocol\), while ACSI is the native token of the StableSwap.
 * The core product of ACS is yield farming optimizers for multiple types of tokens.
 
-  The core products of ACSI are the [StableSwap](https://app.acryptos.com/stableswap/) (Stablecoin DEX) & [Acsi.Finance](https://app.acsi.finance/) (AMM).
+  The core products of ACSI are the [StableSwap](https://app.acryptos.com/stableswap/) \(Stablecoin DEX\) & [Acsi.Finance](https://app.acsi.finance/) \(AMM\).
 
 ### 2. Where is ACryptoS listed, where are ACS and ACSI traded?
 
@@ -48,7 +48,6 @@ ACSI is traded on:
 * [DeBank](https://debank.com/swap?amount=1&chain=bsc&from=0x4197c6ef3879a08cd51e5560da5064b773aa1d29&to=0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389)
 * [Unifi](https://binance.unifiprotocol.com/) \(low liquidity atm\)
 
-
 ### 3. What is the maximum supply cap?
 
 * The maximum supply cap for ACS is 1,888,888.
@@ -58,7 +57,7 @@ ACSI is traded on:
 
 * Yes. The system is designed to constantly buy-back ACS \(using the withdrawal fee + the performance fee\), and then those ACS are distributed to the acsACS holders.
 
-  There are also constant buybacks for ACSI (using 50% of the swap fee from the StableSwap and 50% of the swap fees from Acsi.Finance), and then those ACSI are distributed to the acsACSI holders.
+  There are also constant buybacks for ACSI \(using 50% of the swap fee from the StableSwap and 50% of the swap fees from Acsi.Finance\), and then those ACSI are distributed to the acsACSI holders.
 
   You can read more [here](https://www.reddit.com/r/ACryptoS/comments/kth0v2/valuing_users_commitment_buyback_instead_of_burn/).
 
@@ -76,11 +75,9 @@ ACSI is traded on:
 
   The genesis mining is ~8888 ACS.
 
-
-* After the first ACS emission cut (15 Feb 2021), the ACS emission was reduced by 18.65%.
-* After the second ACS emission cut (15 May 2021), the ACS emission was reduced by additional 18.65%.
-* After the first ACSI emission cut (17 June 2021), the ACSI emission was reduced by ~32%, to match ACS' emissions.
-
+* After the first ACS emission cut \(15 Feb 2021\), the ACS emission was reduced by 18.65%.
+* After the second ACS emission cut \(15 May 2021\), the ACS emission was reduced by additional 18.65%.
+* After the first ACSI emission cut \(17 June 2021\), the ACSI emission was reduced by ~32%, to match ACS' emissions.
 
 ### 6. Are the tokenomic models of ACS and ACSI sustainable?
 
@@ -150,8 +147,9 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
 ### 7. What are the fees on Acsi.Finance?
 
-* There are different metapools on Acsi.Finance (up to 8 tokens in a pool), and there are different fees attached to every pool. 
-You can check the fees with clicking on the pool........
+* There are different metapools on Acsi.Finance \(up to 8 tokens in a pool\), and there are different fees attached to every pool. 
+
+  You can check the fees with clicking on the pool........
 
 ### 8. What is the difference between APR and APY?
 

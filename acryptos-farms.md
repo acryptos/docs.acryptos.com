@@ -8,21 +8,19 @@ description: >-
 
 Most Vaults and StableSwap pools will have a corresponding Farm where they can be staked to earn ACS or ACSI. Be sure to stake in the Farm after depositing into a Vault or StableSwap pool.
 
-## ACS Rewards Boost
+## Farm Rewards Boost
 
-In ACS Farms, ACS Vault holdings are used to boost ACS rewards by **up to 2.5X**.
+Governance Vault \(ACS or ACSI\) holdings are used to boost their respective Farm rewards by **up to 2.5X**.
 
 The amount of boost is determined via the following formula:
 
-**1.5 \* \[% user's share of acsACS\] \* \[TVL in Farm\]**
+**1.5 \* \[% user's share of Governance Vault\] \* \[TVL in Farm\]**
 
 Example:
 
 User deposits 20 LTC in Vault&Farm, there is 1500 LTC in the farm in total, and user has 1% share of the ACS Vault.
 
-His available boost is 1.5 \* 1% \* 1500 = 22.5 LTC, so a share of 20 + 22.5 = 42.5
-
-LTC will be used to calculate his ACS Rewards.
+His available boost is 1.5 \* 1% \* 1500 = 22.5 LTC, so a share of 20 + 22.5 = 42.5 LTC will be used to calculate his ACS Rewards.
 
 If he deposits only 1 LTC, it will be boosted **up to the maximum 2.5X of 2.5 LTC**.
 
@@ -32,7 +30,8 @@ If he deposits 100 LTC, it will be boosted to 100 + 22.5 = 122.5 LTC.
   * Stake
   * Un-stake
   * Harvest
-* Users boost calculation is for each farm individually.
+  * Force boost
+* User's boost calculation is for each farm individually.
 
 ### **User Interface**
 
