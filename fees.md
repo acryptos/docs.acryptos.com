@@ -55,7 +55,7 @@ Used to buy ACS and distributed to ACS holders via ACS Vault.
 **Strategist fee:** **0.5% of gains harvested**  
 To strategy creator.
 
-**Harvester subsidy: 0.3% of gains harvested**  
+**Harvester subsidy: up to 0.3% of gains harvested**  
 Paid to Workers to offset gas fees.
 
 **The above Vault fees \(withdrawal/performance/etc\) do not apply to Pure Farms.** This includes all StableSwap Farms and ACS-ACSI Farm.
