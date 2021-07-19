@@ -50,7 +50,7 @@ Used to buy ACS and distributed to ACS holders via ACS Vault
 **Performance fee: 24.5% of gains harvested**  
 Used to buy ACS and distributed to ACS holders via ACS Vault.  
   
-****The following Vaults have a lower 14.5% performance fee: BNB, BTC, ETH, SXP, LTC, BCH, DOT, LINK, ADA, XRP, BETH, BUSD, USDT, DAI, USDC.
+****The following Vaults have a lower 14.5% performance fee: BNB, BTC, ETH, SXP, LTC, BCH, DOT, LINK, ADA, XRP,  BETH, DOGE, FIL, MATIC, BUSD, USDT, DAI, USDC.
 
 **Strategist fee:** **0.5% of gains harvested**  
 To strategy creator.
