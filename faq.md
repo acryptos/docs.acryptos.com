@@ -125,8 +125,7 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
   Example: If you have 1000 ACS in the ACS Vault, and you decide to withdraw 100 ACS, the fee will be 10 ACS.
 
-* The performance fee is 5% \(25% on vaults marked with "new fees"\) - already included in the APY
-* the workers fee is 0.3% - already included in the APY
+* The performance fee and the workers fee are already included in the APY.
 
 ### 4. What are the harvest fees on the farms?
 
@@ -214,7 +213,7 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
 ### 1. Is there a treasury?
 
-* Yes. A treasury was formed to fund anything that adds value to the protocol, taking up to 3% of ACS emissions.
+* Yes. A treasury was formed to fund anything that adds value to the protocol, taking up to 3% of ACS & ACSI emissions.
 
 ### 2. What is the main goal of the treasury?
 
@@ -234,7 +233,7 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
 ### 6. Who can create a new vote/proposal?
 
-* Anyone who holds at least 88 ACS.
+* Anyone who holds at least 88 ACS (or the equivalent in ACSI).
 
 ### 7. Which governance platform is used for voting?
 
