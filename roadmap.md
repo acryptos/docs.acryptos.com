@@ -4,7 +4,7 @@
 
 ### ACryptoS Roadmap v1.0
 
-_updated 2021-08-18_
+_updated 2021-08-19_
 
 ## **2020:**
 
@@ -118,5 +118,31 @@ _updated 2021-08-18_
 * Emissions Reduction
   - 3rd ACS emission reduction (Aug 15)
   - 3rd ACSI emission reduction (Aug 15)
+
+
+### **----- Q4 ------**
+
+* Protocol Updates
+  - gradual migration of ACSI StableSwap to Acsi.Finance
+  - Acsi.Finance Asset Manager to synergize with ACS Vaults
+  - LP farming with options between ACS or ACSI
+* Rebranding (with focus on building trust, and generating hype & user growth)
+* UI design (factoring in rebranding and Acsi.Finance UI)
+* Marketing & Expansion
+  - Influencer outreach
+  - Community AMA/Townhall sessions
+  - User education & conversion campaigns
+  - Exposure to bigger communities
+    * Reddit 
+    * Discord
+  - Growing language groups globally
+* Exploration of cross-chain possibilities & options
+* Partnerships
+  - ongoing talks with multiple platforms for more Vaults & Farms
+  - Promoting IDO launches via Acsi.Finance
+* Acsi.Finance integration by OpenOcean (in progress)
+* Acsi.Finance integration (with volume tracking) by Coinmarketcap
+* Acsi.Finance integration (with volume tracking) by Coingecko
+
 
 
