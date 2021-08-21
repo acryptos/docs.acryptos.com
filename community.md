@@ -2,8 +2,8 @@
 
 ## Guides, tutorials, intros
 
-* [Acsi Finance \(How-to Video Tutorial\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
-* [ACryptoS Vaults and Farms \(How-to Video Tutorial\)](https://www.youtube.com/watch?v=DBiA7-CY4PE) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
+* [Acsi Finance \(How-to Video Tutorial\)](https://www.youtube.com/watch?v=oe5DyLA1p0I) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
+* [ACryptoS Vaults and Farms \(How-to Video Tutorial\)](https://youtu.be/ouuFG_xsSBc) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
 * [ACryptoS StableSwap \(How-to Video Tutorial\)](https://www.youtube.com/watch?v=xn-apvGCsFY) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
 * [How to get 2.5X APY Boost \(Video Tutorial\)](https://www.youtube.com/watch?v=RSqCKvsEZy0) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
 * [ACryptoS Detailed Introduction \(PDF\)](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/ACS-introduction.pdf?raw=true) - contributed by [Markus S](https://t.me/InvinoVMS)
