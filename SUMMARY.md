@@ -9,6 +9,7 @@
 * [Governance](governance.md)
 * [Roadmap](roadmap.md)
 * [Security & Risks](security-and-risks.md)
+* [Bug Bounty](bug-bounty.md)
 * [FAQ](faq.md)
 * [Community resources](community.md)
 * [App](https://app.acryptos.com/)
