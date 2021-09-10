@@ -10,7 +10,7 @@ If you think you have found a security bug in our platform, we are more than hap
 
 Please submit reports in as much detail as possible. We take our platform security very seriously and detailed reports of possible critical issues is highly appreciated.
 
-**The initial ACryptoS Bug Bounty Fund contains $100,000 - stored in the Treasury.**
+**The initial ACryptoS Bug Bounty Fund contains $100,000 - stored in the [Treasury](governance.md#treasury).**
 
 <br>
 
