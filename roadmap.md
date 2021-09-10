@@ -63,86 +63,82 @@ _updated 2021-08-19_
 * ACS x SCV NFT ✅
 * Community contributor rewards of $30000 ✅
 * Strategic Partnerships ✅
-  - 11 Mdex vaults deployed ✅
-  - Terra USD ✅
-  - pNetwork ✅
-  - Ren Project ✅
-
+  * 11 Mdex vaults deployed ✅
+  * Terra USD ✅
+  * pNetwork ✅
+  * Ren Project ✅
 
 ### **----- Q3 ------**
 
 * Acsi.Finance Developments
-  - Custom weight ratio, multi-token pools launched
-  - Stable Pools launched
-  - $ACSI listed on coinmarketcap
+  * Custom weight ratio, multi-token pools launched
+  * Stable Pools launched
+  * $ACSI listed on coinmarketcap
 * Governance
-  - community votes for promos
-  - new fees structure voted by DAO
-  - reduction of withdrawal fees
+  * community votes for promos
+  * new fees structure voted by DAO
+  * reduction of withdrawal fees
 * Partnerships
-  - Unifi dual token mining farm + AMA
-  - Ontology dual token mining farm + AMA
+  * Unifi dual token mining farm + AMA
+  * Ontology dual token mining farm + AMA
 * Protocol Updates
-  - First native ACSI-BNB farm on Unifi Protocol
-  - Addition of ACS-BNB native farm on Unifi Protocol
-  - DEX Aggregators
-  - Acsi.Finance integrated by 1inch 
-  - the only functioning Venus vaults in BSC
-  - Token highlights: MATIC, DOGE, FIL, XVS single token staking
+  * First native ACSI-BNB farm on Unifi Protocol
+  * Addition of ACS-BNB native farm on Unifi Protocol
+  * DEX Aggregators
+  * Acsi.Finance integrated by 1inch 
+  * the only functioning Venus vaults in BSC
+  * Token highlights: MATIC, DOGE, FIL, XVS single token staking
 * Team Expansion
-  - new Core DAO Samurai enlisted
-  - growth of Marketing team
-  - growth of BizDev team
-  - new Community Samurais enlisted
+  * new Core DAO Samurai enlisted
+  * growth of Marketing team
+  * growth of BizDev team
+  * new Community Samurais enlisted
 * preparation for additional audits
 * Advertising Outreach
-  - DappRadar airdrop campaign
-  - DappRadar banner and ranking ads
+  * DappRadar airdrop campaign
+  * DappRadar banner and ranking ads
 * Monitoring Sites Integration
-  - Ape Board
-  - 0xTracker
-  - DeBank
-  - unrekt
-  - DappRadar
+  * Ape Board
+  * 0xTracker
+  * DeBank
+  * unrekt
+  * DappRadar
 * Wallet Integration
-  - Binance Chain
-  - Wallet Connect
-  - ONTO Wallet
-  - Bitkeep
+  * Binance Chain
+  * Wallet Connect
+  * ONTO Wallet
+  * Bitkeep
 * UI UX updates
-  - Stake All option for Deposits
-  - Pending Harvest sorted by $ value instead of token amount
-  - Pending Harvests display $ value
-  - APY display shows Min, Max and Platform Average (based on 2.5X Boost)
-  - ACSI Finance - Dark Mode
+  * Stake All option for Deposits
+  * Pending Harvest sorted by $ value instead of token amount
+  * Pending Harvests display $ value
+  * APY display shows Min, Max and Platform Average \(based on 2.5X Boost\)
+  * ACSI Finance - Dark Mode
 * Emissions Reduction
-  - 3rd ACS emission reduction (Aug 15)
-  - 3rd ACSI emission reduction (Aug 15)
-
+  * 3rd ACS emission reduction \(Aug 15\)
+  * 3rd ACSI emission reduction \(Aug 15\)
 
 ### **----- Q4 ------**
 
 * Protocol Updates
-  - gradual migration of ACSI StableSwap to Acsi.Finance
-  - Acsi.Finance Asset Manager to synergize with ACS Vaults
-  - LP farming with options between ACS or ACSI
-* Rebranding (with focus on building trust, and generating hype & user growth)
-* UI design (factoring in rebranding and Acsi.Finance UI)
+  * gradual migration of ACSI StableSwap to Acsi.Finance
+  * Acsi.Finance Asset Manager to synergize with ACS Vaults
+  * LP farming with options between ACS or ACSI
+* Rebranding \(with focus on building trust, and generating hype & user growth\)
+* UI design \(factoring in rebranding and Acsi.Finance UI\)
 * Marketing & Expansion
-  - Influencer outreach
-  - Community AMA/Townhall sessions
-  - User education & conversion campaigns
-  - Exposure to bigger communities
+  * Influencer outreach
+  * Community AMA/Townhall sessions
+  * User education & conversion campaigns
+  * Exposure to bigger communities
     * Reddit 
     * Discord
-  - Growing language groups globally
+  * Growing language groups globally
 * Exploration of cross-chain possibilities & options
 * Partnerships
-  - ongoing talks with multiple platforms for more Vaults & Farms
-  - Promoting IDO launches via Acsi.Finance
-* Acsi.Finance integration by OpenOcean (in progress)
-* Acsi.Finance integration (with volume tracking) by Coinmarketcap
-* Acsi.Finance integration (with volume tracking) by Coingecko
-
-
+  * ongoing talks with multiple platforms for more Vaults & Farms
+  * Promoting IDO launches via Acsi.Finance
+* Acsi.Finance integration by OpenOcean \(in progress\)
+* Acsi.Finance integration \(with volume tracking\) by Coinmarketcap
+* Acsi.Finance integration \(with volume tracking\) by Coingecko
 

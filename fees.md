@@ -49,10 +49,10 @@ Used to buy ACS and distributed to ACS holders via ACS Vault
 
 **The following performance / strategist / harvester fees are transparent to users and already accounted for in the displayed "Vault APY".** We disclose them here for transparency.
 
-**Performance fee: 24.5% of gains harvested**  
+**Performance fee:**  
+Venus and Channels Vaults: **14.5% of gains harvested**  
+All other Vaults: **24.5% of gains harvested**  
 Used to buy ACS and distributed to ACS holders via ACS Vault.
-
-_\*\*_The following Vaults have a lower 14.5% performance fee: BNB, BTC, ETH, SXP, LTC, BCH, DOT, LINK, ADA, XRP, BETH, DOGE, FIL, MATIC, BUSD, USDT, DAI, USDC.
 
 **Strategist fee:** **0.5% of gains harvested**  
 To strategy creator.
