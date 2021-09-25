@@ -56,6 +56,16 @@ Resources:
 
 [Advanced Yield Farming Strategies on Venus protocol](https://medium.com/acryptos/advanced-yield-farming-strategies-on-venus-protocol-46a4044573fc) - by x.ACryptoS
 
+## Channels Vaults
+
+These Vaults stake recursively on Channels at ~7.6X leverage, farms CAN and swaps it for more of the staked token.
+
+At start, users may notice the value of their holdings in the Vault **slowly decreasing on each block**.
+
+This is normal because we are using leverage on Channels, and the borrow amount increases faster than the supply amount. Also the value of the farmed CAN is not included at start.
+
+The balance will increase once CAN is included \(after each harvest of the Vault\).
+
 ## CAKE Vault
 
 This Vault stakes and farms CAKE on PancakeSwap.
@@ -64,9 +74,16 @@ This Vault stakes and farms CAKE on PancakeSwap.
 
 These Vaults stake PancakeSwap LP tokens, farms CAKE and swaps it for more of the staked LP tokens.
 
-## SwipeSwap Liquidity Provider \(LP\) Vaults
 
-These Vaults stake SwipeSwap LP tokens, farms SXP and swaps it for more of the staked LP tokens.
+## MDX Vault 
+
+This Vault stakes and farms MDX on Mdex.
+
+
+## Mdex Liquidity Provider \(LP\) Vaults
+
+These Vaults stake Mdex LP tokens, farms MDX and swaps it for more of the staked LP tokens.
+
 
 ## Workers
 
