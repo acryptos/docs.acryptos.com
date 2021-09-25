@@ -4,10 +4,9 @@
 
 ### 1. What is ACS and what is ACSI? What are their core products?
 
-* ACS is the native token of ACryptoS \(connected with all the Vaults farming on PCS and Venus Protocol\), while ACSI is the native token of the StableSwap.
-* The core product of ACS is yield farming optimizers for multiple types of tokens.
-
-  The core products of ACSI are the [StableSwap](https://app.acryptos.com/stableswap/) \(Stablecoin DEX\) & [Acsi.Finance](https://app.acsi.finance/) \(AMM\).
+* ACS is the native token of ACryptoS \(connected with all the Vaults farming on PCS, Venus, Channels, MDEX & Unifi), while ACSI is the native token of the StableSwap & Acsi.Finance.
+  - The core product of ACS is yield farming optimizers for multiple types of tokens.
+  - The core products of ACSI are the [StableSwap](https://app.acryptos.com/stableswap/) \(Stablecoin DEX\) & [Acsi.Finance](https://app.acsi.finance/) \(AMM\).
 
 ### 2. Where is ACryptoS listed, where are ACS and ACSI traded?
 
@@ -63,7 +62,7 @@ ACSI is traded on:
 
 ### 5. How many tokens are minted per day?
 
-* There was a constant daily emission rate of ~3746 ACS tokens:
+* At start, there was a constant daily emission rate of ~3746 ACS tokens:
 
   ~2560 ACS to the farms
 
@@ -148,11 +147,8 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
 * There are different metapools on Acsi.Finance \(up to 8 tokens in a pool\), and there are different fees attached to every pool.
 
-  You can check the fees with clicking on the pool........
+  You can check the fees with clicking on the pool.
 
-### 8. What is the difference between APR and APY?
-
-* APR reflects the simple interest rate over a year’s time \(APR/365\), while APY describes the rate with the effect of compounding.
 
 ## Technical and UI
 
@@ -161,20 +157,28 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 * When you Deposit tokens to a Vault, the deposited tokens start to auto-compound right away. 
 * When you Stake those same tokens, you start earning ACS.
 
-### 2. Does ACS auto-compound?
+### 2. Is my ACS auto-compounding?
 
 * Yes, ACS auto-compounds in the ACS Vault.
 
   If you have Pending ACS in one of the other Vaults&Farms, you first need to harvest those ACS and transfer them to the ACS Vault.
 
-### 3. How the auto-compounding works \(and what is the Workers tab\)?
 
-* Currently there is a bot that automatically harvests each Vault at least once a day. 
+### 3. Is my ACSI auto-compounding?
+
+* Yes, ACSI auto-compounds in the ACSI Vault.
+
+  If you have Pending ACSI in one of the other Vaults&Farms, you first need to harvest those ACSI and transfer them to the ACSI Vault.
+  
+
+### 4. How the auto-compounding works \(and what is the Workers tab\)?
+
+* Currently there is a bot that automatically harvests (compounds) each Vault. 
 * There is also the [Workers tab](https://app.acryptos.com/worker/), where anyone can manually harvest each Vault \(and get the associated fee\).
 
   The Workers tab is just a backup, the normal user does not have to use it.
 
-### 4. When does the ACS buy-back happen?
+### 5. When does the ACS buy-back happen?
 
 * The ACS buy-back happens when the bot harvests the ACS Vault.
 
@@ -184,7 +188,7 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
 * The same method is used for the ACSI buyback.
 
-### 5. How does the Venus strategies work?
+### 6. How does the Venus & Channels strategies work?
 
 * By supplying an asset and borrowing the same asset to resupply with.
 
@@ -192,22 +196,26 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
   With this method we are earning both supply and borrow rewards, with minimal liquidation risk as we are using a single asset.
 
-### 6. Why does the APR on some Vaults show weird numbers?
+### 7. Why does the APR on some Vaults show weird numbers?
 
 * The UI shows the average APR of the last 3 days.
 
   So if a Vault is new, the numbers could be off.
 
-### 7. I cannot find the “harvest” or “withdraw” button, where are they?
+### 8. I cannot find the “harvest” or “withdraw” button, where are they?
 
 * The User interface \(UI\) is dynamic. The harvest button appears after you have at least 0.03 ACS Pending for harvest.
 * If your assets are Staked, the Withdraw button appears after the Unstake.
 
-### 8. What is ACS4USD/ACS4VAI/ACS4UST?
+### 9. What is ACS4USD/ACS4VAI/ACS4UST?
 
 * When you deposit Stable coins to the StableSwap, you receive ACS4_\*_ tokens as a receipt/proof of deposit.
 
   Then you can stake those ACS4_\*_ tokens in the ACSI farms to earn ACSI.
+  
+### 10. What is the difference between APR and APY?
+
+* APR reflects the simple interest rate over a year’s time \(APR/365\), while APY describes the rate with the effect of compounding.
 
 ## Governance and Voting
 
