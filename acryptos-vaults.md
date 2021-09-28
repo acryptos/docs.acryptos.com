@@ -74,16 +74,13 @@ This Vault stakes and farms CAKE on PancakeSwap.
 
 These Vaults stake PancakeSwap LP tokens, farms CAKE and swaps it for more of the staked LP tokens.
 
-
-## MDX Vault 
+## MDX Vault
 
 This Vault stakes and farms MDX on Mdex.
-
 
 ## Mdex Liquidity Provider \(LP\) Vaults
 
 These Vaults stake Mdex LP tokens, farms MDX and swaps it for more of the staked LP tokens.
-
 
 ## Workers
 

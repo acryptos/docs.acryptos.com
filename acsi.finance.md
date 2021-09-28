@@ -30,6 +30,15 @@ Balancer V2 brings powerful new features to slash gas costs, super-charge capita
 
 Acsi.Finance uses Balancer V2 contracts verbatim, which have completed [several full audits](https://docs.balancer.fi/core-concepts/security/audits) and have a comprehensive [bug bounty](https://docs.balancer.fi/core-concepts/security/bug-bounties) program.
 
+### Binance Smart Chain Deployments
+
+Vault: [0xa82f327BBbF0667356D2935C6532d164b06cEced](https://bscscan.com/address/0xa82f327BBbF0667356D2935C6532d164b06cEced)  
+WeightedPoolFactory: [0xB7238020C331E8cdfD26db299CFD2076df812e6F](https://bscscan.com/address/0xB7238020C331E8cdfD26db299CFD2076df812e6F)  
+WeightedPool2TokensFactory: [0xC8201dC54256C292FF8Ab9b5cB6b01e1A5097037](https://bscscan.com/address/0xC8201dC54256C292FF8Ab9b5cB6b01e1A5097037)  
+StablePoolFactory: [0xD2eAda8BffDabB9321E1512d897aFd3537dbc1A3](https://bscscan.com/address/0xD2eAda8BffDabB9321E1512d897aFd3537dbc1A3)  
+Authorizer: [0x1Bd090BFF5dE8Cbd74C0399197090c0Ec1d91f5c](https://bscscan.com/address/0x1Bd090BFF5dE8Cbd74C0399197090c0Ec1d91f5c)  
+BalancerHelpers: [0x2437b41252B5ACc774146cEFDE4D055115641675](https://bscscan.com/address/0x2437b41252B5ACc774146cEFDE4D055115641675)
+
 ## Price Impact for Liquidity Providers
 
 When you deposit into an Acsi.Finance pool, you receive an LP token representing a share of that pool. This represents all tokens in the pool at the proportions they are currently in.

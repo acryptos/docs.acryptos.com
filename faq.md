@@ -4,9 +4,9 @@
 
 ### 1. What is ACS and what is ACSI? What are their core products?
 
-* ACS is the native token of ACryptoS \(connected with all the Vaults farming on PCS, Venus, Channels, MDEX & Unifi), while ACSI is the native token of the StableSwap & Acsi.Finance.
-  - The core product of ACS is yield farming optimizers for multiple types of tokens.
-  - The core products of ACSI are the [StableSwap](https://app.acryptos.com/stableswap/) \(Stablecoin DEX\) & [Acsi.Finance](https://app.acsi.finance/) \(AMM\).
+* ACS is the native token of ACryptoS \(connected with all the Vaults farming on PCS, Venus, Channels, MDEX & Unifi\), while ACSI is the native token of the StableSwap & Acsi.Finance.
+  * The core product of ACS is yield farming optimizers for multiple types of tokens.
+  * The core products of ACSI are the [StableSwap](https://app.acryptos.com/stableswap/) \(Stablecoin DEX\) & [Acsi.Finance](https://app.acsi.finance/) \(AMM\).
 
 ### 2. Where is ACryptoS listed, where are ACS and ACSI traded?
 
@@ -149,7 +149,6 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
   You can check the fees with clicking on the pool.
 
-
 ## Technical and UI
 
 ### 1. What is the difference between Deposit \(Vault\) and Stake \(Farm\)?
@@ -163,17 +162,15 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
   If you have Pending ACS in one of the other Vaults&Farms, you first need to harvest those ACS and transfer them to the ACS Vault.
 
-
 ### 3. Is my ACSI auto-compounding?
 
 * Yes, ACSI auto-compounds in the ACSI Vault.
 
   If you have Pending ACSI in one of the other Vaults&Farms, you first need to harvest those ACSI and transfer them to the ACSI Vault.
-  
 
 ### 4. How the auto-compounding works \(and what is the Workers tab\)?
 
-* Currently there is a bot that automatically harvests (compounds) each Vault. 
+* Currently there is a bot that automatically harvests \(compounds\) each Vault. 
 * There is also the [Workers tab](https://app.acryptos.com/worker/), where anyone can manually harvest each Vault \(and get the associated fee\).
 
   The Workers tab is just a backup, the normal user does not have to use it.
@@ -212,7 +209,7 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 * When you deposit Stable coins to the StableSwap, you receive ACS4_\*_ tokens as a receipt/proof of deposit.
 
   Then you can stake those ACS4_\*_ tokens in the ACSI farms to earn ACSI.
-  
+
 ### 10. What is the difference between APR and APY?
 
 * APR reflects the simple interest rate over a year’s time \(APR/365\), while APY describes the rate with the effect of compounding.
