@@ -145,9 +145,9 @@ Yes. The project has been audited. [Refer to here for the list of Audits](https:
 
 ### 7. What are the fees on Acsi.Finance?
 
-* There are different metapools on Acsi.Finance \(up to 8 tokens in a pool\), and there are different fees attached to every pool.
+* There are different pools on Acsi.Finance \(up to 8 tokens in a pool\), and there are different fees attached to every pool.
 
-  You can check the fees with clicking on the pool.
+  You can check the fees with clicking on each pool.
 
 ## Technical and UI
 
