@@ -17,6 +17,8 @@
 * [ACryptoS' Yield Aggregation Ecosystem](https://github.com/acryptos/docs.acryptos.com/blob/master/images/ACS-VaultFarm-Flow-0.03.png?raw=true) - contributed by [HM - ](https://t.me/Toortheroot) [unrekt.net](https://unrekt.net/)
 * [ACS UI and Fees](https://github.com/acryptos/docs.acryptos.com/blob/master/images/ACS-UI-and-Fees.png?raw=true) - contributed by [Markus S](https://t.me/InvinoVMS)
 * [Swap APY x Vault APY x Farm APR](https://github.com/acryptos/docs.acryptos.com/blob/master/images/APYs.jpg?raw=true) - contributed by [Jake](https://t.me/manxsir)
+* [ACS ACSI Buyback Trends in USD(Nov 2020 - Oct 2021) (https://github.com/acryptos/docs.acryptos.com/blob/master/images/ACS-ACSI-buyback-USD.jpg) - contributed by [RationalPerspective](https://t.me/RationalPerspective)
+* [ACS ACSI Buyback Trends (Nov 2020 - Oct 2021) (https://github.com/acryptos/docs.acryptos.com/blob/master/images/ACS-ACSI-buyback-tokenVol.jpg) - contributed by [RationalPerspective](https://t.me/RationalPerspective)
 
 ## Statistics
 
