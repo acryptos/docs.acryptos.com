@@ -109,7 +109,7 @@ ACryptoS is one of the longest running DeFi projects on Binance Smart Chain \(it
 
 Furthermore, the smart contracts used in ACryptoS are forked from yearn.finance \(Vault, Controller, Strategy\), SushiSwap \(MasterChef\), Uniswap \(Uni\) and Curve \(StableSwap\). These are some of the biggest and most well-established projects in DeFi.
 
-ACSI.finance is a direct (non-fork) implementation of Balancer V2 \(BAL\) as well.
+ACSI.finance is a direct implementation of Balancer V2 \(BAL\) as well.
 
 **APRs/Returns**
 
