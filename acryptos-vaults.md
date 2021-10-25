@@ -44,7 +44,7 @@ ACS Vault and ACSI Vault are vaults for our native/governance tokens, which rece
 
 ## Venus Vaults
 
-These Vaults stake recursively on Venus at ~3.67X leverage, farms XVS and swaps it for more of the staked token.
+These Vaults stake recursively on Venus at ~7.6X leverage, farm XVS and swap it for more of the staked token.
 
 At start, users may notice the value of their holdings in the Vault **slowly decreasing on each block**.
 
@@ -58,13 +58,23 @@ Resources:
 
 ## Channels Vaults
 
-These Vaults stake recursively on Channels at ~7.6X leverage, farms CAN and swaps it for more of the staked token.
+These Vaults stake recursively on Channels at ~7.6X leverage, farm CAN and swap it for more of the staked token.
 
 At start, users may notice the value of their holdings in the Vault **slowly decreasing on each block**.
 
 This is normal because we are using leverage on Channels, and the borrow amount increases faster than the supply amount. Also the value of the farmed CAN is not included at start.
 
 The balance will increase once CAN is included \(after each harvest of the Vault\).
+
+## Atlantis Vaults
+
+These Vaults stake recursively on Atlantis at ~7.6X leverage, farm ATL and swap it for more of the staked token.
+
+At start, users may notice the value of their holdings in the Vault **slowly decreasing on each block**.
+
+This is normal because we are using leverage on Atlantis, and the borrow amount increases faster than the supply amount. Also the value of the farmed ATL is not included at start.
+
+The balance will increase once ATL is included \(after each harvest of the Vault\).
 
 ## CAKE Vault
 
