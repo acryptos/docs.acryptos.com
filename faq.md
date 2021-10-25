@@ -4,7 +4,7 @@
 
 ### 1. What is ACS and what is ACSI? What are their core products?
 
-* ACS is the native token of ACryptoS \(connected with all the Vaults farming on PCS, Venus, Channels, MDEX & Unifi\), while ACSI is the native token of the StableSwap & Acsi.Finance.
+* ACS is the native token of ACryptoS \(connected with all the Vaults farming on PCS, Venus, Channels, MDEX, Unifi, Atlantis & DSG), while ACSI is the native token of the StableSwap & Acsi.Finance.
   * The core product of ACS is yield farming optimizers for multiple types of tokens.
   * The core products of ACSI are the [StableSwap](https://app.acryptos.com/stableswap/) \(Stablecoin DEX\) & [Acsi.Finance](https://app.acsi.finance/) \(AMM\).
 
