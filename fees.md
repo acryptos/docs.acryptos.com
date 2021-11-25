@@ -20,6 +20,8 @@ Maximum supply cap at 1,888,888 ACSI. ACSI Farms emissions began at 0.088888 888
 
 All parameters may be adjusted in future via governance.
 
+![Emission Rate](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/be0e62766a37e8457e69988a112575a2eebe1a86/images/Emission_rate_Circulating_supply.svg "ACS/ACSI Token Emission")
+
 Resources:
 
 [Frequently Asked Questions](faq.md)
