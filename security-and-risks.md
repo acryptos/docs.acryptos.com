@@ -4,7 +4,7 @@ The overriding focus on safety and risk management is [what sets ACryptoS apart]
 
 In this section the major risks involved with investing funds in DeFi projects will be described along with the steps that ACryptoS have taken to mitigate these.
 
-Be aware that investing in any DeFi project has risk. DeFi is relatively new and black swan events could occur that no-one has predicted. Only invest what you can afford to lose and always do your own research \(DYOR\) before committing funds to any project.
+Be aware that investing in any DeFi project has risk. DeFi is relatively new and black swan events could occur that no-one has predicted. Only invest what you can afford to lose and always do your own research (DYOR) before committing funds to any project.
 
 \*\*This project is in beta. Use at your own risk.
 
@@ -18,9 +18,9 @@ Resources:
 
 [Frequently Asked Questions](faq.md)
 
-### Risk: Malicious developer activity \(e.g., rull pulling, exit scams, etc\)
+### Risk: Malicious developer activity (e.g., rull pulling, exit scams, etc)
 
-This is the risk that developers \(or thieves who steal the development keys\) could make changes in the code that would allow them to drain funds.
+This is the risk that developers (or thieves who steal the development keys) could make changes in the code that would allow them to drain funds.
 
 **Mitigation:**
 
@@ -34,7 +34,7 @@ This is the risk that developers \(or thieves who steal the development keys\) c
 
 **Timelock monitor and community bot to monitor changes**
 
-* There is a [timelock monitor](https://unrekt.net/acryptos/timelock.html) and Telegram  [timelock monitor bot](https://t.me/acryptos9/59652) so that the community is aware of all upcoming changes and when they will be deployed. 
+* There is a [timelock monitor](https://unrekt.net/acryptos/timelock.html) and Telegram [timelock monitor bot](https://t.me/acryptos9/59652) so that the community is aware of all upcoming changes and when they will be deployed.
 
 ### ACryptoS Dev Team Access
 
@@ -79,25 +79,25 @@ The Venus vaults rebalance on every deposit, withdrawal and harvest.
 
 ### Risk: StableSwap assets losing their pegs
 
-When investing in stableswap pools, you are exposed to each of the assets in the pool and risk \(impermanent\) loss of funds if one of the coins loses its peg.
+When investing in stableswap pools, you are exposed to each of the assets in the pool and risk (impermanent) loss of funds if one of the coins loses its peg.
 
 **Mitigation:**
 
 ACryptoS has split the StableSwap pools into a core pool and a number of metapools. The core pool is made up of BUSD, USDT, DAI and USDC.
 
-The meta pools each contain one additional asset \(e.g., VAI\). The risk of an asset losing its peg in the meta pools is higher than the core pool \(this is also compensated by a higher APY in the meta pools\).
+The meta pools each contain one additional asset (e.g., VAI). The risk of an asset losing its peg in the meta pools is higher than the core pool (this is also compensated by a higher APY in the meta pools).
 
 ### Risk: Impermanent loss
 
-The risk of impermanent loss \(IL\) is present whenever you provide liquidity to a liquidity pool.
+The risk of impermanent loss (IL) is present whenever you provide liquidity to a liquidity pool.
 
-What is means is the \(impermanent\) loss of funds due to one of the assets in the pool being volatile in relation to the other.
+What is means is the (impermanent) loss of funds due to one of the assets in the pool being volatile in relation to the other.
 
 This [article from Binance Academy](https://academy.binance.com/en/articles/impermanent-loss-explained) provides more details on IL
 
 **Mitigation:**
 
-To minimize the risk of IL you can choose to yield farm assets which have a high correlation \(e.g., stable coin pairs\) and avoid volatile pairs.
+To minimize the risk of IL you can choose to yield farm assets which have a high correlation (e.g., stable coin pairs) and avoid volatile pairs.
 
 Note that the risk of IL is offset somewhat by the higher rewards offered for pairs that are more volatile. It is up to you as an investor to decide what strategy you are most comfortable with depending on your risk tolerance.
 
@@ -105,24 +105,25 @@ Note that the risk of IL is offset somewhat by the higher rewards offered for pa
 
 **Maturity of project**
 
-ACryptoS is one of the longest running DeFi projects on Binance Smart Chain \(it was launched in November 2020\).
+ACryptoS is one of the longest running DeFi projects on Binance Smart Chain (it was launched in November 2020).
 
-Furthermore, the smart contracts used in ACryptoS are forked from yearn.finance \(Vault, Controller, Strategy\), SushiSwap \(MasterChef\), Uniswap \(Uni\) and Curve \(StableSwap\). These are some of the biggest and most well-established projects in DeFi.
+Furthermore, the smart contracts used in ACryptoS are forked from yearn.finance (Vault, Controller, Strategy), SushiSwap (MasterChef), Uniswap (Uni) and Curve (StableSwap). These are some of the biggest and most well-established projects in DeFi.
 
-ACSI.finance is a direct implementation of Balancer V2 \(BAL\) as well.
+ACSI.finance is a direct implementation of Balancer V2 (BAL) as well.
 
 **APRs/Returns**
 
-APRs/returns shown on the UI include the performance and the workers fees, but **do not include** the other fees \(withdrawal, harvest\), which will result in a negative return if you enter and exit a position quickly.
+APRs/returns shown on the UI include the performance and the workers fees, but **do not include** the other fees (withdrawal, harvest), which will result in a negative return if you enter and exit a position quickly.
 
-High returns/APRs almost certainly mean a high risk. The calculated APR/return depends on the underlying value of the token in the vault and the token\(s\) being farmed, including ACS and ACSI, which can be very volatile and/or inflationary.
+High returns/APRs almost certainly mean a high risk. The calculated APR/return depends on the underlying value of the token in the vault and the token(s) being farmed, including ACS and ACSI, which can be very volatile and/or inflationary.
 
 ## Audits
 
-[**Hacken - Complete**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210331-Hacken-Complete.pdf) **\(31 Mar 2021\)**  
-[**Certik - CAKE Vault Strategy**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210324-Certik-StrategyACryptoSCakeTokenTokenV2.pdf) **-** [**1**](https://www.certik.org/projects/acryptos) **\(24 March 2021\)**  
-[**Hacken - ACryptoS Farm V2**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210218-Hacken-ACryptoSFarmV2.pdf) **-** [**1**](https://hacken.io/wp-content/uploads/2021/02/20210218-Hacken-ACryptoSFarmV2.pdf) **\(18 Feb 2021\)**  
-[**DefiYield.info**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210128-defiyield.info.pdf) **-** [**1**](https://defiyield.info/assets/pdf/ACryptoS.pdf) **\(28 Jan 2021\)**
+[**Hacken - Review**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20211116-Hacken-Review.pdf) **(16 Nov 2021)**\
+[**Hacken - Acsi.Finance (Balancer V2)**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20211105-Hacken-AcsiFinance-BalancerV2.pdf) **(5 Nov 2021)**\
+[**Hacken - Complete**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210331-Hacken-Complete.pdf) **(31 Mar 2021)**\
+[**Certik - CAKE Vault Strategy**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210324-Certik-StrategyACryptoSCakeTokenTokenV2.pdf) **-** [**1**](https://www.certik.org/projects/acryptos) **(24 March 2021)**\
+[**Hacken - ACryptoS Farm V2**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210218-Hacken-ACryptoSFarmV2.pdf) **-** [**1**](https://hacken.io/wp-content/uploads/2021/02/20210218-Hacken-ACryptoSFarmV2.pdf) **(18 Feb 2021)**\
+[**DefiYield.info**](https://github.com/acryptos/acryptos-protocol/blob/main/audits/20210128-defiyield.info.pdf) **-** [**1**](https://defiyield.info/assets/pdf/ACryptoS.pdf) **(28 Jan 2021)**
 
-Smart contracts are forked from yearn.finance \(Vault, Controller, Strategy\), SushiSwap \(MasterChef\), Uniswap \(Uni\), Curve \(StableSwap\).
-
+Smart contracts are forked from yearn.finance (Vault, Controller, Strategy), SushiSwap (MasterChef), Uniswap (Uni), Curve (StableSwap).
