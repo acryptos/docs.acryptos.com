@@ -2,24 +2,75 @@
 
 ## Roadmap
 
-### ACryptoS Roadmap v1.0
+### ACryptoS Roadmap v2.2
 
-_updated 2021-08-19_
+_updated 2022-03-01_
 
-## **2020:**
+## **2022:**
 
-* PCS Vaults strategy created ✅
-* Venus Vaults strategy created ✅
-* Verified and published all sources codes for all contracts ✅
-* ACS used as governance token ✅
-* Core DAO created ✅
-* Coinmarketcap listing ✅
-* Coingecko listing ✅
-* Defistation listing ✅
-* DappRadar listing ✅
-* Mathwallet dapp store listing ✅
-* Coinbase prices listing ✅
-* Whitelist ACS and ACSI on OpenOcean ✅
+### **----- Q1 ------**
+
+* Hacken audit ✅
+* First IDO launched - WAV ✅
+* ACSI partnership farms & Onsen
+* XMT-BNB LP + Onsen launched ✅
+  
+    - in discussions with other projects
+
+**UI V2 upgrades**
+* ACSI finance swap & pool management integrated ✅
+* Zapper-like functionality ✅
+* NFT viewer ✅
+* Multi chain capability ✅
+* Smart harvest optimizer ✅
+
+**ACSI.Finance upgrades**
+* Launchpad LBP available ✅
+* User custom pools ✅
+
+**ACSI NFT new collection release**
+* Brand new collectible skin
+
+**Stablecoin pools/swap**
+* Launch of MIM and USTw ✅ 
+
+    - in talks with more stablecoins to set up pools
+
+**Community BUIDLing**
+* 2 Telegram sticker packs released ✅
+* DAO - more voting decisions brought to governance
+* BUIDL & SHILL group - initiate more community contribution to grow ACryptoS together
+
+### **----- Q2 ------**
+
+* Cross-chain expansion (chain TBD)
+
+* New DeFi product (WIP)
+
+* Brand new IDO/Launchpad mechanics
+ 
+  - ongoing launchpad discussions with new projects 
+  - ACS & ACSI Vault holders prioritized
+
+
+**Metaverse**
+* GameFi details + sneak peak on visuals
+
+    - More benefits for ACS & ACSI NFT holders to be announced
+
+* Landing page
+
+    - To revamp with rebranded look
+    - Improve UX + User Journey
+
+* Documentations
+
+  - Improved content flow to assist acquisition of new users
+  - Site translations for regional languages
+
+### **----- Q3 (TBA) ------**
+### **----- Q4 (TBA)------**
+
 
 ## **2021:**
 
@@ -71,30 +122,30 @@ _updated 2021-08-19_
 ### **----- Q3 ------**
 
 * Acsi.Finance Developments
-  * Custom weight ratio, multi-token pools launched
-  * Stable Pools launched
-  * $ACSI listed on coinmarketcap
+  * Custom weight ratio, multi-token pools launched ✅
+  * Stable Pools launched ✅
+  * $ACSI listed on coinmarketcap ✅
 * Governance
-  * community votes for promos
-  * new fees structure voted by DAO
-  * reduction of withdrawal fees
+  * community votes for promos ✅
+  * new fees structure voted by DAO ✅
+  * reduction of withdrawal fees ✅
 * Partnerships
-  * Unifi dual token mining farm + AMA
-  * Ontology dual token mining farm + AMA
+  * Unifi dual token mining farm + AMA ✅
+  * Ontology dual token mining farm + AMA ✅
 * Protocol Updates
-  * First native ACSI-BNB farm on Unifi Protocol
-  * Addition of ACS-BNB native farm on Unifi Protocol
-  * DEX Aggregators
-  * Acsi.Finance integrated by 1inch 
-  * the only functioning Venus vaults in BSC
-  * Token highlights: MATIC, DOGE, FIL, XVS single token staking
+  * First native ACSI-BNB farm on Unifi Protocol ✅
+  * Addition of ACS-BNB native farm on Unifi Protocol ✅
+  * DEX Aggregators✅
+  * Acsi.Finance integrated by 1inch ✅
+  * the only functioning Venus vaults in BSC ✅
+  * Token highlights: MATIC, DOGE, FIL, XVS single token staking ✅
 * Team Expansion
-  * new Core DAO Samurai enlisted
-  * growth of Marketing team
-  * growth of BizDev team
-  * new Community Samurais enlisted
-* preparation for additional audits
-* Advertising Outreach
+  * new Core DAO Samurai enlisted ✅
+  * growth of Marketing team ✅
+  * growth of BizDev team ✅
+  * new Community Samurais enlisted ✅
+* preparation for additional audits✅
+* Advertising Outreach ✅
   * DappRadar airdrop campaign
   * DappRadar banner and ranking ads
 * Monitoring Sites Integration
@@ -109,36 +160,52 @@ _updated 2021-08-19_
   * ONTO Wallet
   * Bitkeep
 * UI UX updates
-  * Stake All option for Deposits
-  * Pending Harvest sorted by $ value instead of token amount
-  * Pending Harvests display $ value
-  * APY display shows Min, Max and Platform Average \(based on 2.5X Boost\)
-  * ACSI Finance - Dark Mode
+  * Stake All option for Deposits ✅
+  * Pending Harvest sorted by $ value instead of token amount ✅
+  * Pending Harvests display $ value ✅
+  * APY display shows Min, Max and Platform Average \(based on 2.5X Boost\)✅
+  * ACSI Finance - Dark Mode ✅
 * Emissions Reduction
-  * 3rd ACS emission reduction \(Aug 15\)
-  * 3rd ACSI emission reduction \(Aug 15\)
+  * 3rd ACS emission reduction \(Aug 15\) ✅
+  * 3rd ACSI emission reduction \(Aug 15\) ✅
 
 ### **----- Q4 ------**
 
-* Protocol Updates
+* Protocol Updates ✅
   * gradual migration of ACSI StableSwap to Acsi.Finance
   * Acsi.Finance Asset Manager to synergize with ACS Vaults
   * LP farming with options between ACS or ACSI
 * Rebranding \(with focus on building trust, and generating hype & user growth\)
 * UI design \(factoring in rebranding and Acsi.Finance UI\)
-* Marketing & Expansion
-  * Influencer outreach
-  * Community AMA/Townhall sessions
-  * User education & conversion campaigns
-  * Exposure to bigger communities
+* Marketing & Expansion ✅
+  * Influencer outreach ✅
+  * Community AMA/Townhall sessions ✅
+  * User education & conversion campaigns ✅
+  * Exposure to bigger communities ✅
     * Reddit 
     * Discord
-  * Growing language groups globally
-* Exploration of cross-chain possibilities & options
-* Partnerships
+  * Growing language groups globally ✅
+* Exploration of cross-chain possibilities & options ✅
+* Partnerships ✅
   * ongoing talks with multiple platforms for more Vaults & Farms
   * Promoting IDO launches via Acsi.Finance
 * Acsi.Finance integration by OpenOcean \(in progress\)
 * Acsi.Finance integration \(with volume tracking\) by Coinmarketcap
 * Acsi.Finance integration \(with volume tracking\) by Coingecko
+
+
+## **2020:**
+
+* PCS Vaults strategy created ✅
+* Venus Vaults strategy created ✅
+* Verified and published all sources codes for all contracts ✅
+* ACS used as governance token ✅
+* Core DAO created ✅
+* Coinmarketcap listing ✅
+* Coingecko listing ✅
+* Defistation listing ✅
+* DappRadar listing ✅
+* Mathwallet dapp store listing ✅
+* Coinbase prices listing ✅
+* Whitelist ACS and ACSI on OpenOcean ✅
 
