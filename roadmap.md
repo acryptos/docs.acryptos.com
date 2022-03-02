@@ -4,7 +4,7 @@
 
 ### ACryptoS Roadmap v2.2
 
-_updated 2022-03-01_
+_updated 2022-03-02_
 
 ## **2022:**
 
