@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Overview](README.md)
-* [ACryptoS Vaults](acryptos-vaults.md)
+* [ACryptoS Vaults](acryptos-vaults/README.md)
+  * [Liquidizer Vaults](acryptos-vaults/liquidizer-vaults.md)
 * [ACryptoS StableSwap](acryptos-stableswap.md)
 * [Acsi.Finance](acsi.finance.md)
 * [ACryptoS Farms](acryptos-farms.md)
@@ -12,5 +13,4 @@
 * [Bug Bounty](bug-bounty.md)
 * [FAQ](faq.md)
 * [Community resources](community.md)
-* [App](https://app.acryptos.com/)
-
+* [App](https://app.acryptos.com)
