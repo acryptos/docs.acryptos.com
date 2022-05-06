@@ -33,6 +33,8 @@ If he deposits 100 LTC, it will be boosted to 100 + 22.5 = 122.5 LTC.
   * Force boost
 * User's boost calculation is for each farm individually.
 
+![ACryptoS Farm Boost](https://user-images.githubusercontent.com/96041328/167078388-ce272002-f964-4633-a82a-c4ea7cb4d67a.jpg)
+
 ### **User Interface**
 
 **Current Boost**: The current boost you are getting in the farm from your ACS Vault holdings.  
