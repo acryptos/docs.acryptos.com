@@ -2,19 +2,19 @@
 
 ## ACS and ACSI Tokenomics
 
-**ACS rewards distributed to ACS Farms: 0.0316690 ACS/block**  
+**ACS rewards distributed to ACS Farms: 0.02576279 ACS/block**  
 **+33.33% distributed to ACS holders via ACS Vault  
 +10% reward to ACryptoS Dev Team**  
 [**+3% to Treasury**](governance.md#treasury)  
-Total ~1335 ACS/day
+Total ~1086 ACS/day
 
 Maximum supply cap at 1,888,888 ACS. ACS Farms emissions began at 0.088888 888888 888888 ACS/block from [~28 Oct 2020](https://bscscan.com/tx/0x0f7bc5772458de583c7abfb9f0c7494599f013038d24b8fd0ee8d1c5c7308e69). This is [cut by 18.65% every 90 days](https://vote.acryptos.com/#/acryptos/proposal/QmU2e9PDB3AR3JHKbBsPnWiFve5iiR35cEJFsdxmLRi4Ks) beginning on 15 Feb 2021, to give a maximum supply of 1,888,888 ACS.
 
-**ACSI rewards distributed to ACSI Farms: 0.0316690 ACSI/block**  
+**ACSI rewards distributed to ACSI Farms: 0.02576279 ACSI/block**  
 **+33.33% distributed to ACSI holders via ACSI Vault  
 +10% reward to ACryptoS Dev Team**  
 [**+3% to Treasury**](https://vote.acryptos.com/#/acryptos/proposal/QmTZvZc1eEwQypg6zfKpSHwZGW2XKPryoYHGAMVrawVfTS)  
-Total ~1335 ACSI/day
+Total ~1086 ACSI/day
 
 Maximum supply cap at 1,888,888 ACSI. ACSI Farms emissions began at 0.088888 888888 888888 ACSI/block. The [emissions rate was reduced to match ACS emissions rate on the day their total supplies were equal](https://vote.acryptos.com/#/acryptos/proposal/QmPsHBtnskXNfBn8DEEUkCoSSg8YsL1efdS6xh4r89uucQ), and will be reduced in sync moving forward.
 
