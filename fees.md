@@ -69,6 +69,10 @@ Paid to Workers to offset gas fees.
 **Harvest fee: 0.03 ACS / 0.06 ACSI**  
 Farm harvest fees are distributed to ACS / ACSI holders via ACS /ACSI Vault.
 
+**Additional Rewards**
+On top of the standard ACS / ACSI farm rewards, some pools emits partners / promotional tokens as additional rewards. Additional rewards are supply limited and not time limited, i.e. while stock last, 1st come 1st serve.
+
+
 ### StableSwap
 
 **Exchange fee: 0.01% \(ACS4USD base-pool\) / 0.06% \(meta-pools\) / 0.04% ACS3BTC**  
