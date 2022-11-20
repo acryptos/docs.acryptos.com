@@ -4,6 +4,8 @@ The overriding focus on safety and risk management is [what sets ACryptoS apart]
 
 In this section the major risks involved with investing funds in DeFi projects will be described along with the steps that ACryptoS have taken to mitigate these.
 
+Note that the yield optimization strategies that ACryptoS employ mean that funds are staked on external projects, thus incurring 3rd party risks. Where applicable, these are also described below.
+
 Be aware that investing in any DeFi project has risk. DeFi is relatively new and black swan events could occur that no-one has predicted. Only invest what you can afford to lose and always do your own research (DYOR) before committing funds to any project.
 
 \*\*This project is in beta. Use at your own risk.
@@ -20,7 +22,7 @@ Resources:
 
 ### Risk: Malicious developer activity (e.g., rull pulling, exit scams, etc)
 
-This is the risk that developers (or thieves who steal the development keys) could make changes in the code that would allow them to drain funds.
+This is the risk that developers (or thieves who steal the development keys) could make changes in the code that would allow them to drain funds. This risk applies both to ACryptoS and to the projects that ACryptoS have created vaults for. The risk mitigation actions described below apply only to mitigating the risk of exploit or malicious dev activity to ACyptoS.
 
 **Mitigation:**
 
@@ -66,6 +68,10 @@ No critical, medium or minor findings were raised during the audits. The only fi
 All deployed contracts have [verified and published source codes on BscScan](https://app.acryptos.com/contracts/).
 
 ## Other Risks:
+
+### **Risk: Liquidity risk**
+
+ACryptoS has created vaults which make use of selected lending protocols. With DeFi lending protocols there is the risk of insufficient liquidity meaning it may not be possible to withdrawal funds until liquidity increases. Low liquidity generally occurs when there is peak demand for an asset (such as for BNB during launchpad events). This is, in most cases, a temporary issue as the high borrowing costs will incentivize borrowers to repay and thus increase liquidity.&#x20;
 
 ### Risk: Liquidation risk
 
