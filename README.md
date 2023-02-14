@@ -1,6 +1,6 @@
 # Overview
 
-![](https://github.com/acryptos/acryptos-assets/blob/master/icon-circle-512.png)
+![](https://raw.githubusercontent.com/acryptos/acryptos-assets/master/icon-circle-512.png)
 
 ## Overview
 
