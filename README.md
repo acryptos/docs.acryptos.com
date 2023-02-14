@@ -1,6 +1,6 @@
 # Overview
 
-![](https://user-images.githubusercontent.com/80501310/118258280-40573e00-b4e2-11eb-80d8-8262ba4f1449.png)
+![](https://github.com/acryptos/acryptos-assets/blob/master/icon-circle-512.png)
 
 ## Overview
 
