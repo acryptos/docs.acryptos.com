@@ -1,12 +1,47 @@
 # Overview
 
-![](https://raw.githubusercontent.com/acryptos/acryptos-assets/master/icon-circle-512.png)
+![](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Banner%20-%20Sustainable%20SAFU%20small.jpg)
 
-## Overview
+## ACryptoS - Advanced Crypto Strategies
 
-### Advanced Yield Farming Strategies with ACryptoS - Sustainable, Rewarding, Safe
+ACryptoS is a multi-chain Yield Farming Optimizer & DEX, with a set of unique products deployed to support DeFi users and protocols. Originally launched on BNB Chain in Nov 2020, ACryptoS is now on 11 chains, with more than 100+ vaults deployed.
 
-ACryptoS is a yield farming optimizer designed for the longer-term investor who values sustainable tokenomics, safety and careful risk management.
+Yield Farming Optimizer products range from Autocompounding Single-token Vaults, 2-token LP Vaults, to one-of-a-kind Liquid Vaults. Other products include a Balancer-V2 forked DEX, and a Stablecoin swap.
+
+### Core Values
+
+- unique, smart, automated DeFi strategies
+- SAFU, careful risk management
+- sustainable APY & tokenomics
+
+## Products
+
+### 1. Single-Token Autocompounding Vaults (Multi-Chain)
+
+Single token vaults are one of the most unique offerings at ACryptoS. We partner with and build on lending protocols, using our smart contract strategies to automatically leverage the same token.
+
+By borrowing and supplying the same token in a number of loops, users earn Supply and Borrow APY multiple times, up to 7.6X the initial APY. This helps users get much higher yields for their tokens, and also increases the deposits and utilizations of lending markets.
+
+There is zero liquidation risk in our strategy, as it is using the same token for supplying and borrowing. Price movements of the token does not result in liquidations.
+Read more about risks here.
+
+Our single-token vaults provide these benefits to users:
+i. autocompounding
+- vaults compound automatically through our smart contract strategy
+- staked tokens increase over time
+ii. no IL (impermanent loss)
+- single token staking, no impermanent loss as per LP farming
+iii. automated, no harvesting required
+- APY is in staked tokens, not from farming emission tokens
+iv. SAFU
+- we filter and partner with quality protocols, putting our priorities on user fund safety
+- no security issues since 2020 launch
+
+11 chains, 100+ vaults
+
+*If you see your staked tokens "trickle" to a lower amount at certain times, do not worry as it is normal and part of how our strategy works. Funds are SAFU, and your tokens are still autocompounding as intended. Read here to understand more.
+
+### 2. Single-Token Liquid Vaults (Multi-Chain)
 
 ACryptoS offers three products on the Binance Smart Chain \(BSC\).
 
@@ -17,6 +52,9 @@ ACryptoS offers three products on the Binance Smart Chain \(BSC\).
 ACryptoS provides exceptional tokenomics to reward vault holders of their native tokens; $ACS and $ACSI.
 
 These include getting up to [2.5x on APY](https://docs.acryptos.com/acryptos-farms#acs-rewards-boost) from farms, receiving distribution of almost all fees, and being able to take part in governance.
+
+
+Ethereum, Optimism, Arbitrum, Cronos, Fantom, Avalanche, Gnosis, Astar, Moonbeam & Moonriver.
 
 Resources:
 
