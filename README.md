@@ -43,6 +43,12 @@ iv. SAFU
 
 ### 2. Single-Token Liquid Vaults (Multi-Chain)
 
+### 3. Dual-Token LP Vaults & Farm (BNBchain)
+
+### 4. Acsi.Finance DEX - BalancerV2 fork (BNBchain)
+
+### 5. Stablecoin Swap (BNBchain)
+
 ACryptoS offers three products on the Binance Smart Chain \(BSC\).
 
 1. [ACryptoS Vaults and Farms](https://app.acryptos.com/) \(Yield Farming Optimizer\)
@@ -53,6 +59,12 @@ ACryptoS provides exceptional tokenomics to reward vault holders of their native
 
 These include getting up to [2.5x on APY](https://docs.acryptos.com/acryptos-farms#acs-rewards-boost) from farms, receiving distribution of almost all fees, and being able to take part in governance.
 
+More about our Governance Core Vaults
+buyback
+voting
+
+Launchpad
+TGW
 
 Ethereum, Optimism, Arbitrum, Cronos, Fantom, Avalanche, Gnosis, Astar, Moonbeam & Moonriver.
 
