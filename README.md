@@ -16,7 +16,7 @@ Yield Farming Optimizer products range from Autocompounding Single-token Vaults,
 
 ## Products
 
-### 1. Single-Token Autocompounding Vaults (Multi-Chain)
+### ($ACS) 1. Single-Token Autocompounding Vaults (Multi-Chain)
 
 Single token vaults are one of the most unique offerings at ACryptoS. We partner with and build on lending protocols, using our smart contract strategies to automatically leverage the same token.
 
@@ -41,19 +41,16 @@ iv. SAFU
 
 *If you see your staked tokens "trickle" to a lower amount at certain times, do not worry as it is normal and part of how our strategy works. Funds are SAFU, and your tokens are still autocompounding as intended. Read here to understand more.
 
-### 2. Single-Token Liquid Vaults (Multi-Chain)
+### ($ACS) 2. Single-Token Liquid Vaults (Multi-Chain)
 
-### 3. Dual-Token LP Vaults & Farm (BNBchain)
+### ($ACS) 3. Dual-Token LP Vaults & Farm (BNBchain)
 
-### 4. Acsi.Finance DEX - BalancerV2 fork (BNBchain)
+### ($ACSI) 4. [Acsi.Finance](https://app.acsi.finance/) DEX - BalancerV2 fork (BNBchain)
+Decentralized Exhange
 
-### 5. Stablecoin Swap (BNBchain)
+### ($ACSI) 5. Stablecoin [StableSwap](https://app.acryptos.com/stableswap/) (BNBchain)
 
-ACryptoS offers three products on the Binance Smart Chain \(BSC\).
 
-1. [ACryptoS Vaults and Farms](https://app.acryptos.com/) \(Yield Farming Optimizer\)
-2. [ACryptoS StableSwap](https://app.acryptos.com/stableswap/) \(Stablecoin Decentralized Exchange \([DEX](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex)\) \)
-3. [Acsi.Finance](https://app.acsi.finance/) \(Decentralized Exchange\)
 
 ACryptoS provides exceptional tokenomics to reward vault holders of their native tokens; $ACS and $ACSI.
 
