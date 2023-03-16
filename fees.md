@@ -52,8 +52,7 @@ Used to buy ACS and distributed to ACS holders via ACS Vault
 **The following performance / strategist / harvester fees are transparent to users and already accounted for in the displayed "Vault APY".** We disclose them here for transparency.
 
 **Performance fee:**  
-Venus and Channels Vaults: **14.5% of gains harvested**  
-All other Vaults: **24.5% of gains harvested**  
+Single Token Vaults: **5% of gains harvested**    
 Used to buy ACS and distributed to ACS holders via ACS Vault.
 
 **Strategist fee:** **0.5% of gains harvested**  
@@ -62,7 +61,7 @@ To strategy creator.
 **Harvester subsidy: up to 0.3% of gains harvested**  
 Paid to Workers to offset gas fees.
 
-**The above Vault fees \(withdrawal/performance/etc\) do not apply to Pure Farms.** This includes all StableSwap Farms and ACS-ACSI Farm.
+**The above Vault fees \(withdrawal/performance/etc\) do not apply to Pure Farms.** This includes all StableSwap Farms & Acsi.Finance Farms.
 
 ### Farms
 
