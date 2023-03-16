@@ -1,60 +1,44 @@
 # Overview
 
-![](https://raw.githubusercontent.com/acryptos/acryptos-assets/master/icon-circle-512.png)
+![](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Banner%20-%20Sustainable%20SAFU%20small.jpg)
 
-## Overview
+## ACryptoS - Advanced Crypto Strategies
 
-### Advanced Yield Farming Strategies with ACryptoS - Sustainable, Rewarding, Safe
+ACryptoS is a multi-chain Yield Farming Optimizer & DEX, with a set of unique products deployed to support DeFi users and protocols. Originally launched on BNB Chain in Nov 2020, ACryptoS is now on 11 chains, with more than 100+ vaults deployed.
 
-ACryptoS is a yield farming optimizer designed for the longer-term investor who values sustainable tokenomics, safety and careful risk management.
+Yield Farming Optimizer products range from Autocompounding Single-token Vaults, 2-token LP Vaults, to one-of-a-kind Liquid Vaults. Other products include a Balancer-V2 forked DEX, and a Stablecoin swap.
 
-ACryptoS offers three products on the Binance Smart Chain \(BSC\).
+### Core Values
 
-1. [ACryptoS Vaults and Farms](https://app.acryptos.com/) \(Yield Farming Optimizer\)
-2. [ACryptoS StableSwap](https://app.acryptos.com/stableswap/) \(Stablecoin Decentralized Exchange \([DEX](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex)\) \)
-3. [Acsi.Finance](https://app.acsi.finance/) \(Decentralized Exchange\)
+- unique, smart, automated DeFi strategies
+- SAFU, careful risk management
+- sustainable APY & tokenomics
 
-ACryptoS provides exceptional tokenomics to reward vault holders of their native tokens; $ACS and $ACSI.
+## Products
 
-These include getting up to [2.5x on APY](https://docs.acryptos.com/acryptos-farms#acs-rewards-boost) from farms, receiving distribution of almost all fees, and being able to take part in governance.
+### ($ACS) 1. Single-Token Autocompounding Vaults (Multi-Chain)
 
-Resources:
+Single token vaults are one of the most unique offerings at ACryptoS. We partner with and build on lending protocols, using our smart contract strategies to automatically leverage the same token.
 
-[What sets AcryptoS apart?](https://medium.com/acryptos/what-sets-acryptos-apart-d6345e2f5d7f) by x.ACryptoS
+By borrowing and supplying the same token in a number of loops, users earn Supply and Borrow APY multiple times, up to 7.6X the initial APY. This helps users get much higher yields for their tokens, and also increases the deposits and utilizations of lending markets.
 
-[Frequently Asked Questions](faq.md)
+There is zero liquidation risk in our strategy, as it is using the same token for supplying and borrowing. Price movements of the token does not result in liquidations.
+Read more about risks here.
 
-[Guide and Tutorials to get started on ACryptoS](community.md#guides-tutorials-intros)
+Our single-token vaults provide these benefits to users:
+1. autocompounding
+- vaults compound automatically through our smart contract strategy
+- staked tokens increase over time
+2. no IL (impermanent loss)
+- single token staking, no impermanent loss as per LP farming
+3. automated, no harvesting required
+- APY is in staked tokens, not from farming emission tokens
+4. SAFU
+- we filter and partner with quality protocols, putting our priorities on user fund safety
+- no security issues since 2020 launch
 
-### 1. ACryptoS Vaults \(Yield Farming Optimizer\)
 
-ACryptoS Vaults grow your assets \(tokens\) via automated Yield Strategies.
-
-The Vaults achieve highest possible yields through:
-
-1. Unparalleled creative automation strategies
-2. Optimal compounding frequency
-3. Highly efficient gas utilisation
-
-When you deposit into a Vault, your tokens will grow over time at the fastest optimized yield through automations.
-
-This means you will be able to enjoy the benefits of autocompounding without additional steps. There is no need to manually harvest the Vault.
-
-### ACryptoS Farms
-
-ACryptoS Farms are the places where native tokens of ACryptoS, [ACS and ACSI tokens are distributed](fees.md#tokenomics).
-
-Once assets are deposited into a Vault or StableSwap product, users have the **option to Stake** the vault or liquidity tokens they receive back respectively into the corresponding farm.
-
-ACryptoS Vault tokens will yield ACS, and ACryptoS StableSwap Liquidity Provider tokens will yield ACSI as reward in their respective farms.This further enhances the yield on your deposits.
-
-Things to note for Farms:
-
-* You will need to **Stake** your Vault or Liquidity tokens in the Vaults to farm the native tokens. \(ACS/ACSI\). 
-* **Farms do not** automatically compound and require **manual harvesting** \(through the Harvest Button\) by the user.
-* [Auto-compounding ACS Vault and ACSI Vault](https://app.acryptos.com/core/) for already harvested or purchased ACS and ACSI tokens are offered on the platform as well.
-
-### 2. ACryptoS StableSwap \(Stablecoin DEX\)
+### ($ACSI) 2. ACryptoS StableSwap \(Stablecoin DEX\)
 
 ACryptoS StableSwap is an [automated market maker \(AMM\)](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm) protocol based on Curve’s specialized algorithm tailored for stable coins. ACryptoS is offering the first AMM for stable coins based on this algorithm on the Binance Smart Chain \(BSC\).
 
