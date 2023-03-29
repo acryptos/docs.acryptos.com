@@ -4,11 +4,12 @@ description: ACryptoS Vaults grow your assets via automated yield Strategies.
 
 # ACryptoS Vaults
 
-ACryptoS Vaults save users time and enables higher yields through creative automations, optimal compounding frequency, and highly efficient gas utilisation.
+Split into LP Vaults, single token Vaults, solidly LP Vaults, Core vaults, link to governance vault.
+
+ACryptoS Vaults save users time and enables higher yields through unique automations, optimal compounding frequency, and highly efficient gas utilisation.
 
 When you deposit into a Vault, your tokens will grow over time. You do not need to manually harvest the vaults.
 
-Most Vaults have a Farm where you can **Stake** your deposit to earn ACS or ACSI, a stake in the protocol.
 
 \*The only exceptions being the [ACS Vault and ACSI Vault](./#acs-and-acsi-vault), where there is no need to Stake after depositing.
 
@@ -24,7 +25,7 @@ Our Vaults may offer up to three different types of returns depending on the Vau
 
 **ACS APR** is the rate at which ACS rewards are given to users that stake their tokens.
 
-![Example: ADA-BNB Vault](https://user-images.githubusercontent.com/80501310/112007522-ae752980-8b5f-11eb-981b-cf9d15ff9632.png)
+![Example: ADA-BNB Vault](https://user-images.githubusercontent.com/80501310/112007522-ae752980-8b5f-11eb-981b-cf9d15ff9632.png) put looping strategy infographic
 
 Image Credit: [Jake](https://t.me/manxsir)
 
