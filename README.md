@@ -140,15 +140,33 @@ This means if you enter and exit quickly as a liquidity provider, you will likel
 
 Please carefully review our documentation on [fees](fees.md) before proceeding.
 
-### Contact Us
+### Links
+
+Main Site: [https://acryptos.com](https://acryptos.com)
+
+dApp (Fast/Lite): [https://app.acryptos.com](https://app-acryptos.com)
+
+dApp (Full): [https://app-v2.acryptos.com](https://app-v2acryptos.com)
+
+---
 
 Telegram: [https://t.me/acryptos9](https://t.me/acryptos9)
 
-Twitter: [https://twitter.com/acryptosx](https://twitter.com/acryptosx)
+Telegram (DAO): [https://t.me/acryptos9](https://t.me/acryptosdao)
 
-Medium: [https://acryptos.medium.com/](https://acryptos.medium.com/)
+---
+
+Twitter: [https://twitter.com/acryptosdao](https://twitter.com/acryptosdao)
+
+Twitter (Dev/Founder): [https://twitter.com/acryptosx](https://twitter.com/acryptosx)
+
+---
+
+Discord: [https://discord.gg/xHqhWxUeeR](https://discord.gg/xHqhWxUeeR)
+
+Medium: [https://medium.com/acryptos/](https://medium.com/acryptos/)
 
 Reddit: [https://www.reddit.com/r/ACryptoS](https://www.reddit.com/r/ACryptoS)
 
-App: [https://acryptos.com](https://acryptos.com)
+
 
