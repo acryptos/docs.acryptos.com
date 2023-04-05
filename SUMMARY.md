@@ -1,24 +1,26 @@
-
-
 # Table of contents
 
-### Part I
+### Intro to ACryptoS
 
 * [Overview](README.md)
 * [ACryptoS Vaults](acryptos-vaults/README.md)
+  * [Liquid Wrapper veNFT Vaults](acryptos-vaults/liquid-wrapper-vaults.md)
   * [Liquidizer Vaults](acryptos-vaults/liquidizer-vaults.md)
-  * [Liquid Wrapper Vaults](acryptos-vaults/liquid-wrapper-vaults.md)
-* [ACryptoS StableSwap](acryptos-stableswap.md)
+* [ACSI StableSwap](acryptos-stableswap.md)
 * [Acsi.Finance](acsi.finance.md)
-* [ACryptoS Farms](acryptos-farms.md)
 
-### Part II
+### DAO & Tokenomics
 
 * [Tokenomics & Fees](fees.md)
 * [Governance](governance.md)
+* [Farming our Tokens](acryptos-farms.md)
 * [Roadmap](roadmap.md)
 * [Security & Risks](security-and-risks.md)
 * [Bug Bounty](bug-bounty.md)
+
+### Tutorials / Guides
+
 * [FAQ](faq.md)
 * [Community resources](community.md)
-* [App](https://app.acryptos.com)
+* [App](https://app-v2.acryptos.com)
+* [App (Lite)](https://app.acryptos.com)
