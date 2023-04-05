@@ -49,6 +49,10 @@ Acryptos StableSwap enables efficient stablecoin trading at best prices which is
 * **~10x cheaper**;
 * **~100x less slippage** when trading stable coins compared to the various UniSwap type AMMs available.
 
+### ($ACS) 3. Dual-Token LP Vaults
+
+### ($ACS) 4. [Liquid Wrapper veNFT Vaults](liquid-wrapper-vaults.md)
+
 ### ACS and ACSI Native Tokens
 
 1. ACS is our native token of our yield farming optimizer ACryptoS Vaults.
@@ -66,26 +70,32 @@ Acryptos StableSwap enables efficient stablecoin trading at best prices which is
    * accrue protocol [fees and rewards](fees.md#acs-vault) from [StableSwap and ACSI Farms](https://app.acryptos.com/acsi/)
    * and participate in the [governance of the protocol](https://vote.acryptos.com/).
 
-### Tokenomics and Fees
 
-Our tokenomics and fees are designed to encourage
+### Links
 
-1. Longer term staking
-2. Reward long term holders of ACS and ACSI.
+Main Site: [https://acryptos.com](https://acryptos.com)
 
-This means if you enter and exit quickly as a liquidity provider, you will likely earn 0 or even a slightly negative return.
+dApp (Fast/Lite): [https://app.acryptos.com](https://app-acryptos.com)
 
-Please carefully review our documentation on [fees](fees.md) before proceeding.
+dApp (Full): [https://app-v2.acryptos.com](https://app-v2acryptos.com)
 
-### Contact Us
+---
 
 Telegram: [https://t.me/acryptos9](https://t.me/acryptos9)
 
-Twitter: [https://twitter.com/acryptosx](https://twitter.com/acryptosx)
+Telegram (DAO): [https://t.me/acryptos9](https://t.me/acryptosdao)
 
-Medium: [https://acryptos.medium.com/](https://acryptos.medium.com/)
+---
+
+Twitter: [https://twitter.com/acryptosdao](https://twitter.com/acryptosdao)
+
+Twitter (Dev/Founder): [https://twitter.com/acryptosx](https://twitter.com/acryptosx)
+
+---
+
+Discord: [https://discord.gg/xHqhWxUeeR](https://discord.gg/xHqhWxUeeR)
+
+Medium: [https://medium.com/acryptos/](https://medium.com/acryptos/)
 
 Reddit: [https://www.reddit.com/r/ACryptoS](https://www.reddit.com/r/ACryptoS)
-
-App: [https://acryptos.com](https://acryptos.com)
 
