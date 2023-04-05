@@ -7,7 +7,7 @@
 * [Overview](README.md)
 * [ACryptoS Vaults](acryptos-vaults/README.md)
   * [Liquidizer Vaults](acryptos-vaults/liquidizer-vaults.md)
-  * [Liquid Wrapper Vaults](liquid-wrapper-vaults.md)
+  * [Liquid Wrapper Vaults](acryptos-vaults/liquid-wrapper-vaults.md)
 * [ACryptoS StableSwap](acryptos-stableswap.md)
 * [Acsi.Finance](acsi.finance.md)
 * [ACryptoS Farms](acryptos-farms.md)
