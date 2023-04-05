@@ -18,7 +18,7 @@ The larger the veNFT they have, the more they will be able to Boost the LP farms
 
 ### 1️⃣ autoCompunding vaults for Liquidity Pool farms
 - These vaults collect $SLIZ emissions from the farm, and autoCompound them back into the LP, increasing the number of tokens in the LP
-- The veNFT in the Liquid veSLIZ Vault (explained [below](acryptos-vaults/liquid-wrapper-vaults#2-liquid-vesliz-vault-acssliz)) will Boost the APY for these vaults, up to 2.5X
+- The veNFT in the Liquid veSLIZ Vault (explained [below](./#2-liquid-vesliz-vault-acssliz)) will Boost the APY for these vaults, up to 2.5X
 
 Examples:
 - User A forms a ETH-ARB LP, and farms it for 50% APR, manually harvesting the $SLIZ rewards every few days. User A has no Boosted rewards because he doesn't lock $SLIZ for any veSLIZ
@@ -31,7 +31,7 @@ TL/DR 👉Users can autoCompound their LP with Boosted rewards, without needing 
 - 50% of Boosted rewards from ALL our LP Vaults, are rewarded to acsSLIZ (veSLIZ Vault) holders
 - This veSLIZ Vault allows users to withdraw $SLIZ at any time, where otherwise their veSLIZ would be locked for 4 years
 
-_*Note: Withdrawals are subject to available $SLIZ in the Vault Reserves. Reserves are constanly topped up from above-mentioned sources (bribes/Boost Rewards etc.). Vault Strategy is based on our Liquidizer Vault (one of our other unique strategies, more info [here](acryptos-vaults/liquidizer-vaults.md))_
+_*Note: Withdrawals are subject to available $SLIZ in the Vault Reserves. Reserves are constanly topped up from above-mentioned sources (bribes/Boost Rewards etc.). Vault Strategy is based on our Liquidizer Vault (one of our other unique strategies, more info [here](../liquidizer-vaults.md))_
 
 TL/DR 👉 Users stake their $SLIZ, gets full locking benefits without locking, gets rewards APY from all our LP Vaults on SolidLizard
 
