@@ -6,9 +6,10 @@
 * [ACryptoS Vaults](acryptos-vaults/README.md)
   * [Single-Token Vaults](acryptos-vaults/liquidizer-vaults.md)
   * [2-token LP Vaults](acryptos-vaults/liquidizer-vaults.md)
-  * [Liquidizer Vaults](acryptos-vaults/liquidizer-vaults.md)
+  * [Liquid Wrapper Vaults](acryptos-vaults/liquidizer-vaults.md)
   * [Liquid Staking BNB](acryptos-vaults/liquidizer-vaults.md)
-* [ACryptoS Swaps](acryptos-vaults/README.md)
+  * [Liquidizer Vaults](acryptos-vaults/liquidizer-vaults.md)
+* [ACryptoS DEXs](acryptos-vaults/README.md)
   * [ACSI StableSwap](acryptos-stableswap.md)
   * [Acsi.Finance](acsi.finance.md)
 *
