@@ -22,5 +22,5 @@
 
 * [FAQ](faq.md)
 * [Community resources](community.md)
-* [App](https://app-v2.acryptos.com)
+* [App (Full)](https://app-v2.acryptos.com)
 * [App (Lite)](https://app.acryptos.com)
