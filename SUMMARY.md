@@ -4,6 +4,7 @@
 
 * [Overview](README.md)
 * [ACryptoS Vaults](acryptos-vaults/README.md)
+  * [Single-Token Vaults](acryptos-vaults/single-token-vaults.md)
   * [Liquid Wrapper veNFT Vaults](acryptos-vaults/liquid-wrapper-vaults.md)
   * [Liquidizer Vaults](acryptos-vaults/liquidizer-vaults.md)
 * [ACSI StableSwap](acryptos-stableswap.md)
