@@ -18,7 +18,7 @@ The larger the veNFT they have, the more they will be able to Boost the LP farms
 
 ### 1️⃣ autoCompunding vaults for Liquidity Pool farms
 - These vaults collect $SLIZ emissions from the farm, and autoCompound them back into the LP, increasing the number of tokens in the LP
-- The veNFT in the Liquid veSLIZ Vault (explained [below](liquid-wrapper-vaults#2-liquid-vesliz-vault-acssliz)) will Boost the APY for these vaults, up to 2.5X
+- The veNFT in the Liquid veSLIZ Vault (explained [below](#2-liquid-vesliz-vault-acssliz)) will Boost the APY for these vaults, up to 2.5X
 
 Examples:
 - User A forms a ETH-ARB LP, and farms it for 50% APR, manually harvesting the $SLIZ rewards every few days. User A has no Boosted rewards because he doesn't lock $SLIZ for any veSLIZ
