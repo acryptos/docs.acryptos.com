@@ -10,9 +10,9 @@ Yield Farming Optimizer products range from Autocompounding Single-token Vaults,
 
 ### Core Values
 
-- unique, smart, automated DeFi strategies
-- SAFU, careful risk management
-- sustainable APY & tokenomics
+* unique, smart, automated DeFi strategies
+* SAFU, careful risk management
+* sustainable APY & tokenomics
 
 ## Products
 
@@ -22,41 +22,38 @@ Single token vaults are one of the most unique offerings at ACryptoS. We partner
 
 By borrowing and supplying the same token in a number of loops, users earn Supply and Borrow APY multiple times, up to 7.6X the initial APY. This helps users get much higher yields for their tokens, and also increases the deposits and utilizations of lending markets.
 
-There is zero liquidation risk in our strategy, as it is using the same token for supplying and borrowing. Price movements of the token does not result in liquidations.
-Read more about risks here.
+There is zero liquidation risk in our strategy, as it is using the same token for supplying and borrowing. Price movements of the token does not result in liquidations. Read more about risks here.
 
-### ($ACSI) 2. ACryptoS StableSwap \(Stablecoin DEX\)
+### ($ACSI) 2. ACryptoS StableSwap (Stablecoin DEX)
 
-ACryptoS StableSwap is an [automated market maker \(AMM\)](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm) protocol based on Curve’s specialized algorithm tailored for stable coins. ACryptoS is offering the first AMM for stable coins based on this algorithm on the Binance Smart Chain \(BSC\).
+ACryptoS StableSwap is an [automated market maker (AMM)](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm) protocol based on Curve’s specialized algorithm tailored for stable coins. ACryptoS is offering the first AMM for stable coins based on this algorithm on the Binance Smart Chain (BSC).
 
 Trading on the Binance Smart Chain is both faster and significantly cheaper than trading on the Ethereum chain. ERC-20 Tokens can be crossed over from Ethereum to Binance Smart Chain via the Binance Bridge.
 
 Acryptos StableSwap enables efficient stablecoin trading at best prices which is
 
-* **~10x cheaper**;
-* **~100x less slippage** when trading stable coins compared to the various UniSwap type AMMs available.
+* **\~10x cheaper**;
+* **\~100x less slippage** when trading stable coins compared to the various UniSwap type AMMs available.
 
 ### ($ACS) 3. Dual-Token LP Vaults
 
-### ($ACS) 4. [Liquid Wrapper veNFT Vaults](acryptos-vaults/liquid-wrapper-vaults.md)
+### ($ACS) 4. [Liquid Wrapper veNFT Vaults](intro-to-acryptos/acryptos-vaults/liquid-wrapper-vaults.md)
 
 ### ACS and ACSI Native Tokens
 
-1. ACS is our native token of our yield farming optimizer ACryptoS Vaults.
+1.  ACS is our native token of our yield farming optimizer ACryptoS Vaults.
 
-   ACS tokens deposited in the [**ACS Vault**](https://app.acryptos.com/core/):
+    ACS tokens deposited in the [**ACS Vault**](https://app.acryptos.com/core/):
 
-   * accrue protocol [fees and rewards](fees.md#acs-vault) from Vaults and ACS Farms
-   * participate in the [governance of the protocol](https://vote.acryptos.com/).
-   * give you [yield boost](acryptos-farms.md#acs-rewards-boost) in the ACS related farms
+    * accrue protocol [fees and rewards](dao-and-tokenomics/fees.md#acs-vault) from Vaults and ACS Farms
+    * participate in the [governance of the protocol](https://vote.acryptos.com/).
+    * give you [yield boost](dao-and-tokenomics/acryptos-farms.md#acs-rewards-boost) in the ACS related farms
+2.  ACSI is the native token of **StableSwap** and probably all future non-vault products.
 
-2. ACSI is the native token of **StableSwap** and probably all future non-vault products.
+    ACSI tokens deposited in the [**ACSI Vault**](https://app.acryptos.com/core/):
 
-   ACSI tokens deposited in the [**ACSI Vault**](https://app.acryptos.com/core/):
-
-   * accrue protocol [fees and rewards](fees.md#acs-vault) from [StableSwap and ACSI Farms](https://app.acryptos.com/acsi/)
-   * and participate in the [governance of the protocol](https://vote.acryptos.com/).
-
+    * accrue protocol [fees and rewards](dao-and-tokenomics/fees.md#acs-vault) from [StableSwap and ACSI Farms](https://app.acryptos.com/acsi/)
+    * and participate in the [governance of the protocol](https://vote.acryptos.com/).
 
 ### Links
 
@@ -66,23 +63,22 @@ dApp (Fast/Lite): [https://app.acryptos.com](https://app-acryptos.com)
 
 dApp (Full): [https://app-v2.acryptos.com](https://app-v2acryptos.com)
 
----
+***
 
 Telegram: [https://t.me/acryptos9](https://t.me/acryptos9)
 
 Telegram (DAO): [https://t.me/acryptos9](https://t.me/acryptosdao)
 
----
+***
 
 Twitter: [https://twitter.com/acryptosdao](https://twitter.com/acryptosdao)
 
 Twitter (Dev/Founder): [https://twitter.com/acryptosx](https://twitter.com/acryptosx)
 
----
+***
 
 Discord: [https://discord.gg/xHqhWxUeeR](https://discord.gg/xHqhWxUeeR)
 
 Medium: [https://medium.com/acryptos/](https://medium.com/acryptos/)
 
 Reddit: [https://www.reddit.com/r/ACryptoS](https://www.reddit.com/r/ACryptoS)
-
