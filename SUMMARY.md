@@ -13,8 +13,8 @@
 ## Chains
 
 * [Astar](chains/astar.md)
-* [Kava](chains/kava.md)
 * [Canto](chains/canto.md)
+* [Kava](chains/kava.md)
 * [Bridges](chains/bridges.md)
 
 ## DAO & Tokenomics
