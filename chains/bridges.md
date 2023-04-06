@@ -10,6 +10,10 @@ Web: [https://multichain.org/](https://multichain.org/)
 App: [https://cbridge.celer.network/](https://cbridge.celer.network/)\
 Web: [https://celer.network/](https://celer.network/)
 
+## Synapse
+
+App: [https://synapseprotocol.com/](https://synapseprotocol.com/)
+
 ## Exceptions
 
 ACS: [Multichain.org](bridges.md#multichain.org)\

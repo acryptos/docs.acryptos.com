@@ -37,7 +37,7 @@ Acryptos StableSwap enables efficient stablecoin trading at best prices which is
 
 ### ($ACS) 3. Dual-Token LP Vaults
 
-### ($ACS) 4. [Liquid Wrapper veNFT Vaults](intro-to-acryptos/acryptos-vaults/liquid-wrapper-vaults.md)
+### ($ACS) 4. [Liquid Wrapper veNFT Vaults](acryptos-vaults/liquid-wrapper-vaults.md)
 
 ### ACS and ACSI Native Tokens
 
@@ -45,14 +45,14 @@ Acryptos StableSwap enables efficient stablecoin trading at best prices which is
 
     ACS tokens deposited in the [**ACS Vault**](https://app.acryptos.com/core/):
 
-    * accrue protocol [fees and rewards](dao-and-tokenomics/fees.md#acs-vault) from Vaults and ACS Farms
+    * accrue protocol [fees and rewards](fees.md#acs-vault) from Vaults and ACS Farms
     * participate in the [governance of the protocol](https://vote.acryptos.com/).
-    * give you [yield boost](dao-and-tokenomics/acryptos-farms.md#acs-rewards-boost) in the ACS related farms
+    * give you [yield boost](acryptos-farms.md#acs-rewards-boost) in the ACS related farms
 2.  ACSI is the native token of **StableSwap** and probably all future non-vault products.
 
     ACSI tokens deposited in the [**ACSI Vault**](https://app.acryptos.com/core/):
 
-    * accrue protocol [fees and rewards](dao-and-tokenomics/fees.md#acs-vault) from [StableSwap and ACSI Farms](https://app.acryptos.com/acsi/)
+    * accrue protocol [fees and rewards](fees.md#acs-vault) from [StableSwap and ACSI Farms](https://app.acryptos.com/acsi/)
     * and participate in the [governance of the protocol](https://vote.acryptos.com/).
 
 ### Links

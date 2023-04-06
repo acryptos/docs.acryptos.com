@@ -23,7 +23,7 @@ Balancer V2 brings powerful new features to slash gas costs, super-charge capita
 
 ## Additional Resources
 
-* [Balancer V2 documentation](https://docs.balancer.fi)
+* [Balancer V2 documentation](https://docs.balancer.fi/)
 * [Balancer V2 FAQs](https://docs.balancer.fi/getting-started/faqs)
 
 ## Security & Audits
