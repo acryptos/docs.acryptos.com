@@ -5,8 +5,8 @@ Faucet: [Astar App](astar.md#astar-app)
 ## Bridges
 
 Canonical (EVM): [Celer cBridge](bridges.md#celer-cbridge)\
-Canonical (Polkadot\*): [Astar App](astar.md#astar-app)\
-\*for native Polkadot assets like DOT, USDT\
+Canonical (Native\*): [Astar App](astar.md#astar-app)\
+\*for native Polkadot assets like DOT, USDT, and transfers between Astar Native and EVM addresses.\
 [Exceptions](bridges.md#exceptions): ACS
 
 ## Astar App
