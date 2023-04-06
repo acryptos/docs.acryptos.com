@@ -51,6 +51,19 @@ TL/DR 👉 Users get max APY by staking in Liquid veSLIZ Vault, then using the r
 
 ---
 
+## Steps:
+Investing in SLIZ-acsSLIZ Vault
+
+1) Buy $SLIZ on https://solidlizard.finance/swap
+
+2) Stake $SLIZ in our [veSLIZ Vault](https://app.acryptos.com/vaults/42161/0x16C4BA98623a1B05d35b9923fB00E9fE02D0B47f), and get acsSLIZ receipt token
+
+3) Form SLIZ-acsSLIZ LP at https://solidlizard.finance/liquidity
+
+4) Stake in our [SLIZ-acsSLIZ Vault](https://app.acryptos.com/vaults/42161/0x61A34758576D651643A90838f3eCF86e8680874D)
+
+---
+
 ### Additional Notes:
 
 The above vaults can be used independent of each other.
