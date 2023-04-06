@@ -9,3 +9,5 @@ Others:\
 [Multichain.org](bridges.md#multichain.org) (ACS, multiBTC)\
 [Celer cBridge](bridges.md#celer-cbridge) (BNB, BUSD, WBTC)
 
+Reference: [https://docs.canto.io/user-guides/bridging-assets](https://docs.canto.io/user-guides/bridging-assets)
+
