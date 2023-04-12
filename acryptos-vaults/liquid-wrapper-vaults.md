@@ -10,15 +10,22 @@ Our Liquid Wrapper Vaults are a set of vaults specially designed to work with ve
 
 _*Our Liquid Wrapper Vault mechanics vary depending on different partners. Check individual docs in the next few pages for full details._
 
-The following uses one of our partners, [SolidLizard](https://solidlizard.finance/) $SLIZ as an example
+### 1️⃣ Liquid veNFT Vault (acs_veNFT)
+- Users stake their ve(3,3) DEX native tokens in the vault, getting a acs_veNFT receipt token, and get benefits as if they locked veNFT themselves (trading fees/bribes/rebases etc.). Our strategy then locks the tokens for max period, getting max veNFT voting power.
+- 50% of Boosted rewards from ALL our LP Vaults on the ve(3,3) DEX, are rewarded to acs.veNFT (veNFT Vault) holders
+- This veNFT Vault maintains a % Reserve, allowing users to withdraw back the DEX native tokens at any time, where otherwise their veNFT would be locked for 4 years
 
-- They have a 2.5X [Boost function](https://solidlizard.gitbook.io/solidlizard/how-to-use-the-boost-calculator) for their LP farms. If a user stakes $SLIZ as a veNFT, locking it for a period of time, they will receive Boosts on the LP farms they stake in.
+_*Note: Withdrawals are subject to available DEX native tokens in the Vault Reserves. Reserves are constantly topped up from multiple sources (bribes/Boost Rewards etc.). Vault Strategy is based on our Liquidizer Vault (one of our other unique strategies, more info [here](../acryptos-vaults/liquidizer-vaults.md))_
 
-- The larger the veNFT they have, the more they will be able to Boost the LP farms.
+TL/DR 👉 Users stake their $SLIZ, gets full locking benefits without locking, gets rewards APY from all our LP Vaults on SolidLizard
+
+The more $SLIZ staked in the veSLIZ Vault, the higher the Boosted APY for the LP vaults↩️
+
+The more the LP vaults gain TVL, the more rewards go to the veSLIZ Vault↩️
 
 ———
 
-### 1️⃣ autoCompunding vaults for Liquidity Pool farms
+### 2️⃣ autoCompunding vaults for Liquidity Pool farms
 - These vaults collect $SLIZ emissions from the farm, and autoCompound them back into the LP, increasing the number of tokens in the LP
 - The veNFT in the Liquid veSLIZ Vault (explained [below](../acryptos-vaults/liquid-wrapper-vaults#2-liquid-vesliz-vault-acssliz)) will Boost the APY for these vaults, up to 2.5X
 
@@ -28,18 +35,7 @@ Examples:
 
 TL/DR 👉Users can autoCompound their LP with Boosted rewards, without needing to lock $SLIZ to veSLIZ themselves.
 
-### 2️⃣ Liquid veSLIZ Vault (acsSLIZ)
-- Users stake their $SLIZ in the vault, getting a acsSLIZ receipt token, and get benefits as if they locked veSLIZ themselves (trading fees/bribes/rebases etc.). Our strategy then locks the $SLIZ for max period, getting max veSLIZ voting power.
-- 50% of Boosted rewards from ALL our LP Vaults, are rewarded to acsSLIZ (veSLIZ Vault) holders
-- This veSLIZ Vault allows users to withdraw $SLIZ at any time, where otherwise their veSLIZ would be locked for 4 years
 
-_*Note: Withdrawals are subject to available $SLIZ in the Vault Reserves. Reserves are constanly topped up from above-mentioned sources (bribes/Boost Rewards etc.). Vault Strategy is based on our Liquidizer Vault (one of our other unique strategies, more info [here](../acryptos-vaults/liquidizer-vaults.md))_
-
-TL/DR 👉 Users stake their $SLIZ, gets full locking benefits without locking, gets rewards APY from all our LP Vaults on SolidLizard
-
-The more $SLIZ staked in the veSLIZ Vault, the higher the Boosted APY for the LP vaults↩️
-
-The more the LP vaults gain TVL, the more rewards go to the veSLIZ Vault↩️
 
 ### 3️⃣ acsSLIZ-SLIZ LP vault
 - Users can pair their acsSLIZ token (Liquid veSLIZ Vault receipt) with $SLIZ, forming an LP
@@ -51,23 +47,3 @@ _*voting strategy might be adjusted after initial launch period, based on TVL an
 
 TL/DR 👉 Users get max APY by staking in Liquid veSLIZ Vault, then using the receipt acsSLIZ token to stake further in acsSLIZ-SLIZ Vault
 
----
-
-## Steps:
-Investing in SLIZ-acsSLIZ Vault
-
-1) Buy $SLIZ on https://solidlizard.finance/swap
-
-2) Stake $SLIZ in our [veSLIZ Vault](https://app.acryptos.com/vaults/42161/0x16C4BA98623a1B05d35b9923fB00E9fE02D0B47f), and get acsSLIZ receipt token
-
-3) Form SLIZ-acsSLIZ LP at https://solidlizard.finance/liquidity
-
-4) Stake in our [SLIZ-acsSLIZ Vault](https://app.acryptos.com/vaults/42161/0x61A34758576D651643A90838f3eCF86e8680874D)
-
----
-
-### Additional Notes:
-
-The above vaults can be used independent of each other.
-
-Withdrawal fees: 0.1%
