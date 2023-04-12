@@ -8,11 +8,13 @@ Our Liquid Wrapper Vaults are a set of vaults specially designed to work with ve
 
 ## How It Works
 
-_(Using one of our partners, [SolidLizard](https://solidlizard.finance/) $SLIZ as an example)_
+_*Our Liquid Wrapper Vault mechanics vary depending on different partners. Check individual docs in the next few pages for full details._
 
-They have a 2.5X [Boost function](https://solidlizard.gitbook.io/solidlizard/how-to-use-the-boost-calculator) for their LP farms. If a user stakes $SLIZ as a veNFT, locking it for a period of time, they will receive Boosts on the LP farms they stake in.
+The following uses one of our partners, [SolidLizard](https://solidlizard.finance/) $SLIZ as an example
 
-The larger the veNFT they have, the more they will be able to Boost the LP farms. 
+- They have a 2.5X [Boost function](https://solidlizard.gitbook.io/solidlizard/how-to-use-the-boost-calculator) for their LP farms. If a user stakes $SLIZ as a veNFT, locking it for a period of time, they will receive Boosts on the LP farms they stake in.
+
+- The larger the veNFT they have, the more they will be able to Boost the LP farms.
 
 ———
 
