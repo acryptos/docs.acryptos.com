@@ -41,11 +41,11 @@ Investing in FLOW-acsFLOW Vault (for very high APY currently)
 
 1) Buy $FLOW on https://www.velocimeter.xyz/swap
 
-2) Stake $FLOW in our [veFLOW Vault](https://app.acryptos.com/vaults/43114/0x2Dd5a62a5D4E4D20622061C823f9648E3078012d), and get acsFLOW receipt token
+2) Stake $FLOW in our [veFLOW Vault](https://app.acryptos.com/vaults/7700/0x53a5dD07127739e5038cE81eff24ec503A6CC479), and get acsFLOW receipt token
 
 3) Form FLOW-acsFLOW LP at https://app.velocimeter.xyz/liquidity
 
-4) Stake in our [FLOW-acsFLOW Vault](https://app.acryptos.com/vaults/43114/0x567c7c67d3e8C4805eff56B8F143753fa1337A23)
+4) Stake in our [FLOW-acsFLOW Vault](https://app.acryptos.com/vaults/7700/0x2cC96A6000979AdAF5cc4f4393371f1fB608E234)
 
 ---
 
