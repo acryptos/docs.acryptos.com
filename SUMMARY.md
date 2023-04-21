@@ -9,7 +9,7 @@
     * [SolidLizard veSLIZ](acryptos-vaults/wrapper-vaults/wrapper-vesliz.md)
     * [Flair DEX veFLDX](acryptos-vaults/wrapper-vaults/wrapper-vefldx.md)
     * [Velocimeter veFLOW](acryptos-vaults/wrapper-vaults/wrapper-veflow.md)
-    * [Velocimeter veVARA](acryptos-vaults/wrapper-vaults/wrapper-vevara.md)
+    * [Equilibre veVARA](acryptos-vaults/wrapper-vaults/wrapper-vevara.md)
   * [Liquidizer Vaults](acryptos-vaults/liquidizer-vaults.md)
 * [ACSI StableSwap](acryptos-stableswap.md)
 * [Acsi.Finance](acsi.finance.md)
