@@ -16,6 +16,7 @@ The multi-token nature of the vaults and their auto-rebalancing feature on conce
 * There is a cooldown period after every vault rebalance, which pauses Vault functionality.
 * Imbalanced deposits are subject to an equilibrium fee (earned by the Vault). This fee applies only to the imbalanced portion of the deposit and will be similar to if the user swapped within the underlying pool to make a balanced deposit.
 * Our strategy will not swap tokens to rebalance its position.
+* Deposits and withdrawals are subject to slippage checks. Users should check and confirm the correct amounts to be received on the UI before signing transactions.
 
 The risk of attacks increases as Vault TVL forms the bulk of the underlying pool. When this happens, the Vault should be paused, and users should withdraw from the Vault as soon as possible.
 
