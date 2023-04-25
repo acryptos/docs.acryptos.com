@@ -11,6 +11,7 @@
     * [Velocimeter veFLOW](acryptos-vaults/wrapper-vaults/wrapper-veflow.md)
     * [Equilibre veVARA](acryptos-vaults/wrapper-vaults/wrapper-vevara.md)
   * [Liquidizer Vaults](acryptos-vaults/liquidizer-vaults.md)
+  * [Uniswap V3 Vaults](intro-to-acryptos/acryptos-vaults/uniswap-v3-vaults.md)
 * [ACSI StableSwap](acryptos-stableswap.md)
 * [Acsi.Finance](acsi.finance.md)
 
