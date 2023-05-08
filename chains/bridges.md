@@ -14,6 +14,10 @@ Web: [https://celer.network/](https://celer.network/)
 
 App: [https://synapseprotocol.com/](https://synapseprotocol.com/)
 
+## WAN Bridge
+
+App: [https://bridge.wanchain.org/#/](https://bridge.wanchain.org/#/)
+
 ## Exceptions
 
 ACS: [Multichain.org](bridges.md#multichain.org)\
