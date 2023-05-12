@@ -48,7 +48,6 @@
 * [Bahasa \(Indonesia + Malaysia\)](https://t.me/ACryptoS_Bahasa)
 * [French](https://t.me/acryptosfr)
 * [Japanese - 日本語](https://t.me/ACryptoSJPN)
-* [Italian](https://t.me/acryptos_italy)
 * [Portuguese](https://t.me/ACryptoSPortuguese)
 * [German](https://t.me/acryptosgerman)
 * [Persian](https://t.me/AcryptosPersian)
