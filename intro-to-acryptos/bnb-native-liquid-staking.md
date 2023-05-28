@@ -6,6 +6,8 @@ Featuring  fully automated, on-chain de-centralized operations, utilizing the [n
 
 The use of the native staking system contract means that all operations between BSC and BC are performed on-chain, providing a transparent and secure process.
 
+## Verification Reference
+
 First delegation:\
 [Deposit on BSC](https://bscscan.com/tx/0xd48b7205a0bed3945f166b59474b5d8e7f54431fac83d2676e17baa7f8c1b940#eventlog) -> [Delegate on BC](https://explorer.bnbchain.org/tx/80D6CFDF4535D4D6BC1DEC55BBE2A6577BF357767A8F34FE9DE3F79A25F4A420) -> [Delegate ACK on BSC](https://bscscan.com/tx/0x7ca0e0d5f73c32e0e120fbec4948c7b10da7fc9757f3b2b2d49dd320fa02a0a7#eventlog)
 
@@ -17,8 +19,13 @@ Delegate address on BC: [bnb1q0v3ej7fq603nl2vglram26egy5xmwt6q6gsgn](https://exp
 
 Note: Explorer does not show delegations on delegate address page, but you can verify them from the validators' pages - reward address -> staking tab -> any validator -> delegators tab -> scroll and search for delegate address
 
+First staking reward:\
+[Reward received on BSC](https://bscscan.com/tx/0xdb5b63de7fe3a09d0e7ddcc30cf85c3e6fc27c7ea2876ec32da29b1342e02e7a#eventlog) -> [Reward claimed on BSC](https://bscscan.com/tx/0x58e30595c5bfa3ada0a44e3fd4be89546d88cbab22695081fec27178c18ab29c#eventlog)
+
 First undelegation:\
-[Undelegate on BSC](https://bscscan.com/tx/0x1709118184022c18123ce9b27fc7c78d6a9157f19e2ce11e2609b71952fa6e13#eventlog) -> [Undelegate ACK on BSC](https://bscscan.com/tx/0x1cada1266e390be4f13a453d484e9f9fcdcb062e31139dc3f6552810fcc5c3d6#eventlog)
+[Undelegate on BSC](https://bscscan.com/tx/0x1709118184022c18123ce9b27fc7c78d6a9157f19e2ce11e2609b71952fa6e13#eventlog) -> [Undelegate on BC](https://explorer.bnbchain.org/tx/AFE8976DAC8F8ECD1E99FB80EFE951DBEF85717564270C320CE92F93EAB2A87D) -> [Undelegate ACK on BSC](https://bscscan.com/tx/0x1cada1266e390be4f13a453d484e9f9fcdcb062e31139dc3f6552810fcc5c3d6#eventlog) -> [Undelegate claimed on BSC](https://bscscan.com/tx/0x45f64dfa52ce0e8877005a04b966dd19b0b35c7e427a0e3b55b7fa35f585207b#eventlog)
+
+Note: when BNB reserves in the Vault are low, Harvest will trigger an undelegation to top up the reserves.
 
 
 
