@@ -12,7 +12,8 @@
     * [Equilibre veVARA](acryptos-vaults/wrapper-vaults/wrapper-vevara.md)
   * [Liquidizer Vaults](acryptos-vaults/liquidizer-vaults.md)
   * [Chronos Finance LP Vaults](intro-to-acryptos/acryptos-vaults/chronos-finance-lp-vaults.md)
-* [Uniswap V3 Vaults (Active Position Manager)](intro-to-acryptos/uniswap-v3-vaults.md)
+* [BNB Native Liquid Staking](intro-to-acryptos/bnb-native-liquid-staking.md)
+* [Uniswap V3 Vaults (Active Position Manager)](intro-to-acryptos/acryptos-vaults/uniswap-v3-vaults.md)
 * [ACSI StableSwap](acryptos-stableswap.md)
 * [Acsi.Finance](acsi.finance.md)
 

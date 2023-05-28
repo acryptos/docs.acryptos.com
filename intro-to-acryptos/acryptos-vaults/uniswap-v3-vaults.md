@@ -1,4 +1,4 @@
-# Uniswap V3 Vaults
+# Uniswap V3 Vaults (Active Position Manager)
 
 Uniswap V3 Vaults are our first multi-token vaults.
 
