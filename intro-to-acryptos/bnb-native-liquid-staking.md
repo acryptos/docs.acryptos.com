@@ -6,6 +6,8 @@ Featuring  fully automated, on-chain de-centralized operations, utilizing the [n
 
 The use of the native staking system contract means that all operations between BSC and BC are performed on-chain, providing a transparent and secure process.
 
+This Vault is a [Liquidizer Vault](../acryptos-vaults/liquidizer-vaults.md) and a reserve of BNB is kept on BSC to enable immediate withdrawals. When reserves run low, an undelegation is triggered on BC to automatically top them up, subject to the 7-day unbonding period.
+
 ## Verification Reference
 
 First delegation:\
@@ -26,6 +28,15 @@ First undelegation:\
 [Undelegate on BSC](https://bscscan.com/tx/0x1709118184022c18123ce9b27fc7c78d6a9157f19e2ce11e2609b71952fa6e13#eventlog) -> [Undelegate on BC](https://explorer.bnbchain.org/tx/AFE8976DAC8F8ECD1E99FB80EFE951DBEF85717564270C320CE92F93EAB2A87D) -> [Undelegate ACK on BSC](https://bscscan.com/tx/0x1cada1266e390be4f13a453d484e9f9fcdcb062e31139dc3f6552810fcc5c3d6#eventlog) -> [Undelegate claimed on BSC](https://bscscan.com/tx/0x45f64dfa52ce0e8877005a04b966dd19b0b35c7e427a0e3b55b7fa35f585207b#eventlog)
 
 Note: when BNB reserves in the Vault are low, Harvest will trigger an undelegation to top up the reserves.
+
+### Verify reserves on BSC staking system contract
+
+Read contract on BscScan, verify using methods getTotalDelegated, getDelegated:\
+[0x0000000000000000000000000000000000002001](https://bscscan.com/address/0x0000000000000000000000000000000000002001#readContract)
+
+For delegator address, use the Vault address: [0x09A18250f99118f40a5D992D537E24b8BD9880F3](https://bscscan.com/address/0x09A18250f99118f40a5D992D537E24b8BD9880F3)
+
+For validator address, convert validator's BC address from [bech32 to hex](https://slowli.github.io/bech32-buffer/).
 
 
 
