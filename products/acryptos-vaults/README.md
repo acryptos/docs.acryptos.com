@@ -36,7 +36,7 @@ Find out more about [AMM and Liquidity Provider](https://academy.binance.com/en/
 
 Find out more about [APY vs APR](https://academy.binance.com/en/ask/questions/apy-and-apr)
 
-[Frequently Asked Questions](../faq.md)
+[Frequently Asked Questions](../../faq.md)
 
 ## ACS and ACSI Vault
 
@@ -94,6 +94,6 @@ These Vaults stake Mdex LP tokens, farms MDX and swaps it for more of the staked
 
 ## Workers
 
-Anyone can help [harvest an ACryptoS Vault](https://app.acryptos.com/worker/) and earn the [harvester's reward](../fees.md#all-vaults) as a gas subsidy. This decentralises the automation of our vaults.
+Anyone can help [harvest an ACryptoS Vault](https://app.acryptos.com/worker/) and earn the [harvester's reward](../../fees.md#all-vaults) as a gas subsidy. This decentralises the automation of our vaults.
 
 You do not need to do this as a normal user, your holdings in the Vault will compound automatically.

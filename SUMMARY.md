@@ -3,19 +3,22 @@
 ## Intro to ACryptoS
 
 * [Overview](README.md)
-* [ACryptoS Vaults](acryptos-vaults/README.md)
-  * [Single-Token Vaults](acryptos-vaults/single-token-vaults.md)
-  * [Liquid Wrapper veNFT Vaults](acryptos-vaults/liquid-wrapper-vaults.md)
-    * [SolidLizard veSLIZ](acryptos-vaults/wrapper-vaults/wrapper-vesliz.md)
-    * [Flair DEX veFLDX](acryptos-vaults/wrapper-vaults/wrapper-vefldx.md)
-    * [Velocimeter veFLOW](acryptos-vaults/wrapper-vaults/wrapper-veflow.md)
-    * [Equilibre veVARA](acryptos-vaults/wrapper-vaults/wrapper-vevara.md)
-  * [Liquidizer Vaults](acryptos-vaults/liquidizer-vaults.md)
-  * [Chronos Finance LP Vaults](intro-to-acryptos/acryptos-vaults/chronos-finance-lp-vaults.md)
-* [BNB Native Liquid Staking](intro-to-acryptos/bnb-native-liquid-staking.md)
-* [Uniswap V3 Vaults (Active Position Manager)](intro-to-acryptos/acryptos-vaults/uniswap-v3-vaults.md)
-* [ACSI StableSwap](acryptos-stableswap.md)
-* [Acsi.Finance](acsi.finance.md)
+
+## Products
+
+* [ACryptoS Vaults](products/acryptos-vaults/README.md)
+  * [Single-Token Vaults](products/acryptos-vaults/single-token-vaults.md)
+  * [Liquid Wrapper veNFT Vaults](products/acryptos-vaults/liquid-wrapper-vaults/README.md)
+    * [SolidLizard veSLIZ](products/acryptos-vaults/liquid-wrapper-vaults/wrapper-vesliz.md)
+    * [Flair DEX veFLDX](products/acryptos-vaults/liquid-wrapper-vaults/wrapper-vefldx.md)
+    * [Velocimeter veFLOW](products/acryptos-vaults/liquid-wrapper-vaults/wrapper-veflow.md)
+    * [Equilibre veVARA](products/acryptos-vaults/liquid-wrapper-vaults/wrapper-vevara.md)
+  * [Liquidizer Vaults](products/acryptos-vaults/liquidizer-vaults.md)
+  * [Chronos Finance LP Vaults](products/acryptos-vaults/chronos-finance-lp-vaults.md)
+* [BNB Native Liquid Staking](products/bnb-native-liquid-staking.md)
+* [Uniswap V3 Vaults (Active Position Manager)](products/uniswap-v3-vaults.md)
+* [ACSI StableSwap](products/acryptos-stableswap.md)
+* [Acsi.Finance](products/acsi.finance.md)
 
 ## Chains
 

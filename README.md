@@ -37,7 +37,7 @@ Acryptos StableSwap enables efficient stablecoin trading at best prices which is
 
 ### ($ACS) 3. Dual-Token LP Vaults
 
-### ($ACS) 4. [Liquid Wrapper veNFT Vaults](acryptos-vaults/liquid-wrapper-vaults.md)
+### ($ACS) 4. [Liquid Wrapper veNFT Vaults](products/acryptos-vaults/liquid-wrapper-vaults/)
 
 ### ACS and ACSI Native Tokens
 

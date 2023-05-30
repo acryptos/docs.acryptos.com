@@ -5,20 +5,20 @@ description: >-
   Binance Smart Chain.
 ---
 
-# ACryptoS StableSwap
+# ACSI StableSwap
 
 ## Cheaper Better Faster
 
 ACryptoS StableSwap offers:
 
-* ~10X lower exchange fee
-* ~500X smaller slippage
+* \~10X lower exchange fee
+* \~500X smaller slippage
 
 as compared to various UniSwap type AMMs on Binance Smart Chain.
 
 This is due to the usage of Curve's [specialized algorithm tailored for trading of stablecoins and other pegged assets](https://www.curve.fi/stableswap-paper.pdf).
 
-Trading on Binance Smart Chain also means gas costs up to **~100X cheaper** than on Ethereum, and a **~5X faster** block interval of 3 seconds.
+Trading on Binance Smart Chain also means gas costs up to **\~100X cheaper** than on Ethereum, and a **\~5X faster** block interval of 3 seconds.
 
 Resources:
 
@@ -26,11 +26,11 @@ Find out more about [Stablecoins](https://academy.binance.com/en/articles/what-a
 
 Find out more about [AMM and Liquidity Provider](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm).
 
-[How to use ACryptoS StableSwap \(Video Tutorial\)](https://www.youtube.com/watch?v=xn-apvGCsFY) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
+[How to use ACryptoS StableSwap (Video Tutorial)](https://www.youtube.com/watch?v=xn-apvGCsFY) - contributed by [CryptoBKT (Hsing)](https://t.me/cryptoBKT)
 
-[Frequently Asked Questions](faq.md)
+[Frequently Asked Questions](../faq.md)
 
-## Yield Farming with ACSI <a id="b267"></a>
+## Yield Farming with ACSI <a href="#b267" id="b267"></a>
 
 We share a stake in the protocol with ACryptoS StableSwap liquidity providers, distributing ACSI tokens via our farms.
 
@@ -52,7 +52,7 @@ Metapools allow for one token to seemingly trade with another underlying base po
 
 2.Allows listing of less liquid assets.
 
-3.Base pool holders are shielded from systemic risks of the metapool. \(i.e. should VAI lose it's peg, ACS4USD corepool liquidity providers who did not provide liquidity to the metapool will not be affected\)
+3.Base pool holders are shielded from systemic risks of the metapool. (i.e. should VAI lose it's peg, ACS4USD corepool liquidity providers who did not provide liquidity to the metapool will not be affected)
 
 ## Price Impact for Liquidity Providers
 
@@ -67,4 +67,3 @@ This effectively means if you deposit a token that the pool has a lower proporti
 In general, if the token's market prices are at peg, it would be profitable to help "rebalance" the pool by depositing or withdrawing. However this might not be the case if prices are off peg. For example, if DAI's market price is significantly above peg, it's proportion in the pool should be much lower than the others'. If you deposit more DAI, you might see a "positive" price impact but depositing too much would push the price of DAI in the pool down and arbitrageurs would be able to buy it from the pool and sell it elsewhere for a profit.
 
 Do note for metapools, a balanced proportion is achieved when the non-base token is equal to the base pool, i.e. when ACS4VAI has 50% VAI and 50% ACS4.
-

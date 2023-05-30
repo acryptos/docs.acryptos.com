@@ -1,12 +1,18 @@
+---
+description: >-
+  The first native liquid staking BNB product on BSC, featuring fully automated,
+  on-chain de-centralized operations.
+---
+
 # BNB Native Liquid Staking
 
 The **first** _**native**_ liquid staking BNB product on BSC, launched on 9 Feb 2023.
 
-Featuring  fully automated, on-chain de-centralized operations, utilizing the [new native staking system contract on BSC](https://bscscan.com/address/0x0000000000000000000000000000000000002001), implemented via [BEP-153](https://github.com/bnb-chain/BEPs/blob/master/BEP153.md).
+Featuring fully automated, on-chain de-centralized operations, utilizing the [new native staking system contract on BSC](https://bscscan.com/address/0x0000000000000000000000000000000000002001), implemented via [BEP-153](https://github.com/bnb-chain/BEPs/blob/master/BEP153.md).
 
 The use of the native staking system contract means that all operations between BSC and BC are performed on-chain, providing a transparent and secure process.
 
-This Vault is a [Liquidizer Vault](../acryptos-vaults/liquidizer-vaults.md) and a reserve of BNB is kept on BSC to enable immediate withdrawals. When reserves run low, an undelegation is triggered on BC to automatically top them up, subject to the 7-day unbonding period.
+This Vault is a [Liquidizer Vault](acryptos-vaults/liquidizer-vaults.md) and a reserve of BNB is kept on BSC to enable immediate withdrawals. When reserves run low, an undelegation is triggered on BC to automatically top them up, subject to the 7-day unbonding period.
 
 ## Verification Reference
 
