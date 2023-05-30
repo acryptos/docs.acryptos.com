@@ -17,8 +17,8 @@
   * [Chronos Finance LP Vaults](products/acryptos-vaults/chronos-finance-lp-vaults.md)
 * [BNB Native Liquid Staking](products/bnb-native-liquid-staking.md)
 * [Uniswap V3 Vaults (Active Position Manager)](products/uniswap-v3-vaults.md)
-* [ACSI StableSwap](products/acryptos-stableswap.md)
 * [Acsi.Finance](products/acsi.finance.md)
+* [ACSI StableSwap](products/acryptos-stableswap.md)
 
 ## Chains
 
