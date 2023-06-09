@@ -23,8 +23,8 @@
 * [Astar](chains/astar.md)
 * [Canto](chains/canto.md)
 * [Kava](chains/kava.md)
-* [Moonbeam](chains/kava-1.md)
-* [Moonriver](chains/kava-2.md)
+* [Moonbeam](chains/moonbeam.md)
+* [Moonriver](chains/moonriver.md)
 * [Bridges](chains/bridges.md)
 
 ## DAO & Tokenomics <a href="#dao" id="dao"></a>

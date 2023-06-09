@@ -2,7 +2,7 @@
 
 ## Bridges
 
-Canonical (Polkadot/Native\*): [Moonbeam App](kava-1.md#moonbeam-app)\
+Canonical (Polkadot/Native\*): [Moonbeam App](moonbeam.md#moonbeam-app)\
 \*Bridge for native Polkadot assets like DOT, GLMR
 
 Moonwell: [Portal Token Bridge (Wormhole)](bridges.md#portal-token-bridge-wormhole)

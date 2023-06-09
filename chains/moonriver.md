@@ -2,7 +2,7 @@
 
 ## Bridges
 
-Canonical (Polkadot/Native\*): [Moonriver App](kava-2.md#moonriver-app)\
+Canonical (Polkadot/Native\*): [Moonriver App](moonriver.md#moonriver-app)\
 \*Bridge for native Polkadot assets like DOT, MOVR
 
 Moonwell: [Multichain.org](bridges.md#multichain.org)
