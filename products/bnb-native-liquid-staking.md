@@ -12,7 +12,7 @@ Featuring fully automated, on-chain de-centralized operations, utilizing the [ne
 
 The use of the native staking system contract means that all operations between BSC and BC are performed on-chain, providing a transparent and secure process.
 
-This Vault is a [Liquidizer Vault](acryptos-vaults/liquidizer-vaults.md) and a reserve of BNB is kept on BSC to enable immediate withdrawals. When reserves run low, an undelegation is triggered on BC to automatically top them up, subject to the 7-day unbonding period.
+This Vault is a [Liquidizer Vault](vaults/liquidizer-vaults.md) and a reserve of BNB is kept on BSC to enable immediate withdrawals. When reserves run low, an undelegation is triggered on BC to automatically top them up, subject to the 7-day unbonding period.
 
 ## Verification Reference
 

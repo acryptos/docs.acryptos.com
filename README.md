@@ -1,4 +1,4 @@
-# Overview
+# ACryptoS
 
 ![](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Banner%20-%20Sustainable%20SAFU%20small.jpg)
 
@@ -37,7 +37,7 @@ Acryptos StableSwap enables efficient stablecoin trading at best prices which is
 
 ### ($ACS) 3. Dual-Token LP Vaults
 
-### ($ACS) 4. [Liquid Wrapper veNFT Vaults](products/acryptos-vaults/liquid-wrapper-vaults/)
+### ($ACS) 4. [Liquid Wrapper veNFT Vaults](products/vaults/liquid-wrapper-vaults/)
 
 ### ACS and ACSI Native Tokens
 
