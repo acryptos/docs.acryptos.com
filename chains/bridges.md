@@ -10,6 +10,10 @@ Web: [https://multichain.org/](https://multichain.org/)
 App: [https://cbridge.celer.network/](https://cbridge.celer.network/)\
 Web: [https://celer.network/](https://celer.network/)
 
+## Portal Token Bridge (Wormhole)
+
+App: [https://www.portalbridge.com/](https://www.portalbridge.com/)
+
 ## Synapse
 
 App: [https://synapseprotocol.com/](https://synapseprotocol.com/)
