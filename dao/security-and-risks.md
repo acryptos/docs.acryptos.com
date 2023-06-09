@@ -18,7 +18,7 @@ Resources:
 
 [Deployed Smart Contracts Address](security-and-risks.md#deployed-smart-contracts-address)
 
-[Frequently Asked Questions](faq.md)
+[Frequently Asked Questions](../faq.md)
 
 ### Risk: Malicious developer activity (e.g., rull pulling, exit scams, etc)
 

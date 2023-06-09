@@ -18,7 +18,7 @@
 * [Acsi.Finance DEX](products/acsi.finance.md)
 * [ACSI StableSwap DEX](products/acryptos-stableswap.md)
 
-## Chains
+## Chains & Bridges <a href="#chains" id="chains"></a>
 
 * [Astar](chains/astar.md)
 * [Canto](chains/canto.md)
@@ -27,17 +27,20 @@
 * [Moonriver](chains/kava-2.md)
 * [Bridges](chains/bridges.md)
 
-## DAO & Tokenomics
+## DAO & Tokenomics <a href="#dao" id="dao"></a>
 
-* [Tokenomics & Fees](fees.md)
-* [Governance](governance.md)
-* [Farming our Tokens](acryptos-farms.md)
-* [Roadmap](roadmap.md)
-* [Security & Risks](security-and-risks.md)
-* [Bug Bounty](bug-bounty.md)
+* [Tokenomics & Fees](dao/fees.md)
+* [Governance](dao/governance.md)
+* [Farming our Tokens](dao/acryptos-farms.md)
+* [Roadmap](dao/roadmap.md)
+* [Security & Risks](dao/security-and-risks.md)
+* [Bug Bounty](dao/bug-bounty.md)
 
 ## Tutorials / Guides
 
 * [FAQ](faq.md)
 * [Community resources](community.md)
+
+***
+
 * [App](https://app.acryptos.com)

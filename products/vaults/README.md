@@ -94,6 +94,6 @@ These Vaults stake Mdex LP tokens, farms MDX and swaps it for more of the staked
 
 ## Workers
 
-Anyone can help [harvest an ACryptoS Vault](https://app.acryptos.com/worker/) and earn the [harvester's reward](../../fees.md#all-vaults) as a gas subsidy. This decentralises the automation of our vaults.
+Anyone can help [harvest an ACryptoS Vault](https://app.acryptos.com/worker/) and earn the [harvester's reward](../../dao/fees.md#all-vaults) as a gas subsidy. This decentralises the automation of our vaults.
 
 You do not need to do this as a normal user, your holdings in the Vault will compound automatically.
