@@ -54,3 +54,11 @@ TL/DR 👉
 * This LP provides another method for users to exit their acs\_veNFT position back to the DEX token
 
 TL/DR 👉 Users get max APY by staking in Liquid veNFT Vault, then using the receipt acs\_veNFT token to stake further in acs\_veNFT-DEXtoken Vault
+
+---
+
+### Depositing directly on a Solidly fork 
+![](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Guide%20-%20Solidly%20fork%20veSLNA.jpg)
+
+### Depositing via our Wrapper vault
+![](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Guide%20-%20Solidly%20fork%20ACS-acsSLNA.jpg)
