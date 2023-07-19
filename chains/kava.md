@@ -2,8 +2,6 @@
 
 ## Bridges
 
-Canonical (EVM): [Multichain.org](bridges.md#multichain.org)
-
 Canonical (Native\*): [https://app.kava.io/evm/wkava](https://app.kava.io/evm/wkava)\
 \*for KAVA transfers between Kava (Cosmos) and Kava (EVM) chains
 

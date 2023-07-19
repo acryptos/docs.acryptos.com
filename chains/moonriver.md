@@ -5,8 +5,6 @@
 Canonical (Polkadot/Native\*): [Moonriver App](moonriver.md#moonriver-app)\
 \*Bridge for native Polkadot assets like DOT, MOVR
 
-Moonwell: [Multichain.org](bridges.md#multichain.org)
-
 Reference: [https://docs.moonwell.fi/moonwell-finance/user-guides/bridging-assets#bridging-assets-to-moonriver](https://docs.moonwell.fi/moonwell-finance/user-guides/bridging-assets#bridging-assets-to-moonriver)
 
 ## Moonriver App
