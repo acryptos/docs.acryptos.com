@@ -1,5 +1,8 @@
 # Liquid Wrapper veNFT Vaults
 
+### Depositing via our Wrapper vault
+![](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Guide%20-%20Solidly%20fork%20VARA-acsVARA.jpg)
+
 Our Liquid Wrapper Vaults are a set of vaults specially designed to work with ve(3,3) DEXs, allowing liquidity for otherwise locked native tokens, and providing Boosted yields for users. These vaults work cohesively together to form a positive flywheel.
 
 ### Benefits:
@@ -55,10 +58,3 @@ TL/DR 👉
 
 TL/DR 👉 Users get max APY by staking in Liquid veNFT Vault, then using the receipt acs\_veNFT token to stake further in acs\_veNFT-DEXtoken Vault
 
----
-
-### Depositing directly on a Solidly fork 
-![](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Guide%20-%20Solidly%20fork%20veSLNA.jpg)
-
-### Depositing via our Wrapper vault
-![](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Guide%20-%20Solidly%20fork%20ACS-acsSLNA.jpg)
