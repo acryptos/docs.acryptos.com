@@ -2,8 +2,10 @@
 
 ## Bridges
 
-Canonical (Native\*): [https://app.kava.io/evm/wkava](https://app.kava.io/evm/wkava)\
-\*for KAVA transfers between Kava (Cosmos) and Kava (EVM) chains
+Canonical (Native\*): \
+[https://app.kava.io/evm/wkava](https://app.kava.io/evm/wkava)\
+[https://app.kava.io/transfer](https://app.kava.io/transfer)\
+\*for KAVA and ATOM transfers between Kava (Cosmos) and Kava (EVM) chains
 
 [Exceptions](bridges.md#exceptions): USX
 
