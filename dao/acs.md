@@ -6,7 +6,7 @@ The Multichain.org bridge stopped working on 7 July 2023 following abnormal move
 
 A new ACS token is deployed at 0x8888888888f004100C0353d657BE6300587A6CcD on BSC, Kava EVM and Arbitrum.
 
-Token was designed with certain features to mitigate bridging risks:
+The new token was designed with certain features to mitigate bridging risks:
 
 * Bridging is achieved by passing cross chain messages. This is using Layer Zero initially, and can be upgraded to use any combination of protocols.
 * ACryptoS Dev team controls new token contracts including the ability to pause and blacklist in the event of bridge / messaging protocol exploit.
