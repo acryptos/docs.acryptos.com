@@ -28,26 +28,27 @@ ACryptoS is currently listed on:
 
 ACS is traded on:
 
+* [Uniswap V3 (BSC)](https://app.uniswap.org/#/swap?inputCurrency=ETH\&outputCurrency=0x8888888888f004100c0353d657be6300587a6ccd\&chain=bnb)
+* [Equilibre (Kava)](https://equilibrefinance.com/swap)
+
+ACS V1 is traded on:
+
 * [Acsi.Finance](https://app.acsi.finance/#/trade/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/0x4197C6EF3879a08cD51e5560da5064B773aa1d29) - **recommended to use**
 * [1inch](https://app.1inch.io/#/r/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC/BNB/ACS?network=56) - **recommended to use**
 * [MDEX](https://bsc.mdex.com/#/swap?outputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29)
-* [Swipe Swap](https://swipe.org/swap.html) (low liquidity atm)
 * [OpenOcean](https://openocean.finance/classic)
 * [Pancakeswap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29)
 * [DeBank](https://debank.com/swap?amount=1\&chain=bsc\&from=bsc\&to=0x4197c6ef3879a08cd51e5560da5064b773aa1d29)
-* [Unifi](https://binance.unifiprotocol.com/) (low liquidity atm)
-* [Hotbit](https://www.hotbit.io/exchange?symbol=ACS\_USDT) (low volume on Hotbit, be careful)
 
 ACSI is traded on:
 
 * [Acsi.Finance](https://app.acsi.finance/#/trade/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/0x5b17b4d5e4009B5C43e3e3d63A5229F794cBA389) - **recommended to use**
 * [1inch](https://app.1inch.io/#/r/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC/ACS/ACSI?network=56) - **recommended to use**
-* [Swipe Swap](https://swipe.org/swap.html) (low liquidity atm)
 * [OpenOcean](https://openocean.finance/classic)
-* [Autoshark Finance](https://autoshark.finance/swap)
 * [Pancakeswap](https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29\&outputCurrency=0x5b17b4d5e4009B5C43e3e3d63A5229F794cBA389)
 * [DeBank](https://debank.com/swap?amount=1\&chain=bsc\&from=0x4197c6ef3879a08cd51e5560da5064b773aa1d29\&to=0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389)
-* [Unifi](https://binance.unifiprotocol.com/) (low liquidity atm)
+
+
 
 ### 3. What is the maximum supply cap?
 
