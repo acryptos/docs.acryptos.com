@@ -65,9 +65,9 @@ dApp (Full): [https://app-v2.acryptos.com](https://app-v2acryptos.com)
 
 ***
 
-Telegram: [https://t.me/acryptos9](https://t.me/acryptos9)
+Telegram: [https://t.me/acryptos](https://t.me/acryptos)
 
-Telegram (DAO): [https://t.me/acryptos9](https://t.me/acryptosdao)
+Telegram (DAO): [https://t.me/acryptosdao](https://t.me/acryptosdao)
 
 ***
 
