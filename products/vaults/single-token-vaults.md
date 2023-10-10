@@ -1,5 +1,7 @@
 ### ($ACS) 1. Single-Token Autocompounding Vaults (Multi-Chain)
 
+![](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Guide%20-%20Single-Token%20Looping.jpg)
+
 Single token vaults are one of the most unique offerings at ACryptoS. We partner with and build on lending protocols, using our smart contract strategies to automatically leverage the same token.
 
 By borrowing and supplying the same token in a number of loops, users earn Supply and Borrow APY multiple times, up to 7.6X the initial APY. This helps users get much higher yields for their tokens, and also increases the deposits and utilizations of lending markets.
