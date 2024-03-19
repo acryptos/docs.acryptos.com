@@ -38,6 +38,8 @@
 * [Roadmap](dao/roadmap.md)
 * [Security & Risks](dao/security-and-risks.md)
 * [Bug Bounty](dao/bug-bounty.md)
+* Legacy
+  * [Legacy Tokenomics](dao/fees-legacy.md)
 
 
 ## Tutorials / Guides
