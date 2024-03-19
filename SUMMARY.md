@@ -34,13 +34,12 @@
 * [$ACS Token](dao/acs.md)
 * [Tokenomics & Fees](dao/fees.md)
 * [Governance](dao/governance.md)
-* [Farming our Tokens](dao/acryptos-farms.md)
 * [Roadmap](dao/roadmap.md)
 * [Security & Risks](dao/security-and-risks.md)
 * [Bug Bounty](dao/bug-bounty.md)
 * Legacy
   * [Legacy Tokenomics](dao/fees-legacy.md)
-
+  * [Farming our Tokens](dao/acryptos-farms.md)
 
 ## Tutorials / Guides
 
