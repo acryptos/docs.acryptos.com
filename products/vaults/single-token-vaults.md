@@ -1,4 +1,4 @@
-### ($ACS) 1. Single-Token Autocompounding Vaults (Multi-Chain)
+### Single-Token Autocompounding Vaults
 
 ![](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Guide%20-%20Single-Token%20Looping.jpg)
 
