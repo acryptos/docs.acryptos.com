@@ -21,16 +21,6 @@
     * [Chronos Finance LP Vaults](products/vaults/chronos-finance-lp-vaults.md)
    * [Vaults with Farm](products/vaults/vaults-with-farm.md)
   
-
-## Chains & Bridges <a href="#chains" id="chains"></a>
-
-* [Astar](chains/astar.md)
-* [Canto](chains/canto.md)
-* [Kava](chains/kava.md)
-* [Moonbeam](chains/moonbeam.md)
-* [Moonriver](chains/moonriver.md)
-* [Bridges](chains/bridges.md)
-
 ## DAO & Tokenomics <a href="#dao" id="dao"></a>
 
 * [$ACS Token](dao/acs.md)
@@ -42,6 +32,15 @@
 * Legacy
   * [Legacy Tokenomics](dao/fees-legacy.md)
   * [Farming our Tokens](dao/acryptos-farms.md)
+
+## Chains & Bridges <a href="#chains" id="chains"></a>
+
+* [Astar](chains/astar.md)
+* [Canto](chains/canto.md)
+* [Kava](chains/kava.md)
+* [Moonbeam](chains/moonbeam.md)
+* [Moonriver](chains/moonriver.md)
+* [Bridges](chains/bridges.md)
 
 ## Tutorials / Guides
 
