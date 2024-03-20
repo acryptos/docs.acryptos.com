@@ -19,6 +19,7 @@
     * [Flair DEX veFLDX](products/vaults/liquid-wrapper-vaults/wrapper-vefldx.md)
     * [Velocimeter veFLOW](products/vaults/liquid-wrapper-vaults/wrapper-veflow.md)
     * [Chronos Finance LP Vaults](products/vaults/chronos-finance-lp-vaults.md)
+   * [Vaults with Farm](products/vaults-with-farm.md)
   
 
 ## Chains & Bridges <a href="#chains" id="chains"></a>
