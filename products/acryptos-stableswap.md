@@ -5,14 +5,18 @@ description: >-
   Binance Smart Chain.
 ---
 
-# ACSI StableSwap
+# ACryptoS StableSwap (Stablecoin DEX)
 
 ## Cheaper Better Faster
 
-ACryptoS StableSwap offers:
+ACryptoS StableSwap is an [automated market maker (AMM)](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm) protocol based on Curve’s specialized algorithm tailored for stable coins. ACryptoS is offering the first AMM for stable coins based on this algorithm on the Binance Smart Chain (BSC).
 
-* \~10X lower exchange fee
-* \~500X smaller slippage
+Trading on the Binance Smart Chain is both faster and significantly cheaper than trading on the Ethereum chain. ERC-20 Tokens can be crossed over from Ethereum to Binance Smart Chain via the Binance Bridge.
+
+Acryptos StableSwap enables efficient stablecoin trading at best prices which is
+
+* **\~10x lower exchange fee**;
+* **\~100x less slippage** when trading stable coins compared to the various UniSwap type AMMs available.
 
 as compared to various UniSwap type AMMs on Binance Smart Chain.
 
