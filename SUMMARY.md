@@ -4,21 +4,22 @@
 
 ## Products
 
-* [ACryptoS Vaults](products/vaults/README.md)
-  * [Single-Token Vaults](products/vaults/single-token-vaults.md)
-  * [Liquid Wrapper veNFT Vaults](products/vaults/liquid-wrapper-vaults/README.md)
-    * [SolidLizard veSLIZ](products/vaults/liquid-wrapper-vaults/wrapper-vesliz.md)
-    * [Equilibre veVARA](products/vaults/liquid-wrapper-vaults/wrapper-vevara.md)
+* [Single-Token Vaults](products/vaults/README.md)
+  * [Supply-Borrow Leveraged Vaults](products/vaults/single-token-vaults.md)
   * [Liquidizer Vaults](products/vaults/liquidizer-vaults.md)
-* [ACLM (Advanced Concentrated Liquidity Manager)](products/uniswap-v3-vaults.md)
-* [$BNB - Native Liquid Staking](products/bnb-native-liquid-staking.md)
+  * [$BNB - Native Liquid Staking Vault](products/bnb-native-liquid-staking.md)
+* [ACLM - Advanced Concentrated Liquidity Manager](products/v3-aclm-vaults.md)
+
 * Legacy Products
   * [DEX - Acsi.Finance (BalancerV2)](products/acsi.finance.md)
   * [DEX - ACSI StableSwap](products/acryptos-stableswap.md)
-  * [ve(3,3) Vaults]
+  * [Liquid Wrapper veNFT + ve(3,3) Vaults](products/vaults/liquid-wrapper-vaults/README.md)
+    * [SolidLizard veSLIZ](products/vaults/liquid-wrapper-vaults/wrapper-vesliz.md)
+    * [Equilibre veVARA](products/vaults/liquid-wrapper-vaults/wrapper-vevara.md)
     * [Flair DEX veFLDX](products/vaults/liquid-wrapper-vaults/wrapper-vefldx.md)
     * [Velocimeter veFLOW](products/vaults/liquid-wrapper-vaults/wrapper-veflow.md)
     * [Chronos Finance LP Vaults](products/vaults/chronos-finance-lp-vaults.md)
+  
 
 ## Chains & Bridges <a href="#chains" id="chains"></a>
 
