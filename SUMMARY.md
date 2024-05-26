@@ -9,8 +9,7 @@
   * [Liquidizer Vaults](products/vaults/liquidizer-vaults.md)
   * [$BNB - Native Liquid Staking Vault](products/bnb-native-liquid-staking.md)
 * [ACLM - Advanced Concentrated Liquidity Manager](products/v3-aclm-vaults.md)
-
-* Legacy Products
+* [Legacy Products](products/legacy-products/README.md)
   * [DEX - Acsi.Finance (BalancerV2)](products/acsi.finance.md)
   * [DEX - ACSI StableSwap](products/acryptos-stableswap.md)
   * [Liquid Wrapper veNFT + ve(3,3) Vaults](products/vaults/liquid-wrapper-vaults/README.md)
@@ -19,8 +18,8 @@
     * [Flair DEX veFLDX](products/vaults/liquid-wrapper-vaults/wrapper-vefldx.md)
     * [Velocimeter veFLOW](products/vaults/liquid-wrapper-vaults/wrapper-veflow.md)
     * [Chronos Finance LP Vaults](products/vaults/chronos-finance-lp-vaults.md)
-   * [Vaults with Farm](products/vaults/vaults-with-farm.md)
-  
+  * [Vaults with Farm](products/vaults/vaults-with-farm.md)
+
 ## DAO & Tokenomics <a href="#dao" id="dao"></a>
 
 * [$ACS Token](dao/acs.md)
@@ -29,7 +28,7 @@
 * [Roadmap](dao/roadmap.md)
 * [Security & Risks](dao/security-and-risks.md)
 * [Bug Bounty](dao/bug-bounty.md)
-* Legacy
+* [Legacy](dao/legacy/README.md)
   * [Legacy Tokenomics](dao/fees-legacy.md)
   * [Farming our Tokens](dao/acryptos-farms.md)
 
