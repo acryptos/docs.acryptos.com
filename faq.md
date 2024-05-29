@@ -1,8 +1,10 @@
 # FAQ
 
-The FAQ below is pending updates to our current products. Our latest vault offerings can be found here:
+Our latest vault offerings can be found here:
 * [Single-Token Vaults](products/vaults/single-token-vaults.md)
 * [Automated Concentrated Liquidity Manager Vaults](products/v3-aclm-vaults.md)
+
+_The FAQ below is pending updates to our current products._
 
 ---
 
