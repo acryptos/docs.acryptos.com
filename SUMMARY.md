@@ -35,10 +35,11 @@
 ## Chains & Bridges <a href="#chains" id="chains"></a>
 
 * [Astar](chains/astar.md)
-* [Canto](chains/canto.md)
 * [Kava](chains/kava.md)
+* [Linea](chains/linea.md)
 * [Moonbeam](chains/moonbeam.md)
 * [Moonriver](chains/moonriver.md)
+* [Deprecated Chains](chains/deprecated-chains.md)
 * [Bridges](chains/bridges.md)
 
 ## Tutorials / Guides
