@@ -8,7 +8,7 @@ Note that the yield optimization strategies that ACryptoS employ mean that funds
 
 Be aware that investing in any DeFi project has risk. DeFi is relatively new and black swan events could occur that no-one has predicted. Only invest what you can afford to lose and always do your own research (DYOR) before committing funds to any project.
 
-\*\*This project is in beta. Use at your own risk.
+_\*\*This protocol is under continuous development, and some strategies and vaults are in beta. Please DYOR and use at your own risk._
 
 Resources:
 
@@ -20,7 +20,7 @@ Resources:
 
 [Frequently Asked Questions](../faq.md)
 
-### Risk: Malicious developer activity (e.g., rull pulling, exit scams, etc)
+### Risk: Malicious developer activity (e.g., rug pulling, exit scams, etc)
 
 This is the risk that developers (or thieves who steal the development keys) could make changes in the code that would allow them to drain funds. This risk applies both to ACryptoS and to the projects that ACryptoS have created vaults for. The risk mitigation actions described below apply only to mitigating the risk of exploit or malicious dev activity to ACyptoS.
 
