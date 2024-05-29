@@ -1,5 +1,13 @@
 # Community resources
 
+Our latest vault offerings can be found here:
+* [Single-Token Vaults](products/vaults/single-token-vaults.md)
+* [Automated Concentrated Liquidity Manager Vaults](products/v3-aclm-vaults.md)
+
+_The Guides and Tutorials below are pending updates to our current products._
+
+---
+
 ## Guides, tutorials, intros
 
 * [Acsi Finance \(How-to Video Tutorial\)](https://www.youtube.com/watch?v=oe5DyLA1p0I) - contributed by [CryptoBKT \(Hsing\)](https://t.me/cryptoBKT)
