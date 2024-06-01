@@ -12,9 +12,9 @@ ACryptoS is a multi-chain Liquidity Manager & Yield Optimizer, with a set of uni
 
 ### Links
 
-dApp (Main): [https://app.acryptos.com](https://app-acryptos.com) - *latest updates*
+dApp (Main): [https://app.acryptos.com](https://app.acryptos.com) - *latest updates*
 
-dApp (Classic): [https://app-v2.acryptos.com](https://app-v2acryptos.com) - *slower updates*
+dApp (Classic): [https://app-v2.acryptos.com](https://app-v2.acryptos.com) - *slower updates*
 
 Main Site: [https://acryptos.com](https://acryptos.com)
 ***
