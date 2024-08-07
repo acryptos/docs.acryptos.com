@@ -1,22 +1,62 @@
-![](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Banner%20-%20Sustainable%20SAFU%20small.jpg)
+# ACryptoS
 
 ## ACryptoS - Advanced Crypto Strategies
 
-ACryptoS is a multi-chain Liquidity Manager & Yield Optimizer, with a set of unique products deployed to support DeFi users and protocols. Originally launched on BNB Chain in Nov 2020, ACryptoS has expanded to more than 15 chains, with over 300+ vaults deployed.
+<figure><img src="https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Banner%20-%20Multichain%20Liquidity%20Manager%2001.jpg" alt=""><figcaption></figcaption></figure>
 
-### Core Values
+We automate **high-yield DeFi strategies** for you. _Simply deposit your tokens_ and watch your holdings grow.
 
-* unique, smart, automated DeFi strategies
+{% hint style="success" %}
+**No complex setups, no constant monitoring.** We handle the rest.
+{% endhint %}
+
+Here at ACryptoS - you maximize your APY, with our _performance-oriented algorithms_.
+
+### Main Products
+
+1.  **Single-Token Vaults**
+
+    \- Exposure to _one token_. No impermanent loss (IL) risks\
+    \- _Better yields_ than just supplying on lending protocols
+2.  **2-Token Concentrated Liquidity Vaults**
+
+    \- _Automated Conc. Liquidity Manager (ACLM)_ on Uniswap V3 and other CL DEXs\
+    \- Data proven for _highest performing_ strategies, for stablecoins and other big-cap pairs
+
+<figure><img src="https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Docs%20-%20UI%20stablecoins%20summary.png" alt=""><figcaption><p>Our UI - showing some of our ACLM vaults. APY looking good</p></figcaption></figure>
+
+***
+
+### Who is this for?
+
+* **Single-Token Vaults:** DeFi users opting for _low-risk steady growth_ of their tokens. Deposit and let grow, while complex algorithms run behind the scenes, achieving _strong single-token APY_.
+* **ACLM Vaults:** Simplified liquidity providing for V3 pools. **Stable Strategies** (eg. USDC/DAI or wstETH/ETH) offer _attractive APYs for relatively low risks_, while **Volatile Strategies** (eg. ETH-USDC) help users manage & rebalance their positions on V3 LPs, _reducing the burdens_ of constantly monitoring their holdings.\
+
+
+👇 Dive in for some detailed explanations on how these Vaults and Strategies work:
+
+{% content-ref url="products/vaults/" %}
+[vaults](products/vaults/)
+{% endcontent-ref %}
+
+{% content-ref url="products/v3-aclm-vaults.md" %}
+[v3-aclm-vaults.md](products/v3-aclm-vaults.md)
+{% endcontent-ref %}
+
+### Why use our Vaults?
+
+* Track record for deployment of highly effective DeFi Strategies
 * SAFU, careful risk management
-* sustainable APY & tokenomics
+* sustainable APY for long term growth
 
 ### Links
 
-dApp (Main): [https://app.acryptos.com](https://app.acryptos.com) - *latest updates*
+dApp (Main): [https://app.acryptos.com](https://app.acryptos.com) - _latest updates_
 
-dApp (Classic): [https://app-v2.acryptos.com](https://app-v2.acryptos.com) - *slower updates*
+dApp (Classic): [https://app-v2.acryptos.com](https://app-v2.acryptos.com) - _slower updates_
 
 Main Site: [https://acryptos.com](https://acryptos.com)
+
 ***
 
 Telegram: [https://t.me/acryptos](https://t.me/acryptos)
