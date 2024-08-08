@@ -30,7 +30,7 @@ Here at ACryptoS - you maximize your APY, with our _performance-oriented algorit
 ### Who is this for?
 
 * **Single-Token Vaults:** DeFi users opting for _low-risk steady growth_ of their tokens. Deposit and let grow, while complex algorithms run behind the scenes, achieving _strong single-token APY_.
-* **ACLM Vaults:** Simplified liquidity providing for V3 pools. **Stable Strategies** (eg. USDC/DAI or wstETH/ETH) offer _attractive APYs for relatively low risks_, while **Volatile Strategies** (eg. ETH-USDC) help users manage & rebalance their positions on V3 LPs, _reducing the burdens_ of constantly monitoring their holdings.\
+* **ACLM Vaults:** Simplified liquidity providing for V3 pools. **Stable Strategies** (eg. USDC/DAI or wstETH/ETH) offer _attractive APYs for relatively low risks_, while **Volatile Strategies** (eg. ETH-USDC) help users manage & rebalance their positions on V3 LPs, _reducing the burdens_ of constantly monitoring their holdings.
 
 
 👇 Dive in for some detailed explanations on how these Vaults and Strategies work:
