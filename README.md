@@ -64,10 +64,6 @@ Main Site: [https://acryptos.com](https://acryptos.com)
 
 Telegram: [https://t.me/acryptos](https://t.me/acryptos)
 
-Telegram (DAO): [https://t.me/acryptosdao](https://t.me/acryptosdao)
-
-
-
 Twitter: [https://twitter.com/acryptosdao](https://twitter.com/acryptosdao)
 
 Twitter (Dev/Founder): [https://twitter.com/acryptosx](https://twitter.com/acryptosx)
