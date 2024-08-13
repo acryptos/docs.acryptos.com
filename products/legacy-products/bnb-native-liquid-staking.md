@@ -4,7 +4,7 @@ description: >-
   on-chain de-centralized operations.
 ---
 
-# BNB Native Liquid Staking
+# $BNB - Native Liquid Staking Vault
 
 The **first** _**native**_ liquid staking BNB product on BSC, launched on 9 Feb 2023.
 
@@ -12,7 +12,7 @@ Featuring fully automated, on-chain de-centralized operations, utilizing the [ne
 
 The use of the native staking system contract means that all operations between BSC and BC are performed on-chain, providing a transparent and secure process.
 
-This Vault is a [Liquidizer Vault](vaults/liquidizer-vaults.md) and a reserve of BNB is kept on BSC to enable immediate withdrawals. When reserves run low, an undelegation is triggered on BC to automatically top them up, subject to the 7-day unbonding period.
+This Vault is a [Liquidizer Vault](liquidizer-vaults.md) and a reserve of BNB is kept on BSC to enable immediate withdrawals. When reserves run low, an undelegation is triggered on BC to automatically top them up, subject to the 7-day unbonding period.
 
 ## Verification Reference
 
@@ -43,16 +43,3 @@ Read contract on BscScan, verify using methods getTotalDelegated, getDelegated:\
 For delegator address, use the Vault address: [0x09A18250f99118f40a5D992D537E24b8BD9880F3](https://bscscan.com/address/0x09A18250f99118f40a5D992D537E24b8BD9880F3)
 
 For validator address, convert validator's BC address from [bech32 to hex](https://slowli.github.io/bech32-buffer/).
-
-
-
-
-
-
-
-
-
-
-
-
-

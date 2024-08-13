@@ -1,12 +1,13 @@
 # FAQ
 
 Our latest vault offerings can be found here:
+
 * [Single-Token Vaults](products/vaults/single-token-vaults.md)
-* [Automated Concentrated Liquidity Manager Vaults](products/v3-aclm-vaults.md)
+* [Automated Concentrated Liquidity Manager Vaults](products/v3-aclm-vaults/)
 
 _The FAQ below is pending updates to our current products._
 
----
+***
 
 ## Trading/Listing, Supply Cap
 
@@ -55,8 +56,6 @@ ACSI is traded on:
 * [OpenOcean](https://openocean.finance/classic)
 * [Pancakeswap](https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x4197C6EF3879a08cD51e5560da5064B773aa1d29\&outputCurrency=0x5b17b4d5e4009B5C43e3e3d63A5229F794cBA389)
 * [DeBank](https://debank.com/swap?amount=1\&chain=bsc\&from=0x4197c6ef3879a08cd51e5560da5064b773aa1d29\&to=0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389)
-
-
 
 ### 3. What is the maximum supply cap?
 

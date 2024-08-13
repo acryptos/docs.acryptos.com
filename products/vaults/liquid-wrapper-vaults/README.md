@@ -1,6 +1,7 @@
-# Liquid Wrapper veNFT Vaults
+# Liquid Wrapper veNFT + ve(3,3) Vaults
 
 ### Depositing via our Wrapper vault
+
 ![](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Guide%20-%20Solidly%20fork%20VARA-acsVARA.jpg)
 
 Our Liquid Wrapper Vaults are a set of vaults specially designed to work with ve(3,3) DEXs, allowing liquidity for otherwise locked native tokens, and providing Boosted yields for users. These vaults work cohesively together to form a positive flywheel.
@@ -40,7 +41,7 @@ TL/DR 👉Users can autoCompound their LP with Boosted rewards, without needing 
 * 50% of Boosted rewards from ALL LP Vaults launched by ACryptoS on the ve(3,3) DEX, are rewarded to acs\_veNFT (veNFT Vault) holders
 * This veNFT Vault maintains a % Reserve, allowing users to withdraw back the DEX native tokens at any time, where otherwise their veNFT would be locked for 4 years
 
-_\*Note: Withdrawals are subject to available DEX native tokens in the Vault Reserves. Reserves are constantly topped up from multiple sources (bribes/Boost Rewards etc.). Vault Strategy is based on our Liquidizer Vault (one of our other unique strategies, more info_ [_here_](../liquidizer-vaults.md)_)_
+_\*Note: Withdrawals are subject to available DEX native tokens in the Vault Reserves. Reserves are constantly topped up from multiple sources (bribes/Boost Rewards etc.). Vault Strategy is based on our Liquidizer Vault (one of our other unique strategies, more info_ [_here_](../../legacy-products/liquidizer-vaults.md)_)_
 
 TL/DR 👉
 
@@ -57,4 +58,3 @@ TL/DR 👉
 * This LP provides another method for users to exit their acs\_veNFT position back to the DEX token
 
 TL/DR 👉 Users get max APY by staking in Liquid veNFT Vault, then using the receipt acs\_veNFT token to stake further in acs\_veNFT-DEXtoken Vault
-
