@@ -4,6 +4,6 @@
 
 |                     |             |                          |
 | ------------------- | ----------- | ------------------------ |
-| Single-Token Vaults | ACLM stable | ACLM Volatile Strategies |
+| Single-Token Vaults | ACLM Stable | ACLM Volatile Strategies |
 |                     |             |                          |
 |                     |             |                          |
