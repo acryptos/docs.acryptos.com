@@ -1,4 +1,4 @@
-# Table of contents
+# Table of Contents
 
 * [ACryptoS](README.md)
 
