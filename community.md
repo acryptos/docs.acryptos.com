@@ -1,9 +1,33 @@
-# Community resources
+# Resources
 
 Our latest vault offerings can be found here:
 
 * [Single-Token Vaults](products/vaults/single-token-vaults.md)
 * [Automated Concentrated Liquidity Manager Vaults](products/v3-aclm-vaults/)
+
+## Links
+
+dApp: [https://app.acryptos.com](https://app.acryptos.com)
+
+Main Site: [https://acryptos.com](https://acryptos.com)
+
+Telegram: [https://t.me/acryptos](https://t.me/acryptos)
+
+Twitter: [https://twitter.com/acryptosdao](https://twitter.com/acryptosdao)
+
+Twitter (Dev/Founder): [https://twitter.com/acryptosx](https://twitter.com/acryptosx)
+
+Discord: [https://discord.gg/xHqhWxUeeR](https://discord.gg/xHqhWxUeeR)
+
+Medium: [https://medium.com/acryptos/](https://medium.com/acryptos/)
+
+Reddit: [https://www.reddit.com/r/ACryptoS](https://www.reddit.com/r/ACryptoS)
+
+
+
+dApp (Classic): [https://app-v2.acryptos.com](https://app-v2.acryptos.com) - not actively maintained
+
+ACryptoS NFTs: [https://app-v2.acryptos.com/#/bsc/my\_nfts](https://app-v2.acryptos.com/#/bsc/my\_nfts)
 
 _The Guides and Tutorials below are pending updates to our current products._
 

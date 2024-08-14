@@ -1,6 +1,7 @@
-# Table of Contents
+# Table of contents
 
-* [ACryptoS](README.md)
+* [Intro to ACryptoS](README.md)
+* [Quick-Start Guide](quick-start-guide.md)
 
 ## Products
 
@@ -9,7 +10,6 @@
 * [ACLM - Advanced Concentrated Liquidity Manager](products/v3-aclm-vaults/README.md)
   * [Strategies](products/v3-aclm-vaults/strategies.md)
   * [UI Explanations](products/v3-aclm-vaults/ui-explanations.md)
-* [Quick-Start Guide](products/quick-start-guide.md)
 * [Legacy Products](products/legacy-products/README.md)
   * [$BNB - Native Liquid Staking Vault](products/legacy-products/bnb-native-liquid-staking.md)
   * [Liquidizer Vaults](products/legacy-products/liquidizer-vaults.md)
@@ -48,7 +48,7 @@
 ## Tutorials / Guides
 
 * [FAQ](faq.md)
-* [Community resources](community.md)
+* [Resources](community.md)
 
 ***
 
