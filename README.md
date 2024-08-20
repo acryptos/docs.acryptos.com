@@ -6,7 +6,7 @@
 
 We automate **high-yield DeFi strategies** for you. _Simply deposit your tokens_ and watch your holdings grow.
 
-Here at ACryptoS - you maximize your APY with our _performance-oriented algorithms_.
+Here at ACryptoS - we maximize your APY with our _performance-oriented algorithms_.
 
 {% hint style="success" %}
 **No complex setups, no constant monitoring.** We handle the rest.
@@ -33,6 +33,14 @@ Here at ACryptoS - you maximize your APY with our _performance-oriented algorith
 * SAFU, careful risk management
 * sustainable APY for long term growth
 
+**Translated to real-life examples:**
+
+> Get 20-30%+ APY for a stablecoin pair, consistently for many months, not via farming tokens but from sustainable swap fees, with funds deposited on Uniswap V3 - one of the most solid DEXs in DeFi.
+
+And, we've had no code exploits ever, since our launch in 2020.
+
+_If these appeal to you, read on._
+
 ### Who is this for?
 
 * **Single-Token Vaults:**\
@@ -54,7 +62,7 @@ Here at ACryptoS - you maximize your APY with our _performance-oriented algorith
 [v3-aclm-vaults](products/v3-aclm-vaults/)
 {% endcontent-ref %}
 
-👉 or opt for this Quick-Start TL/DR guide [here](quick-start-guide.md).
+👉 or opt for this [Quick-Start TL/DR guide](quick-start-guide.md).
 
 ***
 
