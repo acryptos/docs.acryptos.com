@@ -13,7 +13,7 @@ What are the _risks involved_? What tokens do you _receive as APY_? etc.
 
 **This will help you out.**
 
-<table><thead><tr><th width="117"></th><th width="188">Single-Token Vaults</th><th>ACLM - Stable Strategies</th><th>ACLM - Volatile Strategies</th></tr></thead><tbody><tr><td>Built On</td><td>lending protocols, eg. Venus, Moonwell</td><td>CL DEXs, eg. UniswapV3, SushiV3</td><td>CL DEXs, eg. UniswapV3, SushiV3</td></tr><tr><td>APY Source</td><td>supply/borrow APY<br>+ lending platform tokens</td><td>swap fees generated from trading volume<br>+ *$^(1)$ Merkl rewards</td><td>swap fees generated from trading volume<br>+ *(1) <a data-footnote-ref href="#user-content-fn-1">Merkl rewards</a></td></tr><tr><td>Rewards</td><td>auto-compounding into deposited tokens</td><td>auto-compounding into deposited tokens</td><td>auto-compounding into deposited tokens</td></tr><tr><td>Strategy Features</td><td>self-balancing for optimized highest APY</td><td><ul><li>single-sided deposits of either token.</li><li>auto range setting to ensure earning of swap fees</li><li>Tightened range for highest stable pair APY</li></ul></td><td><ul><li>single-sided deposits of either token.</li><li>auto range setting to ensure earning of swap fees</li></ul></td></tr><tr><td>Examples</td><td><ul><li>USDT</li><li>wstETH</li><li>BTC</li><li>LINK</li></ul></td><td><ul><li>USDC-DAI</li><li>USDC-USDC.e</li><li>wstETH-WETH</li><li>cbETH-rETH</li><li>WBTC-tBTC</li></ul></td><td><ul><li>MATIC-USDT</li><li>LINK-WETH</li><li>BTC-WETH</li><li>USDC-XSGD</li></ul></td></tr><tr><td>Risks</td><td><ul><li>lending protocol exploits</li><li>no IL risks</li></ul></td><td><ul><li>CL DEX exploits</li><li>low chances of IL</li></ul></td><td><ul><li>CL DEX exploits</li><li>high IL risks</li></ul></td></tr><tr><td>Considerations</td><td><ul><li>exposure to 1 token</li><li>slower growth of tokens</li><li>rewards less sustainable (as mainly coming from lending platform tokens)</li></ul></td><td><ul><li>exposure to 2 tokens</li><li>higher APY, for relatively low IL risk</li><li>rewards sustainable via swap fees</li></ul></td><td><p></p><ul><li>exposure to 2 tokens</li><li>highest APY, but gains easily negated by IL</li><li>rewards sustainable via swap fees</li></ul></td></tr><tr><td>Links</td><td><a href="https://app.acryptos.com/vaults/single/">https://app.acryptos.com/vaults/single/</a></td><td><a href="https://app.acryptos.com/aclm/">https://app.acryptos.com/aclm/</a></td><td><a href="https://app.acryptos.com/aclm/">https://app.acryptos.com/aclm/</a></td></tr></tbody></table>
+<table><thead><tr><th width="117"></th><th width="188">Single-Token Vaults</th><th>ACLM - Stable Strategies</th><th>ACLM - Volatile Strategies</th></tr></thead><tbody><tr><td>Built On</td><td>lending protocols, eg. Venus, Moonwell</td><td>CL DEXs, eg. UniswapV3, SushiV3</td><td>CL DEXs, eg. UniswapV3, SushiV3</td></tr><tr><td>APY Source</td><td>supply/borrow APY<br>+ lending platform tokens</td><td>swap fees generated from trading volume<br>+ *<a data-footnote-ref href="#user-content-fn-1">Merkl rewards</a></td><td>swap fees generated from trading volume<br>+ *<a data-footnote-ref href="#user-content-fn-2">Merkl rewards</a></td></tr><tr><td>Strategy Features</td><td>self-balancing for optimized highest APY</td><td><ul><li>single-sided deposits of either token.</li><li>auto range setting to ensure earning of swap fees</li><li>Tightened range for highest stable pair APY</li></ul></td><td><ul><li>single-sided deposits of either token.</li><li>auto range setting to ensure earning of swap fees</li></ul></td></tr><tr><td>Examples</td><td><ul><li>USDT</li><li>wstETH</li><li>BTC</li><li>LINK</li></ul></td><td><ul><li>USDC-DAI</li><li>USDC-USDC.e</li><li>wstETH-WETH</li><li>cbETH-rETH</li><li>WBTC-tBTC</li></ul></td><td><ul><li>MATIC-USDT</li><li>LINK-WETH</li><li>BTC-WETH</li><li>USDC-XSGD</li></ul></td></tr></tbody></table>
 
 **More info:**
 
@@ -31,7 +31,6 @@ Notes:
 * CL: concentrated liquidity
 * DEX: decentralized exchange
 * LST: liquid staking tokens
-* \*(1) Merkl rewards: additional tokens offered by other platforms as incentives for providing liquidity on a CL DEX. Usually only liquidity provided within the trading range will receive these rewards.
 {% endhint %}
 
 ## Categories
@@ -84,18 +83,7 @@ A category of stablecoins from various protocols, ranging from large marketcap t
 
 ### Examples
 
-#### Single-Token Vaults
 
-* USDC on Venus (BSC)
-* USDC.e on Lodestar (Arbitrum)
-* USDbC on Moonwell (Base)
-* xcUSDC on Moonwell (Moonbeam)
-
-#### ACLM - Stable Strategies
-
-* USDC.e / axlUSDC on UniswapV3 (Polygon)
-* USDC.e / USDC on UniswapV3 (Optimism)
-* USDbC / axlUSDC on SushiswapV3 (Base)
 {% endtab %}
 
 {% tab title="LP-A" %}
@@ -119,26 +107,30 @@ A category of stablecoins from various protocols, ranging from large marketcap t
 {% endtab %}
 {% endtabs %}
 
-
-
-## Risks:
+## Risks
 
 * stablecoin depeg risks
 * LST protocol risks
 * bridged token risks
 
-Link to full risks.
+Link to full [risks](dao/security-and-risks.md).
 
+## Fees&#x20;
 
+All vaults have a 0.1% withdrawal fee, calculated by the withdrawal amount.
 
-Bridging Tutorials:
+{% hint style="info" %}
+Tips from the Samurai:
 
+Based on the daily yield rate, try to withdraw only after withdrawal fee is covered. It will be all nett profits from thereon.
+{% endhint %}
 
+Performance fees on vaults are already factored into the APY. Details can be found [here](dao/fees.md).
 
+All fees go to ACryptoS Treasury, with frequent [buybacks](community.md) of the $ACS token.
 
-
-Fees:&#x20;
-
-* How should you cover back fees
+Treasury is owned by ACryptoS DAO ($ACS token holders), managed by a multi-sig. More info on Governance [here](dao/governance.md).
 
 [^1]: additional tokens offered by other platforms as incentives for providing liquidity on a CL DEX. Usually only liquidity provided within the trading range will receive these rewards.
+
+[^2]: additional tokens offered by other platforms as incentives for providing liquidity on a CL DEX. Usually only liquidity provided within the trading range will receive these rewards.

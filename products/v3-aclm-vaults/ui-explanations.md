@@ -14,15 +14,11 @@ APY displayed on the header is pulled from the last 8th compound of the vault. (
 
 Expanding the "Advanced" section, you can find a table displaying the Historical APY of this vault "180%" can be seen from the 8th row (3rd column) - Cumulative
 
-## Categories
+## Checking your Yields
 
-USD-A\
-USD-B
+Click on the Withdraw tab, tap on full withdrawal amount and check the amount of tokens received.
 
-LP-FIAT\
-LP-A\
-LP-B\
-LP-C
+Do not execute the withdrawal transaction.
 
 ***
 
