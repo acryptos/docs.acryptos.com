@@ -37,7 +37,7 @@ Here at ACryptoS - we maximize your APY with our _performance-oriented algorithm
 
 > Get 20-30%+ APY for a stablecoin pair, consistently for many months, not via farming tokens but from sustainable swap fees, with funds deposited on Uniswap V3 - one of the most solid DEXs in DeFi.
 
-And, we've had no code exploits ever, since our launch in 2020.
+No code exploits ever, since our launch in 2020.
 
 _If these appeal to you, read on._
 
