@@ -17,12 +17,12 @@ What are the _risks involved_? What tokens do you _receive as APY_? etc.
 
 **More info:**
 
-|                | Single-Token Vaults                                                                                                                                    | ACLM - Stable Strategies                                                                                                        | ACLM - Volatile Strategies                                                                                                           |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Risks          | <ul><li>lending protocol exploits</li><li>no IL risks</li></ul>                                                                                        | <ul><li>CL DEX exploits</li><li>low chances of IL</li></ul>                                                                     | <ul><li>CL DEX exploits</li><li>high IL risks</li></ul>                                                                              |
-| Considerations | <ul><li>exposure to 1 token</li><li>slower growth of tokens</li><li>rewards less sustainable (as mainly coming from lending platform tokens)</li></ul> | <ul><li>exposure to 2 tokens</li><li>higher APY, for relatively low IL risk</li><li>rewards sustainable via swap fees</li></ul> | <ul><li>exposure to 2 tokens</li><li>highest APY, but gains easily negated by IL</li><li>rewards sustainable via swap fees</li></ul> |
-| Rewards        | auto-compounding into deposited tokens                                                                                                                 | auto-compounding into deposited tokens                                                                                          | auto-compounding into deposited tokens                                                                                               |
-| Links          | [https://app.acryptos.com/vaults/single/](https://app.acryptos.com/vaults/single/)                                                                     | [https://app.acryptos.com/aclm/](https://app.acryptos.com/aclm/)                                                                | [https://app.acryptos.com/aclm/](https://app.acryptos.com/aclm/)                                                                     |
+|                                     | Single-Token Vaults                                                                                                                                    | ACLM - Stable Strategies                                                                                                        | ACLM - Volatile Strategies                                                                                                           |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| [Risks](quick-start-guide.md#risks) | <ul><li>lending protocol exploits</li><li>no IL risks</li></ul>                                                                                        | <ul><li>CL DEX exploits</li><li>low chances of IL</li></ul>                                                                     | <ul><li>CL DEX exploits</li><li>high IL risks</li></ul>                                                                              |
+| Considerations                      | <ul><li>exposure to 1 token</li><li>slower growth of tokens</li><li>rewards less sustainable (as mainly coming from lending platform tokens)</li></ul> | <ul><li>exposure to 2 tokens</li><li>higher APY, for relatively low IL risk</li><li>rewards sustainable via swap fees</li></ul> | <ul><li>exposure to 2 tokens</li><li>highest APY, but gains easily negated by IL</li><li>rewards sustainable via swap fees</li></ul> |
+| Rewards                             | auto-compounding into deposited tokens                                                                                                                 | auto-compounding into deposited tokens                                                                                          | auto-compounding into deposited tokens                                                                                               |
+| Links                               | [https://app.acryptos.com/vaults/single/](https://app.acryptos.com/vaults/single/)                                                                     | [https://app.acryptos.com/aclm/](https://app.acryptos.com/aclm/)                                                                | [https://app.acryptos.com/aclm/](https://app.acryptos.com/aclm/)                                                                     |
 
 {% hint style="info" %}
 Notes:
@@ -31,6 +31,7 @@ Notes:
 * CL: concentrated liquidity
 * DEX: decentralized exchange
 * LST: liquid staking tokens
+* LRT: liquid restaking tokens
 {% endhint %}
 
 ## Categories
@@ -109,11 +110,68 @@ A category of stablecoins from various protocols, ranging from large marketcap t
 
 ## Risks
 
-* stablecoin depeg risks
-* LST protocol risks
-* bridged token risks
+DeFi risks are very high compared to traditional finance, ranging widely from market factors to contract exploits. Here are some risks for consideration along with possible mitigations. Factor in your own risk appetite when deciding on which vaults to deposit your tokens in.
 
-Link to full [risks](dao/security-and-risks.md).
+{% hint style="warning" %}
+Only put in funds you can afford to lose. Do not risk your life savings on DeFi.
+{% endhint %}
+
+<details>
+
+<summary>Protocol smart contract risks</summary>
+
+ACryptoS has focused on safety and careful risk assessment since deployment in 2020. Multiple audits and a bug bounty serve to enhance the security. Read our blog here to understand [what sets us apart](https://medium.com/acryptos/what-sets-acryptos-apart-d6345e2f5d7f).
+
+</details>
+
+<details>
+
+<summary>Vault underlying protocol risks</summary>
+
+* our Single-Token vaults are built on top of lending protocols. They run the risk where funds are siphoned out via exploiters. We filter out projects via internal due diligence procedures, and try our best to build on safe credible protocols. Unfortunately, a few of these protocols were exploited and funds unrecoverable (read: Atlantis, Channels, Sonne)
+* our ACLM vaults are built on top of V3 Conc Liquidity DEXs. We only build on stronger and battle-tested DEXs like Uniswap, Sushi, and Pancakeswap.
+
+</details>
+
+<details>
+
+<summary>Stablecoin depeg risks</summary>
+
+* many USD stablecoins claim to be pegged to USD 1:1, but many smaller marketcap stablecoins are at a high risk of depegging
+* larger stablecoins like USDC, USDT, DAI, etc have encountered depegging as well
+
+</details>
+
+<details>
+
+<summary>LST/LRT protocol risks</summary>
+
+* liquid staking tokens tend to be quite centralized, where user funds like ETH or BNB are held by their protocol, and staking is done on their back end.
+* Risks involve protocol exploits, intentional draining of funds, or "depegging" of liquid staked tokens . Lack of liquidity might affect the unstaking of liquid tokens back to the native token as well.
+* eg. rETH, wstETH, cbETH, stkBNB, ankrBNB, BNBx etc.
+* DYOR on how credible and transparent the staking protocols are, as well as how large the market of these tokens are
+
+</details>
+
+<details>
+
+<summary>bridged token risks</summary>
+
+* understand the difference between native tokens and bridged tokens. Bridged tokens may involve native bridges and third-party bridges
+* eg. USDC.e is a bridged token while USDC is the native token that is issued directly by Circle
+* eg. multichain bridge was exploited on multiple chains in 2023. Funds that were lost due to that incident has not been recovered since.
+
+</details>
+
+<details>
+
+<summary>wrapped token risks</summary>
+
+eg. WBTC depegging risks
+
+</details>
+
+Read more about risks and mitigations [here](dao/security-and-risks.md).
 
 ## Fees&#x20;
 
