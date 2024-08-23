@@ -187,7 +187,7 @@ Performance fees on vaults are already factored into the APY. Details can be fou
 
 All fees go to ACryptoS Treasury, with frequent [buybacks](community.md) of the $ACS token.
 
-Treasury is owned by ACryptoS DAO ($ACS token holders), managed by a multi-sig. More info on Governance [here](dao/governance.md).
+Treasury is owned by ACryptoS DAO ($ACS token holders), managed by a multisig. More info on Governance [here](dao/governance.md).
 
 [^1]: additional tokens offered by other platforms as incentives for providing liquidity on a CL DEX. Usually only liquidity provided within the trading range will receive these rewards.
 
