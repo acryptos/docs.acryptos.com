@@ -49,6 +49,7 @@
 
 * [FAQ](faq.md)
 * [Resources](community.md)
+* [Step-by-step Guide](tutorials-guides/step-by-step-guide.md)
 
 ***
 

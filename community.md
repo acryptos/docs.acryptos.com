@@ -23,15 +23,19 @@ Medium: [https://medium.com/acryptos/](https://medium.com/acryptos/)
 
 Reddit: [https://www.reddit.com/r/ACryptoS](https://www.reddit.com/r/ACryptoS)
 
+Defillama: [https://defillama.com/protocol/acryptos](https://defillama.com/protocol/acryptos)
+
 
 
 dApp (Classic): [https://app-v2.acryptos.com](https://app-v2.acryptos.com) - not actively maintained
 
 ACryptoS NFTs: [https://app-v2.acryptos.com/#/bsc/my\_nfts](https://app-v2.acryptos.com/#/bsc/my\_nfts)
 
-_The Guides and Tutorials below are pending updates to our current products._
-
 ***
+
+{% hint style="info" %}
+_The Guides and Tutorials below are outdated, and pending updates to our current products._
+{% endhint %}
 
 ## Guides, tutorials, intros
 
@@ -87,4 +91,4 @@ _The Guides and Tutorials below are pending updates to our current products._
 * [Polish](https://t.me/AcryptosPolish)
 * [Russian](https://t.me/acryptosr)
 
-### Note: These materials are created by the community. If something is unclear, join our [official tg channel](https://t.me/acryptos9) and ask freely.
+#### Note: These materials are created by the community. If something is unclear, join our [official tg channel](https://t.me/acryptos9) and ask freely.

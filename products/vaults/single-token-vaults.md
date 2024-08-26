@@ -1,4 +1,4 @@
-### Single-Token Autocompounding Vaults
+# Supply-Borrow Leveraged Vaults
 
 ![](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Guide%20-%20Single-Token%20Looping.jpg)
 
@@ -6,21 +6,37 @@ Single token vaults are one of the most unique offerings at ACryptoS. We partner
 
 By borrowing and supplying the same token in a number of loops, users earn Supply and Borrow APY multiple times, up to 7.6X the initial APY. This helps users get much higher yields for their tokens, and also increases the deposits and utilizations of lending markets.
 
-There is zero liquidation risk in our strategy, as it is using the same token for supplying and borrowing. Price movements of the token does not result in liquidations.
-Read more about risks here.
+There is zero liquidation risk in our strategy, as it is using the same token for supplying and borrowing. Price movements of the token does not result in liquidations. Read more about risks here.
 
 Our single-token vaults provide these benefits to users:
 
 1. autocompounding
-- vaults compound automatically through our smart contract strategy
-- staked tokens increase over time
+
+* vaults compound automatically through our smart contract strategy
+* staked tokens increase over time
 
 2. no IL (impermanent loss)
-- single token staking, no impermanent loss as per LP farming
+
+* single token staking, no impermanent loss as per LP farming
 
 3. automated, no harvesting required
-- APY is in staked tokens, not from farming emission tokens
+
+* APY is in staked tokens, not from farming emission tokens
 
 4. SAFU
-- we filter and partner with quality protocols, putting our priorities on user fund safety
-- no security issues since 2020 launch
+
+* we filter and partner with quality protocols, putting our priorities on user fund safety
+* no security issues since 2020 launch
+
+***
+
+## Protocols
+
+Vaults built on the following protocols
+
+* Venus (BSC)
+* Moonwell (Optimism, Base, Moonbeam, Moonriver)
+* Mendi (Linea)
+* Lodestar (Arbitrum)
+* Benqi (Avalanche) - sAVAX
+* Stargate (Kava) - S\*USDt

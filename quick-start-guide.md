@@ -48,16 +48,16 @@ A category of higher quality stablecoins vaults, built on USDC and its bridged c
 * USDbC (bridged USDC by [Base chain](https://help.coinbase.com/en/coinbase/getting-started/crypto-education/usd-base-coin))
 * xcUSDC (XCM protocol USDC on [Polkadot parachains](https://help.circle.com/s/article/A-closer-look-at-Polkadot-USDC-and-the-XCM-protocol?language=en\_US))
 
-### Examples
+#### Examples
 
-#### Single-Token Vaults
+**Single-Token Vaults**
 
 * USDC on Venus (BSC)
 * USDC.e on Lodestar (Arbitrum)
 * USDbC on Moonwell (Base)
 * xcUSDC on Moonwell (Moonbeam)
 
-#### ACLM - Stable Strategies
+**ACLM - Stable Strategies**
 
 * USDC.e / axlUSDC on UniswapV3 (Polygon)
 * USDC.e / USDC on UniswapV3 (Optimism)
@@ -82,9 +82,7 @@ A category of stablecoins from various protocols, ranging from large marketcap t
 * USDbC (bridged USDC by [Base chain](https://help.coinbase.com/en/coinbase/getting-started/crypto-education/usd-base-coin))
 * xcUSDC (XCM protocol USDC on [Polkadot parachains](https://help.circle.com/s/article/A-closer-look-at-Polkadot-USDC-and-the-XCM-protocol?language=en\_US))
 
-### Examples
-
-
+#### Examples
 {% endtab %}
 
 {% tab title="LP-A" %}
@@ -173,7 +171,7 @@ eg. WBTC depegging risks
 
 Read more about risks and mitigations [here](dao/security-and-risks.md).
 
-## Fees&#x20;
+## Fees
 
 All vaults have a 0.1% withdrawal fee, calculated by the withdrawal amount.
 
@@ -188,6 +186,10 @@ Performance fees on vaults are already factored into the APY. Details can be fou
 All fees go to ACryptoS Treasury, with frequent [buybacks](community.md) of the $ACS token.
 
 Treasury is owned by ACryptoS DAO ($ACS token holders), managed by a multisig. More info on Governance [here](dao/governance.md).
+
+***
+
+Interested to gain yields via our vaults? Check out this [step-by-step visual guide](tutorials-guides/step-by-step-guide.md).
 
 [^1]: additional tokens offered by other platforms as incentives for providing liquidity on a CL DEX. Usually only liquidity provided within the trading range will receive these rewards.
 
