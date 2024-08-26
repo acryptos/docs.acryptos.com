@@ -29,7 +29,7 @@ Here at ACryptoS - we maximize your APY with our _performance-oriented algorithm
 
 ### Why use our Vaults?
 
-* 4 year+ track record for deployment of highly effective DeFi Strategies
+* 4 years+ track record for deployment of highly effective DeFi Strategies
 * SAFU, careful risk management
 * sustainable APY for long term growth
 
