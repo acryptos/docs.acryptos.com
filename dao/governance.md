@@ -12,7 +12,7 @@ Resources:
 
 ## Core DAO
 
-The Core DAO was [formed](https://vote.acryptos.com/#/acryptos/proposal/QmcXRoMHmgxQukYHSzgMsDcYHprsHW5rJZsnWPCypLbv3U) via Governance voting to [represent](https://vote.acryptos.com/#/acryptos/proposal/QmV4WD7eDSFhifv39vUN1Aqh42w99xzayN9NyyzMbq5cJB) the will of the DAO \(community of acsACS holders\), acting in their best interests.
+The Core DAO was [formed](https://vote.acryptos.com/#/acryptos/proposal/QmcXRoMHmgxQukYHSzgMsDcYHprsHW5rJZsnWPCypLbv3U) via Governance voting to [represent](https://vote.acryptos.com/#/acryptos/proposal/QmV4WD7eDSFhifv39vUN1Aqh42w99xzayN9NyyzMbq5cJB) the will of the DAO (community of acsACS holders), acting in their best interests.
 
 ## Treasury
 
@@ -20,5 +20,4 @@ A [treasury](https://bscscan.com/address/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2da
 
 ### Community Grants
 
-Anyone may apply for a grant to fund anything that will add value to the protocol. To apply, [contact us](https://t.me/acryptosdao) with a detailed proposal.
-
+Anyone may apply for a grant to fund anything that will add value to the protocol. To apply, [contact us](mailto:hello@acryptos.com) with a detailed proposal.

@@ -2,8 +2,8 @@
 
 Our latest vault offerings can be found here:
 
-* [Single-Token Vaults](products/vaults/single-token-vaults.md)
-* [Automated Concentrated Liquidity Manager Vaults](products/v3-aclm-vaults/)
+* [Single-Token Vaults](../../products/vaults/single-token-vaults.md)
+* [Automated Concentrated Liquidity Manager Vaults](../../products/v3-aclm-vaults/)
 
 ## Links
 
@@ -51,11 +51,11 @@ _The Guides and Tutorials below are outdated, and pending updates to our current
 ## Tables, diagrams, graphs
 
 * [Table with Vault and Farm fees](https://docs.google.com/document/d/1-KU1zzWnEG0sh8hLCD0YUtPv7D4\_B2wu80UtRQ3sQUA/edit) - contributed by [Blight Night](https://t.me/BlightNight)
-* [ACryptoS' Yield Aggregation Ecosystem](images/ACS-VaultFarm-Flow-0.03.png) - contributed by [HM - ](https://t.me/Toortheroot)[unrekt.net](https://unrekt.net/)
-* [ACS UI and Fees](images/ACS-UI-and-Fees.png) - contributed by [Markus S](https://t.me/InvinoVMS)
-* [Swap APY x Vault APY x Farm APR](images/APYs.jpg) - contributed by [Jake](https://t.me/manxsir)
-* [ACS ACSI Buyback Trends in USD(Nov 2020 - Oct 2021](images/ACS-ACSI-buyback-USD.jpg) - contributed by [RationalPerspective](https://t.me/RationalPerspective)
-* [ACS ACSI Buyback Trends (Nov 2020 - Oct 2021](images/ACS-ACSI-buyback-tokenVol.jpg) - contributed by [RationalPerspective](https://t.me/RationalPerspective)
+* [ACryptoS' Yield Aggregation Ecosystem](../../images/ACS-VaultFarm-Flow-0.03.png) - contributed by [HM - ](https://t.me/Toortheroot)[unrekt.net](https://unrekt.net/)
+* [ACS UI and Fees](../../images/ACS-UI-and-Fees.png) - contributed by [Markus S](https://t.me/InvinoVMS)
+* [Swap APY x Vault APY x Farm APR](../../images/APYs.jpg) - contributed by [Jake](https://t.me/manxsir)
+* [ACS ACSI Buyback Trends in USD(Nov 2020 - Oct 2021](../../images/ACS-ACSI-buyback-USD.jpg) - contributed by [RationalPerspective](https://t.me/RationalPerspective)
+* [ACS ACSI Buyback Trends (Nov 2020 - Oct 2021](../../images/ACS-ACSI-buyback-tokenVol.jpg) - contributed by [RationalPerspective](https://t.me/RationalPerspective)
 
 ## Statistics
 

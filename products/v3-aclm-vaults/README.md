@@ -49,18 +49,10 @@ Find out more about our Strategies here:
 [strategies.md](strategies.md)
 {% endcontent-ref %}
 
+***
+
 ## Understanding the Source of APY
 
 Many defi users that have been depositing in V2 LPs may be familiar with the farming mechanism, where staking an LP gets you APY from DEX farming tokens. APY from V3 Conc. Liquidity pools comes mainly from swap fees, providing a sustainable source of yield for liquidity providers.
 
 Some additional APY are added as incentives via Merkl. Our vaults are designed to harvest the rewards and compound them for users automatically.
-
-## Exploit Risk Mitigations
-
-The multi-token nature of the vaults and their auto-rebalancing feature on concentrated liquidity AMMs make them vulnerable to price manipulation/flash loan type attacks. We have implemented some mitigations to address this:
-
-* We use historical TWAP to detect price volatility / manipulation, which pauses Vault functionality.
-* There is a cooldown period after every vault rebalance, which pauses Vault functionality.
-* Deposits and withdrawals are subject to slippage checks. Users should check and confirm the correct amounts to be received on the UI before signing transactions.
-
-The risk of attacks increases as Vault TVL forms the bulk of the underlying pool.

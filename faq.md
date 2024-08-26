@@ -5,9 +5,11 @@ Our latest vault offerings can be found here:
 * [Single-Token Vaults](products/vaults/single-token-vaults.md)
 * [Automated Concentrated Liquidity Manager Vaults](products/v3-aclm-vaults/)
 
-_The FAQ below is pending updates to our current products._
-
 ***
+
+{% hint style="info" %}
+_The FAQ below is outdated, and pending updates to our current products._
+{% endhint %}
 
 ## Trading/Listing, Supply Cap
 

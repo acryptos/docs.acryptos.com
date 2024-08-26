@@ -76,4 +76,4 @@ Twitter: [https://twitter.com/acryptosdao](https://twitter.com/acryptosdao)
 
 Medium: [https://medium.com/acryptos/](https://medium.com/acryptos/)
 
-Other links can be found [here](community.md).
+Other links can be found [here](tutorials-guides/community/).

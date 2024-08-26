@@ -15,10 +15,36 @@ In comparison with other concentrated liquidity managers, our strategies have ou
 
 ### Stable Strategies:
 
+**Stable Strategies focus on stablecoin pairs, or with pegged assets like staked tokens.** It uses liquidity ranges that are very tight (typically 1 tick), but dynamically adjusted based on market conditions.&#x20;
+
+These are our best performing strategies, and have outperformed other liquidity managers for the same pools.
+
 ### Volatile Strategies:
 
+**Liquidity ranges are automatically adjusted based on pre-defined triggers.** These triggers can be set for specific pairs and are activated when prices move a certain percentage in either direction.
 
+**A wider range strategy is applied on token pairs with highly volatile price movements .** It considers the potential for high volatility and rewards when setting liquidity ranges. Wider ranges generally have lower impermanent loss in volatile markets, which can offset the higher fees over the long run. However, in low-volatility environments, wider ranges may earn less in fees and perform less well.
+
+**A narrow range strategy is applied on token pairs with lower volatility.** Narrower ranges typically earn more in fees and rewards but can incur significant losses during periods of high volatility. In low-volatility environments, narrower ranges generally earn more in fees and perform better due to higher fee multipliers and minimal impermanent loss. However, in volatile markets, the higher fees may not compensate for the increased impermanent loss and divergence costs.
+
+## Auto-Compounding Mechanism
+
+{% hint style="info" %}
+All strategies autocompound any yields back to the original deposited tokens.
+{% endhint %}
+
+**ACLM vaults feature automatic compounding.** This means the strategy automatically collects and reinvests any earned rewards (swap fees, harvested  Merkl rewards, etc.), by swapping them back into the principle assets and redepositing into the ACLM vault. This compounding effect maximizes the vaults for its high-yield potential.
+
+**When you deposit into an ACLM vault, you receive "acsXYZ" tokens.** These tokens represent your share in the vault's underlying assets. However, due to the compounding mechanism, the value of each "acsXYZ" token will increase over time. The "acsXYZ" tokens you hold will not change, but over each compound, its value will increase and when you withdraw, you will end up with a larger number of tokens.
 
 ***
 
-What's LP-A? USD-B? That's our categorization of vaults. Learn more [here](ui-explanations.md).
+## Exploit Risk Mitigations
+
+The multi-token nature of the vaults and their auto-rebalancing feature on concentrated liquidity AMMs make them vulnerable to price manipulation/flash loan type attacks. We have implemented some mitigations to address this:
+
+* We use historical TWAP to detect price volatility / manipulation, which pauses Vault functionality.
+* There is a cooldown period after every vault rebalance, which pauses Vault functionality.
+* Deposits and withdrawals are subject to slippage checks. Users should check and confirm the correct amounts to be received on the UI before signing transactions.
+
+The risk of attacks increases as Vault TVL forms the bulk of the underlying pool.

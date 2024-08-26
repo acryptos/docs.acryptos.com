@@ -10,23 +10,16 @@ There is zero liquidation risk in our strategy, as it is using the same token fo
 
 Our single-token vaults provide these benefits to users:
 
-1. autocompounding
-
-* vaults compound automatically through our smart contract strategy
-* staked tokens increase over time
-
-2. no IL (impermanent loss)
-
-* single token staking, no impermanent loss as per LP farming
-
-3. automated, no harvesting required
-
-* APY is in staked tokens, not from farming emission tokens
-
-4. SAFU
-
-* we filter and partner with quality protocols, putting our priorities on user fund safety
-* no security issues since 2020 launch
+1. autocompounding\
+   \- vaults compound automatically through our smart contract strategy\
+   \- staked tokens increase over time
+2. no IL (impermanent loss)\
+   \- single token staking, no impermanent loss as per LP farming
+3. automated, no harvesting required\
+   \- APY is in staked tokens, not from farming emission tokens
+4. SAFU\
+   \- we filter and partner with quality protocols, putting our priorities on user fund safety\
+   \- no security issues since 2020 launch
 
 ***
 

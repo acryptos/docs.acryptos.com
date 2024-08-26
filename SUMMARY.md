@@ -10,6 +10,7 @@
 * [ACLM - Advanced Concentrated Liquidity Manager](products/v3-aclm-vaults/README.md)
   * [Strategies](products/v3-aclm-vaults/strategies.md)
   * [UI Explanations](products/v3-aclm-vaults/ui-explanations.md)
+  * [Advanced Functions](products/v3-aclm-vaults/advanced-functions.md)
 * [Legacy Products](products/legacy-products/README.md)
   * [$BNB - Native Liquid Staking Vault](products/legacy-products/bnb-native-liquid-staking.md)
   * [Liquidizer Vaults](products/legacy-products/liquidizer-vaults.md)
@@ -28,27 +29,18 @@
 * [$ACS Token](dao/acs.md)
 * [Tokenomics & Fees](dao/fees.md)
 * [Governance](dao/governance.md)
-* [Roadmap](dao/roadmap.md)
 * [Security & Risks](dao/security-and-risks.md)
 * [Bug Bounty](dao/bug-bounty.md)
 * [Legacy](dao/legacy/README.md)
   * [Legacy Tokenomics](dao/fees-legacy.md)
   * [Farming our Tokens](dao/acryptos-farms.md)
-
-## Chains & Bridges <a href="#chains" id="chains"></a>
-
-* [Astar](chains/astar.md)
-* [Kava](chains/kava.md)
-* [Linea](chains/linea.md)
-* [Moonbeam](chains/moonbeam.md)
-* [Moonriver](chains/moonriver.md)
-* [Deprecated Chains](chains/deprecated-chains.md)
-* [Bridges](chains/bridges.md)
+  * [Protocol Timeline](dao/legacy/roadmap.md)
 
 ## Tutorials / Guides
 
 * [FAQ](faq.md)
-* [Resources](community.md)
+* [Resources](tutorials-guides/community/README.md)
+  * [Chains & Bridges](tutorials-guides/community/chains-and-bridges.md)
 * [Step-by-step Guide](tutorials-guides/step-by-step-guide.md)
 
 ***

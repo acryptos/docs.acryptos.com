@@ -8,7 +8,7 @@ description: Getting to know our UI and vaults.
 
 ## Vault Comparisons
 
-You see some great yields on our dapp, but you're not too sure which to pick.\
+You see some great yields on our dapp: [Single-Token](products/vaults/), [ACLM](products/v3-aclm-vaults/) - but you're not too sure which to pick.\
 What are the _risks involved_? What tokens do you _receive as APY_? etc.
 
 **This will help you out.**
@@ -34,7 +34,11 @@ Notes:
 * LRT: liquid restaking tokens
 {% endhint %}
 
+***
+
 ## Categories
+
+<figure><img src="https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Docs%20-%20UI%20categories.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="USD-A" %}
@@ -106,6 +110,8 @@ A category of stablecoins from various protocols, ranging from large marketcap t
 {% endtab %}
 {% endtabs %}
 
+***
+
 ## Risks
 
 DeFi risks are very high compared to traditional finance, ranging widely from market factors to contract exploits. Here are some risks for consideration along with possible mitigations. Factor in your own risk appetite when deciding on which vaults to deposit your tokens in.
@@ -118,7 +124,7 @@ Only put in funds you can afford to lose. Do not risk your life savings on DeFi.
 
 <summary>Protocol smart contract risks</summary>
 
-ACryptoS has focused on safety and careful risk assessment since deployment in 2020. Multiple audits and a bug bounty serve to enhance the security. Read our blog here to understand [what sets us apart](https://medium.com/acryptos/what-sets-acryptos-apart-d6345e2f5d7f).
+ACryptoS has focused on safety and careful risk assessment since deployment in 2020. Multiple [audits](dao/security-and-risks.md#audits) and a [bug bounty](dao/bug-bounty.md) serve to enhance the security. Read our blog here to understand [what sets us apart](https://medium.com/acryptos/what-sets-acryptos-apart-d6345e2f5d7f).
 
 </details>
 
@@ -171,9 +177,12 @@ eg. WBTC depegging risks
 
 Read more about risks and mitigations [here](dao/security-and-risks.md).
 
+***
+
 ## Fees
 
-All vaults have a 0.1% withdrawal fee, calculated by the withdrawal amount.
+* Withdrawal Fees: All vaults have a 0.1% withdrawal fee, calculated by the withdrawal amount.
+* Performance Fees: already factored into the displayed APY. Full details can be found [here](dao/fees.md).
 
 {% hint style="info" %}
 Tips from the Samurai:
@@ -181,15 +190,23 @@ Tips from the Samurai:
 Based on the daily yield rate, try to withdraw only after withdrawal fee is covered. It will be all nett profits from thereon.
 {% endhint %}
 
-Performance fees on vaults are already factored into the APY. Details can be found [here](dao/fees.md).
+All fees go to ACryptoS Treasury, used for frequent [buybacks](https://t.me/acryptos/1/242722) of the $ACS token.
 
-All fees go to ACryptoS Treasury, with frequent [buybacks](community.md) of the $ACS token.
+Treasury is owned by ACryptoS DAO ($ACS token holders), managed by a multisig.
 
-Treasury is owned by ACryptoS DAO ($ACS token holders), managed by a multisig. More info on Governance [here](dao/governance.md).
+* Treasury current holdings can be tracked on [debank](https://debank.com/profile/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC).
+* More info on Governance [here](dao/governance.md).
 
 ***
 
-Interested to gain yields via our vaults? Check out this [step-by-step visual guide](tutorials-guides/step-by-step-guide.md).
+### Next Steps 🚀
+
+Interested to gain yields via our vaults?\
+Check out this [step-by-step visual guide](tutorials-guides/step-by-step-guide.md).
+
+{% content-ref url="tutorials-guides/step-by-step-guide.md" %}
+[step-by-step-guide.md](tutorials-guides/step-by-step-guide.md)
+{% endcontent-ref %}
 
 [^1]: additional tokens offered by other platforms as incentives for providing liquidity on a CL DEX. Usually only liquidity provided within the trading range will receive these rewards.
 
