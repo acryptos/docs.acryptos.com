@@ -19,6 +19,12 @@ In comparison with other concentrated liquidity managers, our strategies have ou
 
 These are our best performing strategies, and have outperformed other liquidity managers for the same pools.
 
+Why our Stable Strategies work for LSTs:
+
+LS tokens on L2 chains can experience volatility due to bridging costs and duration (up to 7 days to withdraw to L1), and when volatility causes liquidations, etc on L2s.
+
+LPs take on this volatility to earn fees. Our Vaults mitigate trading risk by widening positions on de-peg and maximize profits by tightening positions when on-peg.
+
 ### Volatile Strategies:
 
 **Liquidity ranges are automatically adjusted based on pre-defined triggers.** These triggers can be set for specific pairs and are activated when prices move a certain percentage in either direction.

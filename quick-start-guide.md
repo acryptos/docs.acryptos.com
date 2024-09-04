@@ -8,7 +8,7 @@ description: Getting to know our UI and vaults.
 
 ## Vault Comparisons
 
-You see some great yields on our dapp: [Single-Token](products/vaults/), [ACLM](products/v3-aclm-vaults/) - but you're not too sure which to pick.\
+You see some great yields on our dapp: there's [Single-Token](products/vaults/) vaults, and [ACLM](products/v3-aclm-vaults/) vaults- but you're not too sure which to pick.\
 What are the _risks involved_? What tokens do you _receive as APY_? etc.
 
 **This will help you out.**
@@ -28,10 +28,10 @@ What are the _risks involved_? What tokens do you _receive as APY_? etc.
 Notes:
 
 * IL: impermanent loss
-* CL: concentrated liquidity
+* CL: [concentrated liquidity](https://docs.uniswap.org/concepts/protocol/concentrated-liquidity)
 * DEX: decentralized exchange
-* LST: liquid staking tokens
-* LRT: liquid restaking tokens
+* LST: [liquid staking tokens](https://chain.link/education-hub/liquid-staking)
+* LRT: [liquid restaking tokens](https://www.coindesk.com/learn/restaking-101-what-are-restaking-and-liquid-restaking/)
 {% endhint %}
 
 ***
@@ -52,7 +52,7 @@ A category of higher quality stablecoins vaults, built on USDC and its bridged c
 * USDbC (bridged USDC by [Base chain](https://help.coinbase.com/en/coinbase/getting-started/crypto-education/usd-base-coin))
 * xcUSDC (XCM protocol USDC on [Polkadot parachains](https://help.circle.com/s/article/A-closer-look-at-Polkadot-USDC-and-the-XCM-protocol?language=en\_US))
 
-#### Examples
+#### Examples:
 
 **Single-Token Vaults**
 
@@ -66,10 +66,12 @@ A category of higher quality stablecoins vaults, built on USDC and its bridged c
 * USDC.e / axlUSDC on UniswapV3 (Polygon)
 * USDC.e / USDC on UniswapV3 (Optimism)
 * USDbC / axlUSDC on SushiswapV3 (Base)
+
+Link: [https://app.acryptos.com/vaults/?a=usd-a](https://app.acryptos.com/vaults/?a=usd-a)
 {% endtab %}
 
 {% tab title="USD-B" %}
-A category of stablecoins from various protocols, ranging from large marketcap to algorithm pegged USD stable tokens. Various stables paired with USDC also fall under this category.
+A category of stablecoins from various protocols, ranging from large marketcap to algorithm pegged USD stable tokens. Stablecoin pools paired with USDC also fall under this category.
 
 * USDT (USD by [Tether](https://tether.to/en/))
   * centralized stablecoin pegged to the US dollar
@@ -77,20 +79,136 @@ A category of stablecoins from various protocols, ranging from large marketcap t
 * DAI by [MakerDAO](https://makerdao.com/en/)
   * largest decentralized stablecoin pegged to the US dollar
   * algorithmically backed by a basket of cryptocurrencies, primarily ETH
-* USDe
-* BUSD
-* LUSD
-* USDV
+* [Ethena USDe](https://ethena-labs.gitbook.io/ethena-labs/solution-overview/usde-overview)
+* [Binance BUSD](https://www.coingecko.com/en/coins/binance-peg-busd)
+* [Liquity LUSD](https://www.liquity.org/)
+* [Verified USDV](https://usdv.money/)
 * USDC.e (bridged USDC on chains [before USDC was natively available](https://www.datawallet.com/crypto/usdc-e-vs-usdc-explained))
 * axlUSDC (bridged USDC by [Axelar](https://www.axelar.network/))
 * USDbC (bridged USDC by [Base chain](https://help.coinbase.com/en/coinbase/getting-started/crypto-education/usd-base-coin))
 * xcUSDC (XCM protocol USDC on [Polkadot parachains](https://help.circle.com/s/article/A-closer-look-at-Polkadot-USDC-and-the-XCM-protocol?language=en\_US))
+* xcUSDT (XCM protocol USDT on Polkadot parachains)
+* [FRAX](https://frax.finance/)
+* S\*USDt by [Stargate](https://stargate.finance/pool) on [Kava EVM](https://www.kava.io/)
 
-#### Examples
+#### Examples:
+
+* DAI on Venus (BSC)
+* USDT on Moonwell (Optimism)
+* USDT on Mendi (Linea)
+* xcUSDT on Moonwell (Moonbeam)
+* FRAX on Lodestar (Arbitrum)
+
+**ACLM - Stable Strategies**
+
+* USDC.e / DAI on UniswapV3 (Optimism)
+* USDT / BUSD on PancakeswapV3 (BSC)
+* USDT / USDC on UniswapV3 (Linea)
+* DAI / USDbC on SushiswapV3 (Base)
+
+Link: [https://app.acryptos.com/vaults/?a=usd-b](https://app.acryptos.com/vaults/?a=usd-b)
+{% endtab %}
+
+{% tab title="BTC" %}
+A category of various types of wrapped and liquid staked BTC.
+
+* WBTC - centralized and largest marketcap [wrapped BTC by BitGo](https://decrypt.co/resources/what-is-wbtc-explained-bitcoin-ethereum-defi)
+* tBTC - decentralized wrapping [by Threshold Network](https://threshold.network/)
+* BTCB - centralized and pegged [by Binance](https://www.bnbchain.org/en/blog/btcb-on-binance-smart-chain-101)
+* BTC.b - decentralized wrapping [by Avalanche Network](https://support.avax.network/en/articles/6349640-how-does-the-avalanche-bridge-work)
+* uniBTC - [liquid restaking WBTC](https://docs.bedrock.technology/multi-asset-liquid-staking/unibtc) by Bedrock
+
+#### Examples:
+
+**Single-Token Vaults**
+
+* WBTC on Moonwell (Optimism)
+* WBTC on Mendi (Linea)
+* BTCB on Venus (BSC)
+
+**ACLM - Stable Strategies**
+
+* WBTC / BTC.b on UniswapV3 (Arbitrum)
+* WBTC / uniBTC on UniswapV3 (Optimism)
+* WBTC / tBTC on SushiswapV3 (Arbitrum)
+
+Link: [https://app.acryptos.com/vaults/?a=btc](https://app.acryptos.com/vaults/?a=btc)
+{% endtab %}
+
+{% tab title="ETH" %}
+A category of various types of wrapped and liquid staked ETH.
+
+* WETH - wrapped ETH on non Ethereum chains
+* wstETH - liquid staking ETH by Lido
+* rETH - liquid staking ETH by RocketPool
+* cbETH - liquid staking ETH by Coinbase
+* weETH - liquid staking ETH by Ether.fi
+* wBETH - liquid staking ETH by Binance
+
+#### Examples:
+
+**Single-Token Vaults**
+
+* WETH on Mendi (Linea)
+* wstETH on Lodestar (Arbitrum)
+* cbETH on Moonwell (Base)
+* rETH on Moonwell (Optimism)
+
+**ACLM - Stable Strategies**
+
+* wstETH / WETH on UniswapV3 (Optimism)
+* cbETH / WETH on SushiswapV3 (Base)
+* ETH / wBETH on BiswapV3 (BSC)
+
+Find out more on why our Stable Strategies [work so well](products/v3-aclm-vaults/strategies.md#stable-strategies) for LST vaults.
+
+Link: [https://app.acryptos.com/vaults/?a=eth](https://app.acryptos.com/vaults/?a=eth)
+{% endtab %}
+
+{% tab title="ETH+" %}
+
+{% endtab %}
+
+{% tab title="BNB" %}
+A category of various types of wrapped and liquid staked BNB.
+
+* WBNB - wrapped BNB by Binance
+* ankrBNB - liquid staking BNB [by Ankr](https://www.ankr.com/docs/liquid-staking/bnb/overview/)
+* BNBx - liquid staking BNB [by Stader](https://www.staderlabs.com/blog/bnbx/)
+* stkBNB - liquid staking BNB [by pSTAKE](https://blog.pstake.finance/stkbnb-faqs/)
+* slisBNB - liquid staking BNB [by Lista](https://docs.bsc.lista.org/get-started/about-slisbnb) (previously Synclub staked SnBNB)
+
+#### Examples:
+
+**Single-Token Vaults**
+
+* WBNB on Venus (BSC)
+
+**ACLM - Stable Strategies**
+
+* WBTC / ankrBNB on PancakeswapV3 (BSC)
+* WBTC / BNBx on PancakeswapV3 (BSC)
+* WBTC / stkBNB on PancakeswapV3 (BSC)
+
+Link: [https://app.acryptos.com/vaults/?a=bnb](https://app.acryptos.com/vaults/?a=bnb)
 {% endtab %}
 
 {% tab title="LP-A" %}
+A category of ACLM vaults, consisting of large marketcap token pairs.&#x20;
 
+* MATIC
+* WETH
+* WBNB
+* WBTC
+* tBTC
+* BTCB
+* BTC.b
+* OP
+* ARB
+
+IL is relatively lower than other pairs as prices for large marketcap tokens generally move in the same direction.
+
+Take note that IL may negate any gains, or result in losses on the intial deposit. Refer to the [History Graph](products/v3-aclm-vaults/advanced-functions.md#graph-history) in the Advanced section of each vault to evaluate their past performance.
 {% endtab %}
 
 {% tab title="LP-B" %}
@@ -102,10 +220,6 @@ A category of stablecoins from various protocols, ranging from large marketcap t
 {% endtab %}
 
 {% tab title="LP-FIAT" %}
-
-{% endtab %}
-
-{% tab title="ETH+" %}
 
 {% endtab %}
 {% endtabs %}

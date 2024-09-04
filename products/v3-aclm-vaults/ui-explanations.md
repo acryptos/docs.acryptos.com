@@ -14,6 +14,8 @@ APY displayed on the header is pulled from the last 8th compound of the vault. (
 
 Expanding the "Advanced" section, you can find a table displaying the Historical APY of this vault "180%" can be seen from the 8th row (3rd column) - Cumulative
 
+0.05% refers to the swap fee rate on the underlying pool.
+
 ## Historical APY
 
 ![Historical APY](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/ACLM%20-%20APY%20History.png)
