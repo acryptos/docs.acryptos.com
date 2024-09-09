@@ -166,7 +166,21 @@ Link: [https://app.acryptos.com/vaults/?a=eth](https://app.acryptos.com/vaults/?
 {% endtab %}
 
 {% tab title="ETH+" %}
+An ACLM category where liquid staked ETH from different platforms are paired together in a pool.
 
+ezETH - liquid restaking ETH [by Renzo](https://www.renzoprotocol.com/)
+
+**Examples:**
+
+**ACLM - Stable Strategies**
+
+* wstETH / ezETH on UniswapV3 (Optimism)
+* cbETH / rETH on UniswapV3 (Base)
+* wstETH / rETH on UniswapV3 (Arbitrum)
+
+Find out more on why our Stable Strategies [work so well](products/v3-aclm-vaults/strategies.md#stable-strategies) for LST vaults.
+
+Link: [https://app.acryptos.com/vaults/?a=eth%2B](https://app.acryptos.com/vaults/?a=eth%2B)
 {% endtab %}
 
 {% tab title="BNB" %}
@@ -196,7 +210,7 @@ Link: [https://app.acryptos.com/vaults/?a=bnb](https://app.acryptos.com/vaults/?
 {% tab title="LP-A" %}
 A category of ACLM vaults, consisting of large marketcap token pairs.&#x20;
 
-* MATIC
+* WMATIC
 * WETH
 * WBNB
 * WBTC
@@ -209,18 +223,81 @@ A category of ACLM vaults, consisting of large marketcap token pairs.&#x20;
 IL is relatively lower than other pairs as prices for large marketcap tokens generally move in the same direction.
 
 Take note that IL may negate any gains, or result in losses on the intial deposit. Refer to the [History Graph](products/v3-aclm-vaults/advanced-functions.md#graph-history) in the Advanced section of each vault to evaluate their past performance.
+
+#### Examples:
+
+**ACLM - Volatile Strategies**
+
+* BTCB / WBNB on PancakeswapV3 (BSC)
+* WETH / ARB on SushiswapV3 (Arbitrum)
+* WETH / OP on UniswapV3 (Optimism)
+* WMATIC / WBTC on UniswapV3 (Polygon)
+* tBTC / WETH on UniswapV3 (Arbitrum)
+
+Link: [https://app.acryptos.com/vaults/?a=lp-a](https://app.acryptos.com/vaults/?a=lp-a)
 {% endtab %}
 
 {% tab title="LP-B" %}
+A category of ACLM vaults, consisting of lower marketcap tokens paired with large marketcap tokens.&#x20;
 
+Liquidity for our ACryptoS governance token ACS / WBNB can be found in this category as well.
+
+Some of the tokens available:
+
+* BSW, LODE, VELA, THALES, GMX, XVS, PEPE, CAKE, MAGIC, TIA.n, CRV, UNI, LINK
+
+IL is higher for these pairs as prices tend to fluctuate much for lower marketcap tokens.
+
+\*Take note that IL may negate any gains, or result in losses on the intial deposit. Refer to the [History Graph](products/v3-aclm-vaults/advanced-functions.md#graph-history) in the Advanced section of each vault to evaluate their past performance.
+
+#### Examples:
+
+**ACLM - Volatile Strategies**
+
+* CAKE / WBNB on PancakeswapV3 (BSC)
+* LINK / WETH on UniswapV3 (Arbitrum)
+* PEPE / WETH on UniswapV3 (Arbitrum)
+* CRV / WETH on UniswapV3 (Arbitrum)
+* UNI / WETH on UniswapV3 (Arbitrum)
+
+Link: [https://app.acryptos.com/vaults/?a=lp-b](https://app.acryptos.com/vaults/?a=lp-b)
 {% endtab %}
 
 {% tab title="LP-C" %}
+A category of ACLM vaults, consisting of stablecoin tokens paired with mainly large marketcap tokens.
 
+IL may be very high for these pairs as fluctuating token prices are amplified when paired with stablecoin tokens.
+
+\*Take note that IL may negate any gains, or result in losses on the intial deposit. Refer to the [History Graph](products/v3-aclm-vaults/advanced-functions.md#graph-history) in the Advanced section of each vault to evaluate their past performance.
+
+#### Examples:
+
+**ACLM - Volatile Strategies**
+
+* WBNB / USDT on UniswapV3 (BSC)
+* wstETH / USDC.e on UniswapV3 (Arbitrum)
+* MATIC / USDT on UniswapV3 (Polygon)
+* WETH / USDbC on UniswapV3 (Base)
+* WETH / USDC on SushiswapV3 (Arbitrum)
+
+Link: [https://app.acryptos.com/vaults/?s=tvl\&a=lp-c](https://app.acryptos.com/vaults/?s=tvl\&a=lp-c)
 {% endtab %}
 
 {% tab title="LP-FIAT" %}
+A category of stablecoins from different currencies, paired with the USD stablecoin.
 
+IL is minimal, as pegged fiat currencies are much less volatile than other crypto tokens. Token unpeg risk has to be factored in as part of risk assessment as well.
+
+* XSGD by StraitsX
+* EURC by Angle
+
+**ACLM - Volatile Strategies**
+
+* XSGD / USDC.e on UniswapV3 (Polygon)
+* XSGD / USDC on UniswapV3 (Arbitrum)
+* EURC / USDC on UniswapV3 (Base)
+
+Link: [https://app.acryptos.com/vaults/?s=tvl\&a=lp-fiat](https://app.acryptos.com/vaults/?s=tvl\&a=lp-fiat)
 {% endtab %}
 {% endtabs %}
 
