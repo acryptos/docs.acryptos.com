@@ -8,7 +8,7 @@ description: Getting to know our UI and how to pick between vaults.
 
 ## Vault Comparisons
 
-You see some great yields on our dapp: there's [Single-Token](products/vaults/) vaults, and [ACLM](products/v3-aclm-vaults/) vaults- but you're not too sure which to pick. What are the _risks involved_? What tokens do you _receive as APY_? etc.
+You see some great yields on our dapp: there's [Single-Token](products/vaults/) vaults, and [ACLM](products/v3-aclm-vaults/) vaults - but you're not too sure which to pick. What are the _risks involved_? What tokens do you _receive as APY_? etc.
 
 **This will help you out.** 👇
 
