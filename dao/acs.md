@@ -28,8 +28,7 @@ Withdraw from ACS vault with no penalty fees: [https://app-legacy.acryptos.com/c
 
 ## ACS and ACSI Token Merger
 
-There were discussions on simplifying ACryptoS tokenomics to a single token, and a vote was passed to merge ACSI at a 4:1 ratio to the new ACS token.
-https://vote.acryptos.com/#/proposal/0xe9b6e77cfeafaf95556ed7e7d882d2792c0eaca32c317688f56cf7b037521de4
+There were discussions on simplifying ACryptoS tokenomics to a single token, and a [governance vote was passed](https://vote.acryptos.com/#/proposal/0xe9b6e77cfeafaf95556ed7e7d882d2792c0eaca32c317688f56cf7b037521de4) to merge ACSI at a 4:1 ratio to the new ACS token.
 
 Withdraw from ACSI vault with no penalty fees: [https://app-legacy.acryptos.com/core/](https://app-legacy.acryptos.com/core/)\
 ACSI migration to ACS token: [https://app.acryptos.com/acs/migrate/](https://app.acryptos.com/acs/migrate/)
