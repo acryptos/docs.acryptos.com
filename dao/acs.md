@@ -24,3 +24,13 @@ The new token was designed with certain features to mitigate bridging risks:
 
 There is a migration feature which will allow users to migrate 1:1 the old/Multichain.org ACS tokens. Migration will be paused if the contract detects abnormal changes in the locked Multichain.org ACS tokens.
 
+Withdraw from ACS vault with no penalty fees: [https://app-legacy.acryptos.com/core/](https://app-legacy.acryptos.com/core/)
+
+## ACS and ACSI Token Merger
+
+There were discussions on simplifying ACryptoS tokenomics to a single token, and a vote was passed to merge ACSI at a 4:1 ratio to the new ACS token.
+https://vote.acryptos.com/#/proposal/0xe9b6e77cfeafaf95556ed7e7d882d2792c0eaca32c317688f56cf7b037521de4
+
+Withdraw from ACSI vault with no penalty fees: [https://app-legacy.acryptos.com/core/](https://app-legacy.acryptos.com/core/)\
+ACSI migration to ACS token: [https://app.acryptos.com/acs/migrate/](https://app.acryptos.com/acs/migrate/)
+
