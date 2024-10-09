@@ -51,7 +51,9 @@ A category of higher quality stablecoins vaults, built on USDC and its bridged c
 * USDbC (bridged USDC by [Base chain](https://help.coinbase.com/en/coinbase/getting-started/crypto-education/usd-base-coin))
 * xcUSDC (XCM protocol USDC on [Polkadot parachains](https://help.circle.com/s/article/A-closer-look-at-Polkadot-USDC-and-the-XCM-protocol?language=en\_US))
 
-#### Examples:
+***
+
+**Examples:**
 
 **Single-Token Vaults**
 
@@ -90,7 +92,9 @@ A category of stablecoins from various protocols, ranging from large marketcap t
 * [FRAX](https://frax.finance/)
 * S\*USDt by [Stargate](https://stargate.finance/pool) on [Kava EVM](https://www.kava.io/)
 
-#### Examples:
+***
+
+**Examples:**
 
 * DAI on Venus (BSC)
 * USDT on Moonwell (Optimism)
@@ -116,14 +120,18 @@ A category of various types of wrapped and liquid staked BTC.
 * BTCB - centralized and pegged [by Binance](https://www.bnbchain.org/en/blog/btcb-on-binance-smart-chain-101)
 * BTC.b - decentralized wrapping [by Avalanche Network](https://support.avax.network/en/articles/6349640-how-does-the-avalanche-bridge-work)
 * uniBTC - [liquid restaking WBTC](https://docs.bedrock.technology/multi-asset-liquid-staking/unibtc) by Bedrock
+* cbBTC - [coinbase wrapped BTC](https://www.coinbase.com/cbbtc)
 
-#### Examples:
+***
+
+**Examples:**
 
 **Single-Token Vaults**
 
 * WBTC on Moonwell (Optimism)
 * WBTC on Mendi (Linea)
 * BTCB on Venus (BSC)
+* cbBTC on Moonwell (Base)
 
 **ACLM - Stable Strategies**
 
@@ -138,13 +146,16 @@ Link: [https://app.acryptos.com/vaults/?a=btc](https://app.acryptos.com/vaults/?
 A category of various types of wrapped and liquid staked ETH.
 
 * WETH - wrapped ETH on non Ethereum chains
-* wstETH - liquid staking ETH by Lido
-* rETH - liquid staking ETH by RocketPool
-* cbETH - liquid staking ETH by Coinbase
-* weETH - liquid staking ETH by Ether.fi
-* wBETH - liquid staking ETH by Binance
+* wstETH - liquid staking ETH [by Lido](https://help.lido.fi/en/articles/5231836-what-is-lido-s-wsteth)
+* rETH - liquid staking ETH [by RocketPool](https://rocketpool.net/)
+* cbETH - liquid staking ETH [by Coinbase](https://www.coinbase.com/cbeth)
+* weETH - liquid staking ETH [by Ether.fi](https://etherfi.gitbook.io/etherfi/getting-started/faq)
+* wBETH - liquid staking ETH [by Binance](https://www.binance.com/en/support/faq/what-is-wbeth-e252366155174ba6887f6b32e3798273)
+* ezETH - liquid restaking ETH [by Renzo](https://www.renzoprotocol.com/)
 
-#### Examples:
+***
+
+**Examples:**
 
 **Single-Token Vaults**
 
@@ -167,7 +178,7 @@ Link: [https://app.acryptos.com/vaults/?a=eth](https://app.acryptos.com/vaults/?
 {% tab title="ETH+" %}
 An ACLM category where liquid staked ETH from different platforms are paired together in a pool.
 
-ezETH - liquid restaking ETH [by Renzo](https://www.renzoprotocol.com/)
+***
 
 **Examples:**
 
@@ -191,7 +202,9 @@ A category of various types of wrapped and liquid staked BNB.
 * stkBNB - liquid staking BNB [by pSTAKE](https://blog.pstake.finance/stkbnb-faqs/)
 * slisBNB - liquid staking BNB [by Lista](https://docs.bsc.lista.org/get-started/about-slisbnb) (previously Synclub staked SnBNB)
 
-#### Examples:
+***
+
+**Examples:**
 
 **Single-Token Vaults**
 
@@ -207,7 +220,7 @@ Link: [https://app.acryptos.com/vaults/?a=bnb](https://app.acryptos.com/vaults/?
 {% endtab %}
 
 {% tab title="LP-A" %}
-A category of ACLM vaults, consisting of large marketcap token pairs.&#x20;
+A category of ACLM vaults, consisting of large marketcap token pairs.
 
 * WMATIC
 * WETH
@@ -221,9 +234,11 @@ A category of ACLM vaults, consisting of large marketcap token pairs.&#x20;
 
 IL is relatively lower than other pairs as prices for large marketcap tokens generally move in the same direction.
 
-Take note that IL may negate any gains, or result in losses on the intial deposit. Refer to the [History Graph](products/v3-aclm-vaults/advanced-functions.md#graph-history) in the Advanced section of each vault to evaluate their past performance.
+_\*Take note that IL may negate any gains, or result in losses on the intial deposit. Refer to the_ [_History Graph_](products/v3-aclm-vaults/advanced-functions.md#graph-history) _in the Advanced section of each vault to evaluate their past performance._
 
-#### Examples:
+***
+
+**Examples:**
 
 **ACLM - Volatile Strategies**
 
@@ -237,19 +252,21 @@ Link: [https://app.acryptos.com/vaults/?a=lp-a](https://app.acryptos.com/vaults/
 {% endtab %}
 
 {% tab title="LP-B" %}
-A category of ACLM vaults, consisting of lower marketcap tokens paired with large marketcap tokens.&#x20;
+A category of ACLM vaults, consisting of smaller marketcap tokens paired with large marketcap tokens.
 
-Liquidity for our ACryptoS governance token ACS / WBNB can be found in this category as well.
+_\*Liquidity for our ACryptoS_ [_governance token pair_](dao/acs.md) _ACS / WBNB can be found in this category as well._
 
 Some of the tokens available:
 
 * BSW, LODE, VELA, THALES, GMX, XVS, PEPE, CAKE, MAGIC, TIA.n, CRV, UNI, LINK
 
-IL is higher for these pairs as prices tend to fluctuate much for lower marketcap tokens.
+IL may be higher for these pairs as prices tend to fluctuate much more for lower marketcap tokens.
 
-\*Take note that IL may negate any gains, or result in losses on the intial deposit. Refer to the [History Graph](products/v3-aclm-vaults/advanced-functions.md#graph-history) in the Advanced section of each vault to evaluate their past performance.
+_\*Take note that IL may negate any gains, or result in losses on the intial deposit. Refer to the_ [_History Graph_](products/v3-aclm-vaults/advanced-functions.md#graph-history) _in the Advanced section of each vault to evaluate their past performance._
 
-#### Examples:
+***
+
+**Examples:**
 
 **ACLM - Volatile Strategies**
 
@@ -258,6 +275,7 @@ IL is higher for these pairs as prices tend to fluctuate much for lower marketca
 * PEPE / WETH on UniswapV3 (Arbitrum)
 * CRV / WETH on UniswapV3 (Arbitrum)
 * UNI / WETH on UniswapV3 (Arbitrum)
+* BSW / WBNB on BiswapV3 (BSC)
 
 Link: [https://app.acryptos.com/vaults/?a=lp-b](https://app.acryptos.com/vaults/?a=lp-b)
 {% endtab %}
@@ -265,11 +283,13 @@ Link: [https://app.acryptos.com/vaults/?a=lp-b](https://app.acryptos.com/vaults/
 {% tab title="LP-C" %}
 A category of ACLM vaults, consisting of stablecoin tokens paired with mainly large marketcap tokens.
 
-IL may be very high for these pairs as fluctuating token prices are amplified when paired with stablecoin tokens.
+IL may be **very high** for these pairs as fluctuating token prices are amplified when paired with stablecoin tokens.
 
-\*Take note that IL may negate any gains, or result in losses on the intial deposit. Refer to the [History Graph](products/v3-aclm-vaults/advanced-functions.md#graph-history) in the Advanced section of each vault to evaluate their past performance.
+_\*Take note that IL may negate any gains, or result in losses on the intial deposit. Refer to the_ [_History Graph_](products/v3-aclm-vaults/advanced-functions.md#graph-history) _in the Advanced section of each vault to evaluate their past performance._
 
-#### Examples:
+***
+
+**Examples:**
 
 **ACLM - Volatile Strategies**
 
@@ -287,8 +307,8 @@ A category of stablecoins from different currencies, paired with the USD stablec
 
 IL is minimal, as pegged fiat currencies are much less volatile than other crypto tokens. Token unpeg risk has to be factored in as part of risk assessment as well.
 
-* XSGD by StraitsX
-* EURC by Angle
+* XSGD [by StraitsX](https://www.straitsx.com/xsgd)
+* EURC [by Circle](https://www.circle.com/en/eurc)
 
 **ACLM - Volatile Strategies**
 
@@ -312,7 +332,9 @@ Only put in funds you can afford to lose. Do not risk your life savings on DeFi.
 
 <details>
 
-<summary>Protocol smart contract risks</summary>
+<summary>General Smart Contract Risks</summary>
+
+Smart contracts are vulnerable to exploits. These exploits can result in significant financial losses or other negative consequences. It's crucial to understand the risks involved and avoid interacting with contracts from untrusted sources.
 
 ACryptoS has focused on safety and careful risk assessment since deployment in 2020. Multiple [audits](dao/security-and-risks.md#audits) and a [bug bounty](dao/bug-bounty.md) serve to enhance the security. Read our blog here to understand [what sets us apart](https://medium.com/acryptos/what-sets-acryptos-apart-d6345e2f5d7f).
 
@@ -320,48 +342,50 @@ ACryptoS has focused on safety and careful risk assessment since deployment in 2
 
 <details>
 
-<summary>Vault underlying protocol risks</summary>
+<summary>Vaults - Underlying Protocol Risks</summary>
 
-* our Single-Token vaults are built on top of lending protocols. They run the risk where funds are siphoned out via exploiters. We filter out projects via internal due diligence procedures, and try our best to build on safe credible protocols. Unfortunately, a few of these protocols were exploited and funds unrecoverable (read: Atlantis, Channels, Sonne)
-* our ACLM vaults are built on top of V3 Conc Liquidity DEXs. We only build on stronger and battle-tested DEXs like Uniswap, Sushi, and Pancakeswap.
-
-</details>
-
-<details>
-
-<summary>Stablecoin depeg risks</summary>
-
-* many USD stablecoins claim to be pegged to USD 1:1, but many smaller marketcap stablecoins are at a high risk of depegging
-* larger stablecoins like USDC, USDT, DAI, etc have encountered depegging as well
+* our Single-Token vaults are built on top of lending protocols. They run the risk where the underlying protocols are exploited, and funds siphoned out via exploiters. We aim to filter out projects via thorough internal due diligence procedures, and try our best to build on safe credible protocols. Over the years since our deployment, despite our best efforts, there have been a few of these protocols exploited with funds unrecoverable (read: [Atlantis](https://t.me/acryptos/1/230896), [Channels](https://t.me/acryptos/1/238945), [Sonne](https://medium.com/@SonneFinance/post-mortem-sonne-finance-exploit-12f3daa82b06))
+* our ACLM vaults are built on top of V3 Conc Liquidity DEXs. In order to minimize the risks of exploits on the underlying DEX, we aim to only build on stronger and battle-tested DEXs like Uniswap, Sushi, and Pancakeswap.
 
 </details>
 
 <details>
 
-<summary>LST/LRT protocol risks</summary>
+<summary>Stablecoin Depeg Risks</summary>
 
-* liquid staking tokens tend to be quite centralized, where user funds like ETH or BNB are held by their protocol, and staking is done on their back end.
+* protocols issuing USD stablecoins claim to be pegged to USD 1:1, but many smaller marketcap stablecoins are at a high risk of depegging. It may be due to the mechanics behind how the stablecoin is backed, or due to market sentiments resulting in sell-offs, etc.
+* larger stablecoins like USDC, USDT, DAI, etc have lower depeg risks, though there have been multiple depegging issues over the years as well
+
+</details>
+
+<details>
+
+<summary>LST/LRT Protocol Risks</summary>
+
+* liquid staking tokens tend to be quite centralized, where user funds like ETH or BNB are held by the intermediary protocol, and staking is done on their back end.
 * Risks involve protocol exploits, intentional draining of funds, or "depegging" of liquid staked tokens . Lack of liquidity might affect the unstaking of liquid tokens back to the native token as well.
 * eg. rETH, wstETH, cbETH, stkBNB, ankrBNB, BNBx etc.
-* DYOR on how credible and transparent the staking protocols are, as well as how large the market of these tokens are
+* please DYOR on how credible and transparent the staking protocols are, as well as how large the market of these tokens are
 
 </details>
 
 <details>
 
-<summary>bridged token risks</summary>
+<summary>Bridged Token Risks</summary>
 
-* understand the difference between native tokens and bridged tokens. Bridged tokens may involve native bridges and third-party bridges
-* eg. USDC.e is a bridged token while USDC is the native token that is issued directly by Circle
-* eg. multichain bridge was exploited on multiple chains in 2023. Funds that were lost due to that incident has not been recovered since.
+* it is essential to understand the difference between native tokens and bridged tokens on various chains. Bridged tokens are susceptible to risks and exploits of the bridging protocol itself.&#x20;
+* eg. USDC.e is a bridged token while USDC is the native token that is issued directly by Circle. The native USDC token can be redeemed 1:1 to USD via Circle.
+* eg. Multichain bridge was exploited on multiple chains in 2023. Funds that were lost due to that incident has not been recovered since.
 
 </details>
 
 <details>
 
-<summary>wrapped token risks</summary>
+<summary>Wrapped Token Risks</summary>
 
-eg. WBTC depegging risks
+Wrapped tokens, while offering convenience, can pose risks. The underlying asset's security and the wrapping platform's reliability are crucial factors. Be cautious of potential vulnerabilities and always research before investing in wrapped tokens.
+
+eg. WBTC is wrapped by BitGo, cbBTC is wrapped by Coinbase etc.&#x20;
 
 </details>
 

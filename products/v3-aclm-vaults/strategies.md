@@ -15,11 +15,11 @@ In comparison with other concentrated liquidity managers, our strategies have ou
 
 ### Stable Strategies:
 
-**Stable Strategies focus on stablecoin pairs, or with pegged assets like staked tokens.** It uses liquidity ranges that are very tight (typically 1 tick), but dynamically adjusted based on market conditions.&#x20;
+**Stable Strategies focus on stablecoin pairs, or with pegged assets like staked tokens.** It uses liquidity ranges that are very tight (typically 1 tick), but dynamically adjusted based on market conditions.
 
 These are our best performing strategies, and have outperformed other liquidity managers for the same pools.
 
-Why our Stable Strategies work for LSTs:
+**Why our Stable Strategies work well for LSTs:**
 
 LS tokens on L2 chains can experience volatility due to bridging costs and duration (up to 7 days to withdraw to L1), and when volatility causes liquidations, etc on L2s.
 
@@ -39,7 +39,7 @@ LPs take on this volatility to earn fees. Our Vaults mitigate trading risks by w
 All strategies autocompound any yields back to the original deposited tokens.
 {% endhint %}
 
-**ACLM vaults feature automatic compounding.** This means the strategy automatically collects and reinvests any earned rewards (swap fees, harvested  Merkl rewards, etc.), by swapping them back into the principle assets and redepositing into the ACLM vault. This compounding effect maximizes the vaults for its high-yield potential.
+**ACLM vaults feature automatic compounding.** This means the strategy automatically collects and reinvests any earned rewards (swap fees, harvested Merkl rewards, etc.), by swapping them back into the principle assets and redepositing into the ACLM vault. This compounding effect maximizes the vaults for its high-yield potential.
 
 **When you deposit into an ACLM vault, you receive "acsXYZ" tokens.** These tokens represent your share in the vault's underlying assets. However, due to the compounding mechanism, the value of each "acsXYZ" token will increase over time. The "acsXYZ" tokens you hold will not change, but over each compound, its value will increase and when you withdraw, you will end up with a larger number of tokens.
 
