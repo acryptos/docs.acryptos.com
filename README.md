@@ -31,7 +31,7 @@ Here at ACryptoS - we maximize your APY with our _performance-oriented algorithm
 
 * 4 years+ track record for deployment of highly effective DeFi Strategies
 * SAFU, careful risk management
-* sustainable APY for long term growth
+* Sustainable APY for long term growth
 
 **Translated to real-life examples:**
 
