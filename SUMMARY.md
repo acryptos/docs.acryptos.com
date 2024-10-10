@@ -36,7 +36,7 @@
   * [Farming our Tokens](dao/acryptos-farms.md)
   * [Protocol Timeline](dao/legacy/roadmap.md)
 
-## Tutorials / Guides
+## Tutorials & Guides
 
 * [FAQ](faq.md)
 * [Resources](tutorials-guides/community/README.md)
