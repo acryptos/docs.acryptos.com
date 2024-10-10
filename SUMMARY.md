@@ -39,9 +39,9 @@
 ## Tutorials & Guides
 
 * [FAQ](faq.md)
-* [Resources](tutorials-guides/community/README.md)
-  * [Chains & Bridges](tutorials-guides/community/chains-and-bridges.md)
-  * [Terms of Service](tutorials-guides/community/terms-of-service.md)
+* [Resources](tutorials-and-guides/resources/README.md)
+  * [Chains & Bridges](tutorials-and-guides/resources/chains-and-bridges.md)
+  * [Terms of Service](tutorials-and-guides/resources/terms-of-service.md)
 * [Step-by-step Guide](tutorials-guides/step-by-step-guide.md)
 
 ***
