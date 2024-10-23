@@ -12,6 +12,8 @@ Expanding the "Advanced" section under each ACLM vault, you can find a "u3i" lin
 * grey bars indicate other providers
 * large amount of under-utilized liquidity can be seen from the grey bars
 
+***
+
 ## Graph - History
 
 Expanding the "Advanced" > "History" section, you will see a graph indicating the historical performance of this ACLM vault.
@@ -43,18 +45,28 @@ We developed a Keeper bot, to automate various vault functions based on external
 
 ## User Triggers
 
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 ### Harvest Vault
 
-Triggers a rebalance of the vault, by harvesting incentives, swapping them and compounding them back into the vault. Harvesting consumes gas fees.
-
-Triggering the harvest gives the user harvester fees (0.3% of the incentives) to offset the gas fees, and also as an incentive to decentralize the rebalancing function, where users will always have an incentive to rebalance the vault in the long run.
-
-Harvester rewards are received in the form of the vault acsXYZ token.
+**"Reward"** refers to the amount of vault tokens that a user will receive when the **"Harvest Vault"** function is triggered. These are called harvester fees (0.3% of the pending rewards), and serves as an incentive to compensate the gas fees used for compounding the vault.
 
 {% hint style="info" %}
-It is not required to press on the "Harvest Vault" function. Our automation processes will handle this in the back end. Only do this if you want to earn the harvester fees, or if you would like to compound the rewards before exiting the vault.
+Harvester rewards are received in the form of the vault acsXYZ token.
+{% endhint %}
+
+_This is also to ensure the sustainability of our vaults, where users will always have an incentive to keep the vault compounding in the long run as long as there is TVL and fees._
+
+The **"Harvest Vault"** function triggers a rebalance of the vault, by harvesting incentives, swapping them and compounding them back into the vault.
+
+{% hint style="info" %}
+It is not required to press on the "Harvest Vault" function. Our automation processes will handle this in the back end.
+
+Only do this if you want to earn the harvester fees, or if you would like to compound the rewards before exiting the vault.
 {% endhint %}
 
 ### Harvest Merkl Rewards
 
-Triggers a harvest of pending Merkl Rewards, and compounding them back into the vault. Harvesting consumes gas fees.
+The **"Harvest Angle Merkl"** function triggers our strategy to harvest the pending incentives from Merkl, convert the tokens to the vault tokens, and compound them into the vault.
+
+Harvesting consumes gas fees.
