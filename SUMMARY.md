@@ -19,7 +19,7 @@
   * [Liquid Wrapper veNFT + ve(3,3) Vaults](products/vaults/liquid-wrapper-vaults/README.md)
     * [SolidLizard veSLIZ](products/vaults/liquid-wrapper-vaults/wrapper-vesliz.md)
     * [Equilibre veVARA](products/vaults/liquid-wrapper-vaults/wrapper-vevara.md)
-    * [Flair DEX veFLDX](products/vaults/liquid-wrapper-vaults/wrapper-vefldx.md)
+    * [FlairDEX veFLDX](products/vaults/liquid-wrapper-vaults/wrapper-vefldx.md)
     * [Velocimeter veFLOW](products/vaults/liquid-wrapper-vaults/wrapper-veflow.md)
     * [Chronos Finance LP Vaults](products/vaults/chronos-finance-lp-vaults.md)
   * [Vaults with Farm](products/vaults/vaults-with-farm.md)
