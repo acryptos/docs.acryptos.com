@@ -10,15 +10,16 @@ description: >-
 
 Dapp: [https://app.acryptos.com/](https://app.acryptos.com/)
 
-*
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Filtering functions</p></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Filtering functions</p></figcaption></figure>
 * **"ACLM"**  shows all our vaults that utilize our Advanced Conc. Liquidity Manager strategies.
 * **"Single"** shows all our vaults that are built on lending protocols, using looped strategies, with no liquidation risks and no IL.&#x20;
 
-Find out more about their differences [here](../../quick-start-guide.md#vault-comparisons).
+{% hint style="info" %}
+Find out more about ACLM and Single-Token Vaults differences [here](../../quick-start-guide.md#vault-comparisons).
 
 Explanations and breakdowns on categories of eg. LP-A, USD-B, etc can be found [here](../../quick-start-guide.md#categories).
+{% endhint %}
 
 ***
 
@@ -26,15 +27,19 @@ Explanations and breakdowns on categories of eg. LP-A, USD-B, etc can be found [
 
 Clicking into any of the vaults from the Main Page, brings you to the individual Vault Details page.
 
+<figure><img src="https://raw.githubusercontent.com/acryptos/docs.acryptos.com/refs/heads/master/images/ACLM%20-%20Vault%20Header%20APY%20v2.png" alt=""><figcaption><p>Vault Header APY</p></figcaption></figure>
+
 The <mark style="color:orange;">0.01%</mark> on the header refers to the swap fee rate on the underlying pool, generally varying from 0.01% to 0.30%, or even up to 1.00%. In this example, this vault manages the 0.01% swap fee USDC/USDT pool on UniswapV3 (Base)
 
 The <mark style="color:green;">amount of tokens highlighted in green</mark>, is the ratio of USDC and USDT currently managed in our vault. _The ratio will constantly change as the vault rebalances._ The ratio does not concern users as they may deposit in **any ratio between the 2 tokens**, or even do **single-sided deposits**. The vault strategy will rebalance as neccessary.
 
 The <mark style="color:yellow;">APY</mark> displayed on the header, is an average of the last 3 days APY, pulled the last 8 compounds of the vault. (see [Historical APY](ui-explanations.md#historical-apy) below)
 
-<figure><img src="https://raw.githubusercontent.com/acryptos/docs.acryptos.com/refs/heads/master/images/ACLM%20-%20Vault%20Header%20APY%20v2.png" alt=""><figcaption><p>Vault Header APY</p></figcaption></figure>
+***
 
 ### Additional Merkl rewards
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Additional incentives distributed via Merkl</p></figcaption></figure>
 
 Certain pools may be allocated incentives via grants or reward campaigns from time to time. Our vault strategies are optimized to
 
@@ -42,9 +47,9 @@ Certain pools may be allocated incentives via grants or reward campaigns from ti
 * converting them to the tokens managed in the vault (in this example: WBTC and tBTC)
 * and autocompounding them back into the vault
 
+{% hint style="success" %}
 This automated process increases the APY for users, and lessens the hassle for users to harvest the Merkl rewards themselves.&#x20;
-
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Additional incentives distributed via Merkl</p></figcaption></figure>
+{% endhint %}
 
 Clicking on the <mark style="color:green;">green Merkl reward button</mark>, brings you to the Merkl rewards page, where you can monitor how much rewards are being distributed, and how long more the campaign will run for. You may also check the performance of our vaults on the Leaderboard for the Merkl rewards page.
 
@@ -52,7 +57,9 @@ Here's a short [tweet](https://x.com/acryptosdao/status/1817912082337239123) ind
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Our USDC/USDT vault in the #1 position on Merkl.</p></figcaption></figure>
 
+{% hint style="info" %}
 The contract for each of the vaults can be found in the [Advanced ](ui-explanations.md#advanced)section, under Contracts - Vault.
+{% endhint %}
 
 #### Notes:
 
@@ -84,7 +91,7 @@ If you see this notice while depositing, please wait for some time before trying
 
 ## Advanced
 
-Expanding the "Advanced" section under the basic Vault Details, opens up a large number of sections that show the Historical APY, detailed contracts, backend workings of the vault, %-managed-liquidity charts, past-performance graphs, etc.
+Expanding the **"Advanced"** section under the basic Vault Details, opens up a large number of sections that show the Historical APY, detailed contracts, backend workings of the vault, %-managed-liquidity charts, past-performance graphs, etc.
 
 ### Harvesting / Compounding
 
@@ -100,7 +107,7 @@ The following block displays the Historical APY of an example vault.
 
 ![Historical APY](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/ACLM%20-%20APY%20History.png)
 
-Explanation of the Historical APY:
+**Explanation of the Historical APY:**
 
 * Each line refers to one of the latest harvesting/rebalancing/compounding
 * For the 8th line, it can be explained as:

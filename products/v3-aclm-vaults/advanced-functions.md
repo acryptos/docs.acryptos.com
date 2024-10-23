@@ -4,9 +4,11 @@
 
 We have developed a chart to help users visualize the current distribution of liquidity on a specific LP, the current trading price, and the active liquidity managed by our strategies.
 
-Expanding the "Advanced" section under each ACLM vault, you can find a "u3i" link.&#x20;
+{% hint style="info" %}
+Expanding the **"Advanced"** section under each ACLM vault, you can find a **"u3i"** link.&#x20;
+{% endhint %}
 
-<img src="https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/u3i%20-%20Arbitrum%20USDT-USDC%20240228.png" alt="Screenshot of managed USDT-USDC (Arbitrum) active liquidity %" data-size="original">
+<figure><img src="https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/u3i%20-%20Arbitrum%20USDT-USDC%20240228.png" alt=""><figcaption><p>We're managing more than 35% liquidity on this pool.</p></figcaption></figure>
 
 * blue bar indicates managed liquidity on ACryptoS
 * grey bars indicate other providers
@@ -33,7 +35,9 @@ To understand this graph, we look at the green line to find out the actual APY r
 * Converted to APR 27.12% / 18 days \* 365 days = 549%
 * Converted to APY = 23155%
 
-\*_The history graph pulls data from the last 188 harvests of the vault._
+{% hint style="info" %}
+The history graph pulls data from the last 188 harvests of the vault.
+{% endhint %}
 
 ***
 
@@ -51,7 +55,7 @@ We developed a Keeper bot, to automate various vault functions based on external
 
 **"Reward"** refers to the amount of vault tokens that a user will receive when the **"Harvest Vault"** function is triggered. These are called harvester fees (0.3% of the pending rewards), and serves as an incentive to compensate the gas fees used for compounding the vault.
 
-{% hint style="info" %}
+{% hint style="success" %}
 Harvester rewards are received in the form of the vault acsXYZ token.
 {% endhint %}
 
