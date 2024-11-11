@@ -51,15 +51,15 @@ We developed a Keeper bot, to automate various vault functions based on external
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-### Harvest Vault
-
-**"Reward"** refers to the amount of vault tokens that a user will receive when the **"Harvest Vault"** function is triggered. These are called harvester fees (0.3% of the pending rewards), and serves as an incentive to compensate the gas fees used for compounding the vault.
+**"Reward"** amount refers to the number of vault tokens that a user will receive when the **"Harvest Vault"** function is triggered. These are called harvester fees (0.3% of the pending rewards), and serves as an incentive to compensate the gas fees used for compounding the vault.
 
 {% hint style="success" %}
 Harvester rewards are received in the form of the vault acsXYZ token.
 {% endhint %}
 
 _This is also to ensure the sustainability of our vaults, where users will always have an incentive to keep the vault compounding in the long run as long as there is TVL and fees._
+
+### Harvest Vault
 
 The **"Harvest Vault"** function triggers a rebalance of the vault, by harvesting incentives, swapping them and compounding them back into the vault.
 
