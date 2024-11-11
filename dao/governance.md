@@ -18,6 +18,8 @@ The Core DAO was [formed](https://vote.acryptos.com/#/acryptos/proposal/QmcXRoMH
 
 A [treasury](https://bscscan.com/address/0x5BD97307A40DfBFDBAEf4B3d997ADB816F2dadCC) was [formed](https://vote.acryptos.com/#/acryptos/proposal/QmZzvi47cca4YmvSTxtqa4K5StDKyFUsN6rgJZUGGAxeg1) to fund anything that adds value to the protocol, taking up to 3% of ACS emissions.
 
+Treasury current holdings can be tracked on Debank here: [https://debank.com/profile/0x5bd97307a40dfbfdbaef4b3d997adb816f2dadcc](https://debank.com/profile/0x5bd97307a40dfbfdbaef4b3d997adb816f2dadcc)
+
 ### Community Grants
 
 Anyone may apply for a grant to fund anything that will add value to the protocol. To apply, [contact us](mailto:hello@acryptos.com) with a detailed proposal.

@@ -1,4 +1,70 @@
+---
+description: Frequently-Asked Questions
+---
+
 # FAQ
+
+<details>
+
+<summary>Why use ACryptoS vaults? Why not just use the underlying lending or DEX platforms?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>What are the fees?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>What are the risks involved?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Help, I can't find my deposits on the site!</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Why should I HODL the $ACS token?</summary>
+
+buyback from fees, governance
+
+no more emissions
+
+</details>
+
+<details>
+
+<summary>Where can I buy $ACS?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>How do I check my yields?</summary>
+
+debank
+
+withdraw button
+
+</details>
+
+
 
 Our latest vault offerings can be found here:
 
@@ -10,6 +76,10 @@ Our latest vault offerings can be found here:
 {% hint style="info" %}
 _The FAQ below is outdated, and pending updates to our current products._
 {% endhint %}
+
+<details>
+
+<summary>FAQ - legacy</summary>
 
 ## Trading/Listing, Supply Cap
 
@@ -194,7 +264,7 @@ Yes. The project has been audited. [Refer to here for the list of Audits](dao/se
     Then the ACS is distributed to the ACS Vault stakers (acsACS holders).
 * The same method is used for the ACSI buyback.
 
-### 6. How does the Venus & Channels strategies work?
+### 6. How do the Venus strategies work?
 
 *   By supplying an asset and borrowing the same asset to resupply with.
 
@@ -252,3 +322,6 @@ Yes. The project has been audited. [Refer to here for the list of Audits](dao/se
 ### 7. Which governance platform is used for voting?
 
 * We are using the well-established gasless [governance client](https://snapshot.page) by Snapshot Labs.
+
+</details>
+
