@@ -6,17 +6,19 @@ description: Frequently-Asked Questions
 
 <details>
 
-<summary>Why use ACryptoS vaults? Why not just use the underlying lending or DEX platforms?</summary>
+<summary>Why use ACryptoS vaults? </summary>
 
+**Why not just use the underlying Lending or DEX platforms?**
 
+Our vaults are developed with complex strategies that automate and optimize yields for users. This not only **reduces time and stress** spent on monitoring DeFi positions, but also enables users to obtain APY which they **could not achieve in normal scenarios**.
 
-</details>
+Example I - our Single-Token vaults built on Moonwell lending platform: The Moonwell dapp does not allow users to supply and borrow the same token.
 
-<details>
+However, our vaults are able to implement this at the contract level, achieving higher yields while ensuring no liquidation risks _(due to same-token supplying/borrowing)_. Our vaults are also set to automatically optimize the leverage ratio based on the market APY. Read more [here](products/vaults/).
 
-<summary>What are the fees?</summary>
+Example II - our ACLM vaults built on Uniswap V3 DEX: Setting positions and ranges on V3 Concentrated Liquidity require a high amount of time monitoring the prices and adjusting positions when out of swap range.
 
-
+Our vaults utilize a number of tools to form our strategies, from Chainlink Price Feed monitoring, to automated ACryptoS Keepers, to ensure our managed liquidity is always within swap range. We are able to maintain an extremely narrow 1-tick liquidity range for certain pools, achieving higher APY than other automated CL managers. Read more [here](products/v3-aclm-vaults/#how-our-aclm-stands-out).
 
 </details>
 
@@ -24,7 +26,21 @@ description: Frequently-Asked Questions
 
 <summary>What are the risks involved?</summary>
 
+ACryptoS vaults are battle-tested, launched since 2020 and without any contract exploits. _Risks mitigations and audits can be found_ [_here_](dao/security-and-risks.md)_._&#x20;
 
+Over the years , a number of other similar yield optimizers have [lost user funds](https://medium.com/acryptos/how-were-acryptos-venus-vaults-unaffected-while-other-yield-optimizers-lost-tens-of-millions-in-27bf4258dfb2), or similar automated CL managers [got exploited](https://medium.com/gamma-strategies/post-mortem-remediation-plan-9a62f10d90f3) due to loopholes in developed contracts. We believe in developing vaults with safety always in mind, and cutting out any fancy, risky fluff.
+
+Check out [this article](https://medium.com/acryptos/what-sets-acryptos-apart-d6345e2f5d7f) on our blog - written since a few years back, but still very much our core ethos.
+
+</details>
+
+<details>
+
+<summary>What are the fees for using the vaults?</summary>
+
+Straightforward 0.1% fee on withdrawal amount.
+
+Other fees like performance or strategist fees are already factored into the APY. Find out more [here](dao/fees.md#fees).
 
 </details>
 
@@ -32,7 +48,24 @@ description: Frequently-Asked Questions
 
 <summary>Help, I can't find my deposits on the site!</summary>
 
+Fret not, check these links first:\
+\- [https://app.acryptos.com/vaults/deprecated/](https://app.acryptos.com/vaults/deprecated/)\
+\- [https://app-legacy.acryptos.com/](https://app-legacy.acryptos.com/)\
+\- [https://app-legacy.acryptos.com/deprecated/](https://app-legacy.acryptos.com/deprecated/)
 
+These are links to deprecated vaults over the years. Your funds will still be there waiting for your withdrawal.
+
+</details>
+
+<details>
+
+<summary>How do I check my yields and vault performance?</summary>
+
+You can monitor your current deposits on our site via [https://debank.com/](https://debank.com/)
+
+You can also click on the Withdraw button on each specific vault, to compare the changes from your initial deposits. More info [here](products/v3-aclm-vaults/ui-explanations.md#checking-your-yields).
+
+You can also check past vault performance from the [History chart](products/v3-aclm-vaults/advanced-functions.md#graph-history) of each vault.
 
 </details>
 
@@ -40,9 +73,9 @@ description: Frequently-Asked Questions
 
 <summary>Why should I HODL the $ACS token?</summary>
 
-buyback from fees, governance
+Holding the $ACS token makes you part of the [DAO](dao/governance.md) governing ACryptoS, having ownership of the protocol and [treasury](dao/governance.md#treasury).
 
-no more emissions
+The $ACS token is a deflationary token, where there are no longer any emissions, and fees from our protocol go into [buybacks](dao/fees.md#acs-tokenomics) of the $ACS token, increasing its value over time.
 
 </details>
 
@@ -50,30 +83,15 @@ no more emissions
 
 <summary>Where can I buy $ACS?</summary>
 
-
-
-</details>
-
-<details>
-
-<summary>How do I check my yields?</summary>
-
-debank
-
-withdraw button
+Liquidity for $ACS is mainly on BSC. More info here.
 
 </details>
 
 
-
-Our latest vault offerings can be found here:
-
-* [Single-Token Vaults](products/vaults/single-token-vaults.md)
-* [Automated Concentrated Liquidity Manager Vaults](products/v3-aclm-vaults/)
 
 ***
 
-{% hint style="info" %}
+{% hint style="warning" %}
 _The FAQ below is outdated, and pending updates to our current products._
 {% endhint %}
 
