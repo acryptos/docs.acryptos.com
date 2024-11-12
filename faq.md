@@ -12,6 +12,8 @@ description: Frequently-Asked Questions
 
 Our vaults are developed with complex strategies that automate and optimize yields for users. This not only **reduces time and stress** spent on monitoring DeFi positions, but also enables users to obtain APY which they **could not achieve in normal scenarios**.
 
+\---
+
 Example I - our Single-Token vaults built on Moonwell lending platform: The Moonwell dapp does not allow users to supply and borrow the same token.
 
 However, our vaults are able to implement this at the contract level, achieving higher yields while ensuring no liquidation risks _(due to same-token supplying/borrowing)_. Our vaults are also set to automatically optimize the leverage ratio based on the market APY. Read more [here](products/vaults/).
@@ -83,7 +85,7 @@ The $ACS token is a deflationary token, where there are no longer any emissions,
 
 <summary>Where can I buy $ACS?</summary>
 
-Liquidity for $ACS is mainly on BSC. More info here.
+Liquidity for $ACS is mainly on BSC. More info [here](dao/acs.md).
 
 </details>
 
