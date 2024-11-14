@@ -4,20 +4,24 @@
 
 Single token vaults are one of the most unique offerings at ACryptoS. We partner with and build on lending protocols, using our smart contract strategies to automatically leverage the same token.
 
-By borrowing and supplying the same token in a number of loops, users earn Supply and Borrow APY multiple times, up to 7.6X the initial APY. This helps users get much higher yields for their tokens, and also increases the deposits and utilizations of lending markets.
+By borrowing and supplying the same token in a number of loops, users earn Supply and Borrow APY multiple times, up to 7.6X the initial APY.&#x20;
 
-There is zero liquidation risk in our strategy, as it is using the same token for supplying and borrowing. Price movements of the token does not result in liquidations. Read more about risks here.
+{% hint style="success" %}
+Our strategy helps users get much higher yields for their tokens, and also increases the deposits and utilizations of lending markets.
+{% endhint %}
 
-Our single-token vaults provide these benefits to users:
+There is zero liquidation risk in our strategy, as it is using the same token for supplying and borrowing. Price movements of the token do not result in liquidations. Understand how it works [here](../../dao/security-and-risks.md#risk-liquidation-risks).
 
-1. autocompounding\
+## Vault Benefits
+
+1. auto-Compounding\
    \- vaults compound automatically through our smart contract strategy\
    \- staked tokens increase over time
 2. no IL (impermanent loss)\
    \- single token staking, no impermanent loss as per LP farming
 3. automated, no harvesting required\
    \- APY is in staked tokens, not from farming emission tokens
-4. SAFU\
+4. safety-first\
    \- we filter and partner with quality protocols, putting our priorities on user fund safety\
    \- no security issues since 2020 launch
 
@@ -25,7 +29,7 @@ Our single-token vaults provide these benefits to users:
 
 ## Protocols
 
-Vaults built on the following protocols
+Vaults are built on the following protocols
 
 * Venus (BSC)
 * Moonwell (Optimism, Base, Moonbeam, Moonriver)
@@ -38,7 +42,7 @@ Vaults built on the following protocols
 
 ## Advanced Functions
 
-<figure><img src="../../.gitbook/assets/single-token harvest vault.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/single-token harvest vault.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **"Reward"** amount refers to the number of vault tokens that a user will receive when the **"Harvest Vault"** function is triggered. These are called harvester fees (a set % of the pending rewards), with the % varied depending on different vaults _(0.03% in this case here)._ These fees serve as an incentive to compensate the gas fees used for compounding the vault.
 
@@ -62,7 +66,7 @@ Only do this if you want to earn the harvester fees, or if you would like to com
 
 ### Trigger Rebalance
 
-<figure><img src="../../.gitbook/assets/single-token trigger rebalance.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/single-token trigger rebalance.png" alt="" width="563"><figcaption></figcaption></figure>
 
 The **"Trigger Rebalance"** function checks for the optimum leverage ratio for this vault, and rebalances the supply/borrow loops as needed to achieve the highest APY for the vault. It works similarly to the "Harvest Vault" function mentioned above, except it does not trigger a harvest of fees or compound of the vault.
 

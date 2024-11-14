@@ -2,7 +2,7 @@
 description: ACryptoS Vaults grow your assets via automated yield Strategies.
 ---
 
-# ACryptoS Vaults
+# Vaults with Farm
 
 ACryptoS Vaults save users time and enables higher yields through creative automations, optimal compounding frequency, and highly efficient gas utilisation.
 
@@ -56,7 +56,6 @@ Resources:
 
 [Advanced Yield Farming Strategies on Venus protocol](https://medium.com/acryptos/advanced-yield-farming-strategies-on-venus-protocol-46a4044573fc) - by x.ACryptoS
 
-
 ## CAKE Vault
 
 This Vault stakes and farms CAKE on PancakeSwap.
@@ -75,6 +74,6 @@ These Vaults stake Mdex LP tokens, farms MDX and swaps it for more of the staked
 
 ## Workers
 
-Anyone can help [harvest an ACryptoS Vault](https://app.acryptos.com/worker/) and earn the [harvester's reward](../../dao/fees.md#all-vaults) as a gas subsidy. This decentralises the automation of our vaults.
+Anyone can help [harvest an ACryptoS Vault](https://app.acryptos.com/worker/) and earn the [harvester's reward](broken-reference) as a gas subsidy. This decentralises the automation of our vaults.
 
 You do not need to do this as a normal user, your holdings in the Vault will compound automatically.

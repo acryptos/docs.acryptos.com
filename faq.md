@@ -14,13 +14,13 @@ Our vaults are developed with complex strategies that automate and optimize yiel
 
 \---
 
-Example I - our Single-Token vaults built on Moonwell lending platform: The Moonwell dapp does not allow users to supply and borrow the same token.
+**Example I** - our Single-Token vaults built on Moonwell lending platform: The Moonwell dapp does not allow users to supply and borrow the same token.
 
-However, our vaults are able to implement this at the contract level, achieving higher yields while ensuring no liquidation risks _(due to same-token supplying/borrowing)_. Our vaults are also set to automatically optimize the leverage ratio based on the market APY. Read more [here](products/vaults/).
+However, our vaults are able to implement this at the contract level, achieving higher yields while ensuring no liquidation risks _(due to same-token supplying/borrowing)_. Our vaults are also set to automatically optimize the leverage ratio based on the market APY. _Read more_ [_here_](products/vaults/)_._
 
-Example II - our ACLM vaults built on Uniswap V3 DEX: Setting positions and ranges on V3 Concentrated Liquidity require a high amount of time monitoring the prices and adjusting positions when out of swap range.
+**Example II** - our ACLM vaults built on Uniswap V3 DEX: Setting positions and ranges on V3 Concentrated Liquidity require a high amount of time monitoring the prices and adjusting positions when out of swap range.
 
-Our vaults utilize a number of tools to form our strategies, from Chainlink Price Feed monitoring, to automated ACryptoS Keepers, to ensure our managed liquidity is always within swap range. We are able to maintain an extremely narrow 1-tick liquidity range for certain pools, achieving higher APY than other automated CL managers. Read more [here](products/v3-aclm-vaults/#how-our-aclm-stands-out).
+Our vaults utilize a number of tools to form our strategies, from Chainlink Price Feed monitoring, to automated ACryptoS Keepers, to ensure our managed liquidity is always within swap range. We are able to maintain an extremely narrow 1-tick liquidity range for certain pools, achieving higher APY than other automated CL managers. _Read more_ [_here_](products/v3-aclm-vaults/#how-our-aclm-stands-out)_._
 
 </details>
 
@@ -42,7 +42,7 @@ Check out [this article](https://medium.com/acryptos/what-sets-acryptos-apart-d6
 
 Straightforward 0.1% fee on withdrawal amount.
 
-Other fees like performance or strategist fees are already factored into the APY. Find out more [here](dao/fees.md#fees).
+Other fees like performance or strategist fees are already factored into the APY. Find out more [here](dao/acs.md#fees).
 
 </details>
 
@@ -77,7 +77,7 @@ You can also check past vault performance from the [History chart](products/v3-a
 
 Holding the $ACS token makes you part of the [DAO](dao/governance.md) governing ACryptoS, having ownership of the protocol and [treasury](dao/governance.md#treasury).
 
-The $ACS token is a deflationary token, where there are no longer any emissions, and fees from our protocol go into [buybacks](dao/fees.md#acs-tokenomics) of the $ACS token, increasing its value over time.
+The $ACS token is a deflationary token, where there are no longer any emissions, and fees from our protocol go into [buybacks](dao/acs.md#tokenomics) of the $ACS token, increasing its value over time.
 
 </details>
 

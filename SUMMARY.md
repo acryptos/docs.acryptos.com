@@ -26,8 +26,7 @@
 
 ## DAO & Tokenomics <a href="#dao" id="dao"></a>
 
-* [$ACS Token](dao/acs.md)
-* [Tokenomics & Fees](dao/fees.md)
+* [Tokenomics & Fees](dao/acs.md)
 * [Governance](dao/governance.md)
 * [Security & Risks](dao/security-and-risks.md)
 * [Bug Bounty](dao/bug-bounty.md)

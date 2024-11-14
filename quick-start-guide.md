@@ -396,7 +396,7 @@ Read more about risks and mitigations [here](dao/security-and-risks.md).
 ## Fees
 
 * Withdrawal Fees: All vaults have a 0.1% withdrawal fee, calculated by the withdrawal amount.
-* Performance Fees: already factored into the displayed APY. Full details can be found [here](dao/fees.md).
+* Performance Fees: already factored into the displayed APY. Full details can be found [here](broken-reference).
 
 {% hint style="info" %}
 Tips from the Samurai:

@@ -1,18 +1,20 @@
 # Governance
 
+## DAO
+
+$ACS holders are able to participate in key governance decisions via snapshot.&#x20;
+
+{% hint style="info" %}
 Governance app: [https://vote.acryptos.com/](https://vote.acryptos.com/)
+{% endhint %}
 
-$ACS held in users' wallets qualify for governance rights. Voting weight is measured in $ACS.
+$ACS held in users' wallets qualify for governance rights. Voting weight is measured in $ACS amount.
 
-A minimum of 88 ACS is required to create new community proposals.
-
-Resources:
-
-[Frequently Asked Questions](https://docs.acryptos.com/faq)
+A minimum of 88 $ACS is required to create new community proposals.
 
 ## Core DAO
 
-The Core DAO was [formed](https://vote.acryptos.com/#/acryptos/proposal/QmcXRoMHmgxQukYHSzgMsDcYHprsHW5rJZsnWPCypLbv3U) via Governance voting to [represent](https://vote.acryptos.com/#/acryptos/proposal/QmV4WD7eDSFhifv39vUN1Aqh42w99xzayN9NyyzMbq5cJB) the will of the DAO (community of acsACS holders), acting in their best interests.
+The Core DAO was [formed](https://vote.acryptos.com/#/acryptos/proposal/QmcXRoMHmgxQukYHSzgMsDcYHprsHW5rJZsnWPCypLbv3U) via Governance voting to [represent](https://vote.acryptos.com/#/acryptos/proposal/QmV4WD7eDSFhifv39vUN1Aqh42w99xzayN9NyyzMbq5cJB) the will of the DAO (community of $ACS holders), acting in their best interests.
 
 ## Treasury
 
