@@ -40,6 +40,7 @@
 * [FAQ](faq.md)
 * [Resources](tutorials-and-guides/resources/README.md)
   * [Chains & Bridges](tutorials-and-guides/resources/chains-and-bridges.md)
+  * [Oracles](tutorials-guides/resources/oracles.md)
   * [Terms of Service](tutorials-and-guides/resources/terms-of-service.md)
 * [Step-by-step Guide](tutorials-guides/step-by-step-guide.md)
 

@@ -19,11 +19,23 @@ In comparison with other concentrated liquidity managers, our strategies have ou
 
 These are our best performing strategies, and have outperformed other liquidity managers for the same pools.
 
+{% hint style="info" %}
 **Why our Stable Strategies work well for LSTs:**
 
 LS tokens on L2 chains can experience volatility due to bridging costs and duration (up to 7 days to withdraw to L1), and when volatility causes liquidations, etc on L2s.
 
 LPs take on this volatility to earn fees. Our Vaults mitigate trading risks by widening positions on de-peg and maximize profits by tightening positions when on-peg.
+{% endhint %}
+
+#### **Oracles**
+
+AcryptoS uses the [industry standard decentralized oracles Chainlink](https://docs.chain.link/data-feeds) as its primary oracle which provides highly secure and reliable, tamper-resistant data feeds.&#x20;
+
+Chainlink oracles are used across our Optimism, Arbitrum, Base, BSC and Polygon instances. Full list can be found here:
+
+{% content-ref url="../../tutorials-guides/resources/oracles.md" %}
+[oracles.md](../../tutorials-guides/resources/oracles.md)
+{% endcontent-ref %}
 
 ### Volatile Strategies:
 
