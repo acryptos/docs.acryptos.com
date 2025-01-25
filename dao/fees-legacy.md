@@ -1,18 +1,18 @@
-# Tokenomics & Fees
+# Legacy Tokenomics
 
 ## ACS and ACSI Tokenomics
 
 **ACS rewards distributed to ACS Farms: 0.02576279 ACS/block**\
-**+33.33% distributed to ACS holders via ACS Vault**\
-**+10% reward to ACryptoS Dev Team**\
+&#xNAN;**+33.33% distributed to ACS holders via ACS Vault**\
+&#xNAN;**+10% reward to ACryptoS Dev Team**\
 [**+3% to Treasury**](governance.md#treasury)\
 Total \~1086 ACS/day
 
 Maximum supply cap at 1,888,888 ACS. ACS Farms emissions began at 0.088888 888888 888888 ACS/block from [\~28 Oct 2020](https://bscscan.com/tx/0x0f7bc5772458de583c7abfb9f0c7494599f013038d24b8fd0ee8d1c5c7308e69). This is [cut by 18.65% every 90 days](https://vote.acryptos.com/#/acryptos/proposal/QmU2e9PDB3AR3JHKbBsPnWiFve5iiR35cEJFsdxmLRi4Ks) beginning on 15 Feb 2021, to give a maximum supply of 1,888,888 ACS.
 
 **ACSI rewards distributed to ACSI Farms: 0.02576279 ACSI/block**\
-**+33.33% distributed to ACSI holders via ACSI Vault**\
-**+10% reward to ACryptoS Dev Team**\
+&#xNAN;**+33.33% distributed to ACSI holders via ACSI Vault**\
+&#xNAN;**+10% reward to ACryptoS Dev Team**\
 [**+3% to Treasury**](https://vote.acryptos.com/#/acryptos/proposal/QmTZvZc1eEwQypg6zfKpSHwZGW2XKPryoYHGAMVrawVfTS)\
 Total \~1086 ACSI/day
 
@@ -20,13 +20,13 @@ Maximum supply cap at 1,888,888 ACSI. ACSI Farms emissions began at 0.088888 888
 
 All parameters may be adjusted in future via governance.
 
-![Emission Rate](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/be0e62766a37e8457e69988a112575a2eebe1a86/images/Emission\_rate\_Circulating\_supply.svg)
+![Emission Rate](https://raw.githubusercontent.com/acryptos/docs.acryptos.com/be0e62766a37e8457e69988a112575a2eebe1a86/images/Emission_rate_Circulating_supply.svg)
 
 Resources:
 
 [Frequently Asked Questions](../faq.md)
 
-[Table with Vault and Farm fees](https://docs.google.com/document/d/1-KU1zzWnEG0sh8hLCD0YUtPv7D4\_B2wu80UtRQ3sQUA/edit) - contributed by [Blight Night](https://t.me/BlightNight)
+[Table with Vault and Farm fees](https://docs.google.com/document/d/1-KU1zzWnEG0sh8hLCD0YUtPv7D4_B2wu80UtRQ3sQUA/edit) - contributed by [Blight Night](https://t.me/BlightNight)
 
 ### ACS and ACSI Governance Vaults
 

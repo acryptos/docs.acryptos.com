@@ -40,6 +40,30 @@ Vaults are built on the following protocols
 
 ***
 
+## Vault Mechanisms
+
+### receiptTokens
+
+By depositing in any of these vaults, you will receive a receiptToken as proof of your deposit, in the form of acsXYZ. Eg. by depositing in a USDC vault, you will receive an acsUSDC token. When withdrawing from the vault, these tokens will be burned, and USDC will be redeemed to your wallet.
+
+The number of receiptTokens in your wallet will not change upon every compound of the vault. Instead, the number of tokens that can be redeemed will increase.
+
+### AutoCompounding
+
+Our Single-token vaults compound automatically. The period between each compound depends on the TVL and APY of each vault. Higher TVL or APY usually triggers more frequent compounding, as the yields easily cover the fees and gas required for each compound.
+
+By expanding the Advanced section, the Historical APY of the last 8 compounds are displayed in a section, showing the frequency and duration between each compound.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+* Each line refers to one of the latest harvesting/rebalancing/compounding
+* For the 8th line, it can be explained as:
+  * the compound was 4.35 days ago
+  * the APY achieved between 3.67 - 4.35 days ago is 14.3%
+  * the Cumulative (Total) APY achieved between now and 4.35 days ago is 15.9%
+* Virtual Price
+  * The multiplier for the number of tokens in the vault that can be redeemed for each of the receiptTokens. eg. 1000 acsUSDC will redeem 1093.386995980910717 USDC.
+
 ## Advanced Functions
 
 <figure><img src="../../.gitbook/assets/single-token harvest vault.png" alt="" width="563"><figcaption></figcaption></figure>

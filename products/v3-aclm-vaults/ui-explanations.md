@@ -39,7 +39,7 @@ The <mark style="color:yellow;">APY</mark> displayed on the header, is an averag
 
 ### Additional Merkl rewards
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Additional incentives distributed via Merkl</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Additional incentives distributed via Merkl</p></figcaption></figure>
 
 Certain pools may be allocated incentives via grants or reward campaigns from time to time. Our vault strategies are optimized to
 
@@ -55,7 +55,7 @@ Clicking on the <mark style="color:green;">green Merkl reward button</mark>, bri
 
 Here's a short [tweet](https://x.com/acryptosdao/status/1817912082337239123) indicating our performance on one of the vaults.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Our USDC/USDT vault in the #1 position on Merkl.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Our USDC/USDT vault in the #1 position on Merkl.</p></figcaption></figure>
 
 {% hint style="info" %}
 The contract for each of the vaults can be found in the [Advanced ](ui-explanations.md#advanced)section, under Contracts - Vault.
@@ -84,7 +84,7 @@ If you see this notice while depositing, please wait for some time before trying
 1. Click on the Withdraw tab
 2. Tap on the "Balance" for the full withdrawal amount
 3. Check the amount of tokens you are estimated to receive\
-   _\*do not execute the withdrawal transaction_
+   &#xNAN;_\*do not execute the withdrawal transaction_
 4. Compare the tokens received with your initial deposits.
 
 ***

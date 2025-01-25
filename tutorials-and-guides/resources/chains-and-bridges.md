@@ -142,7 +142,7 @@ app: [https://portal.astar.network/astar/assets](https://portal.astar.network/as
 ### Notes
 
 Astar docs for transferring tokens: [https://docs.astar.network/docs/user-guides/transfer-tokens](https://docs.astar.network/docs/user-guides/transfer-tokens)\
-_Important notes on transferring ASTR to/from exchanges, to/from Polkadot, between native and EVM addresses._
+&#xNAN;_&#x49;mportant notes on transferring ASTR to/from exchanges, to/from Polkadot, between native and EVM addresses._
 
 Reference:\
 [https://docs.astar.network/docs/integrations/bridges/cbridge](https://docs.astar.network/docs/integrations/bridges/cbridge)\
