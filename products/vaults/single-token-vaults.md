@@ -64,6 +64,22 @@ By expanding the Advanced section, the Historical APY of the last 8 compounds ar
 * Virtual Price
   * The multiplier for the number of tokens in the vault that can be redeemed for each of the receiptTokens. eg. 1000 acsUSDC will redeem 1093.386995980910717 USDC.
 
+### Leveraged Looping
+
+These vaults stake recursively on the lending platforms at up to \~7.6X leverage, farm the rewards tokens and swap it for more of the initial deposited tokens.
+
+When initially depositing, users may notice the value of their holdings in the vault **slowly decreasing on each block**.
+
+This is normal because we are using leverage on the lending platform, and the borrow amount increases faster than the supply amount. Also the value of the farmed reward tokens are not included at the start.
+
+The balance will increase once harvested rewards are included (after each harvest of the Vault).
+
+Also, due to supplying and borrowing the same token, there are zero liquidation risks, as price movements do not affect the supply/borrow health ratio.
+
+{% hint style="info" %}
+Resources: [Advanced Yield Farming Strategies on Venus protocol](https://medium.com/acryptos/advanced-yield-farming-strategies-on-venus-protocol-46a4044573fc) - by x.ACryptoS
+{% endhint %}
+
 ## Advanced Functions
 
 <figure><img src="../../.gitbook/assets/single-token harvest vault.png" alt="" width="563"><figcaption></figcaption></figure>
