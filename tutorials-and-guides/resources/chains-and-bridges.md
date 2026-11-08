@@ -8,14 +8,14 @@ description: List of the chains our vaults are on, and how to bridge tokens over
 
 <summary>Kava</summary>
 
-## Bridges
+### Bridges
 
 Canonical (Native\*):\
 [https://app.kava.io/evm/wkava](https://app.kava.io/evm/wkava)\
 [https://app.kava.io/transfer](https://app.kava.io/transfer)\
 \*for KAVA and ATOM transfers between Kava (Cosmos) and Kava (EVM) chains
 
-[Exceptions](broken-reference): USX
+[Exceptions](https://github.com/acryptos/docs.acryptos.com/blob/master/tutorials-and-guides/resources/broken-reference/README.md): USX
 
 Reference: [https://medium.com/kava-labs/how-to-use-the-kava-evm-faq-5e6d79e617ce](https://medium.com/kava-labs/how-to-use-the-kava-evm-faq-5e6d79e617ce)
 
@@ -25,7 +25,7 @@ Reference: [https://medium.com/kava-labs/how-to-use-the-kava-evm-faq-5e6d79e617c
 
 <summary>Linea</summary>
 
-## Bridges
+### Bridges
 
 Canonical: [https://bridge.linea.build](https://bridge.linea.build)
 
@@ -35,16 +35,16 @@ Canonical: [https://bridge.linea.build](https://bridge.linea.build)
 
 <summary>Moonbeam</summary>
 
-## Bridges
+### Bridges
 
 Canonical (Polkadot/Native\*): [Moonbeam App](chains-and-bridges.md#moonbeam-app)\
 \*Bridge for native Polkadot assets like DOT, GLMR
 
-Moonwell: [Portal Token Bridge (Wormhole)](broken-reference)
+Moonwell: [Portal Token Bridge (Wormhole)](https://github.com/acryptos/docs.acryptos.com/blob/master/tutorials-and-guides/resources/broken-reference/README.md)
 
 Reference: [https://docs.moonwell.fi/moonwell-finance/user-guides/bridging-assets#bridging-assets-to-moonbeam](https://docs.moonwell.fi/moonwell-finance/user-guides/bridging-assets#bridging-assets-to-moonbeam)
 
-## Moonbeam App
+### Moonbeam App
 
 app: [https://apps.moonbeam.network/moonbeam/xcm](https://apps.moonbeam.network/moonbeam/xcm)
 
@@ -54,14 +54,14 @@ app: [https://apps.moonbeam.network/moonbeam/xcm](https://apps.moonbeam.network/
 
 <summary>Moonriver</summary>
 
-## Bridges
+### Bridges
 
 Canonical (Polkadot/Native\*): [Moonriver App](chains-and-bridges.md#moonriver-app)\
 \*Bridge for native Polkadot assets like DOT, MOVR
 
 Reference: [https://docs.moonwell.fi/moonwell-finance/user-guides/bridging-assets#bridging-assets-to-moonriver](https://docs.moonwell.fi/moonwell-finance/user-guides/bridging-assets#bridging-assets-to-moonriver)
 
-## Moonriver App
+### Moonriver App
 
 app: [https://apps.moonbeam.network/moonriver/xcm](https://apps.moonbeam.network/moonriver/xcm)
 
@@ -79,29 +79,29 @@ Some bridging protocols that support multiple chains. Please DYOR and understand
 
 Bridging Tutorials here:
 
-## Celer cBridge
+### Celer cBridge
 
 App: [https://cbridge.celer.network/](https://cbridge.celer.network/)\
 Web: [https://celer.network/](https://celer.network/)
 
-## Portal Token Bridge (Wormhole)
+### Portal Token Bridge (Wormhole)
 
 App: [https://www.portalbridge.com/](https://www.portalbridge.com/)
 
-## Synapse
+### Synapse
 
 App: [https://synapseprotocol.com/](https://synapseprotocol.com/)
 
-## WAN Bridge
+### WAN Bridge
 
 App: [https://bridge.wanchain.org/#/](https://bridge.wanchain.org/#/)
 
-## Exceptions
+### Exceptions
 
 ACS: [Multichain.org](chains-and-bridges.md#multichain.org)\
 USX: [Celer cBridge](chains-and-bridges.md#celer-cbridge)
 
-## Multichain.org
+### Multichain.org
 
 **WARNING**: The Multichain.org Bridge is out of service and has likely been hacked. Please do not use it. All Multichain.org assets are affected, including ACS, assets on Kava, Fantom, Moonriver and more. [More Info](https://twitter.com/acryptosdao/status/1677202113905176577)
 
@@ -118,31 +118,31 @@ Web: [https://multichain.org/](https://multichain.org/)
 
 <summary>Astar</summary>
 
-Faucet: [Astar App](broken-reference)
+Faucet: [Astar App](https://github.com/acryptos/docs.acryptos.com/blob/master/tutorials-and-guides/resources/broken-reference/README.md)
 
-### Bridges
+#### Bridges
 
-Canonical (Polkadot/Native\*): [Astar App](broken-reference)\
+Canonical (Polkadot/Native\*): [Astar App](https://github.com/acryptos/docs.acryptos.com/blob/master/tutorials-and-guides/resources/broken-reference/README.md)\
 \*Bridge for native Polkadot assets like DOT, USDT (not ceUSDT), and transfers between Astar Native and EVM addresses.
 
-Canonical (EVM): [Celer cBridge](broken-reference)
+Canonical (EVM): [Celer cBridge](https://github.com/acryptos/docs.acryptos.com/blob/master/tutorials-and-guides/resources/broken-reference/README.md)
 
-USDT (not ceUSDT): [WAN Bridge](broken-reference)
+USDT (not ceUSDT): [WAN Bridge](https://github.com/acryptos/docs.acryptos.com/blob/master/tutorials-and-guides/resources/broken-reference/README.md)
 
-[Exceptions](broken-reference): ACS
+[Exceptions](https://github.com/acryptos/docs.acryptos.com/blob/master/tutorials-and-guides/resources/broken-reference/README.md): ACS
 
-### Astar App
+#### Astar App
 
 app: [https://portal.astar.network/astar/assets](https://portal.astar.network/astar/assets)
 
-#### Astar ACryptoS dApp Staking
+**Astar ACryptoS dApp Staking**
 
 [https://portal.astar.network/astar/dapp-staking/dapp?dapp=0x569b344ad6bf087a285f0d415d0066028921d873](https://portal.astar.network/astar/dapp-staking/dapp?dapp=0x569b344ad6bf087a285f0d415d0066028921d873)
 
-### Notes
+#### Notes
 
 Astar docs for transferring tokens: [https://docs.astar.network/docs/user-guides/transfer-tokens](https://docs.astar.network/docs/user-guides/transfer-tokens)\
-&#xNAN;_&#x49;mportant notes on transferring ASTR to/from exchanges, to/from Polkadot, between native and EVM addresses._
+\&#xNAN;_Important notes on transferring ASTR to/from exchanges, to/from Polkadot, between native and EVM addresses._
 
 Reference:\
 [https://docs.astar.network/docs/integrations/bridges/cbridge](https://docs.astar.network/docs/integrations/bridges/cbridge)\
@@ -154,19 +154,19 @@ Reference:\
 
 <summary>Canto</summary>
 
-##
+###
 
 ***
 
-## Canto
+### Canto
 
-### Bridges
+#### Bridges
 
 Canonical: [https://canto.io/bridge](https://canto.io/bridge)
 
 Others:\
-[Synapse](broken-reference) (USDC, USDT)\
-[Celer cBridge](broken-reference) (BNB, BUSD, WBTC)
+[Synapse](https://github.com/acryptos/docs.acryptos.com/blob/master/tutorials-and-guides/resources/broken-reference/README.md) (USDC, USDT)\
+[Celer cBridge](https://github.com/acryptos/docs.acryptos.com/blob/master/tutorials-and-guides/resources/broken-reference/README.md) (BNB, BUSD, WBTC)
 
 Reference: [https://docs.canto.io/user-guides/bridging-assets](https://docs.canto.io/user-guides/bridging-assets)
 

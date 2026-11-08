@@ -1,79 +1,113 @@
-# Intro to ACryptoS
+# Post-mortem: UniV3-family vault exploit, 2026-11-08
 
-## ACryptoS - Advanced Crypto Strategies
+## Post-mortem: UniV3-family vault exploit, 2026-11-08
 
-<figure><img src="https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Banner%20-%20Multichain%20Liquidity%20Manager%2001.jpg" alt=""><figcaption></figcaption></figure>
+**Status:** mitigated. Every affected vault has rejected deposits since 16:40 UTC on Nov 8, and that is verified on-chain. Withdrawals remain open.
 
-We automate **high-yield DeFi strategies** for you. _Simply deposit your tokens_ and watch your holdings grow.
+**ACryptoS is being deprecated.** No fix or re-opening of deposits is planned. Users should withdraw their funds.
 
-Here at ACryptoS - we maximize your APY with our _performance-oriented algorithms_.
+### 1. Summary
 
-{% hint style="success" %}
-**No complex setups, no constant monitoring.** We handle the rest.
-{% endhint %}
+The ACryptoS concentrated-liquidity vaults (UniswapV3, SushiswapV3, PancakeSwap v3, Biswap v3) accepted a `depositMulti` call whose `_amounts` array was **shorter than the vault's token count**. With a 1-element array, the vault priced _its own holdings_ using only token0. So a small token0-only deposit minted most of the vault's shares, and an immediate `withdrawMulti` paid out a pro-rata slice of **both** tokens.
 
-### Main Products
+From 02:02 to 16:22 UTC, **135 addresses** exploited this across **5 chains**, extracting about **$665k**. A beacon upgrade disabling deposits went out on all 11 beacons between 15:38 and 16:40 UTC, and exploitation stopped on each chain as its upgrade landed.
 
-1.  **Single-Token Vaults**
+### 2. Impact
 
-    \- Exposure to _one token_. No impermanent loss (IL) risks\
-    \- _Better yields_ than just supplying on lending protocols
-2.  **2-Token Concentrated Liquidity Vaults**
+USD values use prices from 2026-11-08 \~17:00 UTC (ETH $2,226, BTC $75,662, BNB $695, XSGD $0.78, OP $0.10; stables $1). They don't include about 19.4k ACS taken from the BSC ACS/WBNB vault, which wasn't priced.
 
-    \- _Automated Conc. Liquidity Manager (ACLM)_ on Uniswap V3 and other CL DEXs\
-    \- Data-proven _highest performing_ strategies, for stablecoins and other big-cap pairs
+| Chain     | Vaults hit    | Exploit window (UTC) | Extracted      |
+| --------- | ------------- | -------------------- | -------------- |
+| Arbitrum  | 28 of 40      | 02:02 – 15:53        | $230,213       |
+| BSC       | 12 of 33      | 04:22 – 16:19        | $190,845       |
+| Polygon   | 11 of 16      | 05:45 – 15:38        | $134,686       |
+| Base      | 13 of 18      | 07:02 – 15:11        | $69,813        |
+| Optimism  | 13 of 16      | 07:31 – 16:22        | $39,871        |
+| Linea     | 0 of 3        | –                    | $0             |
+| **Total** | **77 of 126** |                      | **≈ $665,429** |
 
-<figure><img src="https://raw.githubusercontent.com/acryptos/docs.acryptos.com/master/images/Docs%20-%20UI%20stablecoins%20summary.png" alt=""><figcaption><p>Our UI - showing some of our ACLM vaults. APY looking good</p></figcaption></figure>
+The losses fall on honest depositors in each vault. They were diluted by the over-minted shares, and their tokens were paid out to the exploiters.
 
-***
+### 3. Root cause
 
-### Why use our Vaults?
+`depositMulti(uint256[] amounts, uint256 minShares)` did not check that `amounts` had one entry for each of the vault's tokens. With a single amount on a two-token vault:
 
-* 4 years+ track record for deployment of highly effective DeFi Strategies
-* SAFU, careful risk management
-* Sustainable APY for long term growth
+* the deposit was valued using token0 only, which is correct for a token0-only deposit;
+* **the vault's existing holdings were also valued using token0 only**, ignoring everything it held in token1.
 
-**Translated to real-life examples:**
+If the vault held little token0, for example an out-of-range position sitting almost entirely in token1, even a tiny deposit was worth a multiple of "the vault" and minted most of its shares. `withdrawMulti` then paid those shares out pro-rata over **both** tokens.
 
-> Get 20-30%+ APY for a stablecoin pair, consistently for many months, not via farming tokens but from sustainable swap fees, with funds deposited on Uniswap V3 - one of the most solid DEXs in DeFi.
+Pool prices were not manipulated. The flaw had been present since these vaults were first deployed; no recent upgrade introduced it. Every vault in the family was affected.
 
-And, we've had no code exploits ever, since our launch in 2020.
+#### Fork proof
 
-_If these appeal to you, read on._
+Polygon fork at block 96940861, just before the first deposit on the Polygon USDC/USDT0 vault `0x61A3…874D`:
 
-### Who is this for?
+```
+vault before: 4.958349 USDC / 72,825.21 USDT0
+depositMulti([10000000])    -> 118,644,929,973 shares = 66.84% of supply   (on-chain mint: 118,644,929,973, an exact match)
+depositMulti([10000000, 0]) ->       8,087,968 shares =  0.01% of supply
+round trip: in 10 USDC, out 9.989999 USDC + 48,634.255398 USDT0          (matches on-chain tx 0x28d620b2…)
+patched implementation: depositMulti reverts "deposits disabled"
+```
 
-* **Single-Token Vaults:**\
-  DeFi users opting for _low-risk steady growth_ of their tokens.\
-  Deposit and let grow, while complex algorithms run behind the scenes, achieving _strong single-token APY_.
-* **ACLM Vaults:**\
-  Simplified liquidity providing for V3 pools.\
-  **Stable Strategies** (eg. USDC/DAI or wstETH/ETH) offer _attractive APYs for relatively low risks_, while **Volatile Strategies** (eg. ETH-USDC) help users manage & rebalance their positions on V3 LPs, _reducing the burdens_ of constantly monitoring their holdings.
+Attacker calldata for tx `0x80cc054f…`: `depositMulti([10000000], 0)`.
 
-***
+Across all chains, **\~1,000 deposits** were classified by decoding their calldata: an amounts array shorter than 2 is the exploit signature. A further \~220 deposits went through attacker contracts or EIP-7702 delegated wallets and were counted by their net profit.
 
-👇 Dive in for some detailed explanations on how these Vaults and Strategies work:
+### 4. Attack walkthrough
 
-{% content-ref url="products/vaults/" %}
-[vaults](products/vaults/)
-{% endcontent-ref %}
+Each round is two transactions about 1–2 minutes apart:
 
-{% content-ref url="products/v3-aclm-vaults/" %}
-[v3-aclm-vaults](products/v3-aclm-vaults/)
-{% endcontent-ref %}
+1. `approve(token0)`, then `depositMulti([small token0 amount], 0)`. This mints most of the vault's shares.
+2. `withdrawMulti(allShares, false, [0, 0])`. This pays out the deposit back plus most of the vault's token1, less a 0.1% withdrawal fee in shares.
 
-👉 or opt for this [Quick-Start TL/DR guide](quick-start-guide.md).
+Each round removes a constant fraction of what's left in the vault. That's why the first Polygon vault lost 67%, 67% and then 90% of what remained in successive rounds.
 
-***
+### 5. Timeline (UTC, 2026-11-08)
 
-### Links
+| Time           | Event                                                                                                                  |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 01:50          | `0x5dc8…f322` funded with 12.98 ETH on Arbitrum through a **Mayan Swift** cross-chain order (`SwiftDest.fulfillOrder`) |
+| **02:02**      | **First exploit**: `0x5dc8…` on Arbitrum WBTC/WETH-500                                                                 |
+| 04:22          | First BSC exploit, `0x8232…a5d2` (BTCB/WBNB-500)                                                                       |
+| 05:45          | First Polygon exploit, `0x6485…49f` (USDC/USDT0-100)                                                                   |
+| 07:02 / 07:31  | First Base exploit (`0xa597…261d`) / first Optimism exploit (`0x706f…`, via contract)                                  |
+| 07:50 – 09:50  | `0x6485…` bridges 51.85 WETH from Polygon to Ethereum via Across                                                       |
+| \~09:30 onward | Copycats: 100+ addresses, many of them EIP-7702 wallets running identical one-shot rounds on every chain               |
+| 09:34          | Exploit first reported to the project on Telegram                                                                      |
+| 14:19          | Developer notified                                                                                                     |
+| 15:38:58       | Polygon UniV3 beacon upgraded (last Polygon exploit 15:38:46, 12 s earlier)                                            |
+| 15:56 / 16:04  | Arbitrum UniV3 / SushiV3 beacons upgraded                                                                              |
+| 16:20          | BSC UniV3 upgraded                                                                                                     |
+| 16:23:49       | Optimism upgraded (last exploit 16:22:27)                                                                              |
+| 16:27 / 16:29  | Base UniV3 / SushiV3 upgraded                                                                                          |
+| 16:30          | Linea upgraded (never exploited)                                                                                       |
+| 16:38 – 16:40  | BSC PancakeSwap / Biswap / Biswap2 upgraded; all 126 vaults closed                                                     |
 
-dApp: [https://app.acryptos.com](https://app.acryptos.com)
+Since then, a full scan of every vault shows **0 successful deposits** after its upgrade, and every beacon still points to the patched implementation. Nov 1–7 had no exploit deposits on any chain: Polygon, Arbitrum, Optimism and Base were checked for the whole week, and BSC for Nov 7.
 
-Telegram: [https://t.me/acryptos](https://t.me/acryptos)
+### 6. Exploiters and fund flows
 
-Twitter: [https://twitter.com/acryptosdao](https://twitter.com/acryptosdao)
+| Address                                      | Extracted           | Chains         | Notes                                                                                                                                                                                                                                                                |
+| -------------------------------------------- | ------------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `0x5dc8df8d0d6cfae0443bb8d9eacdfbb72b2ef322` | $139.5k             | Arbitrum       | Started first. Funded through Mayan Swift. Swapped through 0x `AllowanceHolder` and Uniswap; bridged out through **Mayan** (`MayanForwarder2`: 45,754 DAI + 22.4 WETH + 14.06 ETH), **Squid**, **Relay** and the **USDe OFT** (LayerZero)                            |
+| `0x648508c5e95e7c9ac2380672f87d60ebb1dae49f` | $111.8k             | Polygon        | 72,019 USDT0, 13,178 XSGD, 12.9 WETH and 831 DAI swapped to WETH (Velora/ParaSwap and other aggregators), then **51.85 WETH bridged by Across to Ethereum, to the same address**. **It still holds 50.82 WETH (≈ $113k) on Ethereum.** Address active since May 2026 |
+| `0xcafe343896335dde2d36a43c85395fd93d659956` | $84.7k (+10.5k ACS) | all 5          | 162 rounds. Uses the same 0x `AllowanceHolder` `exec` pattern as `0x5dc8`. Splits proceeds to look-alike vanity addresses (`0xcafedc6c…`, `0xcafe8f02…`, `0xcafeaedd…`), which are also exploiters                                                                   |
+| `0x82328b24ed97d6e627b6257d125cb3271c5aa2d5` | $80.5k (+8.9k ACS)  | BSC            | **Still holds 116.5 WBNB (≈ $81k)**                                                                                                                                                                                                                                  |
+| `0x2143a65fc4721aea20b4ebf99e775b1e6cc9a1a7` | $54.2k              | BSC            | **Still holds 78.2 WBNB (≈ $54k)**                                                                                                                                                                                                                                   |
+| `0xa5970e20d011a1c8406bbf9315389f6d831b261d` | $49.6k              | Optimism, Base |                                                                                                                                                                                                                                                                      |
+| `0x00aa588bbb6f48005198b6d4a699107542566970` | $37.6k              | 4 chains       |                                                                                                                                                                                                                                                                      |
+| 128 others                                   | ≈ $107k             |                | 28 addresses each hit ≥3 chains with identical one-shot rounds, $243k between them, which suggests a shared script                                                                                                                                                   |
 
-Medium: [https://medium.com/acryptos/](https://medium.com/acryptos/)
+**Freezable stablecoins still in exploiter wallets: under $1k in total** (USDC/USDT dust). The rest was swapped to ETH/WETH/WBNB or bridged.
 
-Other links can be found [here](tutorials-and-guides/resources/).
+**Where to send freeze or tracing requests:** Mayan (orders funding and draining `0x5dc8`), Across (`0x6485` deposits to Ethereum), Squid/Axelar, Relay, LayerZero/Ethena (USDe OFT). The three wallets still holding WETH/WBNB should be watched and flagged to exchanges.
+
+### 7. Response
+
+* Once the developer was notified, the first chain was closed in 80 minutes and all chains within 2h21m, with one beacon upgrade per vault family. No per-vault transactions were needed.
+* Each chain was dry-run on a mainnet fork before going live, and each upgrade was verified on-chain afterwards.
+* The fix also auto-pauses each vault on its next transaction, so leftover liquidity is pulled out of the pools.
+
+_Method: on-chain logs, receipts and calldata via public RPCs and the Etherscan v2 API, plus a Hardhat mainnet fork for the proof. Scripts are kept locally and are available on request._

@@ -12,7 +12,7 @@ You see some great yields on our dapp: there's [Single-Token](products/vaults/) 
 
 **This will help you out.** 👇
 
-<table><thead><tr><th width="117"></th><th width="188">Single-Token Vaults</th><th>ACLM - Stable Strategies</th><th>ACLM - Volatile Strategies</th></tr></thead><tbody><tr><td>Built On</td><td><mark style="color:blue;">lending protocols, eg. Venus, Moonwell</mark></td><td><mark style="color:orange;">CL DEXs, eg. UniswapV3, SushiV3</mark></td><td><mark style="color:orange;">CL DEXs, eg. UniswapV3, SushiV3</mark></td></tr><tr><td>APY Source</td><td><mark style="color:blue;">supply/borrow APY</mark><br><mark style="color:blue;">+ lending platform tokens</mark></td><td><mark style="color:orange;">swap fees generated from trading volume</mark><br><mark style="color:orange;">+ *</mark><a data-footnote-ref href="#user-content-fn-1"><mark style="color:orange;">Merkl rewards</mark></a></td><td><mark style="color:orange;">swap fees generated from trading volume</mark><br><mark style="color:orange;">+ *</mark><a data-footnote-ref href="#user-content-fn-2"><mark style="color:orange;">Merkl rewards</mark></a></td></tr><tr><td>Strategy Features</td><td><mark style="color:blue;">self-balancing for optimized highest APY</mark></td><td><p><mark style="color:orange;">-single-sided deposits of either token.</mark><br></p><p><mark style="color:orange;">-auto range setting to ensure earning of swap fees</mark></p><p><br><mark style="color:yellow;">-Tightened range for highest stable pair APY</mark></p></td><td><p><mark style="color:orange;">-single-sided deposits of either token.</mark></p><p><br><mark style="color:orange;">-auto range setting to ensure earning of swap fees</mark></p></td></tr><tr><td>Examples</td><td><p><mark style="color:blue;">-USDT</mark></p><p><mark style="color:blue;">-wstETH</mark></p><p><mark style="color:blue;">-BTC</mark></p><p><mark style="color:blue;">-LINK</mark></p></td><td><p><mark style="color:orange;">-USDC-DAI</mark></p><p><mark style="color:orange;">-USDC-USDC.e</mark></p><p><mark style="color:orange;">-wstETH-WETH</mark></p><p><mark style="color:orange;">-cbETH-rETH</mark></p><p><mark style="color:orange;">-WBTC-tBTC</mark></p></td><td><p><mark style="color:orange;">-MATIC-USDT</mark></p><p><mark style="color:orange;">-LINK-WETH</mark></p><p><mark style="color:orange;">-BTC-WETH</mark></p><p><mark style="color:orange;">-USDC-XSGD</mark></p></td></tr></tbody></table>
+<table><thead><tr><th width="117"></th><th width="188">Single-Token Vaults</th><th>ACLM - Stable Strategies</th><th>ACLM - Volatile Strategies</th></tr></thead><tbody><tr><td>Built On</td><td><mark style="color:blue;">lending protocols, eg. Venus, Moonwell</mark></td><td><mark style="color:orange;">CL DEXs, eg. UniswapV3, SushiV3</mark></td><td><mark style="color:orange;">CL DEXs, eg. UniswapV3, SushiV3</mark></td></tr><tr><td>APY Source</td><td><mark style="color:blue;">supply/borrow APY</mark><br><mark style="color:blue;">+ lending platform tokens</mark></td><td><mark style="color:orange;">swap fees generated from trading volume</mark><br><mark style="color:orange;">+ *</mark><a data-footnote-ref href="#user-content-fn-1"><mark style="color:orange;">Merkl rewards</mark></a></td><td><mark style="color:orange;">swap fees generated from trading volume</mark><br><mark style="color:orange;">+ *</mark><a data-footnote-ref href="#user-content-fn-1"><mark style="color:orange;">Merkl rewards</mark></a></td></tr><tr><td>Strategy Features</td><td><mark style="color:blue;">self-balancing for optimized highest APY</mark></td><td><p><mark style="color:orange;">-single-sided deposits of either token.</mark><br></p><p><mark style="color:orange;">-auto range setting to ensure earning of swap fees</mark></p><p><br><mark style="color:yellow;">-Tightened range for highest stable pair APY</mark></p></td><td><p><mark style="color:orange;">-single-sided deposits of either token.</mark></p><p><br><mark style="color:orange;">-auto range setting to ensure earning of swap fees</mark></p></td></tr><tr><td>Examples</td><td><p><mark style="color:blue;">-USDT</mark></p><p><mark style="color:blue;">-wstETH</mark></p><p><mark style="color:blue;">-BTC</mark></p><p><mark style="color:blue;">-LINK</mark></p></td><td><p><mark style="color:orange;">-USDC-DAI</mark></p><p><mark style="color:orange;">-USDC-USDC.e</mark></p><p><mark style="color:orange;">-wstETH-WETH</mark></p><p><mark style="color:orange;">-cbETH-rETH</mark></p><p><mark style="color:orange;">-WBTC-tBTC</mark></p></td><td><p><mark style="color:orange;">-MATIC-USDT</mark></p><p><mark style="color:orange;">-LINK-WETH</mark></p><p><mark style="color:orange;">-BTC-WETH</mark></p><p><mark style="color:orange;">-USDC-XSGD</mark></p></td></tr></tbody></table>
 
 **More detailed comparisons here:**
 
@@ -375,7 +375,7 @@ ACryptoS has focused on safety and careful risk assessment since deployment in 2
 
 <summary>Bridged Token Risks</summary>
 
-* it is essential to understand the difference between native tokens and bridged tokens on various chains. Bridged tokens are susceptible to risks and exploits of the bridging protocol itself.&#x20;
+* it is essential to understand the difference between native tokens and bridged tokens on various chains. Bridged tokens are susceptible to risks and exploits of the bridging protocol itself.
 * eg. USDC.e is a bridged token while USDC is the native token that is issued directly by Circle. The native USDC token can be redeemed 1:1 to USD via Circle.
 * eg. Multichain bridge was exploited on multiple chains in 2023. Funds that were lost due to that incident has not been recovered since.
 
@@ -387,7 +387,7 @@ ACryptoS has focused on safety and careful risk assessment since deployment in 2
 
 Wrapped tokens, while offering convenience, can pose risks. The underlying asset's security and the wrapping platform's reliability are crucial factors. Be cautious of potential vulnerabilities and always research before investing in wrapped tokens.
 
-eg. WBTC is wrapped by BitGo, cbBTC is wrapped by Coinbase etc.&#x20;
+eg. WBTC is wrapped by BitGo, cbBTC is wrapped by Coinbase etc.
 
 </details>
 
@@ -398,7 +398,7 @@ Read more about risks and mitigations [here](dao/security-and-risks.md).
 ## Fees
 
 * Withdrawal Fees: All vaults have a 0.1% withdrawal fee, calculated by the withdrawal amount.
-* Performance Fees: already factored into the displayed APY. Full details can be found [here](broken-reference).
+* Performance Fees: already factored into the displayed APY. Full details can be found [here](https://github.com/acryptos/docs.acryptos.com/blob/master/broken-reference/README.md).
 
 {% hint style="info" %}
 Tips from the Samurai:
@@ -425,5 +425,3 @@ Check out this [step-by-step visual guide](tutorials-guides/step-by-step-guide.m
 {% endcontent-ref %}
 
 [^1]: additional tokens offered by other platforms as incentives for providing liquidity on a CL DEX. Usually only liquidity provided within the trading range will receive these rewards.
-
-[^2]: additional tokens offered by other platforms as incentives for providing liquidity on a CL DEX. Usually only liquidity provided within the trading range will receive these rewards.

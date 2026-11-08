@@ -26,7 +26,7 @@ _\*Our Liquid Wrapper Vault mechanics vary depending on different partners. Some
 ### 1️⃣ autoCompunding vaults for Liquidity Pool farms
 
 * These vaults collect DEX native token emissions from the farm, and autoCompound them back into the LP, increasing the number of tokens in the LP
-* The veNFT in the Liquid veNFT Vault (explained [below](../../../acryptos-vaults/liquid-wrapper-vaults/#2-liquid-vesliz-vault-acssliz)) will Boost the APY for these vaults, up to 2.5X
+* The veNFT in the Liquid veNFT Vault (explained [below](https://github.com/acryptos/docs.acryptos.com/blob/master/acryptos-vaults/liquid-wrapper-vaults/README.md#2-liquid-vesliz-vault-acssliz)) will Boost the APY for these vaults, up to 2.5X
 
 Examples (using SolidLizard DEX):
 

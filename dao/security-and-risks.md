@@ -34,7 +34,7 @@ All deployed contracts have [verified and published source codes on BscScan](htt
 
 This is the risk that developers (or thieves who steal the development keys) could make changes in the code that would allow them to drain funds. This risk applies both to ACryptoS and to the projects that ACryptoS have created vaults for. The risk mitigation actions described below apply only to mitigating the risk of exploit or malicious dev activity to ACyptoS.
 
-#### **Mitigation:**
+**Mitigation:**
 
 **Removal of migrator function**
 
@@ -58,7 +58,7 @@ This is the risk that flaws/bugs exist in smart contracts which can lead to a lo
 
 As ACryptoS interacts with other projects, there is smart contract risk both in the ACryptoS contracts and in all the contracts which ACryptoS interacts with.
 
-#### **Mitigation:**
+**Mitigation:**
 
 **Audits**
 
@@ -91,7 +91,7 @@ No critical, medium or minor findings were raised during the audits. The only fi
 
 The risk of liquidation is a feature of trading with leverage. Liquidation is a mechanism in which market sell orders are created to exit leveraged positions when the margin requirements are not met.
 
-#### **Mitigation:**
+**Mitigation:**
 
 ACryptoS borrows and supplies the same asset so there is no liquidation risk from price. Our Supply-Borrow Leveraged Vaults rebalance on every deposit, withdrawal and harvest. More info on the strategy [here](../products/vaults/single-token-vaults.md).
 
@@ -115,7 +115,7 @@ What is means is the (impermanent) loss of funds due to one of the assets in the
 
 This [article from Binance Academy](https://academy.binance.com/en/articles/impermanent-loss-explained) provides more details on IL
 
-#### **Mitigation:**
+**Mitigation:**
 
 To minimize the risk of IL you can choose to yield farm assets which have a high correlation (e.g., stable coin pairs) and avoid volatile pairs.
 

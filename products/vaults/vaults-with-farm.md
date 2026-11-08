@@ -40,7 +40,7 @@ Find out more about [APY vs APR](https://academy.binance.com/en/ask/questions/ap
 
 ## ACS and ACSI Vault
 
-ACS Vault and ACSI Vault are vaults for our native/governance tokens, which receive a [good share of the ongoing token emissions](https://github.com/acryptos/docs.acryptos.com/tree/edd9ea1959f1aebf3d024bb639cd5dec4dd46b81/feed.md), and most of the protocol fees are used to [buy-back ACS and ACSI](https://www.reddit.com/r/ACryptoS/comments/kth0v2/valuing\_users\_commitment\_buyback\_instead\_of\_burn/) and redistribute them in these Vaults.
+ACS Vault and ACSI Vault are vaults for our native/governance tokens, which receive a [good share of the ongoing token emissions](https://github.com/acryptos/docs.acryptos.com/tree/edd9ea1959f1aebf3d024bb639cd5dec4dd46b81/feed.md), and most of the protocol fees are used to [buy-back ACS and ACSI](https://www.reddit.com/r/ACryptoS/comments/kth0v2/valuing_users_commitment_buyback_instead_of_burn/) and redistribute them in these Vaults.
 
 ## Venus Vaults
 
@@ -74,6 +74,6 @@ These Vaults stake Mdex LP tokens, farms MDX and swaps it for more of the staked
 
 ## Workers
 
-Anyone can help [harvest an ACryptoS Vault](https://app.acryptos.com/worker/) and earn the [harvester's reward](broken-reference) as a gas subsidy. This decentralises the automation of our vaults.
+Anyone can help [harvest an ACryptoS Vault](https://app.acryptos.com/worker/) and earn the [harvester's reward](https://github.com/acryptos/docs.acryptos.com/blob/master/products/vaults/broken-reference/README.md) as a gas subsidy. This decentralises the automation of our vaults.
 
 You do not need to do this as a normal user, your holdings in the Vault will compound automatically.
