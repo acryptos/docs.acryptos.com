@@ -111,3 +111,11 @@ Since then, a full scan of every vault shows **0 successful deposits** after its
 * The fix also auto-pauses each vault on its next transaction, so leftover liquidity is pulled out of the pools.
 
 _Method: on-chain logs, receipts and calldata via public RPCs and the Etherscan v2 API, plus a Hardhat mainnet fork for the proof. Scripts are kept locally and are available on request._
+
+
+
+### Update 2026-11-09: Base DAI/USDbC vault restored
+
+One exploiter still held 99.99% of the Base DAI/USDbC-500 vault and began draining it on Nov 9. We upgraded the vault ([`0xff8b639b…`](https://basescan.org/tx/0xff8b639bb055cfc4a420aca7393c6664248ab47ebbc5ec52179caf79403f9d39)) and burned the exploiter's shares and the excess fee shares minted after the exploit ([`0x6f2aee72…`](https://basescan.org/tx/0x6f2aee72e13f823f43cd554832270c8b218960522ff2a2f11d6d7693db8a1941), [`0x61e269b9…`](https://basescan.org/tx/0x61e269b9b39de5a8372a02f8c18da18a5d28f31d363646beae073a1f942f9c06)).
+
+The share supply is back to its pre-exploit value. About 1,800 USDbC was lost before the burn. The remaining **6,187 USDbC is withdrawable pro rata by the original depositors.**
